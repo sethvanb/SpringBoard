@@ -1,0 +1,1519 @@
+,Date,Tm,Home_Away,Opp,R,RA,W-L,Rank,GB,D/N,Streak
+1,"Friday, Apr 6",HOU,Home,COL,3.0,5.0,0-1,3.0,1.5,N,-1.0
+2,"Saturday, Apr 7",HOU,Home,COL,7.0,3.0,1-1,2.0,0.5,N,1.0
+3,"Sunday, Apr 8",HOU,Home,COL,3.0,2.0,2-1,2.0,0.5,D,2.0
+4,"Monday, Apr 9",HOU,Home,ATL,8.0,3.0,3-1,2.0,0.5,N,3.0
+5,"Tuesday, Apr 10",HOU,Home,ATL,4.0,6.0,3-2,2.0,1.5,N,-1.0
+6,"Wednesday, Apr 11",HOU,Home,ATL,3.0,6.0,3-3,3.0,1.5,N,-2.0
+7,"Friday, Apr 13",HOU,@,MIA,4.0,5.0,3-4,3.0,1.5,N,-3.0
+8,"Saturday, Apr 14",HOU,@,MIA,5.0,4.0,4-4,2.0,1.5,N,1.0
+9,"Sunday, Apr 15",HOU,@,MIA,4.0,5.0,4-5,2.0,2.5,D,-1.0
+10,"Monday, Apr 16",HOU,@,WSN,3.0,6.0,4-6,2.0,3.0,N,-2.0
+11,"Tuesday, Apr 17",HOU,@,WSN,0.0,1.0,4-7,3.0,4.0,N,-3.0
+12,"Wednesday, Apr 18",HOU,@,WSN,2.0,3.0,4-8,4.0,5.0,N,-4.0
+13,"Thursday, Apr 19",HOU,@,WSN,11.0,4.0,5-8,4.0,4.0,N,1.0
+14,"Friday, Apr 20",HOU,Home,LAD,1.0,3.0,5-9,5.0,5.0,N,-1.0
+15,"Saturday, Apr 21",HOU,Home,LAD,1.0,5.0,5-10,5.0,5.0,N,-2.0
+16,"Sunday, Apr 22",HOU,Home,LAD,12.0,0.0,6-10,5.0,5.0,D,1.0
+17,"Monday, Apr 23",HOU,@,MIL,5.0,6.0,6-11,5.0,5.0,N,-1.0
+18,"Tuesday, Apr 24",HOU,@,MIL,6.0,9.0,6-12,5.0,5.0,N,-2.0
+19,"Wednesday, Apr 25",HOU,@,MIL,7.0,5.0,7-12,5.0,5.0,D,1.0
+20,"Friday, Apr 27",HOU,@,CIN,6.0,4.0,8-12,5.0,5.0,N,2.0
+21,"Saturday, Apr 28",HOU,@,CIN,0.0,6.0,8-13,5.0,6.0,D,-1.0
+22,"Sunday, Apr 29",HOU,@,CIN,5.0,6.0,8-14,5.0,6.0,D,-2.0
+23,"Monday, Apr 30",HOU,Home,NYM,4.0,3.0,9-14,5.0,5.5,N,1.0
+24,"Tuesday, May 1",HOU,Home,NYM,6.0,3.0,10-14,5.0,5.5,N,2.0
+25,"Wednesday, May 2",HOU,Home,NYM,8.0,1.0,11-14,3.0,5.5,D,3.0
+26,"Friday, May 4",HOU,Home,STL,5.0,4.0,12-14,3.0,4.0,N,4.0
+27,"Saturday, May 5",HOU,Home,STL,8.0,2.0,13-14,3.0,3.0,N,5.0
+28,"Sunday, May 6",HOU,Home,STL,1.0,8.0,13-15,3.0,4.0,D,-1.0
+29,"Monday, May 7",HOU,Home,MIA,0.0,4.0,13-16,3.0,5.0,N,-2.0
+30,"Tuesday, May 8",HOU,Home,MIA,3.0,2.0,14-16,3.0,5.0,N,1.0
+31,"Wednesday, May 9",HOU,Home,MIA,3.0,5.0,14-17,4.0,6.0,N,-1.0
+32,"Friday, May 11",HOU,@,PIT,1.0,0.0,15-17,3.0,5.0,N,1.0
+33,"Saturday, May 12",HOU,@,PIT,2.0,5.0,15-18,3.0,5.0,N,-1.0
+34,"Sunday, May 13",HOU,@,PIT,2.0,3.0,15-19,4.0,5.0,D,-2.0
+35,"Monday, May 14",HOU,@,PHI,1.0,5.0,15-20,4.0,5.0,N,-3.0
+36,"Tuesday, May 15",HOU,@,PHI,3.0,4.0,15-21,5.0,6.0,D,-4.0
+37,"Wednesday, May 16",HOU,Home,MIL,8.0,3.0,16-21,4.0,6.0,N,1.0
+38,"Thursday, May 17",HOU,Home,MIL,4.0,0.0,17-21,4.0,5.0,N,2.0
+39,"Friday, May 18",HOU,Home,TEX,1.0,4.0,17-22,4.0,5.0,N,-1.0
+40,"Saturday, May 19",HOU,Home,TEX,6.0,5.0,18-22,4.0,4.0,N,1.0
+41,"Sunday, May 20",HOU,Home,TEX,1.0,6.0,18-23,4.0,4.0,D,-1.0
+42,"Monday, May 21",HOU,Home,CHC,8.0,4.0,19-23,4.0,4.0,N,1.0
+43,"Tuesday, May 22",HOU,Home,CHC,2.0,1.0,20-23,3.0,4.0,N,2.0
+44,"Wednesday, May 23",HOU,Home,CHC,5.0,1.0,21-23,3.0,4.0,N,3.0
+45,"Friday, May 25",HOU,@,LAD,3.0,1.0,22-23,3.0,3.0,N,4.0
+46,"Saturday, May 26",HOU,@,LAD,3.0,6.0,22-24,3.0,4.0,N,-1.0
+47,"Sunday, May 27",HOU,@,LAD,1.0,5.0,22-25,4.0,5.0,D,-2.0
+48,"Monday, May 28 (1)",HOU,@,COL,7.0,9.0,22-26,4.0,5.5,D,-3.0
+49,"Monday, May 28 (2)",HOU,@,COL,6.0,7.0,22-27,4.0,5.5,N,-4.0
+50,"Wednesday, May 30",HOU,@,COL,5.0,13.0,22-28,4.0,6.0,N,-5.0
+51,"Thursday, May 31",HOU,@,COL,5.0,11.0,22-29,5.0,6.5,N,-6.0
+52,"Friday, Jun 1",HOU,Home,CIN,1.0,4.0,22-30,5.0,7.5,N,-7.0
+53,"Saturday, Jun 2",HOU,Home,CIN,9.0,12.0,22-31,5.0,8.5,N,-8.0
+54,"Sunday, Jun 3",HOU,Home,CIN,5.0,3.0,23-31,5.0,7.5,D,1.0
+55,"Tuesday, Jun 5",HOU,Home,STL,9.0,8.0,24-31,4.0,6.5,N,2.0
+56,"Wednesday, Jun 6",HOU,Home,STL,3.0,4.0,24-32,5.0,7.5,N,-1.0
+57,"Thursday, Jun 7",HOU,Home,STL,2.0,14.0,24-33,5.0,7.5,N,-2.0
+58,"Friday, Jun 8",HOU,@,CHW,8.0,3.0,25-33,5.0,7.5,N,1.0
+59,"Saturday, Jun 9",HOU,@,CHW,1.0,10.0,25-34,5.0,7.5,D,-1.0
+60,"Sunday, Jun 10",HOU,@,CHW,11.0,9.0,26-34,5.0,6.5,D,1.0
+61,"Tuesday, Jun 12",HOU,@,SFG,3.0,6.0,26-35,5.0,7.5,N,-1.0
+62,"Wednesday, Jun 13",HOU,@,SFG,0.0,10.0,26-36,5.0,8.5,N,-2.0
+63,"Thursday, Jun 14",HOU,@,SFG,6.0,3.0,27-36,5.0,8.5,D,1.0
+64,"Friday, Jun 15",HOU,@,TEX,2.0,6.0,27-37,5.0,9.5,N,-1.0
+65,"Saturday, Jun 16",HOU,@,TEX,3.0,8.0,27-38,5.0,10.5,N,-2.0
+66,"Sunday, Jun 17",HOU,@,TEX,3.0,9.0,27-39,5.0,11.5,D,-3.0
+67,"Monday, Jun 18",HOU,Home,KCR,9.0,7.0,28-39,5.0,10.5,N,1.0
+68,"Tuesday, Jun 19",HOU,Home,KCR,0.0,2.0,28-40,5.0,10.5,N,-1.0
+69,"Wednesday, Jun 20",HOU,Home,KCR,1.0,2.0,28-41,5.0,10.5,D,-2.0
+70,"Friday, Jun 22",HOU,Home,CLE,0.0,2.0,28-42,5.0,10.5,N,-3.0
+71,"Saturday, Jun 23",HOU,Home,CLE,8.0,1.0,29-42,5.0,10.5,D,1.0
+72,"Sunday, Jun 24",HOU,Home,CLE,7.0,1.0,30-42,5.0,9.5,D,2.0
+73,"Monday, Jun 25",HOU,Home,SDP,7.0,8.0,30-43,5.0,10.5,N,-1.0
+74,"Tuesday, Jun 26",HOU,Home,SDP,5.0,3.0,31-43,5.0,10.5,N,1.0
+75,"Wednesday, Jun 27",HOU,Home,SDP,1.0,0.0,32-43,5.0,9.5,N,2.0
+76,"Thursday, Jun 28",HOU,Home,SDP,3.0,7.0,32-44,5.0,9.5,N,-1.0
+77,"Friday, Jun 29",HOU,@,CHC,0.0,4.0,32-45,5.0,10.5,D,-2.0
+78,"Saturday, Jun 30",HOU,@,CHC,2.0,3.0,32-46,5.0,11.5,D,-3.0
+79,"Sunday, Jul 1",HOU,@,CHC,0.0,3.0,32-47,5.0,11.5,D,-4.0
+80,"Monday, Jul 2",HOU,@,PIT,2.0,11.0,32-48,5.0,12.5,N,-5.0
+81,"Tuesday, Jul 3",HOU,@,PIT,7.0,8.0,32-49,5.0,12.5,N,-6.0
+82,"Wednesday, Jul 4",HOU,@,PIT,4.0,6.0,32-50,5.0,13.5,D,-7.0
+83,"Thursday, Jul 5",HOU,@,PIT,0.0,2.0,32-51,5.0,14.5,N,-8.0
+84,"Friday, Jul 6",HOU,Home,MIL,1.0,7.0,32-52,6.0,14.5,N,-9.0
+85,"Saturday, Jul 7",HOU,Home,MIL,6.0,3.0,33-52,5.0,14.5,D,1.0
+86,"Sunday, Jul 8",HOU,Home,MIL,3.0,5.0,33-53,6.0,15.5,D,-1.0
+87,"Friday, Jul 13",HOU,@,SFG,1.0,5.0,33-54,6.0,15.5,N,-2.0
+88,"Saturday, Jul 14",HOU,@,SFG,2.0,3.0,33-55,6.0,16.5,N,-3.0
+89,"Sunday, Jul 15",HOU,@,SFG,2.0,3.0,33-56,6.0,17.5,D,-4.0
+90,"Monday, Jul 16",HOU,@,SDP,2.0,0.0,34-56,6.0,16.5,N,1.0
+91,"Tuesday, Jul 17",HOU,@,SDP,2.0,8.0,34-57,6.0,17.5,N,-1.0
+92,"Wednesday, Jul 18",HOU,@,SDP,4.0,8.0,34-58,6.0,17.5,D,-2.0
+93,"Thursday, Jul 19",HOU,@,SDP,0.0,1.0,34-59,6.0,18.5,N,-3.0
+94,"Friday, Jul 20",HOU,@,ARI,8.0,13.0,34-60,6.0,19.5,N,-4.0
+95,"Saturday, Jul 21",HOU,@,ARI,3.0,12.0,34-61,6.0,20.5,N,-5.0
+96,"Sunday, Jul 22",HOU,@,ARI,2.0,8.0,34-62,6.0,21.5,D,-6.0
+97,"Monday, Jul 23",HOU,Home,CIN,3.0,8.0,34-63,6.0,22.5,N,-7.0
+98,"Tuesday, Jul 24",HOU,Home,CIN,2.0,4.0,34-64,6.0,23.5,N,-8.0
+99,"Wednesday, Jul 25",HOU,Home,CIN,3.0,5.0,34-65,6.0,24.5,N,-9.0
+100,"Thursday, Jul 26",HOU,Home,PIT,3.0,5.0,34-66,6.0,25.0,N,-10.0
+101,"Friday, Jul 27",HOU,Home,PIT,5.0,6.0,34-67,6.0,26.0,N,-11.0
+102,"Saturday, Jul 28",HOU,Home,PIT,3.0,4.0,34-68,6.0,27.0,N,-12.0
+103,"Sunday, Jul 29",HOU,Home,PIT,9.0,5.0,35-68,6.0,27.0,D,1.0
+104,"Monday, Jul 30",HOU,@,MIL,7.0,8.0,35-69,6.0,27.0,N,-1.0
+105,"Tuesday, Jul 31",HOU,@,MIL,1.0,10.0,35-70,6.0,28.0,N,-2.0
+106,"Wednesday, Aug 1",HOU,@,MIL,4.0,13.0,35-71,6.0,29.0,D,-3.0
+107,"Friday, Aug 3",HOU,@,ATL,1.0,4.0,35-72,6.0,30.5,N,-4.0
+108,"Saturday, Aug 4",HOU,@,ATL,3.0,2.0,36-72,6.0,30.5,N,1.0
+109,"Sunday, Aug 5",HOU,@,ATL,1.0,6.0,36-73,6.0,30.5,D,-1.0
+110,"Monday, Aug 6",HOU,Home,WSN,4.0,5.0,36-74,6.0,30.5,N,-2.0
+111,"Tuesday, Aug 7",HOU,Home,WSN,2.0,3.0,36-75,6.0,30.5,N,-3.0
+112,"Wednesday, Aug 8",HOU,Home,WSN,3.0,4.0,36-76,6.0,30.5,N,-4.0
+113,"Thursday, Aug 9",HOU,Home,WSN,0.0,5.0,36-77,6.0,30.5,N,-5.0
+114,"Friday, Aug 10",HOU,Home,MIL,4.0,3.0,37-77,6.0,30.5,N,1.0
+115,"Saturday, Aug 11",HOU,Home,MIL,6.0,5.0,38-77,6.0,30.5,N,2.0
+116,"Sunday, Aug 12",HOU,Home,MIL,3.0,5.0,38-78,6.0,31.5,D,-1.0
+117,"Monday, Aug 13",HOU,@,CHC,1.0,7.0,38-79,6.0,32.0,N,-2.0
+118,"Tuesday, Aug 14",HOU,@,CHC,10.0,1.0,39-79,6.0,32.0,N,1.0
+119,"Wednesday, Aug 15",HOU,@,CHC,2.0,7.0,39-80,6.0,33.0,D,-1.0
+120,"Friday, Aug 17",HOU,Home,ARI,1.0,3.0,39-81,6.0,33.5,N,-2.0
+121,"Saturday, Aug 18",HOU,Home,ARI,4.0,12.0,39-82,6.0,34.0,N,-3.0
+122,"Sunday, Aug 19",HOU,Home,ARI,1.0,8.0,39-83,6.0,35.0,D,-4.0
+123,"Tuesday, Aug 21",HOU,@,STL,0.0,7.0,39-84,6.0,35.5,N,-5.0
+124,"Wednesday, Aug 22",HOU,@,STL,2.0,4.0,39-85,6.0,36.5,N,-6.0
+125,"Thursday, Aug 23",HOU,@,STL,5.0,13.0,39-86,6.0,36.5,D,-7.0
+126,"Friday, Aug 24",HOU,@,NYM,3.0,1.0,40-86,6.0,35.5,N,1.0
+127,"Saturday, Aug 25",HOU,@,NYM,1.0,3.0,40-87,6.0,36.5,D,-1.0
+128,"Sunday, Aug 26",HOU,@,NYM,1.0,2.0,40-88,6.0,36.5,D,-2.0
+129,"Tuesday, Aug 28",HOU,Home,SFG,2.0,3.0,40-89,6.0,38.0,N,-3.0
+130,"Wednesday, Aug 29",HOU,Home,SFG,4.0,6.0,40-90,6.0,39.0,N,-4.0
+131,"Thursday, Aug 30",HOU,Home,SFG,4.0,8.0,40-91,6.0,39.5,N,-5.0
+132,"Friday, Aug 31",HOU,Home,CIN,3.0,9.0,40-92,6.0,40.5,N,-6.0
+133,"Saturday, Sep 1",HOU,Home,CIN,2.0,1.0,41-92,6.0,39.5,N,1.0
+134,"Sunday, Sep 2",HOU,Home,CIN,3.0,5.0,41-93,6.0,40.5,D,-1.0
+135,"Monday, Sep 3",HOU,@,PIT,5.0,1.0,42-93,6.0,39.5,D,1.0
+136,"Tuesday, Sep 4",HOU,@,PIT,2.0,6.0,42-94,6.0,40.5,N,-1.0
+137,"Wednesday, Sep 5",HOU,@,PIT,3.0,6.0,42-95,6.0,40.5,N,-2.0
+138,"Friday, Sep 7",HOU,@,CIN,5.0,3.0,43-95,6.0,39.5,N,1.0
+139,"Saturday, Sep 8",HOU,@,CIN,1.0,5.0,43-96,6.0,40.5,N,-1.0
+140,"Sunday, Sep 9",HOU,@,CIN,5.0,1.0,44-96,6.0,39.5,D,1.0
+141,"Monday, Sep 10",HOU,Home,CHC,1.0,4.0,44-97,6.0,40.5,N,-1.0
+142,"Tuesday, Sep 11",HOU,Home,CHC,1.0,0.0,45-97,6.0,40.5,N,1.0
+143,"Wednesday, Sep 12",HOU,Home,CHC,1.0,5.0,45-98,6.0,41.5,N,-1.0
+144,"Thursday, Sep 13",HOU,Home,PHI,6.0,4.0,46-98,6.0,41.0,N,1.0
+145,"Friday, Sep 14",HOU,Home,PHI,6.0,12.0,46-99,6.0,41.0,N,-1.0
+146,"Saturday, Sep 15",HOU,Home,PHI,5.0,0.0,47-99,6.0,40.0,N,1.0
+147,"Sunday, Sep 16",HOU,Home,PHI,7.0,6.0,48-99,6.0,40.0,D,2.0
+148,"Tuesday, Sep 18",HOU,@,STL,1.0,4.0,48-100,6.0,41.0,N,-1.0
+149,"Wednesday, Sep 19",HOU,@,STL,0.0,5.0,48-101,6.0,42.0,N,-2.0
+150,"Thursday, Sep 20",HOU,@,STL,4.0,5.0,48-102,6.0,43.0,D,-3.0
+151,"Friday, Sep 21",HOU,Home,PIT,7.0,1.0,49-102,6.0,42.0,N,1.0
+152,"Saturday, Sep 22",HOU,Home,PIT,4.0,1.0,50-102,6.0,42.0,N,2.0
+153,"Sunday, Sep 23",HOU,Home,PIT,1.0,8.0,50-103,6.0,42.0,D,-1.0
+154,"Monday, Sep 24",HOU,Home,STL,1.0,6.0,50-104,6.0,42.5,N,-2.0
+155,"Tuesday, Sep 25",HOU,Home,STL,0.0,4.0,50-105,6.0,43.5,N,-3.0
+156,"Wednesday, Sep 26",HOU,Home,STL,2.0,0.0,51-105,6.0,42.5,N,1.0
+157,"Friday, Sep 28",HOU,@,MIL,7.0,6.0,52-105,6.0,43.0,N,2.0
+158,"Saturday, Sep 29",HOU,@,MIL,5.0,9.0,52-106,6.0,43.0,N,-1.0
+159,"Sunday, Sep 30",HOU,@,MIL,7.0,0.0,53-106,6.0,43.0,D,1.0
+160,"Monday, Oct 1",HOU,@,CHC,3.0,0.0,54-106,6.0,42.0,N,2.0
+161,"Tuesday, Oct 2",HOU,@,CHC,3.0,0.0,55-106,6.0,42.0,N,3.0
+162,"Wednesday, Oct 3",HOU,@,CHC,4.0,5.0,55-107,6.0,42.0,D,-1.0
+1,"Sunday, Mar 31",HOU,Home,TEX,8.0,2.0,1-0,1.0,up 0.5,N,1.0
+2,"Tuesday, Apr 2",HOU,Home,TEX,0.0,7.0,1-1,3.0,1.0,N,-1.0
+3,"Wednesday, Apr 3",HOU,Home,TEX,0.0,4.0,1-2,4.0,1.0,D,-2.0
+4,"Friday, Apr 5",HOU,Home,OAK,3.0,8.0,1-3,4.0,2.0,N,-3.0
+5,"Saturday, Apr 6",HOU,Home,OAK,3.0,6.0,1-4,5.0,2.5,N,-4.0
+6,"Sunday, Apr 7",HOU,Home,OAK,3.0,9.0,1-5,5.0,3.5,D,-5.0
+7,"Monday, Apr 8",HOU,@,SEA,0.0,3.0,1-6,5.0,4.0,N,-6.0
+8,"Tuesday, Apr 9",HOU,@,SEA,16.0,9.0,2-6,5.0,4.0,N,1.0
+9,"Wednesday, Apr 10",HOU,@,SEA,8.0,3.0,3-6,4.0,4.0,N,2.0
+10,"Friday, Apr 12",HOU,@,LAA,5.0,0.0,4-6,3.0,4.5,N,3.0
+11,"Saturday, Apr 13",HOU,@,LAA,4.0,5.0,4-7,3.0,4.5,N,-1.0
+12,"Sunday, Apr 14",HOU,@,LAA,1.0,4.0,4-8,4.0,4.5,D,-2.0
+13,"Monday, Apr 15",HOU,@,OAK,2.0,11.0,4-9,4.0,5.5,N,-3.0
+14,"Tuesday, Apr 16",HOU,@,OAK,3.0,4.0,4-10,4.0,6.5,N,-4.0
+15,"Wednesday, Apr 17",HOU,@,OAK,5.0,7.0,4-11,5.0,7.5,D,-5.0
+16,"Friday, Apr 19",HOU,Home,CLE,3.0,2.0,5-11,5.0,6.5,N,1.0
+17,"Saturday, Apr 20",HOU,Home,CLE,6.0,19.0,5-12,5.0,6.5,N,-1.0
+18,"Sunday, Apr 21",HOU,Home,CLE,4.0,5.0,5-13,5.0,7.0,D,-2.0
+19,"Monday, Apr 22",HOU,Home,SEA,1.0,7.0,5-14,5.0,8.0,N,-3.0
+20,"Tuesday, Apr 23",HOU,Home,SEA,3.0,2.0,6-14,5.0,7.0,N,1.0
+21,"Wednesday, Apr 24",HOU,Home,SEA,10.0,3.0,7-14,4.0,7.0,D,2.0
+22,"Thursday, Apr 25",HOU,@,BOS,2.0,7.0,7-15,5.0,8.0,N,-1.0
+23,"Friday, Apr 26",HOU,@,BOS,3.0,7.0,7-16,5.0,9.0,N,-2.0
+24,"Saturday, Apr 27",HOU,@,BOS,4.0,8.0,7-17,5.0,9.0,N,-3.0
+25,"Sunday, Apr 28",HOU,@,BOS,1.0,6.0,7-18,5.0,9.0,D,-4.0
+26,"Monday, Apr 29",HOU,@,NYY,9.0,1.0,8-18,5.0,8.5,N,1.0
+27,"Tuesday, Apr 30",HOU,@,NYY,4.0,7.0,8-19,5.0,9.5,N,-1.0
+28,"Wednesday, May 1",HOU,@,NYY,4.0,5.0,8-20,5.0,9.5,N,-2.0
+29,"Thursday, May 2",HOU,Home,DET,3.0,7.0,8-21,5.0,9.5,N,-3.0
+30,"Friday, May 3",HOU,Home,DET,3.0,4.0,8-22,5.0,10.5,N,-4.0
+31,"Saturday, May 4",HOU,Home,DET,2.0,17.0,8-23,5.0,11.5,N,-5.0
+32,"Sunday, May 5",HOU,Home,DET,0.0,9.0,8-24,5.0,12.5,D,-6.0
+33,"Tuesday, May 7",HOU,Home,LAA,7.0,6.0,9-24,5.0,11.0,N,1.0
+34,"Wednesday, May 8",HOU,Home,LAA,3.0,1.0,10-24,5.0,11.0,N,2.0
+35,"Thursday, May 9",HOU,Home,LAA,5.0,6.0,10-25,5.0,11.5,N,-1.0
+36,"Friday, May 10",HOU,Home,TEX,2.0,4.0,10-26,5.0,12.5,N,-2.0
+37,"Saturday, May 11",HOU,Home,TEX,7.0,8.0,10-27,5.0,13.5,N,-3.0
+38,"Sunday, May 12",HOU,Home,TEX,7.0,12.0,10-28,5.0,14.5,D,-4.0
+39,"Monday, May 13",HOU,@,DET,2.0,7.0,10-29,5.0,14.5,N,-5.0
+40,"Tuesday, May 14",HOU,@,DET,2.0,6.0,10-30,5.0,15.5,N,-6.0
+41,"Wednesday, May 15",HOU,@,DET,7.0,5.0,11-30,5.0,15.5,D,1.0
+42,"Friday, May 17",HOU,@,PIT,4.0,5.0,11-31,5.0,16.0,N,-1.0
+43,"Saturday, May 18",HOU,@,PIT,4.0,2.0,12-31,5.0,16.0,N,1.0
+44,"Sunday, May 19",HOU,@,PIT,0.0,1.0,12-32,5.0,17.0,D,-1.0
+45,"Monday, May 20",HOU,Home,KCR,6.0,5.0,13-32,5.0,16.0,N,1.0
+46,"Tuesday, May 21",HOU,Home,KCR,3.0,7.0,13-33,5.0,16.0,N,-1.0
+47,"Wednesday, May 22",HOU,Home,KCR,3.0,1.0,14-33,5.0,16.0,N,1.0
+48,"Friday, May 24",HOU,Home,OAK,5.0,6.0,14-34,5.0,17.0,N,-1.0
+49,"Saturday, May 25",HOU,Home,OAK,5.0,11.0,14-35,5.0,18.0,N,-2.0
+50,"Sunday, May 26",HOU,Home,OAK,2.0,6.0,14-36,5.0,18.0,D,-3.0
+51,"Monday, May 27",HOU,Home,COL,3.0,2.0,15-36,5.0,16.5,D,1.0
+52,"Tuesday, May 28",HOU,Home,COL,1.0,2.0,15-37,5.0,17.0,D,-1.0
+53,"Wednesday, May 29",HOU,@,COL,6.0,3.0,16-37,5.0,16.5,N,1.0
+54,"Thursday, May 30",HOU,@,COL,7.0,5.0,17-37,5.0,16.5,N,2.0
+55,"Friday, May 31",HOU,@,LAA,6.0,3.0,18-37,5.0,16.5,N,3.0
+56,"Saturday, Jun 1",HOU,@,LAA,2.0,0.0,19-37,5.0,15.5,N,4.0
+57,"Sunday, Jun 2",HOU,@,LAA,5.0,4.0,20-37,5.0,15.5,D,5.0
+58,"Monday, Jun 3",HOU,@,LAA,2.0,1.0,21-37,5.0,15.0,N,6.0
+59,"Tuesday, Jun 4",HOU,Home,BAL,1.0,4.0,21-38,5.0,15.0,N,-1.0
+60,"Wednesday, Jun 5",HOU,Home,BAL,11.0,7.0,22-38,5.0,15.0,N,1.0
+61,"Thursday, Jun 6",HOU,Home,BAL,1.0,3.0,22-39,5.0,15.0,D,-1.0
+62,"Friday, Jun 7",HOU,@,KCR,2.0,4.0,22-40,5.0,15.5,N,-2.0
+63,"Saturday, Jun 8",HOU,@,KCR,2.0,7.0,22-41,5.0,15.5,N,-3.0
+64,"Sunday, Jun 9",HOU,@,KCR,0.0,2.0,22-42,5.0,16.0,D,-4.0
+65,"Monday, Jun 10",HOU,@,SEA,2.0,3.0,22-43,5.0,17.0,N,-5.0
+66,"Tuesday, Jun 11",HOU,@,SEA,0.0,4.0,22-44,5.0,17.0,N,-6.0
+67,"Wednesday, Jun 12",HOU,@,SEA,6.0,1.0,23-44,5.0,17.0,N,1.0
+68,"Friday, Jun 14",HOU,Home,CHW,2.0,1.0,24-44,5.0,16.5,N,2.0
+69,"Saturday, Jun 15",HOU,Home,CHW,4.0,3.0,25-44,5.0,15.5,N,3.0
+70,"Sunday, Jun 16",HOU,Home,CHW,5.0,4.0,26-44,5.0,15.5,D,4.0
+71,"Monday, Jun 17",HOU,Home,CHW,2.0,4.0,26-45,5.0,15.5,N,-1.0
+72,"Tuesday, Jun 18",HOU,Home,MIL,10.0,1.0,27-45,5.0,15.5,N,1.0
+73,"Wednesday, Jun 19",HOU,Home,MIL,1.0,3.0,27-46,5.0,15.5,N,-1.0
+74,"Thursday, Jun 20",HOU,Home,MIL,7.0,4.0,28-46,5.0,14.5,D,1.0
+75,"Friday, Jun 21",HOU,@,CHC,1.0,3.0,28-47,5.0,15.5,D,-1.0
+76,"Saturday, Jun 22",HOU,@,CHC,4.0,3.0,29-47,5.0,14.5,D,1.0
+77,"Sunday, Jun 23",HOU,@,CHC,6.0,14.0,29-48,5.0,15.5,D,-1.0
+78,"Tuesday, Jun 25",HOU,Home,STL,5.0,13.0,29-49,5.0,15.5,N,-2.0
+79,"Wednesday, Jun 26",HOU,Home,STL,4.0,3.0,30-49,5.0,15.5,N,1.0
+80,"Friday, Jun 28",HOU,Home,LAA,2.0,4.0,30-50,5.0,17.0,N,-1.0
+81,"Saturday, Jun 29",HOU,Home,LAA,2.0,7.0,30-51,5.0,17.0,D,-2.0
+82,"Sunday, Jun 30",HOU,Home,LAA,1.0,3.0,30-52,5.0,18.0,D,-3.0
+83,"Monday, Jul 1",HOU,Home,TBR,0.0,12.0,30-53,5.0,18.5,N,-4.0
+84,"Tuesday, Jul 2",HOU,Home,TBR,0.0,8.0,30-54,5.0,19.0,N,-5.0
+85,"Wednesday, Jul 3",HOU,Home,TBR,4.0,1.0,31-54,5.0,18.0,N,1.0
+86,"Thursday, Jul 4",HOU,Home,TBR,5.0,7.0,31-55,5.0,19.0,D,-1.0
+87,"Friday, Jul 5",HOU,@,TEX,5.0,10.0,31-56,5.0,20.0,N,-2.0
+88,"Saturday, Jul 6",HOU,@,TEX,9.0,5.0,32-56,5.0,19.0,N,1.0
+89,"Sunday, Jul 7",HOU,@,TEX,4.0,5.0,32-57,5.0,20.0,D,-1.0
+90,"Tuesday, Jul 9",HOU,@,STL,5.0,9.0,32-58,5.0,21.5,N,-2.0
+91,"Wednesday, Jul 10",HOU,@,STL,4.0,5.0,32-59,5.0,21.5,N,-3.0
+92,"Friday, Jul 12",HOU,@,TBR,2.0,1.0,33-59,5.0,20.5,N,1.0
+93,"Saturday, Jul 13",HOU,@,TBR,3.0,4.0,33-60,5.0,21.5,D,-1.0
+94,"Sunday, Jul 14",HOU,@,TBR,0.0,5.0,33-61,5.0,22.5,D,-2.0
+95,"Friday, Jul 19",HOU,Home,SEA,7.0,10.0,33-62,5.0,22.5,N,-3.0
+96,"Saturday, Jul 20",HOU,Home,SEA,2.0,4.0,33-63,5.0,22.5,N,-4.0
+97,"Sunday, Jul 21",HOU,Home,SEA,5.0,12.0,33-64,5.0,23.5,D,-5.0
+98,"Monday, Jul 22",HOU,Home,OAK,3.0,4.0,33-65,5.0,24.5,N,-6.0
+99,"Tuesday, Jul 23",HOU,Home,OAK,5.0,4.0,34-65,5.0,23.5,N,1.0
+100,"Wednesday, Jul 24",HOU,Home,OAK,3.0,4.0,34-66,5.0,24.5,D,-1.0
+101,"Thursday, Jul 25",HOU,@,TOR,0.0,4.0,34-67,5.0,24.5,N,-2.0
+102,"Friday, Jul 26",HOU,@,TOR,6.0,12.0,34-68,5.0,25.5,N,-3.0
+103,"Saturday, Jul 27",HOU,@,TOR,8.0,6.0,35-68,5.0,25.5,D,1.0
+104,"Sunday, Jul 28",HOU,@,TOR,1.0,2.0,35-69,5.0,26.5,D,-1.0
+105,"Tuesday, Jul 30",HOU,@,BAL,3.0,4.0,35-70,5.0,27.0,N,-2.0
+106,"Wednesday, Jul 31",HOU,@,BAL,11.0,0.0,36-70,5.0,26.0,N,1.0
+107,"Thursday, Aug 1",HOU,@,BAL,3.0,6.0,36-71,5.0,26.5,N,-1.0
+108,"Friday, Aug 2",HOU,@,MIN,3.0,4.0,36-72,5.0,26.5,N,-2.0
+109,"Saturday, Aug 3",HOU,@,MIN,4.0,6.0,36-73,5.0,27.5,N,-3.0
+110,"Sunday, Aug 4",HOU,@,MIN,2.0,3.0,36-74,5.0,27.5,D,-4.0
+111,"Monday, Aug 5",HOU,Home,BOS,2.0,0.0,37-74,5.0,27.0,N,1.0
+112,"Tuesday, Aug 6",HOU,Home,BOS,10.0,15.0,37-75,5.0,27.0,N,-1.0
+113,"Wednesday, Aug 7",HOU,Home,BOS,5.0,7.0,37-76,5.0,27.0,N,-2.0
+114,"Friday, Aug 9",HOU,Home,TEX,5.0,9.0,37-77,5.0,28.0,N,-3.0
+115,"Saturday, Aug 10",HOU,Home,TEX,4.0,5.0,37-78,5.0,29.0,N,-4.0
+116,"Sunday, Aug 11",HOU,Home,TEX,1.0,6.0,37-79,5.0,30.0,D,-5.0
+117,"Monday, Aug 12",HOU,Home,TEX,1.0,2.0,37-80,5.0,31.0,D,-6.0
+118,"Tuesday, Aug 13",HOU,@,OAK,5.0,4.0,38-80,5.0,30.0,N,1.0
+119,"Wednesday, Aug 14",HOU,@,OAK,2.0,1.0,39-80,5.0,30.0,N,2.0
+120,"Thursday, Aug 15",HOU,@,OAK,0.0,5.0,39-81,5.0,30.5,D,-1.0
+121,"Friday, Aug 16",HOU,@,LAA,8.0,2.0,40-81,5.0,29.5,N,1.0
+122,"Saturday, Aug 17",HOU,@,LAA,5.0,6.0,40-82,5.0,30.5,N,-1.0
+123,"Sunday, Aug 18",HOU,@,LAA,7.0,5.0,41-82,5.0,29.5,D,1.0
+124,"Monday, Aug 19",HOU,@,TEX,5.0,16.0,41-83,5.0,30.5,N,-1.0
+125,"Tuesday, Aug 20",HOU,@,TEX,2.0,4.0,41-84,5.0,31.5,N,-2.0
+126,"Wednesday, Aug 21",HOU,@,TEX,4.0,5.0,41-85,5.0,32.5,N,-3.0
+127,"Friday, Aug 23",HOU,Home,TOR,12.0,4.0,42-85,5.0,32.5,N,1.0
+128,"Saturday, Aug 24",HOU,Home,TOR,8.0,5.0,43-85,5.0,31.5,N,2.0
+129,"Sunday, Aug 25",HOU,Home,TOR,1.0,2.0,43-86,5.0,31.5,D,-1.0
+130,"Monday, Aug 26",HOU,@,CHW,10.0,8.0,44-86,5.0,31.5,N,1.0
+131,"Tuesday, Aug 27",HOU,@,CHW,3.0,4.0,44-87,5.0,32.5,N,-1.0
+132,"Wednesday, Aug 28",HOU,@,CHW,1.0,6.0,44-88,5.0,33.5,N,-2.0
+133,"Thursday, Aug 29",HOU,Home,SEA,2.0,3.0,44-89,5.0,34.0,N,-3.0
+134,"Friday, Aug 30",HOU,Home,SEA,1.0,7.0,44-90,5.0,34.0,N,-4.0
+135,"Saturday, Aug 31",HOU,Home,SEA,1.0,3.0,44-91,5.0,35.0,N,-5.0
+136,"Sunday, Sep 1",HOU,Home,SEA,2.0,0.0,45-91,5.0,34.0,D,1.0
+137,"Monday, Sep 2",HOU,Home,MIN,6.0,10.0,45-92,5.0,34.0,D,-1.0
+138,"Tuesday, Sep 3",HOU,Home,MIN,6.0,9.0,45-93,5.0,35.0,N,-2.0
+139,"Wednesday, Sep 4",HOU,Home,MIN,6.0,5.0,46-93,5.0,34.0,D,1.0
+140,"Thursday, Sep 5",HOU,@,OAK,3.0,2.0,47-93,5.0,33.5,N,2.0
+141,"Friday, Sep 6",HOU,@,OAK,5.0,7.0,47-94,5.0,34.0,N,-1.0
+142,"Saturday, Sep 7",HOU,@,OAK,1.0,2.0,47-95,5.0,35.0,D,-2.0
+143,"Sunday, Sep 8",HOU,@,OAK,2.0,7.0,47-96,5.0,36.0,D,-3.0
+144,"Monday, Sep 9",HOU,@,SEA,6.0,4.0,48-96,5.0,35.5,N,1.0
+145,"Tuesday, Sep 10",HOU,@,SEA,13.0,2.0,49-96,5.0,34.5,N,2.0
+146,"Wednesday, Sep 11",HOU,@,SEA,6.0,1.0,50-96,5.0,34.5,N,3.0
+147,"Friday, Sep 13",HOU,Home,LAA,9.0,7.0,51-96,5.0,35.0,N,4.0
+148,"Saturday, Sep 14",HOU,Home,LAA,2.0,6.0,51-97,5.0,36.0,N,-1.0
+149,"Sunday, Sep 15",HOU,Home,LAA,1.0,2.0,51-98,5.0,37.0,D,-2.0
+150,"Monday, Sep 16",HOU,Home,CIN,1.0,6.0,51-99,5.0,37.0,N,-3.0
+151,"Tuesday, Sep 17",HOU,Home,CIN,0.0,10.0,51-100,5.0,38.0,N,-4.0
+152,"Wednesday, Sep 18",HOU,Home,CIN,5.0,6.0,51-101,5.0,38.0,N,-5.0
+153,"Thursday, Sep 19",HOU,@,CLE,1.0,2.0,51-102,5.0,39.0,N,-6.0
+154,"Friday, Sep 20",HOU,@,CLE,1.0,2.0,51-103,5.0,40.0,N,-7.0
+155,"Saturday, Sep 21",HOU,@,CLE,1.0,4.0,51-104,5.0,41.0,N,-8.0
+156,"Sunday, Sep 22",HOU,@,CLE,2.0,9.0,51-105,5.0,42.0,D,-9.0
+157,"Monday, Sep 23",HOU,@,TEX,0.0,12.0,51-106,5.0,43.0,N,-10.0
+158,"Tuesday, Sep 24",HOU,@,TEX,2.0,3.0,51-107,5.0,43.0,N,-11.0
+159,"Wednesday, Sep 25",HOU,@,TEX,3.0,7.0,51-108,5.0,43.0,N,-12.0
+160,"Friday, Sep 27",HOU,Home,NYY,2.0,3.0,51-109,5.0,44.0,N,-13.0
+161,"Saturday, Sep 28",HOU,Home,NYY,1.0,2.0,51-110,5.0,44.0,N,-14.0
+162,"Sunday, Sep 29",HOU,Home,NYY,1.0,5.0,51-111,5.0,45.0,D,-15.0
+1,"Tuesday, Apr 1",HOU,Home,NYY,6.0,2.0,1-0,2.0,0.5,N,1.0
+2,"Wednesday, Apr 2",HOU,Home,NYY,3.0,1.0,2-0,2.0,0.5,N,2.0
+3,"Thursday, Apr 3",HOU,Home,NYY,2.0,4.0,2-1,2.0,0.5,N,-1.0
+4,"Friday, Apr 4",HOU,Home,LAA,1.0,11.0,2-2,2.0,1.0,N,-2.0
+5,"Saturday, Apr 5",HOU,Home,LAA,1.0,5.0,2-3,2.0,2.0,N,-3.0
+6,"Sunday, Apr 6",HOU,Home,LAA,7.0,4.0,3-3,2.0,1.0,D,1.0
+7,"Monday, Apr 7",HOU,Home,LAA,1.0,9.0,3-4,3.0,1.5,D,-1.0
+8,"Tuesday, Apr 8",HOU,@,TOR,2.0,5.0,3-5,4.0,2.5,N,-2.0
+9,"Wednesday, Apr 9",HOU,@,TOR,3.0,7.0,3-6,5.0,2.5,N,-3.0
+10,"Thursday, Apr 10",HOU,@,TOR,6.0,4.0,4-6,5.0,2.5,N,1.0
+11,"Friday, Apr 11",HOU,@,TEX,0.0,1.0,4-7,5.0,3.0,N,-1.0
+12,"Saturday, Apr 12",HOU,@,TEX,6.0,5.0,5-7,5.0,2.5,N,1.0
+13,"Sunday, Apr 13",HOU,@,TEX,0.0,1.0,5-8,5.0,3.5,D,-1.0
+14,"Tuesday, Apr 15",HOU,Home,KCR,2.0,4.0,5-9,5.0,5.0,N,-2.0
+15,"Wednesday, Apr 16",HOU,Home,KCR,4.0,6.0,5-10,5.0,5.0,N,-3.0
+16,"Thursday, Apr 17",HOU,Home,KCR,1.0,5.0,5-11,5.0,5.5,N,-4.0
+17,"Friday, Apr 18",HOU,@,OAK,3.0,11.0,5-12,5.0,6.5,N,-5.0
+18,"Saturday, Apr 19",HOU,@,OAK,3.0,4.0,5-13,5.0,7.5,D,-6.0
+19,"Sunday, Apr 20",HOU,@,OAK,1.0,4.0,5-14,5.0,8.5,D,-7.0
+20,"Monday, Apr 21",HOU,@,SEA,7.0,2.0,6-14,5.0,7.5,N,1.0
+21,"Tuesday, Apr 22",HOU,@,SEA,5.0,2.0,7-14,5.0,6.5,N,2.0
+22,"Wednesday, Apr 23",HOU,@,SEA,3.0,5.0,7-15,5.0,7.0,D,-1.0
+23,"Thursday, Apr 24",HOU,Home,OAK,1.0,10.0,7-16,5.0,7.5,N,-2.0
+24,"Friday, Apr 25",HOU,Home,OAK,5.0,12.0,7-17,5.0,8.5,N,-3.0
+25,"Saturday, Apr 26",HOU,Home,OAK,7.0,6.0,8-17,5.0,7.5,N,1.0
+26,"Sunday, Apr 27",HOU,Home,OAK,5.0,1.0,9-17,5.0,6.5,D,2.0
+27,"Tuesday, Apr 29",HOU,Home,WSN,3.0,4.0,9-18,5.0,8.0,N,-1.0
+28,"Wednesday, Apr 30",HOU,Home,WSN,0.0,7.0,9-19,5.0,9.0,N,-2.0
+29,"Friday, May 2",HOU,Home,SEA,5.0,4.0,10-19,5.0,8.0,N,1.0
+30,"Saturday, May 3",HOU,Home,SEA,8.0,9.0,10-20,5.0,8.0,D,-1.0
+31,"Sunday, May 4",HOU,Home,SEA,7.0,8.0,10-21,5.0,9.0,D,-2.0
+32,"Monday, May 5",HOU,@,DET,0.0,2.0,10-22,5.0,9.0,N,-3.0
+33,"Tuesday, May 6",HOU,@,DET,4.0,11.0,10-23,5.0,9.0,N,-4.0
+34,"Wednesday, May 7",HOU,@,DET,2.0,3.0,10-24,5.0,9.5,N,-5.0
+35,"Thursday, May 8",HOU,@,DET,6.0,2.0,11-24,5.0,9.0,D,1.0
+36,"Friday, May 9",HOU,@,BAL,3.0,4.0,11-25,5.0,10.0,N,-1.0
+37,"Saturday, May 10",HOU,@,BAL,4.0,5.0,11-26,5.0,11.0,N,-2.0
+38,"Sunday, May 11",HOU,@,BAL,5.0,2.0,12-26,5.0,11.0,D,1.0
+39,"Monday, May 12",HOU,Home,TEX,0.0,4.0,12-27,5.0,12.0,N,-1.0
+40,"Tuesday, May 13",HOU,Home,TEX,8.0,0.0,13-27,5.0,12.0,N,1.0
+41,"Wednesday, May 14",HOU,Home,TEX,5.0,4.0,14-27,5.0,11.0,N,2.0
+42,"Friday, May 16",HOU,Home,CHW,2.0,7.0,14-28,5.0,12.0,N,-1.0
+43,"Saturday, May 17",HOU,Home,CHW,6.0,5.0,15-28,5.0,12.0,D,1.0
+44,"Sunday, May 18",HOU,Home,CHW,8.0,2.0,16-28,5.0,12.0,D,2.0
+45,"Monday, May 19",HOU,@,LAA,5.0,2.0,17-28,5.0,11.5,N,3.0
+46,"Tuesday, May 20",HOU,@,LAA,3.0,9.0,17-29,5.0,12.5,N,-1.0
+47,"Wednesday, May 21",HOU,@,LAA,1.0,2.0,17-30,5.0,13.5,N,-2.0
+48,"Thursday, May 22",HOU,@,SEA,1.0,3.0,17-31,5.0,13.5,N,-3.0
+49,"Friday, May 23",HOU,@,SEA,1.0,6.0,17-32,5.0,13.5,N,-4.0
+50,"Saturday, May 24",HOU,@,SEA,9.0,4.0,18-32,5.0,12.5,N,1.0
+51,"Sunday, May 25",HOU,@,SEA,4.0,1.0,19-32,5.0,11.5,D,2.0
+52,"Monday, May 26",HOU,@,KCR,9.0,2.0,20-32,5.0,11.5,N,3.0
+53,"Tuesday, May 27",HOU,@,KCR,3.0,0.0,21-32,5.0,10.5,N,4.0
+54,"Wednesday, May 28",HOU,@,KCR,9.0,3.0,22-32,5.0,10.5,D,5.0
+55,"Thursday, May 29",HOU,Home,BAL,3.0,1.0,23-32,5.0,9.5,N,6.0
+56,"Friday, May 30",HOU,Home,BAL,2.0,1.0,24-32,5.0,9.5,N,7.0
+57,"Saturday, May 31",HOU,Home,BAL,1.0,4.0,24-33,5.0,10.5,D,-1.0
+58,"Sunday, Jun 1",HOU,Home,BAL,4.0,9.0,24-34,5.0,11.5,D,-2.0
+59,"Tuesday, Jun 3",HOU,Home,LAA,7.0,2.0,25-34,5.0,11.5,N,1.0
+60,"Wednesday, Jun 4",HOU,Home,LAA,0.0,4.0,25-35,5.0,12.5,N,-1.0
+61,"Thursday, Jun 5",HOU,Home,LAA,8.0,5.0,26-35,5.0,11.5,N,1.0
+62,"Friday, Jun 6",HOU,@,MIN,5.0,4.0,27-35,5.0,11.5,N,2.0
+63,"Saturday, Jun 7",HOU,@,MIN,0.0,8.0,27-36,5.0,11.5,D,-1.0
+64,"Sunday, Jun 8",HOU,@,MIN,14.0,5.0,28-36,5.0,11.5,D,1.0
+65,"Monday, Jun 9",HOU,@,ARI,4.0,3.0,29-36,5.0,10.5,N,2.0
+66,"Tuesday, Jun 10",HOU,@,ARI,1.0,4.0,29-37,5.0,10.5,D,-1.0
+67,"Wednesday, Jun 11",HOU,Home,ARI,5.0,1.0,30-37,5.0,10.5,N,1.0
+68,"Thursday, Jun 12",HOU,Home,ARI,5.0,4.0,31-37,5.0,10.0,N,2.0
+69,"Friday, Jun 13",HOU,Home,TBR,1.0,6.0,31-38,5.0,10.0,N,-1.0
+70,"Saturday, Jun 14",HOU,Home,TBR,7.0,3.0,32-38,5.0,10.0,D,1.0
+71,"Sunday, Jun 15",HOU,Home,TBR,3.0,4.0,32-39,5.0,11.0,D,-1.0
+72,"Tuesday, Jun 17",HOU,@,WSN,5.0,6.0,32-40,5.0,11.5,N,-2.0
+73,"Wednesday, Jun 18",HOU,@,WSN,5.0,6.0,32-41,5.0,12.5,N,-3.0
+74,"Thursday, Jun 19",HOU,@,TBR,0.0,5.0,32-42,5.0,13.5,N,-4.0
+75,"Friday, Jun 20",HOU,@,TBR,3.0,1.0,33-42,5.0,13.5,N,1.0
+76,"Saturday, Jun 21",HOU,@,TBR,0.0,8.0,33-43,5.0,14.5,D,-1.0
+77,"Sunday, Jun 22",HOU,@,TBR,2.0,5.0,33-44,5.0,14.5,D,-2.0
+78,"Tuesday, Jun 24",HOU,Home,ATL,2.0,3.0,33-45,5.0,14.5,N,-3.0
+79,"Wednesday, Jun 25",HOU,Home,ATL,0.0,4.0,33-46,5.0,15.5,N,-4.0
+80,"Thursday, Jun 26",HOU,Home,ATL,6.0,1.0,34-46,5.0,15.0,D,1.0
+81,"Friday, Jun 27",HOU,Home,DET,4.0,3.0,35-46,5.0,15.0,N,2.0
+82,"Saturday, Jun 28",HOU,Home,DET,3.0,4.0,35-47,5.0,16.0,D,-1.0
+83,"Sunday, Jun 29",HOU,Home,DET,6.0,4.0,36-47,5.0,16.0,D,1.0
+84,"Monday, Jun 30",HOU,Home,SEA,4.0,10.0,36-48,5.0,16.0,N,-1.0
+85,"Tuesday, Jul 1",HOU,Home,SEA,2.0,13.0,36-49,5.0,16.0,N,-2.0
+86,"Wednesday, Jul 2",HOU,Home,SEA,2.0,5.0,36-50,5.0,16.0,D,-3.0
+87,"Thursday, Jul 3",HOU,@,LAA,2.0,5.0,36-51,5.0,17.0,N,-4.0
+88,"Friday, Jul 4",HOU,@,LAA,6.0,7.0,36-52,5.0,18.0,N,-5.0
+89,"Saturday, Jul 5",HOU,@,LAA,5.0,11.0,36-53,5.0,19.0,N,-6.0
+90,"Sunday, Jul 6",HOU,@,LAA,1.0,6.0,36-54,5.0,20.0,D,-7.0
+91,"Monday, Jul 7",HOU,@,TEX,12.0,7.0,37-54,5.0,20.0,N,1.0
+92,"Tuesday, Jul 8",HOU,@,TEX,8.0,3.0,38-54,5.0,20.0,N,2.0
+93,"Wednesday, Jul 9",HOU,@,TEX,8.0,4.0,39-54,4.0,19.0,N,3.0
+94,"Friday, Jul 11",HOU,Home,BOS,3.0,8.0,39-55,4.0,19.5,N,-1.0
+95,"Saturday, Jul 12",HOU,Home,BOS,3.0,2.0,40-55,4.0,18.5,D,1.0
+96,"Sunday, Jul 13",HOU,Home,BOS,0.0,11.0,40-56,4.0,19.5,D,-1.0
+97,"Friday, Jul 18",HOU,@,CHW,2.0,3.0,40-57,4.0,20.5,N,-2.0
+98,"Saturday, Jul 19",HOU,@,CHW,3.0,4.0,40-58,4.0,20.5,N,-3.0
+99,"Sunday, Jul 20",HOU,@,CHW,11.0,7.0,41-58,4.0,20.5,D,1.0
+100,"Tuesday, Jul 22",HOU,@,OAK,3.0,2.0,42-58,4.0,19.5,N,2.0
+101,"Wednesday, Jul 23",HOU,@,OAK,7.0,9.0,42-59,4.0,20.5,N,-1.0
+102,"Thursday, Jul 24",HOU,@,OAK,1.0,13.0,42-60,4.0,21.5,D,-2.0
+103,"Friday, Jul 25",HOU,Home,MIA,0.0,2.0,42-61,4.0,21.5,N,-3.0
+104,"Saturday, Jul 26",HOU,Home,MIA,3.0,7.0,42-62,4.0,22.5,N,-4.0
+105,"Sunday, Jul 27",HOU,Home,MIA,2.0,4.0,42-63,4.0,23.5,D,-5.0
+106,"Monday, Jul 28",HOU,Home,OAK,7.0,3.0,43-63,4.0,22.5,N,1.0
+107,"Tuesday, Jul 29",HOU,Home,OAK,4.0,7.0,43-64,4.0,23.5,N,-1.0
+108,"Wednesday, Jul 30",HOU,Home,OAK,8.0,1.0,44-64,4.0,22.5,D,1.0
+109,"Thursday, Jul 31",HOU,Home,TOR,5.0,6.0,44-65,4.0,23.0,N,-1.0
+110,"Friday, Aug 1",HOU,Home,TOR,3.0,1.0,45-65,4.0,22.0,N,1.0
+111,"Saturday, Aug 2",HOU,Home,TOR,8.0,2.0,46-65,4.0,22.0,N,2.0
+112,"Sunday, Aug 3",HOU,Home,TOR,6.0,1.0,47-65,4.0,21.0,D,3.0
+113,"Tuesday, Aug 5",HOU,@,PHI,1.0,2.0,47-66,4.0,22.5,N,-1.0
+114,"Wednesday, Aug 6",HOU,@,PHI,3.0,10.0,47-67,4.0,22.5,N,-2.0
+115,"Thursday, Aug 7",HOU,@,PHI,5.0,6.0,47-68,4.0,23.5,N,-3.0
+116,"Friday, Aug 8",HOU,Home,TEX,4.0,3.0,48-68,4.0,23.5,N,1.0
+117,"Saturday, Aug 9",HOU,Home,TEX,8.0,3.0,49-68,4.0,23.5,N,2.0
+118,"Sunday, Aug 10",HOU,Home,TEX,2.0,6.0,49-69,4.0,23.5,D,-1.0
+119,"Monday, Aug 11",HOU,Home,MIN,2.0,4.0,49-70,4.0,23.5,N,-2.0
+120,"Tuesday, Aug 12",HOU,Home,MIN,10.0,4.0,50-70,4.0,23.5,N,1.0
+121,"Wednesday, Aug 13",HOU,Home,MIN,1.0,3.0,50-71,4.0,23.5,D,-1.0
+122,"Thursday, Aug 14",HOU,@,BOS,4.0,9.0,50-72,4.0,23.5,N,-2.0
+123,"Friday, Aug 15",HOU,@,BOS,5.0,3.0,51-72,4.0,22.5,N,1.0
+124,"Saturday, Aug 16",HOU,@,BOS,7.0,10.0,51-73,4.0,22.5,N,-1.0
+125,"Sunday, Aug 17",HOU,@,BOS,8.0,1.0,52-73,4.0,21.5,D,1.0
+126,"Tuesday, Aug 19",HOU,@,NYY,7.0,4.0,53-73,4.0,22.0,N,2.0
+127,"Wednesday, Aug 20",HOU,@,NYY,5.0,2.0,54-73,4.0,22.0,N,3.0
+128,"Thursday, Aug 21",HOU,@,NYY,0.0,3.0,54-74,4.0,23.0,D,-1.0
+129,"Friday, Aug 22",HOU,@,CLE,5.0,1.0,55-74,4.0,22.0,N,1.0
+130,"Saturday, Aug 23",HOU,@,CLE,2.0,3.0,55-75,4.0,22.0,N,-1.0
+131,"Sunday, Aug 24",HOU,@,CLE,1.0,3.0,55-76,4.0,23.0,D,-2.0
+132,"Monday, Aug 25",HOU,Home,OAK,2.0,8.0,55-77,4.0,23.0,N,-3.0
+133,"Tuesday, Aug 26",HOU,Home,OAK,4.0,2.0,56-77,4.0,23.0,N,1.0
+134,"Wednesday, Aug 27",HOU,Home,OAK,4.0,5.0,56-78,4.0,24.0,N,-1.0
+135,"Thursday, Aug 28",HOU,Home,TEX,4.0,2.0,57-78,4.0,24.0,N,1.0
+136,"Friday, Aug 29",HOU,Home,TEX,6.0,13.0,57-79,4.0,25.0,N,-1.0
+137,"Saturday, Aug 30",HOU,Home,TEX,2.0,0.0,58-79,4.0,25.0,N,1.0
+138,"Sunday, Aug 31",HOU,Home,TEX,3.0,2.0,59-79,4.0,25.0,D,2.0
+139,"Tuesday, Sep 2",HOU,Home,LAA,8.0,3.0,60-79,4.0,24.0,N,3.0
+140,"Wednesday, Sep 3",HOU,Home,LAA,4.0,1.0,61-79,4.0,23.0,N,4.0
+141,"Friday, Sep 5",HOU,@,OAK,4.0,3.0,62-79,4.0,23.5,N,5.0
+142,"Saturday, Sep 6",HOU,@,OAK,3.0,4.0,62-80,4.0,24.5,D,-1.0
+143,"Sunday, Sep 7",HOU,@,OAK,4.0,3.0,63-80,4.0,24.5,D,1.0
+144,"Monday, Sep 8",HOU,@,SEA,1.0,4.0,63-81,4.0,25.5,N,-1.0
+145,"Tuesday, Sep 9",HOU,@,SEA,2.0,1.0,64-81,4.0,25.5,N,1.0
+146,"Wednesday, Sep 10",HOU,@,SEA,5.0,2.0,65-81,4.0,25.5,N,2.0
+147,"Friday, Sep 12",HOU,@,LAA,3.0,11.0,65-82,4.0,27.0,N,-1.0
+148,"Saturday, Sep 13",HOU,@,LAA,2.0,5.0,65-83,4.0,28.0,N,-2.0
+149,"Sunday, Sep 14",HOU,@,LAA,6.0,1.0,66-83,4.0,27.0,D,1.0
+150,"Monday, Sep 15",HOU,Home,CLE,3.0,1.0,67-83,4.0,27.0,N,2.0
+151,"Tuesday, Sep 16",HOU,Home,CLE,2.0,4.0,67-84,4.0,27.0,N,-1.0
+152,"Wednesday, Sep 17",HOU,Home,CLE,0.0,2.0,67-85,4.0,28.0,N,-2.0
+153,"Thursday, Sep 18",HOU,Home,CLE,1.0,2.0,67-86,4.0,28.0,N,-3.0
+154,"Friday, Sep 19",HOU,Home,SEA,5.0,10.0,67-87,4.0,28.0,N,-4.0
+155,"Saturday, Sep 20",HOU,Home,SEA,10.0,1.0,68-87,4.0,28.0,N,1.0
+156,"Sunday, Sep 21",HOU,Home,SEA,8.0,3.0,69-87,4.0,27.0,D,2.0
+157,"Monday, Sep 22",HOU,@,TEX,3.0,4.0,69-88,4.0,27.0,N,-1.0
+158,"Tuesday, Sep 23",HOU,@,TEX,1.0,2.0,69-89,4.0,28.0,N,-2.0
+159,"Wednesday, Sep 24",HOU,@,TEX,1.0,5.0,69-90,4.0,29.0,N,-3.0
+160,"Friday, Sep 26",HOU,@,NYM,3.0,1.0,70-90,4.0,28.0,N,1.0
+161,"Saturday, Sep 27",HOU,@,NYM,1.0,2.0,70-91,4.0,28.0,N,-1.0
+162,"Sunday, Sep 28",HOU,@,NYM,3.0,8.0,70-92,4.0,28.0,D,-2.0
+1,"Monday, Apr 6",HOU,Home,CLE,2.0,0.0,1-0,1.0,Tied,N,1.0
+2,"Wednesday, Apr 8",HOU,Home,CLE,0.0,2.0,1-1,3.0,0.5,N,-1.0
+3,"Thursday, Apr 9",HOU,Home,CLE,1.0,5.0,1-2,4.0,1.0,D,-2.0
+4,"Friday, Apr 10",HOU,@,TEX,5.0,1.0,2-2,2.0,0.5,D,1.0
+5,"Saturday, Apr 11",HOU,@,TEX,2.0,6.0,2-3,3.0,0.5,N,-1.0
+6,"Sunday, Apr 12",HOU,@,TEX,6.0,4.0,3-3,1.0,Tied,D,1.0
+7,"Monday, Apr 13",HOU,Home,OAK,1.0,8.0,3-4,2.0,0.5,N,-1.0
+8,"Tuesday, Apr 14",HOU,Home,OAK,0.0,4.0,3-5,3.0,1.5,N,-2.0
+9,"Wednesday, Apr 15",HOU,Home,OAK,6.0,1.0,4-5,2.0,0.5,N,1.0
+10,"Friday, Apr 17",HOU,Home,LAA,3.0,6.0,4-6,4.0,1.0,N,-1.0
+11,"Saturday, Apr 18",HOU,Home,LAA,4.0,0.0,5-6,2.0,0.5,N,1.0
+12,"Sunday, Apr 19",HOU,Home,LAA,4.0,3.0,6-6,1.0,up 0.5,D,2.0
+13,"Monday, Apr 20",HOU,@,SEA,7.0,5.0,7-6,1.0,up 0.5,N,3.0
+14,"Tuesday, Apr 21",HOU,@,SEA,6.0,3.0,8-6,1.0,up 1.5,N,4.0
+15,"Wednesday, Apr 22",HOU,@,SEA,2.0,3.0,8-7,1.0,up 0.5,N,-1.0
+16,"Friday, Apr 24",HOU,@,OAK,5.0,4.0,9-7,1.0,up 1.5,N,1.0
+17,"Saturday, Apr 25",HOU,@,OAK,9.0,3.0,10-7,1.0,up 1.5,D,2.0
+18,"Sunday, Apr 26",HOU,@,OAK,7.0,6.0,11-7,1.0,up 2.5,D,3.0
+19,"Monday, Apr 27",HOU,@,SDP,9.0,4.0,12-7,1.0,up 3.0,N,4.0
+20,"Tuesday, Apr 28",HOU,@,SDP,14.0,3.0,13-7,1.0,up 4.0,N,5.0
+21,"Wednesday, Apr 29",HOU,@,SDP,7.0,2.0,14-7,1.0,up 4.0,D,6.0
+22,"Thursday, Apr 30",HOU,Home,SEA,3.0,2.0,15-7,1.0,up 4.0,N,7.0
+23,"Friday, May 1",HOU,Home,SEA,4.0,3.0,16-7,1.0,up 5.0,N,8.0
+24,"Saturday, May 2",HOU,Home,SEA,11.0,4.0,17-7,1.0,up 6.0,N,9.0
+25,"Sunday, May 3",HOU,Home,SEA,7.0,6.0,18-7,1.0,up 7.0,D,10.0
+26,"Monday, May 4",HOU,Home,TEX,1.0,2.0,18-8,1.0,up 7.0,N,-1.0
+27,"Tuesday, May 5",HOU,Home,TEX,1.0,7.0,18-9,1.0,up 6.0,N,-2.0
+28,"Wednesday, May 6",HOU,Home,TEX,3.0,11.0,18-10,1.0,up 5.0,N,-3.0
+29,"Thursday, May 7",HOU,@,LAA,3.0,2.0,19-10,1.0,up 6.0,N,1.0
+30,"Friday, May 8",HOU,@,LAA,0.0,2.0,19-11,1.0,up 5.0,N,-1.0
+31,"Saturday, May 9",HOU,@,LAA,6.0,5.0,20-11,1.0,up 6.0,N,1.0
+32,"Sunday, May 10",HOU,@,LAA,1.0,3.0,20-12,1.0,up 5.0,D,-1.0
+33,"Tuesday, May 12",HOU,Home,SFG,1.0,8.0,20-13,1.0,up 4.0,N,-2.0
+34,"Wednesday, May 13",HOU,Home,SFG,4.0,3.0,21-13,1.0,up 4.0,N,1.0
+35,"Thursday, May 14",HOU,Home,TOR,6.0,4.0,22-13,1.0,up 4.5,N,2.0
+36,"Friday, May 15",HOU,Home,TOR,8.0,4.0,23-13,1.0,up 4.5,N,3.0
+37,"Saturday, May 16",HOU,Home,TOR,6.0,5.0,24-13,1.0,up 4.5,N,4.0
+38,"Sunday, May 17",HOU,Home,TOR,4.0,2.0,25-13,1.0,up 5.5,D,5.0
+39,"Monday, May 18",HOU,Home,OAK,1.0,2.0,25-14,1.0,up 5.5,N,-1.0
+40,"Tuesday, May 19",HOU,Home,OAK,6.0,4.0,26-14,1.0,up 5.5,N,1.0
+41,"Wednesday, May 20",HOU,Home,OAK,6.0,1.0,27-14,1.0,up 5.5,D,2.0
+42,"Thursday, May 21",HOU,@,DET,5.0,6.0,27-15,1.0,up 5.5,D,-1.0
+43,"Friday, May 22",HOU,@,DET,2.0,6.0,27-16,1.0,up 4.5,N,-2.0
+44,"Saturday, May 23",HOU,@,DET,3.0,2.0,28-16,1.0,up 5.5,D,1.0
+45,"Sunday, May 24",HOU,@,DET,10.0,8.0,29-16,1.0,up 6.5,D,2.0
+46,"Monday, May 25",HOU,@,BAL,3.0,4.0,29-17,1.0,up 5.5,D,-1.0
+47,"Tuesday, May 26",HOU,@,BAL,4.0,1.0,30-17,1.0,up 6.5,N,1.0
+48,"Wednesday, May 27",HOU,@,BAL,4.0,5.0,30-18,1.0,up 6.0,N,-1.0
+49,"Friday, May 29",HOU,Home,CHW,3.0,6.0,30-19,1.0,up 5.0,N,-2.0
+50,"Saturday, May 30",HOU,Home,CHW,3.0,0.0,31-19,1.0,up 5.0,D,1.0
+51,"Sunday, May 31",HOU,Home,CHW,0.0,6.0,31-20,1.0,up 4.0,D,-1.0
+52,"Monday, Jun 1",HOU,Home,BAL,5.0,2.0,32-20,1.0,up 4.0,N,1.0
+53,"Tuesday, Jun 2",HOU,Home,BAL,6.0,4.0,33-20,1.0,up 5.0,N,2.0
+54,"Wednesday, Jun 3",HOU,Home,BAL,3.0,1.0,34-20,1.0,up 6.0,N,3.0
+55,"Thursday, Jun 4",HOU,Home,BAL,2.0,3.0,34-21,1.0,up 5.5,D,-1.0
+56,"Friday, Jun 5",HOU,@,TOR,2.0,6.0,34-22,1.0,up 4.5,N,-2.0
+57,"Saturday, Jun 6",HOU,@,TOR,2.0,7.0,34-23,1.0,up 3.5,D,-3.0
+58,"Sunday, Jun 7",HOU,@,TOR,6.0,7.0,34-24,1.0,up 3.5,D,-4.0
+59,"Monday, Jun 8",HOU,@,CHW,1.0,3.0,34-25,1.0,up 3.0,N,-5.0
+60,"Tuesday, Jun 9",HOU,@,CHW,2.0,4.0,34-26,1.0,up 2.0,N,-6.0
+61,"Wednesday, Jun 10",HOU,@,CHW,1.0,4.0,34-27,1.0,up 2.0,N,-7.0
+62,"Friday, Jun 12",HOU,Home,SEA,10.0,0.0,35-27,1.0,up 2.5,N,1.0
+63,"Saturday, Jun 13",HOU,Home,SEA,1.0,8.0,35-28,1.0,up 1.5,D,-1.0
+64,"Sunday, Jun 14",HOU,Home,SEA,13.0,0.0,36-28,1.0,up 2.5,D,1.0
+65,"Monday, Jun 15",HOU,Home,COL,6.0,3.0,37-28,1.0,up 2.5,N,2.0
+66,"Tuesday, Jun 16",HOU,Home,COL,8.0,5.0,38-28,1.0,up 2.5,D,3.0
+67,"Wednesday, Jun 17",HOU,@,COL,8.0,4.0,39-28,1.0,up 2.5,N,4.0
+68,"Thursday, Jun 18",HOU,@,COL,8.0,4.0,40-28,1.0,up 3.5,D,5.0
+69,"Friday, Jun 19",HOU,@,SEA,2.0,5.0,40-29,1.0,up 2.5,N,-1.0
+70,"Saturday, Jun 20",HOU,@,SEA,3.0,6.0,40-30,1.0,up 2.5,N,-2.0
+71,"Sunday, Jun 21",HOU,@,SEA,6.0,2.0,41-30,1.0,up 3.5,D,1.0
+72,"Monday, Jun 22",HOU,@,LAA,3.0,4.0,41-31,1.0,up 3.0,N,-1.0
+73,"Tuesday, Jun 23",HOU,@,LAA,13.0,3.0,42-31,1.0,up 4.0,N,1.0
+74,"Wednesday, Jun 24",HOU,@,LAA,1.0,2.0,42-32,1.0,up 4.0,D,-1.0
+75,"Thursday, Jun 25",HOU,Home,NYY,4.0,0.0,43-32,1.0,up 5.0,N,1.0
+76,"Friday, Jun 26",HOU,Home,NYY,2.0,3.0,43-33,1.0,up 5.0,N,-1.0
+77,"Saturday, Jun 27",HOU,Home,NYY,6.0,9.0,43-34,1.0,up 4.0,D,-2.0
+78,"Sunday, Jun 28",HOU,Home,NYY,3.0,1.0,44-34,1.0,up 4.0,D,1.0
+79,"Monday, Jun 29",HOU,Home,KCR,6.0,1.0,45-34,1.0,up 4.0,N,2.0
+80,"Tuesday, Jun 30",HOU,Home,KCR,4.0,0.0,46-34,1.0,up 4.0,N,3.0
+81,"Wednesday, Jul 1",HOU,Home,KCR,6.0,5.0,47-34,1.0,up 5.0,N,4.0
+82,"Friday, Jul 3",HOU,@,BOS,12.0,8.0,48-34,1.0,up 5.0,N,5.0
+83,"Saturday, Jul 4",HOU,@,BOS,1.0,6.0,48-35,1.0,up 4.0,D,-1.0
+84,"Sunday, Jul 5",HOU,@,BOS,4.0,5.0,48-36,1.0,up 3.0,D,-2.0
+85,"Monday, Jul 6",HOU,@,CLE,9.0,4.0,49-36,1.0,up 3.5,N,1.0
+86,"Tuesday, Jul 7",HOU,@,CLE,0.0,2.0,49-37,1.0,up 2.5,N,-1.0
+87,"Wednesday, Jul 8",HOU,@,CLE,2.0,4.0,49-38,1.0,up 1.5,N,-2.0
+88,"Thursday, Jul 9",HOU,@,CLE,1.0,3.0,49-39,1.0,up 1.5,N,-3.0
+89,"Friday, Jul 10",HOU,@,TBR,1.0,3.0,49-40,1.0,up 0.5,N,-4.0
+90,"Saturday, Jul 11",HOU,@,TBR,0.0,3.0,49-41,1.0,up 0.5,D,-5.0
+91,"Sunday, Jul 12",HOU,@,TBR,3.0,4.0,49-42,2.0,0.5,D,-6.0
+92,"Friday, Jul 17",HOU,Home,TEX,3.0,2.0,50-42,2.0,0.5,N,1.0
+93,"Saturday, Jul 18",HOU,Home,TEX,6.0,7.0,50-43,2.0,1.5,N,-1.0
+94,"Sunday, Jul 19",HOU,Home,TEX,10.0,0.0,51-43,2.0,1.0,D,1.0
+95,"Tuesday, Jul 21",HOU,Home,BOS,8.0,3.0,52-43,2.0,2.0,N,2.0
+96,"Wednesday, Jul 22",HOU,Home,BOS,4.0,2.0,53-43,2.0,2.0,N,3.0
+97,"Thursday, Jul 23",HOU,Home,BOS,5.0,4.0,54-43,2.0,1.0,N,4.0
+98,"Friday, Jul 24",HOU,@,KCR,4.0,0.0,55-43,1.0,Tied,N,5.0
+99,"Saturday, Jul 25",HOU,@,KCR,1.0,2.0,55-44,1.0,Tied,N,-1.0
+100,"Sunday, Jul 26",HOU,@,KCR,1.0,5.0,55-45,2.0,1.0,D,-2.0
+101,"Tuesday, Jul 28",HOU,Home,LAA,10.0,5.0,56-45,1.0,Tied,N,1.0
+102,"Wednesday, Jul 29",HOU,Home,LAA,6.0,3.0,57-45,1.0,up 1.0,N,2.0
+103,"Thursday, Jul 30",HOU,Home,LAA,3.0,0.0,58-45,1.0,up 2.0,N,3.0
+104,"Friday, Jul 31",HOU,Home,ARI,4.0,6.0,58-46,1.0,up 2.0,N,-1.0
+105,"Saturday, Aug 1",HOU,Home,ARI,9.0,2.0,59-46,1.0,up 3.0,N,1.0
+106,"Sunday, Aug 2",HOU,Home,ARI,4.0,1.0,60-46,1.0,up 4.0,D,2.0
+107,"Monday, Aug 3",HOU,@,TEX,9.0,12.0,60-47,1.0,up 3.0,N,-1.0
+108,"Tuesday, Aug 4",HOU,@,TEX,3.0,4.0,60-48,1.0,up 3.0,N,-2.0
+109,"Wednesday, Aug 5",HOU,@,TEX,3.0,4.0,60-49,1.0,up 2.0,N,-3.0
+110,"Thursday, Aug 6",HOU,@,OAK,5.0,4.0,61-49,1.0,up 2.5,N,1.0
+111,"Friday, Aug 7",HOU,@,OAK,1.0,3.0,61-50,1.0,up 1.5,N,-1.0
+112,"Saturday, Aug 8",HOU,@,OAK,1.0,2.0,61-51,1.0,up 1.5,D,-2.0
+113,"Sunday, Aug 9",HOU,@,OAK,4.0,5.0,61-52,1.0,up 0.5,D,-3.0
+114,"Tuesday, Aug 11",HOU,@,SFG,1.0,3.0,61-53,1.0,up 1.0,N,-4.0
+115,"Wednesday, Aug 12",HOU,@,SFG,2.0,0.0,62-53,1.0,up 2.0,D,1.0
+116,"Friday, Aug 14",HOU,Home,DET,5.0,1.0,63-53,1.0,up 2.5,N,2.0
+117,"Saturday, Aug 15",HOU,Home,DET,2.0,4.0,63-54,1.0,up 2.5,N,-1.0
+118,"Sunday, Aug 16",HOU,Home,DET,6.0,5.0,64-54,1.0,up 3.5,D,1.0
+119,"Monday, Aug 17",HOU,Home,TBR,2.0,9.0,64-55,1.0,up 2.5,N,-1.0
+120,"Tuesday, Aug 18",HOU,Home,TBR,3.0,2.0,65-55,1.0,up 2.5,N,1.0
+121,"Wednesday, Aug 19",HOU,Home,TBR,3.0,2.0,66-55,1.0,up 2.5,N,2.0
+122,"Thursday, Aug 20",HOU,Home,TBR,0.0,1.0,66-56,1.0,up 2.5,N,-1.0
+123,"Friday, Aug 21",HOU,Home,LAD,3.0,0.0,67-56,1.0,up 3.5,N,1.0
+124,"Saturday, Aug 22",HOU,Home,LAD,3.0,1.0,68-56,1.0,up 4.0,N,2.0
+125,"Sunday, Aug 23",HOU,Home,LAD,3.0,2.0,69-56,1.0,up 4.0,D,3.0
+126,"Monday, Aug 24",HOU,@,NYY,0.0,1.0,69-57,1.0,up 3.5,N,-1.0
+127,"Tuesday, Aug 25",HOU,@,NYY,15.0,1.0,70-57,1.0,up 4.5,N,1.0
+128,"Wednesday, Aug 26",HOU,@,NYY,6.0,2.0,71-57,1.0,up 5.5,D,2.0
+129,"Friday, Aug 28",HOU,@,MIN,0.0,3.0,71-58,1.0,up 4.0,N,-1.0
+130,"Saturday, Aug 29",HOU,@,MIN,4.0,1.0,72-58,1.0,up 4.0,N,1.0
+131,"Sunday, Aug 30",HOU,@,MIN,5.0,7.0,72-59,1.0,up 3.0,D,-1.0
+132,"Monday, Aug 31",HOU,Home,SEA,8.0,3.0,73-59,1.0,up 4.0,N,1.0
+133,"Tuesday, Sep 1",HOU,Home,SEA,5.0,7.0,73-60,1.0,up 3.0,N,-1.0
+134,"Wednesday, Sep 2",HOU,Home,SEA,3.0,8.0,73-61,1.0,up 2.0,N,-2.0
+135,"Friday, Sep 4",HOU,Home,MIN,8.0,0.0,74-61,1.0,up 3.0,N,1.0
+136,"Saturday, Sep 5",HOU,Home,MIN,2.0,3.0,74-62,1.0,up 2.0,N,-1.0
+137,"Sunday, Sep 6",HOU,Home,MIN,8.0,5.0,75-62,1.0,up 3.0,D,1.0
+138,"Monday, Sep 7",HOU,@,OAK,9.0,10.0,75-63,1.0,up 2.0,D,-1.0
+139,"Tuesday, Sep 8",HOU,@,OAK,0.0,4.0,75-64,1.0,up 1.0,N,-2.0
+140,"Wednesday, Sep 9",HOU,@,OAK,11.0,5.0,76-64,1.0,up 2.0,N,1.0
+141,"Friday, Sep 11",HOU,@,LAA,2.0,3.0,76-65,1.0,up 1.5,N,-1.0
+142,"Saturday, Sep 12",HOU,@,LAA,2.0,3.0,76-66,1.0,up 1.5,N,-2.0
+143,"Sunday, Sep 13",HOU,@,LAA,5.0,3.0,77-66,1.0,up 1.5,D,1.0
+144,"Monday, Sep 14",HOU,@,TEX,3.0,5.0,77-67,1.0,up 0.5,N,-1.0
+145,"Tuesday, Sep 15",HOU,@,TEX,5.0,6.0,77-68,2.0,0.5,N,-2.0
+146,"Wednesday, Sep 16",HOU,@,TEX,3.0,14.0,77-69,2.0,1.5,N,-3.0
+147,"Thursday, Sep 17",HOU,@,TEX,2.0,8.0,77-70,2.0,2.5,N,-4.0
+148,"Friday, Sep 18",HOU,Home,OAK,3.0,4.0,77-71,2.0,2.5,N,-5.0
+149,"Saturday, Sep 19",HOU,Home,OAK,10.0,6.0,78-71,2.0,2.5,N,1.0
+150,"Sunday, Sep 20",HOU,Home,OAK,5.0,1.0,79-71,2.0,1.5,D,2.0
+151,"Monday, Sep 21",HOU,Home,LAA,6.0,3.0,80-71,2.0,1.0,N,3.0
+152,"Tuesday, Sep 22",HOU,Home,LAA,3.0,4.0,80-72,2.0,2.0,N,-1.0
+153,"Wednesday, Sep 23",HOU,Home,LAA,5.0,6.0,80-73,2.0,3.0,D,-2.0
+154,"Friday, Sep 25",HOU,Home,TEX,2.0,6.0,80-74,2.0,4.5,N,-3.0
+155,"Saturday, Sep 26",HOU,Home,TEX,9.0,7.0,81-74,2.0,3.5,D,1.0
+156,"Sunday, Sep 27",HOU,Home,TEX,4.0,2.0,82-74,2.0,2.5,D,2.0
+157,"Monday, Sep 28",HOU,@,SEA,3.0,2.0,83-74,2.0,1.5,N,3.0
+158,"Tuesday, Sep 29",HOU,@,SEA,4.0,6.0,83-75,3.0,2.5,N,-1.0
+159,"Wednesday, Sep 30",HOU,@,SEA,7.0,6.0,84-75,2.0,2.5,N,1.0
+160,"Friday, Oct 2",HOU,@,ARI,21.0,5.0,85-75,2.0,2.0,N,2.0
+161,"Saturday, Oct 3",HOU,@,ARI,6.0,2.0,86-75,2.0,1.0,N,3.0
+162,"Sunday, Oct 4",HOU,@,ARI,3.0,5.0,86-76,2.0,2.0,D,-1.0
+1,"Tuesday, Apr 5",HOU,@,NYY,5.0,3.0,1-0,1.0,up 0.5,D,1.0
+2,"Wednesday, Apr 6",HOU,@,NYY,6.0,16.0,1-1,2.0,0.5,N,-1.0
+3,"Thursday, Apr 7",HOU,@,NYY,5.0,8.0,1-2,2.0,1.0,D,-2.0
+4,"Friday, Apr 8",HOU,@,MIL,4.0,6.0,1-3,4.0,1.0,N,-3.0
+5,"Saturday, Apr 9",HOU,@,MIL,6.0,4.0,2-3,3.0,0.5,N,1.0
+6,"Sunday, Apr 10",HOU,@,MIL,2.0,3.0,2-4,3.0,1.5,D,-1.0
+7,"Monday, Apr 11",HOU,Home,KCR,8.0,2.0,3-4,3.0,0.5,N,1.0
+8,"Tuesday, Apr 12",HOU,Home,KCR,2.0,3.0,3-5,4.0,1.5,N,-1.0
+9,"Wednesday, Apr 13",HOU,Home,KCR,2.0,4.0,3-6,4.0,2.0,N,-2.0
+10,"Thursday, Apr 14",HOU,Home,KCR,2.0,6.0,3-7,5.0,2.5,N,-3.0
+11,"Friday, Apr 15",HOU,Home,DET,1.0,0.0,4-7,4.0,1.5,N,1.0
+12,"Saturday, Apr 16",HOU,Home,DET,3.0,5.0,4-8,5.0,2.5,N,-1.0
+13,"Sunday, Apr 17",HOU,Home,DET,5.0,4.0,5-8,5.0,2.0,D,1.0
+14,"Tuesday, Apr 19",HOU,@,TEX,5.0,7.0,5-9,5.0,3.0,N,-1.0
+15,"Wednesday, Apr 20",HOU,@,TEX,1.0,2.0,5-10,5.0,4.0,N,-2.0
+16,"Thursday, Apr 21",HOU,@,TEX,4.0,7.0,5-11,5.0,5.0,N,-3.0
+17,"Friday, Apr 22",HOU,Home,BOS,2.0,6.0,5-12,5.0,5.0,N,-4.0
+18,"Saturday, Apr 23",HOU,Home,BOS,8.0,3.0,6-12,5.0,4.0,D,1.0
+19,"Sunday, Apr 24",HOU,Home,BOS,5.0,7.0,6-13,5.0,4.0,N,-1.0
+20,"Monday, Apr 25",HOU,@,SEA,2.0,3.0,6-14,5.0,4.5,N,-2.0
+21,"Tuesday, Apr 26",HOU,@,SEA,1.0,11.0,6-15,5.0,5.5,N,-3.0
+22,"Wednesday, Apr 27",HOU,@,SEA,7.0,4.0,7-15,5.0,5.0,N,1.0
+23,"Friday, Apr 29",HOU,@,OAK,4.0,7.0,7-16,5.0,6.0,N,-1.0
+24,"Saturday, Apr 30",HOU,@,OAK,0.0,2.0,7-17,5.0,7.0,D,-2.0
+25,"Sunday, May 1",HOU,@,OAK,2.0,1.0,8-17,5.0,6.0,D,1.0
+26,"Monday, May 2",HOU,Home,MIN,2.0,6.0,8-18,5.0,7.0,N,-1.0
+27,"Tuesday, May 3",HOU,Home,MIN,6.0,4.0,9-18,5.0,6.5,N,1.0
+28,"Wednesday, May 4",HOU,Home,MIN,16.0,4.0,10-18,5.0,6.5,N,2.0
+29,"Thursday, May 5",HOU,Home,SEA,3.0,6.0,10-19,5.0,7.5,N,-1.0
+30,"Friday, May 6",HOU,Home,SEA,6.0,3.0,11-19,5.0,6.5,N,1.0
+31,"Saturday, May 7",HOU,Home,SEA,2.0,3.0,11-20,5.0,7.5,N,-1.0
+32,"Sunday, May 8",HOU,Home,SEA,5.0,1.0,12-20,5.0,6.5,D,1.0
+33,"Monday, May 9",HOU,Home,CLE,7.0,1.0,13-20,5.0,6.5,N,2.0
+34,"Tuesday, May 10",HOU,Home,CLE,0.0,4.0,13-21,5.0,7.5,N,-1.0
+35,"Wednesday, May 11",HOU,Home,CLE,5.0,3.0,14-21,3.0,7.5,D,1.0
+36,"Thursday, May 12",HOU,@,BOS,1.0,11.0,14-22,4.0,8.0,N,-1.0
+37,"Friday, May 13",HOU,@,BOS,7.0,6.0,15-22,4.0,7.0,N,1.0
+38,"Saturday, May 14",HOU,@,BOS,5.0,6.0,15-23,5.0,7.0,D,-1.0
+39,"Sunday, May 15",HOU,@,BOS,9.0,10.0,15-24,5.0,7.5,D,-2.0
+40,"Tuesday, May 17",HOU,@,CHW,6.0,5.0,16-24,5.0,7.0,N,1.0
+41,"Wednesday, May 18",HOU,@,CHW,5.0,3.0,17-24,5.0,6.0,N,2.0
+42,"Thursday, May 19",HOU,@,CHW,1.0,2.0,17-25,5.0,7.0,N,-1.0
+43,"Friday, May 20",HOU,Home,TEX,1.0,2.0,17-26,5.0,8.0,N,-2.0
+44,"Saturday, May 21",HOU,Home,TEX,1.0,2.0,17-27,5.0,9.0,N,-3.0
+45,"Sunday, May 22",HOU,Home,TEX,2.0,9.0,17-28,5.0,10.0,D,-4.0
+46,"Tuesday, May 24",HOU,Home,BAL,3.0,2.0,18-28,5.0,9.5,N,1.0
+47,"Wednesday, May 25",HOU,Home,BAL,4.0,3.0,19-28,5.0,9.5,N,2.0
+48,"Thursday, May 26",HOU,Home,BAL,4.0,2.0,20-28,4.0,9.0,N,3.0
+49,"Friday, May 27",HOU,@,LAA,2.0,7.0,20-29,4.0,9.0,N,-1.0
+50,"Saturday, May 28",HOU,@,LAA,4.0,2.0,21-29,4.0,8.0,N,1.0
+51,"Sunday, May 29",HOU,@,LAA,8.0,6.0,22-29,4.0,7.5,D,2.0
+52,"Monday, May 30",HOU,@,ARI,8.0,3.0,23-29,4.0,7.5,D,3.0
+53,"Tuesday, May 31",HOU,@,ARI,8.0,5.0,24-29,4.0,7.5,D,4.0
+54,"Wednesday, Jun 1",HOU,Home,ARI,5.0,4.0,25-29,3.0,6.5,N,5.0
+55,"Thursday, Jun 2",HOU,Home,ARI,0.0,3.0,25-30,4.0,7.0,D,-1.0
+56,"Friday, Jun 3",HOU,Home,OAK,12.0,2.0,26-30,3.0,7.0,N,1.0
+57,"Saturday, Jun 4",HOU,Home,OAK,6.0,5.0,27-30,3.0,7.0,D,2.0
+58,"Sunday, Jun 5",HOU,Home,OAK,5.0,2.0,28-30,3.0,7.0,D,3.0
+59,"Monday, Jun 6",HOU,@,TEX,5.0,6.0,28-31,3.0,8.0,N,-1.0
+60,"Tuesday, Jun 7",HOU,@,TEX,3.0,4.0,28-32,3.0,9.0,N,-2.0
+61,"Wednesday, Jun 8",HOU,@,TEX,3.0,1.0,29-32,3.0,8.0,N,1.0
+62,"Thursday, Jun 9",HOU,@,TEX,3.0,5.0,29-33,3.0,9.0,D,-1.0
+63,"Friday, Jun 10",HOU,@,TBR,3.0,4.0,29-34,3.0,9.0,N,-2.0
+64,"Saturday, Jun 11",HOU,@,TBR,4.0,3.0,30-34,3.0,9.0,D,1.0
+65,"Sunday, Jun 12",HOU,@,TBR,0.0,5.0,30-35,3.0,10.0,D,-1.0
+66,"Tuesday, Jun 14",HOU,@,STL,5.0,2.0,31-35,3.0,9.5,N,1.0
+67,"Wednesday, Jun 15",HOU,@,STL,4.0,1.0,32-35,3.0,9.5,N,2.0
+68,"Friday, Jun 17",HOU,Home,CIN,2.0,4.0,32-36,3.0,11.0,N,-1.0
+69,"Saturday, Jun 18",HOU,Home,CIN,5.0,4.0,33-36,3.0,11.0,D,1.0
+70,"Sunday, Jun 19",HOU,Home,CIN,6.0,0.0,34-36,3.0,11.0,D,2.0
+71,"Monday, Jun 20",HOU,Home,LAA,10.0,7.0,35-36,3.0,11.0,N,3.0
+72,"Tuesday, Jun 21",HOU,Home,LAA,3.0,2.0,36-36,3.0,10.0,N,4.0
+73,"Wednesday, Jun 22",HOU,Home,LAA,3.0,2.0,37-36,2.0,10.0,D,5.0
+74,"Friday, Jun 24",HOU,@,KCR,13.0,4.0,38-36,2.0,9.0,N,6.0
+75,"Saturday, Jun 25",HOU,@,KCR,13.0,5.0,39-36,2.0,9.0,N,7.0
+76,"Sunday, Jun 26",HOU,@,KCR,1.0,6.0,39-37,2.0,10.0,D,-1.0
+77,"Monday, Jun 27",HOU,@,LAA,4.0,2.0,40-37,2.0,10.0,N,1.0
+78,"Tuesday, Jun 28",HOU,@,LAA,7.0,1.0,41-37,2.0,10.0,N,2.0
+79,"Wednesday, Jun 29",HOU,@,LAA,10.0,4.0,42-37,2.0,9.0,D,3.0
+80,"Friday, Jul 1",HOU,Home,CHW,5.0,0.0,43-37,2.0,8.5,N,4.0
+81,"Saturday, Jul 2",HOU,Home,CHW,6.0,7.0,43-38,2.0,8.5,D,-1.0
+82,"Sunday, Jul 3",HOU,Home,CHW,1.0,4.0,43-39,2.0,8.5,D,-2.0
+83,"Monday, Jul 4",HOU,Home,SEA,2.0,1.0,44-39,2.0,7.5,D,1.0
+84,"Tuesday, Jul 5",HOU,Home,SEA,5.0,2.0,45-39,2.0,7.5,N,2.0
+85,"Wednesday, Jul 6",HOU,Home,SEA,9.0,8.0,46-39,2.0,6.5,N,3.0
+86,"Thursday, Jul 7",HOU,Home,OAK,1.0,3.0,46-40,2.0,6.5,N,-1.0
+87,"Friday, Jul 8",HOU,Home,OAK,10.0,9.0,47-40,2.0,6.5,N,1.0
+88,"Saturday, Jul 9",HOU,Home,OAK,2.0,3.0,47-41,2.0,6.5,D,-1.0
+89,"Sunday, Jul 10",HOU,Home,OAK,2.0,1.0,48-41,2.0,5.5,D,1.0
+90,"Friday, Jul 15",HOU,@,SEA,7.0,3.0,49-41,2.0,4.5,N,2.0
+91,"Saturday, Jul 16",HOU,@,SEA,0.0,1.0,49-42,2.0,4.5,D,-1.0
+92,"Sunday, Jul 17",HOU,@,SEA,8.0,1.0,50-42,2.0,4.5,D,1.0
+93,"Monday, Jul 18",HOU,@,OAK,4.0,7.0,50-43,2.0,4.5,N,-1.0
+94,"Tuesday, Jul 19",HOU,@,OAK,3.0,4.0,50-44,2.0,4.5,N,-2.0
+95,"Wednesday, Jul 20",HOU,@,OAK,7.0,0.0,51-44,2.0,3.5,D,1.0
+96,"Friday, Jul 22",HOU,Home,LAA,2.0,1.0,52-44,2.0,2.5,N,2.0
+97,"Saturday, Jul 23",HOU,Home,LAA,7.0,2.0,53-44,2.0,2.5,N,3.0
+98,"Sunday, Jul 24",HOU,Home,LAA,13.0,3.0,54-44,2.0,2.5,D,4.0
+99,"Monday, Jul 25",HOU,Home,NYY,1.0,2.0,54-45,2.0,3.5,N,-1.0
+100,"Tuesday, Jul 26",HOU,Home,NYY,3.0,6.0,54-46,2.0,3.5,N,-2.0
+101,"Wednesday, Jul 27",HOU,Home,NYY,4.0,1.0,55-46,2.0,2.5,N,1.0
+102,"Friday, Jul 29",HOU,@,DET,6.0,14.0,55-47,2.0,4.0,N,-1.0
+103,"Saturday, Jul 30",HOU,@,DET,2.0,3.0,55-48,2.0,5.0,N,-2.0
+104,"Sunday, Jul 31",HOU,@,DET,0.0,11.0,55-49,2.0,6.0,D,-3.0
+105,"Monday, Aug 1",HOU,Home,TOR,2.0,1.0,56-49,2.0,5.5,N,1.0
+106,"Tuesday, Aug 2",HOU,Home,TOR,1.0,2.0,56-50,2.0,5.5,N,-1.0
+107,"Wednesday, Aug 3",HOU,Home,TOR,1.0,3.0,56-51,2.0,5.5,N,-2.0
+108,"Thursday, Aug 4",HOU,Home,TOR,1.0,4.0,56-52,2.0,6.5,N,-3.0
+109,"Friday, Aug 5",HOU,Home,TEX,5.0,0.0,57-52,2.0,5.5,N,1.0
+110,"Saturday, Aug 6",HOU,Home,TEX,2.0,3.0,57-53,2.0,6.5,N,-1.0
+111,"Sunday, Aug 7",HOU,Home,TEX,3.0,5.0,57-54,3.0,7.5,D,-2.0
+112,"Monday, Aug 8",HOU,@,MIN,1.0,3.0,57-55,3.0,8.5,N,-3.0
+113,"Tuesday, Aug 9",HOU,@,MIN,7.0,5.0,58-55,3.0,8.5,N,1.0
+114,"Thursday, Aug 11 (1)",HOU,@,MIN,15.0,7.0,59-55,3.0,7.5,D,2.0
+115,"Thursday, Aug 11 (2)",HOU,@,MIN,10.0,2.0,60-55,3.0,7.5,N,3.0
+116,"Friday, Aug 12",HOU,@,TOR,5.0,3.0,61-55,2.0,7.5,N,4.0
+117,"Saturday, Aug 13",HOU,@,TOR,2.0,4.0,61-56,3.0,7.5,D,-1.0
+118,"Sunday, Aug 14",HOU,@,TOR,2.0,9.0,61-57,3.0,7.5,D,-2.0
+119,"Tuesday, Aug 16",HOU,Home,STL,5.0,8.0,61-58,3.0,9.0,N,-3.0
+120,"Wednesday, Aug 17",HOU,Home,STL,2.0,8.0,61-59,3.0,10.0,D,-4.0
+121,"Thursday, Aug 18",HOU,@,BAL,5.0,13.0,61-60,3.0,10.5,N,-5.0
+122,"Friday, Aug 19",HOU,@,BAL,15.0,8.0,62-60,3.0,10.5,N,1.0
+123,"Saturday, Aug 20",HOU,@,BAL,12.0,2.0,63-60,3.0,9.5,N,2.0
+124,"Sunday, Aug 21",HOU,@,BAL,5.0,3.0,64-60,3.0,8.5,N,3.0
+125,"Monday, Aug 22",HOU,@,PIT,3.0,1.0,65-60,3.0,8.0,N,4.0
+126,"Tuesday, Aug 23",HOU,@,PIT,1.0,7.0,65-61,3.0,8.0,N,-1.0
+127,"Wednesday, Aug 24",HOU,@,PIT,5.0,4.0,66-61,3.0,8.0,D,1.0
+128,"Friday, Aug 26",HOU,Home,TBR,5.0,4.0,67-61,3.0,7.5,N,2.0
+129,"Saturday, Aug 27",HOU,Home,TBR,6.0,2.0,68-61,2.0,7.5,N,3.0
+130,"Sunday, Aug 28",HOU,Home,TBR,4.0,10.0,68-62,2.0,8.5,D,-1.0
+131,"Monday, Aug 29",HOU,Home,OAK,6.0,0.0,69-62,2.0,8.5,N,1.0
+132,"Tuesday, Aug 30",HOU,Home,OAK,3.0,1.0,70-62,2.0,8.5,N,2.0
+133,"Wednesday, Aug 31",HOU,Home,OAK,4.0,3.0,71-62,2.0,8.5,D,3.0
+134,"Friday, Sep 2",HOU,@,TEX,8.0,10.0,71-63,2.0,9.5,N,-1.0
+135,"Saturday, Sep 3",HOU,@,TEX,4.0,12.0,71-64,2.0,10.5,D,-2.0
+136,"Sunday, Sep 4",HOU,@,TEX,7.0,6.0,72-64,2.0,9.5,D,1.0
+137,"Monday, Sep 5",HOU,@,CLE,6.0,2.0,73-64,2.0,8.5,N,2.0
+138,"Tuesday, Sep 6",HOU,@,CLE,4.0,3.0,74-64,2.0,8.5,N,3.0
+139,"Wednesday, Sep 7",HOU,@,CLE,5.0,6.0,74-65,2.0,8.5,N,-1.0
+140,"Thursday, Sep 8",HOU,@,CLE,7.0,10.0,74-66,2.0,8.5,D,-2.0
+141,"Friday, Sep 9",HOU,Home,CHC,0.0,2.0,74-67,2.0,9.5,N,-3.0
+142,"Saturday, Sep 10",HOU,Home,CHC,2.0,1.0,75-67,2.0,9.5,D,1.0
+143,"Sunday, Sep 11",HOU,Home,CHC,5.0,9.0,75-68,2.0,9.5,N,-1.0
+144,"Monday, Sep 12",HOU,Home,TEX,3.0,4.0,75-69,3.0,10.5,N,-2.0
+145,"Tuesday, Sep 13",HOU,Home,TEX,2.0,3.0,75-70,3.0,11.5,N,-3.0
+146,"Wednesday, Sep 14",HOU,Home,TEX,8.0,4.0,76-70,3.0,10.5,N,1.0
+147,"Friday, Sep 16",HOU,@,SEA,6.0,0.0,77-70,3.0,10.5,N,2.0
+148,"Saturday, Sep 17",HOU,@,SEA,2.0,1.0,78-70,2.0,9.5,N,3.0
+149,"Sunday, Sep 18",HOU,@,SEA,3.0,7.0,78-71,3.0,9.5,D,-1.0
+150,"Monday, Sep 19",HOU,@,OAK,4.0,2.0,79-71,2.0,9.5,N,1.0
+151,"Tuesday, Sep 20",HOU,@,OAK,2.0,1.0,80-71,2.0,9.5,N,2.0
+152,"Wednesday, Sep 21",HOU,@,OAK,6.0,5.0,81-71,2.0,8.5,D,3.0
+153,"Thursday, Sep 22",HOU,Home,LAA,0.0,2.0,81-72,2.0,9.0,N,-1.0
+154,"Friday, Sep 23",HOU,Home,LAA,6.0,10.0,81-73,3.0,10.0,N,-2.0
+155,"Saturday, Sep 24",HOU,Home,LAA,4.0,10.0,81-74,3.0,11.0,N,-3.0
+156,"Sunday, Sep 25",HOU,Home,LAA,4.0,1.0,82-74,3.0,10.0,D,1.0
+157,"Monday, Sep 26",HOU,Home,SEA,3.0,4.0,82-75,3.0,10.0,N,-1.0
+158,"Tuesday, Sep 27",HOU,Home,SEA,8.0,4.0,83-75,3.0,10.0,N,1.0
+159,"Wednesday, Sep 28",HOU,Home,SEA,4.0,12.0,83-76,3.0,11.0,D,-1.0
+160,"Friday, Sep 30",HOU,@,LAA,1.0,7.0,83-77,3.0,12.0,N,-2.0
+161,"Saturday, Oct 1",HOU,@,LAA,3.0,0.0,84-77,3.0,11.0,N,1.0
+162,"Sunday, Oct 2",HOU,@,LAA,1.0,8.0,84-78,3.0,11.0,D,-1.0
+1,"Monday, Apr 3",HOU,Home,SEA,3.0,0.0,1-0,1.0,Tied,N,1.0
+2,"Tuesday, Apr 4",HOU,Home,SEA,2.0,1.0,2-0,1.0,up 1.0,N,2.0
+3,"Wednesday, Apr 5",HOU,Home,SEA,5.0,3.0,3-0,1.0,up 1.0,N,3.0
+4,"Thursday, Apr 6",HOU,Home,SEA,2.0,4.0,3-1,1.0,up 1.0,N,-1.0
+5,"Friday, Apr 7",HOU,Home,KCR,1.0,5.0,3-2,1.0,Tied,N,-2.0
+6,"Saturday, Apr 8",HOU,Home,KCR,3.0,7.0,3-3,2.0,1.0,N,-3.0
+7,"Sunday, Apr 9",HOU,Home,KCR,5.0,4.0,4-3,2.0,1.0,D,1.0
+8,"Monday, Apr 10",HOU,@,SEA,0.0,6.0,4-4,2.0,1.5,D,-1.0
+9,"Tuesday, Apr 11",HOU,@,SEA,7.0,5.0,5-4,2.0,1.5,N,1.0
+10,"Wednesday, Apr 12",HOU,@,SEA,10.0,5.0,6-4,2.0,0.5,N,2.0
+11,"Friday, Apr 14",HOU,@,OAK,7.0,2.0,7-4,1.0,up 1.0,N,3.0
+12,"Saturday, Apr 15",HOU,@,OAK,10.0,6.0,8-4,1.0,up 2.0,D,4.0
+13,"Monday, Apr 17",HOU,Home,LAA,3.0,0.0,9-4,1.0,up 3.5,N,5.0
+14,"Tuesday, Apr 18",HOU,Home,LAA,2.0,5.0,9-5,1.0,up 2.5,N,-1.0
+15,"Wednesday, Apr 19",HOU,Home,LAA,5.0,1.0,10-5,1.0,up 3.0,N,1.0
+16,"Thursday, Apr 20",HOU,Home,LAA,2.0,1.0,11-5,1.0,up 3.0,D,2.0
+17,"Friday, Apr 21",HOU,@,TBR,6.0,3.0,12-5,1.0,up 3.0,N,3.0
+18,"Saturday, Apr 22",HOU,@,TBR,3.0,6.0,12-6,1.0,up 2.0,N,-1.0
+19,"Sunday, Apr 23",HOU,@,TBR,6.0,4.0,13-6,1.0,up 3.0,D,1.0
+20,"Tuesday, Apr 25",HOU,@,CLE,4.0,2.0,14-6,1.0,up 4.0,N,2.0
+21,"Wednesday, Apr 26",HOU,@,CLE,6.0,7.0,14-7,1.0,up 4.0,N,-1.0
+22,"Thursday, Apr 27",HOU,@,CLE,3.0,4.0,14-8,1.0,up 3.0,N,-2.0
+23,"Friday, Apr 28",HOU,Home,OAK,9.0,4.0,15-8,1.0,up 3.0,N,1.0
+24,"Saturday, Apr 29",HOU,Home,OAK,1.0,2.0,15-9,1.0,up 3.0,N,-1.0
+25,"Sunday, Apr 30",HOU,Home,OAK,7.0,2.0,16-9,1.0,up 3.0,D,1.0
+26,"Monday, May 1",HOU,Home,TEX,6.0,2.0,17-9,1.0,up 3.5,N,2.0
+27,"Tuesday, May 2",HOU,Home,TEX,8.0,7.0,18-9,1.0,up 3.5,N,3.0
+28,"Wednesday, May 3",HOU,Home,TEX,10.0,1.0,19-9,1.0,up 4.5,N,4.0
+29,"Thursday, May 4",HOU,Home,TEX,4.0,10.0,19-10,1.0,up 4.5,D,-1.0
+30,"Friday, May 5",HOU,@,LAA,7.0,6.0,20-10,1.0,up 5.5,N,1.0
+31,"Saturday, May 6",HOU,@,LAA,1.0,2.0,20-11,1.0,up 4.5,N,-1.0
+32,"Sunday, May 7",HOU,@,LAA,5.0,3.0,21-11,1.0,up 5.5,D,1.0
+33,"Tuesday, May 9",HOU,Home,ATL,8.0,3.0,22-11,1.0,up 6.0,N,2.0
+34,"Wednesday, May 10",HOU,Home,ATL,4.0,2.0,23-11,1.0,up 6.0,D,3.0
+35,"Thursday, May 11",HOU,@,NYY,3.0,2.0,24-11,1.0,up 7.0,N,4.0
+36,"Friday, May 12",HOU,@,NYY,5.0,1.0,25-11,1.0,up 8.0,N,5.0
+37,"Sunday, May 14 (1)",HOU,@,NYY,6.0,11.0,25-12,1.0,up 7.5,D,-1.0
+38,"Sunday, May 14 (2)",HOU,@,NYY,10.0,7.0,26-12,1.0,up 7.5,N,1.0
+39,"Monday, May 15",HOU,@,MIA,7.0,2.0,27-12,1.0,up 8.0,N,2.0
+40,"Tuesday, May 16",HOU,@,MIA,12.0,2.0,28-12,1.0,up 8.0,N,3.0
+41,"Wednesday, May 17",HOU,@,MIA,3.0,0.0,29-12,1.0,up 8.0,D,4.0
+42,"Friday, May 19",HOU,Home,CLE,3.0,5.0,29-13,1.0,up 6.5,N,-1.0
+43,"Saturday, May 20",HOU,Home,CLE,0.0,3.0,29-14,1.0,up 6.5,D,-2.0
+44,"Sunday, May 21",HOU,Home,CLE,6.0,8.0,29-15,1.0,up 5.5,D,-3.0
+45,"Monday, May 22",HOU,Home,DET,1.0,0.0,30-15,1.0,up 6.0,N,1.0
+46,"Tuesday, May 23",HOU,Home,DET,6.0,2.0,31-15,1.0,up 7.0,N,2.0
+47,"Wednesday, May 24",HOU,Home,DET,3.0,6.0,31-16,1.0,up 7.0,N,-1.0
+48,"Thursday, May 25",HOU,Home,DET,7.0,6.0,32-16,1.0,up 8.0,N,1.0
+49,"Friday, May 26",HOU,Home,BAL,2.0,0.0,33-16,1.0,up 9.0,N,2.0
+50,"Saturday, May 27",HOU,Home,BAL,5.0,2.0,34-16,1.0,up 9.0,N,3.0
+51,"Sunday, May 28",HOU,Home,BAL,8.0,4.0,35-16,1.0,up10.0,D,4.0
+52,"Monday, May 29",HOU,@,MIN,16.0,8.0,36-16,1.0,up11.0,D,5.0
+53,"Tuesday, May 30",HOU,@,MIN,7.0,2.0,37-16,1.0,up11.0,N,6.0
+54,"Wednesday, May 31",HOU,@,MIN,17.0,6.0,38-16,1.0,up11.0,D,7.0
+55,"Friday, Jun 2",HOU,@,TEX,7.0,1.0,39-16,1.0,up12.5,N,8.0
+56,"Saturday, Jun 3",HOU,@,TEX,6.0,5.0,40-16,1.0,up12.5,N,9.0
+57,"Sunday, Jun 4",HOU,@,TEX,7.0,2.0,41-16,1.0,up13.5,D,10.0
+58,"Monday, Jun 5",HOU,@,KCR,7.0,3.0,42-16,1.0,up14.0,N,11.0
+59,"Tuesday, Jun 6",HOU,@,KCR,7.0,9.0,42-17,1.0,up13.0,N,-1.0
+60,"Wednesday, Jun 7",HOU,@,KCR,5.0,7.0,42-18,1.0,up12.0,N,-2.0
+61,"Thursday, Jun 8",HOU,@,KCR,6.0,1.0,43-18,1.0,up13.0,N,1.0
+62,"Friday, Jun 9",HOU,Home,LAA,4.0,9.0,43-19,1.0,up12.0,N,-1.0
+63,"Saturday, Jun 10",HOU,Home,LAA,3.0,1.0,44-19,1.0,up13.0,D,1.0
+64,"Sunday, Jun 11",HOU,Home,LAA,6.0,12.0,44-20,1.0,up12.0,D,-1.0
+65,"Monday, Jun 12",HOU,Home,TEX,1.0,6.0,44-21,1.0,up12.0,N,-2.0
+66,"Tuesday, Jun 13",HOU,Home,TEX,2.0,4.0,44-22,1.0,up11.0,N,-3.0
+67,"Wednesday, Jun 14",HOU,Home,TEX,13.0,2.0,45-22,1.0,up11.0,N,1.0
+68,"Friday, Jun 16",HOU,Home,BOS,1.0,2.0,45-23,1.0,up11.0,N,-1.0
+69,"Saturday, Jun 17",HOU,Home,BOS,7.0,1.0,46-23,1.0,up11.0,N,1.0
+70,"Sunday, Jun 18",HOU,Home,BOS,5.0,6.0,46-24,1.0,up11.0,N,-1.0
+71,"Monday, Jun 19",HOU,@,OAK,4.0,1.0,47-24,1.0,up12.0,N,1.0
+72,"Tuesday, Jun 20",HOU,@,OAK,8.0,4.0,48-24,1.0,up12.0,N,2.0
+73,"Wednesday, Jun 21",HOU,@,OAK,5.0,1.0,49-24,1.0,up12.5,N,3.0
+74,"Thursday, Jun 22",HOU,@,OAK,12.0,9.0,50-24,1.0,up12.5,D,4.0
+75,"Friday, Jun 23",HOU,@,SEA,3.0,13.0,50-25,1.0,up11.5,N,-1.0
+76,"Saturday, Jun 24",HOU,@,SEA,5.0,2.0,51-25,1.0,up12.5,N,1.0
+77,"Sunday, Jun 25",HOU,@,SEA,8.0,2.0,52-25,1.0,up13.0,D,2.0
+78,"Tuesday, Jun 27",HOU,Home,OAK,4.0,6.0,52-26,1.0,up12.5,N,-1.0
+79,"Wednesday, Jun 28",HOU,Home,OAK,11.0,8.0,53-26,1.0,up12.5,N,1.0
+80,"Thursday, Jun 29",HOU,Home,OAK,6.0,1.0,54-26,1.0,up13.5,D,2.0
+81,"Friday, Jun 30",HOU,Home,NYY,4.0,13.0,54-27,1.0,up13.5,N,-1.0
+82,"Saturday, Jul 1",HOU,Home,NYY,7.0,6.0,55-27,1.0,up13.5,N,1.0
+83,"Sunday, Jul 2",HOU,Home,NYY,8.0,1.0,56-27,1.0,up14.5,D,2.0
+84,"Tuesday, Jul 4",HOU,@,ATL,16.0,4.0,57-27,1.0,up16.0,N,3.0
+85,"Wednesday, Jul 5",HOU,@,ATL,10.0,4.0,58-27,1.0,up16.0,N,4.0
+86,"Thursday, Jul 6",HOU,@,TOR,4.0,7.0,58-28,1.0,up15.5,N,-1.0
+87,"Friday, Jul 7",HOU,@,TOR,12.0,2.0,59-28,1.0,up16.5,N,1.0
+88,"Saturday, Jul 8",HOU,@,TOR,2.0,7.0,59-29,1.0,up15.5,D,-1.0
+89,"Sunday, Jul 9",HOU,@,TOR,19.0,1.0,60-29,1.0,up16.5,D,1.0
+90,"Friday, Jul 14",HOU,Home,MIN,10.0,5.0,61-29,1.0,up16.5,N,2.0
+91,"Saturday, Jul 15",HOU,Home,MIN,2.0,4.0,61-30,1.0,up15.5,N,-1.0
+92,"Sunday, Jul 16",HOU,Home,MIN,5.0,3.0,62-30,1.0,up16.5,D,1.0
+93,"Monday, Jul 17",HOU,Home,SEA,7.0,9.0,62-31,1.0,up15.5,N,-1.0
+94,"Tuesday, Jul 18",HOU,Home,SEA,6.0,2.0,63-31,1.0,up16.5,N,1.0
+95,"Wednesday, Jul 19",HOU,Home,SEA,1.0,4.0,63-32,1.0,up15.5,D,-1.0
+96,"Friday, Jul 21",HOU,@,BAL,8.0,7.0,64-32,1.0,up17.0,N,1.0
+97,"Saturday, Jul 22",HOU,@,BAL,8.0,4.0,65-32,1.0,up17.0,N,2.0
+98,"Sunday, Jul 23",HOU,@,BAL,7.0,9.0,65-33,1.0,up17.0,D,-1.0
+99,"Monday, Jul 24",HOU,@,PHI,13.0,4.0,66-33,1.0,up17.0,N,1.0
+100,"Tuesday, Jul 25",HOU,@,PHI,5.0,0.0,67-33,1.0,up17.0,N,2.0
+101,"Wednesday, Jul 26",HOU,@,PHI,0.0,9.0,67-34,1.0,up17.0,N,-1.0
+102,"Friday, Jul 28",HOU,@,DET,6.0,5.0,68-34,1.0,up18.0,N,1.0
+103,"Saturday, Jul 29",HOU,@,DET,3.0,5.0,68-35,1.0,up17.0,N,-1.0
+104,"Sunday, Jul 30",HOU,@,DET,1.0,13.0,68-36,1.0,up16.0,D,-2.0
+105,"Monday, Jul 31",HOU,Home,TBR,14.0,7.0,69-36,1.0,up16.0,N,1.0
+106,"Tuesday, Aug 1",HOU,Home,TBR,4.0,6.0,69-37,1.0,up15.0,N,-1.0
+107,"Wednesday, Aug 2",HOU,Home,TBR,0.0,3.0,69-38,1.0,up15.0,N,-2.0
+108,"Thursday, Aug 3",HOU,Home,TBR,3.0,5.0,69-39,1.0,up15.0,N,-3.0
+109,"Friday, Aug 4",HOU,Home,TOR,16.0,7.0,70-39,1.0,up15.0,N,1.0
+110,"Saturday, Aug 5",HOU,Home,TOR,3.0,4.0,70-40,1.0,up14.5,N,-1.0
+111,"Sunday, Aug 6",HOU,Home,TOR,7.0,6.0,71-40,1.0,up15.0,D,1.0
+112,"Tuesday, Aug 8",HOU,@,CHW,5.0,8.0,71-41,1.0,up14.0,N,-1.0
+113,"Wednesday, Aug 9",HOU,@,CHW,1.0,7.0,71-42,1.0,up13.0,N,-2.0
+114,"Thursday, Aug 10",HOU,@,CHW,2.0,3.0,71-43,1.0,up13.0,N,-3.0
+115,"Friday, Aug 11",HOU,@,TEX,4.0,6.0,71-44,1.0,up13.0,N,-4.0
+116,"Saturday, Aug 12",HOU,@,TEX,3.0,8.0,71-45,1.0,up12.0,N,-5.0
+117,"Sunday, Aug 13",HOU,@,TEX,2.0,1.0,72-45,1.0,up12.0,D,1.0
+118,"Monday, Aug 14",HOU,@,ARI,0.0,2.0,72-46,1.0,up11.5,N,-1.0
+119,"Tuesday, Aug 15",HOU,@,ARI,9.0,4.0,73-46,1.0,up12.5,D,1.0
+120,"Wednesday, Aug 16",HOU,Home,ARI,9.0,5.0,74-46,1.0,up12.5,N,2.0
+121,"Thursday, Aug 17",HOU,Home,ARI,0.0,4.0,74-47,1.0,up12.0,D,-1.0
+122,"Friday, Aug 18",HOU,Home,OAK,3.0,1.0,75-47,1.0,up13.0,N,1.0
+123,"Saturday, Aug 19",HOU,Home,OAK,3.0,0.0,76-47,1.0,up13.0,N,2.0
+124,"Sunday, Aug 20",HOU,Home,OAK,2.0,3.0,76-48,1.0,up12.0,D,-1.0
+125,"Tuesday, Aug 22",HOU,Home,WSN,3.0,4.0,76-49,1.0,up11.5,N,-2.0
+126,"Wednesday, Aug 23",HOU,Home,WSN,6.0,1.0,77-49,1.0,up12.5,N,1.0
+127,"Thursday, Aug 24",HOU,Home,WSN,4.0,5.0,77-50,1.0,up12.5,N,-1.0
+128,"Friday, Aug 25",HOU,@,LAA,2.0,1.0,78-50,1.0,up12.5,N,1.0
+129,"Saturday, Aug 26",HOU,@,LAA,6.0,7.0,78-51,1.0,up12.5,N,-1.0
+130,"Sunday, Aug 27",HOU,@,LAA,7.0,5.0,79-51,1.0,up13.5,D,1.0
+131,"Tuesday, Aug 29",HOU,Home,TEX,2.0,12.0,79-52,1.0,up12.0,N,-1.0
+132,"Wednesday, Aug 30",HOU,Home,TEX,1.0,8.0,79-53,1.0,up11.0,N,-2.0
+133,"Thursday, Aug 31",HOU,Home,TEX,5.0,1.0,80-53,1.0,up11.5,D,1.0
+134,"Saturday, Sep 2 (1)",HOU,Home,NYM,12.0,8.0,81-53,1.0,up12.5,D,2.0
+135,"Saturday, Sep 2 (2)",HOU,Home,NYM,4.0,1.0,82-53,1.0,up12.5,N,3.0
+136,"Sunday, Sep 3",HOU,Home,NYM,8.0,6.0,83-53,1.0,up13.5,D,4.0
+137,"Monday, Sep 4",HOU,@,SEA,6.0,2.0,84-53,1.0,up13.5,D,5.0
+138,"Tuesday, Sep 5",HOU,@,SEA,3.0,1.0,85-53,1.0,up13.5,N,6.0
+139,"Wednesday, Sep 6",HOU,@,SEA,5.0,3.0,86-53,1.0,up14.5,N,7.0
+140,"Friday, Sep 8",HOU,@,OAK,8.0,9.0,86-54,1.0,up14.5,N,-1.0
+141,"Saturday, Sep 9 (1)",HOU,@,OAK,1.0,11.0,86-55,1.0,up14.0,D,-2.0
+142,"Saturday, Sep 9 (2)",HOU,@,OAK,4.0,11.0,86-56,1.0,up14.0,N,-3.0
+143,"Sunday, Sep 10",HOU,@,OAK,2.0,10.0,86-57,1.0,up13.0,D,-4.0
+144,"Tuesday, Sep 12",HOU,@,LAA,1.0,0.0,87-57,1.0,up14.0,N,1.0
+145,"Wednesday, Sep 13",HOU,@,LAA,1.0,9.0,87-58,1.0,up13.0,N,-1.0
+146,"Thursday, Sep 14",HOU,@,LAA,5.0,2.0,88-58,1.0,up14.0,N,1.0
+147,"Friday, Sep 15",HOU,Home,SEA,5.0,2.0,89-58,1.0,up14.0,N,2.0
+148,"Saturday, Sep 16",HOU,Home,SEA,8.0,6.0,90-58,1.0,up14.0,D,3.0
+149,"Sunday, Sep 17",HOU,Home,SEA,7.0,1.0,91-58,1.0,up15.0,D,4.0
+150,"Tuesday, Sep 19",HOU,Home,CHW,3.0,1.0,92-58,1.0,up16.0,N,5.0
+151,"Wednesday, Sep 20",HOU,Home,CHW,4.0,3.0,93-58,1.0,up17.0,N,6.0
+152,"Thursday, Sep 21",HOU,Home,CHW,1.0,3.0,93-59,1.0,up17.0,N,-1.0
+153,"Friday, Sep 22",HOU,Home,LAA,3.0,0.0,94-59,1.0,up18.0,N,1.0
+154,"Saturday, Sep 23",HOU,Home,LAA,6.0,2.0,95-59,1.0,up19.0,D,2.0
+155,"Sunday, Sep 24",HOU,Home,LAA,5.0,7.0,95-60,1.0,up18.0,N,-1.0
+156,"Monday, Sep 25",HOU,@,TEX,11.0,2.0,96-60,1.0,up19.0,N,1.0
+157,"Tuesday, Sep 26",HOU,@,TEX,14.0,3.0,97-60,1.0,up19.0,N,2.0
+158,"Wednesday, Sep 27",HOU,@,TEX,12.0,2.0,98-60,1.0,up20.0,D,3.0
+159,"Thursday, Sep 28",HOU,@,BOS,12.0,2.0,99-60,1.0,up21.0,N,4.0
+160,"Friday, Sep 29",HOU,@,BOS,3.0,2.0,100-60,1.0,up21.0,N,5.0
+161,"Saturday, Sep 30",HOU,@,BOS,3.0,6.0,100-61,1.0,up21.0,D,-1.0
+162,"Sunday, Oct 1",HOU,@,BOS,4.0,3.0,101-61,1.0,up21.0,D,1.0
+1,"Thursday, Mar 29",HOU,@,TEX,4.0,1.0,1-0,1.0,Tied,D,1.0
+2,"Friday, Mar 30",HOU,@,TEX,1.0,5.0,1-1,2.0,0.5,N,-1.0
+3,"Saturday, Mar 31",HOU,@,TEX,9.0,3.0,2-1,1.0,Tied,D,1.0
+4,"Sunday, Apr 1",HOU,@,TEX,8.0,2.0,3-1,1.0,Tied,D,2.0
+5,"Monday, Apr 2",HOU,Home,BAL,6.0,1.0,4-1,1.0,up 1.0,N,3.0
+6,"Tuesday, Apr 3",HOU,Home,BAL,10.0,6.0,5-1,1.0,up 1.0,N,4.0
+7,"Wednesday, Apr 4",HOU,Home,BAL,3.0,2.0,6-1,1.0,up 1.0,D,5.0
+8,"Friday, Apr 6",HOU,Home,SDP,1.0,4.0,6-2,1.0,Tied,N,-1.0
+9,"Saturday, Apr 7",HOU,Home,SDP,1.0,0.0,7-2,1.0,up 1.0,N,1.0
+10,"Sunday, Apr 8",HOU,Home,SDP,4.0,1.0,8-2,1.0,up 1.0,D,2.0
+11,"Monday, Apr 9",HOU,@,MIN,2.0,0.0,9-2,1.0,up 1.0,N,3.0
+12,"Tuesday, Apr 10",HOU,@,MIN,1.0,4.0,9-3,1.0,Tied,N,-1.0
+13,"Wednesday, Apr 11",HOU,@,MIN,8.0,9.0,9-4,2.0,1.0,D,-2.0
+14,"Friday, Apr 13",HOU,Home,TEX,3.0,2.0,10-4,2.0,1.5,N,1.0
+15,"Saturday, Apr 14",HOU,Home,TEX,5.0,6.0,10-5,2.0,2.5,D,-1.0
+16,"Sunday, Apr 15",HOU,Home,TEX,1.0,3.0,10-6,2.0,3.0,N,-2.0
+17,"Monday, Apr 16",HOU,@,SEA,1.0,2.0,10-7,3.0,3.5,N,-3.0
+18,"Tuesday, Apr 17",HOU,@,SEA,4.0,1.0,11-7,2.0,2.5,N,1.0
+19,"Wednesday, Apr 18",HOU,@,SEA,7.0,1.0,12-7,2.0,1.5,N,2.0
+20,"Thursday, Apr 19",HOU,@,SEA,9.0,2.0,13-7,2.0,0.5,D,3.0
+21,"Friday, Apr 20",HOU,@,CHW,10.0,0.0,14-7,1.0,up 0.5,N,4.0
+22,"Saturday, Apr 21",HOU,@,CHW,10.0,1.0,15-7,1.0,up 0.5,N,5.0
+23,"Sunday, Apr 22",HOU,@,CHW,7.0,1.0,16-7,1.0,up 1.5,D,6.0
+24,"Monday, Apr 23",HOU,Home,LAA,0.0,2.0,16-8,1.0,up 0.5,N,-1.0
+25,"Tuesday, Apr 24",HOU,Home,LAA,7.0,8.0,16-9,2.0,0.5,N,-2.0
+26,"Wednesday, Apr 25",HOU,Home,LAA,5.0,2.0,17-9,1.0,up 0.5,D,1.0
+27,"Friday, Apr 27",HOU,Home,OAK,1.0,8.0,17-10,1.0,up 0.5,N,-1.0
+28,"Saturday, Apr 28",HOU,Home,OAK,11.0,0.0,18-10,1.0,up 1.5,N,1.0
+29,"Sunday, Apr 29",HOU,Home,OAK,8.0,4.0,19-10,1.0,up 2.0,D,2.0
+30,"Monday, Apr 30",HOU,Home,NYY,2.0,1.0,20-10,1.0,up 2.5,N,3.0
+31,"Tuesday, May 1",HOU,Home,NYY,0.0,4.0,20-11,1.0,up 1.5,N,-1.0
+32,"Wednesday, May 2",HOU,Home,NYY,0.0,4.0,20-12,1.0,up 1.0,N,-2.0
+33,"Thursday, May 3",HOU,Home,NYY,5.0,6.0,20-13,1.0,Tied,D,-3.0
+34,"Friday, May 4",HOU,@,ARI,8.0,0.0,21-13,1.0,Tied,N,1.0
+35,"Saturday, May 5",HOU,@,ARI,3.0,4.0,21-14,1.0,Tied,N,-1.0
+36,"Sunday, May 6",HOU,@,ARI,1.0,3.0,21-15,2.0,1.0,D,-2.0
+37,"Monday, May 7",HOU,@,OAK,16.0,2.0,22-15,2.0,0.5,N,1.0
+38,"Tuesday, May 8",HOU,@,OAK,4.0,2.0,23-15,1.0,up 0.5,N,2.0
+39,"Wednesday, May 9",HOU,@,OAK,4.0,1.0,24-15,1.0,up 0.5,D,3.0
+40,"Friday, May 11",HOU,Home,TEX,0.0,1.0,24-16,1.0,Tied,N,-1.0
+41,"Saturday, May 12",HOU,Home,TEX,6.0,1.0,25-16,1.0,up 1.0,N,1.0
+42,"Sunday, May 13",HOU,Home,TEX,6.0,1.0,26-16,1.0,up 1.0,D,2.0
+43,"Monday, May 14",HOU,@,LAA,1.0,2.0,26-17,1.0,Tied,N,-1.0
+44,"Tuesday, May 15",HOU,@,LAA,5.0,3.0,27-17,1.0,up 1.0,N,1.0
+45,"Wednesday, May 16",HOU,@,LAA,2.0,0.0,28-17,1.0,up 2.0,N,2.0
+46,"Friday, May 18",HOU,Home,CLE,4.0,1.0,29-17,1.0,up 3.0,N,3.0
+47,"Saturday, May 19",HOU,Home,CLE,4.0,5.0,29-18,1.0,up 2.0,D,-1.0
+48,"Sunday, May 20",HOU,Home,CLE,3.0,1.0,30-18,1.0,up 2.0,N,1.0
+49,"Tuesday, May 22",HOU,Home,SFG,11.0,2.0,31-18,1.0,up 2.0,N,2.0
+50,"Wednesday, May 23",HOU,Home,SFG,4.0,1.0,32-18,1.0,up 2.0,D,3.0
+51,"Thursday, May 24",HOU,@,CLE,8.0,2.0,33-18,1.0,up 3.0,N,4.0
+52,"Friday, May 25",HOU,@,CLE,11.0,2.0,34-18,1.0,up 3.0,N,5.0
+53,"Saturday, May 26",HOU,@,CLE,6.0,8.0,34-19,1.0,up 2.0,N,-1.0
+54,"Sunday, May 27",HOU,@,CLE,9.0,10.0,34-20,1.0,up 1.0,D,-2.0
+55,"Monday, May 28",HOU,@,NYY,5.0,1.0,35-20,1.0,up 1.0,D,1.0
+56,"Tuesday, May 29",HOU,@,NYY,5.0,6.0,35-21,1.0,up 1.0,N,-1.0
+57,"Wednesday, May 30",HOU,@,NYY,3.0,5.0,35-22,1.0,up 1.0,N,-2.0
+58,"Thursday, May 31",HOU,Home,BOS,4.0,2.0,36-22,1.0,up 1.0,N,1.0
+59,"Friday, Jun 1",HOU,Home,BOS,7.0,3.0,37-22,1.0,up 1.0,N,2.0
+60,"Saturday, Jun 2",HOU,Home,BOS,4.0,5.0,37-23,1.0,Tied,N,-1.0
+61,"Sunday, Jun 3",HOU,Home,BOS,3.0,9.0,37-24,2.0,1.0,N,-2.0
+62,"Tuesday, Jun 5",HOU,Home,SEA,1.0,7.0,37-25,2.0,2.0,N,-3.0
+63,"Wednesday, Jun 6",HOU,Home,SEA,7.0,5.0,38-25,2.0,1.0,N,1.0
+64,"Thursday, Jun 7",HOU,@,TEX,5.0,2.0,39-25,2.0,1.0,N,2.0
+65,"Friday, Jun 8",HOU,@,TEX,7.0,3.0,40-25,2.0,1.0,N,3.0
+66,"Saturday, Jun 9",HOU,@,TEX,4.0,3.0,41-25,1.0,Tied,N,4.0
+67,"Sunday, Jun 10",HOU,@,TEX,8.0,7.0,42-25,1.0,Tied,D,5.0
+68,"Tuesday, Jun 12",HOU,@,OAK,6.0,3.0,43-25,2.0,0.5,N,6.0
+69,"Wednesday, Jun 13",HOU,@,OAK,13.0,5.0,44-25,2.0,0.5,N,7.0
+70,"Thursday, Jun 14",HOU,@,OAK,7.0,3.0,45-25,1.0,up 0.5,D,8.0
+71,"Friday, Jun 15",HOU,@,KCR,7.0,3.0,46-25,1.0,up 0.5,N,9.0
+72,"Saturday, Jun 16",HOU,@,KCR,10.0,2.0,47-25,1.0,up 0.5,D,10.0
+73,"Sunday, Jun 17",HOU,@,KCR,7.0,4.0,48-25,1.0,up 1.5,D,11.0
+74,"Monday, Jun 18",HOU,Home,TBR,5.0,4.0,49-25,1.0,up 2.0,N,12.0
+75,"Tuesday, Jun 19",HOU,Home,TBR,1.0,2.0,49-26,1.0,up 2.0,N,-1.0
+76,"Wednesday, Jun 20",HOU,Home,TBR,5.0,1.0,50-26,1.0,up 3.0,N,1.0
+77,"Friday, Jun 22",HOU,Home,KCR,0.0,1.0,50-27,1.0,up 3.5,N,-1.0
+78,"Saturday, Jun 23",HOU,Home,KCR,4.0,3.0,51-27,1.0,up 3.5,N,1.0
+79,"Sunday, Jun 24",HOU,Home,KCR,11.0,3.0,52-27,1.0,up 4.5,D,2.0
+80,"Monday, Jun 25",HOU,Home,TOR,3.0,6.0,52-28,1.0,up 3.5,N,-1.0
+81,"Tuesday, Jun 26",HOU,Home,TOR,7.0,0.0,53-28,1.0,up 3.5,N,1.0
+82,"Wednesday, Jun 27",HOU,Home,TOR,7.0,6.0,54-28,1.0,up 3.5,D,2.0
+83,"Thursday, Jun 28",HOU,@,TBR,1.0,0.0,55-28,1.0,up 3.5,N,3.0
+84,"Friday, Jun 29",HOU,@,TBR,2.0,3.0,55-29,1.0,up 2.5,N,-1.0
+85,"Saturday, Jun 30",HOU,@,TBR,2.0,5.0,55-30,1.0,up 1.5,D,-2.0
+86,"Sunday, Jul 1",HOU,@,TBR,2.0,3.0,55-31,1.0,up 0.5,D,-3.0
+87,"Tuesday, Jul 3",HOU,@,TEX,5.0,3.0,56-31,1.0,up 0.5,N,1.0
+88,"Wednesday, Jul 4",HOU,@,TEX,5.0,4.0,57-31,1.0,up 1.5,N,2.0
+89,"Thursday, Jul 5",HOU,Home,CHW,4.0,3.0,58-31,1.0,up 1.5,N,3.0
+90,"Friday, Jul 6",HOU,Home,CHW,11.0,4.0,59-31,1.0,up 2.5,N,4.0
+91,"Saturday, Jul 7",HOU,Home,CHW,12.0,6.0,60-31,1.0,up 3.5,D,5.0
+92,"Sunday, Jul 8",HOU,Home,CHW,2.0,1.0,61-31,1.0,up 3.5,D,6.0
+93,"Monday, Jul 9",HOU,Home,OAK,0.0,2.0,61-32,1.0,up 3.0,N,-1.0
+94,"Tuesday, Jul 10",HOU,Home,OAK,6.0,5.0,62-32,1.0,up 4.0,N,1.0
+95,"Wednesday, Jul 11",HOU,Home,OAK,3.0,8.0,62-33,1.0,up 3.0,N,-1.0
+96,"Thursday, Jul 12",HOU,Home,OAK,4.0,6.0,62-34,1.0,up 3.0,D,-2.0
+97,"Friday, Jul 13",HOU,Home,DET,3.0,0.0,63-34,1.0,up 4.0,N,1.0
+98,"Saturday, Jul 14",HOU,Home,DET,9.0,1.0,64-34,1.0,up 5.0,D,2.0
+99,"Sunday, Jul 15",HOU,Home,DET,3.0,6.0,64-35,1.0,up 5.0,D,-1.0
+100,"Friday, Jul 20",HOU,@,LAA,3.0,1.0,65-35,1.0,up 5.0,N,1.0
+101,"Saturday, Jul 21",HOU,@,LAA,7.0,0.0,66-35,1.0,up 6.0,D,2.0
+102,"Sunday, Jul 22",HOU,@,LAA,5.0,14.0,66-36,1.0,up 5.0,D,-1.0
+103,"Tuesday, Jul 24",HOU,@,COL,8.0,2.0,67-36,1.0,up 6.0,N,1.0
+104,"Wednesday, Jul 25",HOU,@,COL,2.0,3.0,67-37,1.0,up 5.0,N,-1.0
+105,"Friday, Jul 27",HOU,Home,TEX,2.0,11.0,67-38,1.0,up 5.0,N,-2.0
+106,"Saturday, Jul 28",HOU,Home,TEX,3.0,7.0,67-39,1.0,up 5.0,N,-3.0
+107,"Sunday, Jul 29",HOU,Home,TEX,3.0,4.0,67-40,1.0,up 4.0,D,-4.0
+108,"Monday, Jul 30",HOU,@,SEA,0.0,2.0,67-41,1.0,up 3.0,N,-5.0
+109,"Tuesday, Jul 31",HOU,@,SEA,5.0,2.0,68-41,1.0,up 4.0,N,1.0
+110,"Wednesday, Aug 1",HOU,@,SEA,8.0,3.0,69-41,1.0,up 5.0,D,2.0
+111,"Friday, Aug 3",HOU,@,LAD,2.0,1.0,70-41,1.0,up 5.0,N,3.0
+112,"Saturday, Aug 4",HOU,@,LAD,14.0,0.0,71-41,1.0,up 5.0,N,4.0
+113,"Sunday, Aug 5",HOU,@,LAD,2.0,3.0,71-42,1.0,up 4.0,D,-1.0
+114,"Monday, Aug 6",HOU,@,SFG,3.0,1.0,72-42,1.0,up 4.5,N,1.0
+115,"Tuesday, Aug 7",HOU,@,SFG,2.0,1.0,73-42,1.0,up 5.5,D,2.0
+116,"Thursday, Aug 9",HOU,Home,SEA,6.0,8.0,73-43,1.0,up 4.5,N,-1.0
+117,"Friday, Aug 10",HOU,Home,SEA,2.0,5.0,73-44,1.0,up 4.5,N,-2.0
+118,"Saturday, Aug 11",HOU,Home,SEA,2.0,3.0,73-45,1.0,up 3.5,N,-3.0
+119,"Sunday, Aug 12",HOU,Home,SEA,3.0,4.0,73-46,1.0,up 2.5,D,-4.0
+120,"Tuesday, Aug 14",HOU,Home,COL,1.0,5.0,73-47,1.0,up 1.0,N,-5.0
+121,"Wednesday, Aug 15",HOU,Home,COL,12.0,1.0,74-47,1.0,up 2.0,N,1.0
+122,"Friday, Aug 17",HOU,@,OAK,3.0,4.0,74-48,1.0,up 1.0,N,-1.0
+123,"Saturday, Aug 18",HOU,@,OAK,1.0,7.0,74-49,1.0,Tied,D,-2.0
+124,"Sunday, Aug 19",HOU,@,OAK,9.0,4.0,75-49,1.0,up 1.0,D,1.0
+125,"Monday, Aug 20",HOU,@,SEA,4.0,7.0,75-50,1.0,Tied,N,-1.0
+126,"Tuesday, Aug 21",HOU,@,SEA,3.0,2.0,76-50,1.0,Tied,N,1.0
+127,"Wednesday, Aug 22",HOU,@,SEA,10.0,7.0,77-50,1.0,up 1.0,D,2.0
+128,"Friday, Aug 24",HOU,@,LAA,9.0,3.0,78-50,1.0,up 1.5,N,3.0
+129,"Saturday, Aug 25",HOU,@,LAA,8.0,3.0,79-50,1.0,up 1.5,N,4.0
+130,"Sunday, Aug 26",HOU,@,LAA,3.0,1.0,80-50,1.0,up 1.5,D,5.0
+131,"Monday, Aug 27",HOU,Home,OAK,11.0,4.0,81-50,1.0,up 2.5,N,6.0
+132,"Tuesday, Aug 28",HOU,Home,OAK,3.0,4.0,81-51,1.0,up 1.5,N,-1.0
+133,"Wednesday, Aug 29",HOU,Home,OAK,5.0,4.0,82-51,1.0,up 2.5,D,1.0
+134,"Thursday, Aug 30",HOU,Home,LAA,2.0,5.0,82-52,1.0,up 2.5,N,-1.0
+135,"Friday, Aug 31",HOU,Home,LAA,0.0,3.0,82-53,1.0,up 1.5,N,-2.0
+136,"Saturday, Sep 1",HOU,Home,LAA,7.0,3.0,83-53,1.0,up 2.5,N,1.0
+137,"Sunday, Sep 2",HOU,Home,LAA,4.0,2.0,84-53,1.0,up 2.5,N,2.0
+138,"Monday, Sep 3",HOU,Home,MIN,4.0,1.0,85-53,1.0,up 2.5,D,3.0
+139,"Tuesday, Sep 4",HOU,Home,MIN,5.0,2.0,86-53,1.0,up 3.5,N,4.0
+140,"Wednesday, Sep 5",HOU,Home,MIN,9.0,1.0,87-53,1.0,up 3.5,N,5.0
+141,"Friday, Sep 7",HOU,@,BOS,6.0,3.0,88-53,1.0,up 3.5,N,6.0
+142,"Saturday, Sep 8",HOU,@,BOS,5.0,3.0,89-53,1.0,up 3.5,D,7.0
+143,"Sunday, Sep 9",HOU,@,BOS,5.0,6.0,89-54,1.0,up 2.5,N,-1.0
+144,"Monday, Sep 10",HOU,@,DET,3.0,2.0,90-54,1.0,up 3.0,N,1.0
+145,"Tuesday, Sep 11",HOU,@,DET,5.0,4.0,91-54,1.0,up 3.0,N,2.0
+146,"Wednesday, Sep 12",HOU,@,DET,5.0,4.0,92-54,1.0,up 3.0,D,3.0
+147,"Friday, Sep 14",HOU,Home,ARI,2.0,4.0,92-55,1.0,up 2.5,N,-1.0
+148,"Saturday, Sep 15",HOU,Home,ARI,10.0,4.0,93-55,1.0,up 3.5,N,1.0
+149,"Sunday, Sep 16",HOU,Home,ARI,5.0,4.0,94-55,1.0,up 4.5,D,2.0
+150,"Monday, Sep 17",HOU,Home,SEA,1.0,4.0,94-56,1.0,up 4.0,N,-1.0
+151,"Tuesday, Sep 18",HOU,Home,SEA,7.0,0.0,95-56,1.0,up 5.0,N,1.0
+152,"Wednesday, Sep 19",HOU,Home,SEA,0.0,9.0,95-57,1.0,up 4.0,N,-1.0
+153,"Friday, Sep 21",HOU,Home,LAA,11.0,3.0,96-57,1.0,up 3.5,N,1.0
+154,"Saturday, Sep 22",HOU,Home,LAA,10.0,5.0,97-57,1.0,up 3.5,N,2.0
+155,"Sunday, Sep 23",HOU,Home,LAA,6.0,2.0,98-57,1.0,up 4.5,D,3.0
+156,"Monday, Sep 24",HOU,@,TOR,5.0,3.0,99-57,1.0,up 4.5,N,4.0
+157,"Tuesday, Sep 25",HOU,@,TOR,4.0,1.0,100-57,1.0,up 5.5,N,5.0
+158,"Wednesday, Sep 26",HOU,@,TOR,1.0,3.0,100-58,1.0,up 4.5,D,-1.0
+159,"Friday, Sep 28",HOU,@,BAL,2.0,1.0,101-58,1.0,up 5.5,N,1.0
+160,"Saturday, Sep 29 (1)",HOU,@,BAL,4.0,3.0,102-58,1.0,up 6.0,D,2.0
+161,"Saturday, Sep 29 (2)",HOU,@,BAL,5.0,2.0,103-58,1.0,up 6.0,N,3.0
+162,"Sunday, Sep 30",HOU,@,BAL,0.0,4.0,103-59,1.0,up 6.0,D,-1.0
+1,"Thursday, Mar 28",HOU,@,TBR,5.0,1.0,1-0,2.0,1.0,D,1.0
+2,"Friday, Mar 29",HOU,@,TBR,2.0,4.0,1-1,2.0,1.0,N,-1.0
+3,"Saturday, Mar 30",HOU,@,TBR,1.0,3.0,1-2,3.0,2.0,N,-2.0
+4,"Sunday, Mar 31",HOU,@,TBR,1.0,3.0,1-3,4.0,3.0,D,-3.0
+5,"Monday, Apr 1",HOU,@,TEX,2.0,1.0,2-3,4.0,3.0,N,1.0
+6,"Tuesday, Apr 2",HOU,@,TEX,4.0,6.0,2-4,4.0,4.0,N,-1.0
+7,"Wednesday, Apr 3",HOU,@,TEX,0.0,4.0,2-5,4.0,4.5,N,-2.0
+8,"Friday, Apr 5",HOU,Home,OAK,3.0,2.0,3-5,4.0,3.5,N,1.0
+9,"Saturday, Apr 6",HOU,Home,OAK,6.0,0.0,4-5,4.0,3.5,N,2.0
+10,"Sunday, Apr 7",HOU,Home,OAK,9.0,8.0,5-5,2.0,3.5,D,3.0
+11,"Monday, Apr 8",HOU,Home,NYY,4.0,3.0,6-5,2.0,3.5,N,4.0
+12,"Tuesday, Apr 9",HOU,Home,NYY,6.0,3.0,7-5,2.0,3.5,N,5.0
+13,"Wednesday, Apr 10",HOU,Home,NYY,8.0,6.0,8-5,2.0,3.5,N,6.0
+14,"Friday, Apr 12",HOU,@,SEA,10.0,6.0,9-5,2.0,3.0,N,7.0
+15,"Saturday, Apr 13",HOU,@,SEA,3.0,1.0,10-5,2.0,2.0,N,8.0
+16,"Sunday, Apr 14",HOU,@,SEA,3.0,2.0,11-5,2.0,1.0,D,9.0
+17,"Tuesday, Apr 16",HOU,@,OAK,9.0,1.0,12-5,1.0,up 0.5,N,10.0
+18,"Wednesday, Apr 17",HOU,@,OAK,1.0,2.0,12-6,1.0,up 0.5,N,-1.0
+19,"Friday, Apr 19",HOU,@,TEX,7.0,2.0,13-6,1.0,Tied,N,1.0
+20,"Saturday, Apr 20",HOU,@,TEX,4.0,9.0,13-7,2.0,1.0,N,-1.0
+21,"Sunday, Apr 21",HOU,@,TEX,10.0,11.0,13-8,2.0,1.0,D,-2.0
+22,"Monday, Apr 22",HOU,Home,MIN,5.0,9.0,13-9,2.0,1.5,N,-3.0
+23,"Tuesday, Apr 23",HOU,Home,MIN,10.0,4.0,14-9,2.0,0.5,N,1.0
+24,"Wednesday, Apr 24",HOU,Home,MIN,7.0,1.0,15-9,1.0,up 0.5,N,2.0
+25,"Thursday, Apr 25",HOU,Home,CLE,1.0,2.0,15-10,2.0,0.5,N,-1.0
+26,"Friday, Apr 26",HOU,Home,CLE,3.0,6.0,15-11,2.0,1.5,N,-2.0
+27,"Saturday, Apr 27",HOU,Home,CLE,4.0,3.0,16-11,2.0,0.5,D,1.0
+28,"Sunday, Apr 28",HOU,Home,CLE,4.0,1.0,17-11,1.0,up 0.5,N,2.0
+29,"Monday, Apr 29",HOU,@,MIN,0.0,1.0,17-12,1.0,Tied,N,-1.0
+30,"Tuesday, Apr 30",HOU,@,MIN,11.0,0.0,18-12,1.0,up 1.0,N,1.0
+31,"Wednesday, May 1",HOU,@,MIN,2.0,6.0,18-13,1.0,up 1.0,N,-1.0
+32,"Thursday, May 2",HOU,@,MIN,2.0,8.0,18-14,1.0,up 0.5,D,-2.0
+33,"Saturday, May 4",HOU,@,LAA,14.0,2.0,19-14,1.0,up 2.0,N,1.0
+34,"Sunday, May 5",HOU,@,LAA,10.0,4.0,20-14,1.0,up 2.0,D,2.0
+35,"Monday, May 6",HOU,Home,KCR,6.0,4.0,21-14,1.0,up 3.0,N,3.0
+36,"Tuesday, May 7",HOU,Home,KCR,2.0,12.0,21-15,1.0,up 3.0,N,-1.0
+37,"Wednesday, May 8",HOU,Home,KCR,9.0,0.0,22-15,1.0,up 3.0,N,1.0
+38,"Thursday, May 9",HOU,Home,TEX,4.0,2.0,23-15,1.0,up 4.0,N,2.0
+39,"Friday, May 10",HOU,Home,TEX,3.0,0.0,24-15,1.0,up 5.0,N,3.0
+40,"Saturday, May 11",HOU,Home,TEX,11.0,4.0,25-15,1.0,up 5.5,N,4.0
+41,"Sunday, May 12",HOU,Home,TEX,15.0,5.0,26-15,1.0,up 6.5,D,5.0
+42,"Monday, May 13",HOU,@,DET,8.0,1.0,27-15,1.0,up 6.5,N,6.0
+43,"Tuesday, May 14",HOU,@,DET,11.0,4.0,28-15,1.0,up 7.0,N,7.0
+44,"Wednesday, May 15",HOU,@,DET,5.0,1.0,29-15,1.0,up 7.5,N,8.0
+45,"Friday, May 17",HOU,@,BOS,3.0,1.0,30-15,1.0,up 8.5,N,9.0
+46,"Saturday, May 18",HOU,@,BOS,7.0,3.0,31-15,1.0,up 8.5,N,10.0
+47,"Sunday, May 19",HOU,@,BOS,3.0,4.0,31-16,1.0,up 8.5,D,-1.0
+48,"Monday, May 20",HOU,Home,CHW,3.0,0.0,32-16,1.0,up 8.5,N,1.0
+49,"Tuesday, May 21",HOU,Home,CHW,5.0,1.0,33-16,1.0,up 8.5,N,2.0
+50,"Wednesday, May 22",HOU,Home,CHW,4.0,9.0,33-17,1.0,up 7.5,N,-1.0
+51,"Thursday, May 23",HOU,Home,CHW,0.0,4.0,33-18,1.0,up 7.0,N,-2.0
+52,"Friday, May 24",HOU,Home,BOS,4.0,3.0,34-18,1.0,up 7.0,N,1.0
+53,"Saturday, May 25",HOU,Home,BOS,4.0,3.0,35-18,1.0,up 7.0,N,2.0
+54,"Sunday, May 26",HOU,Home,BOS,1.0,4.0,35-19,1.0,up 6.0,D,-1.0
+55,"Monday, May 27",HOU,Home,CHC,6.0,5.0,36-19,1.0,up 6.0,D,1.0
+56,"Tuesday, May 28",HOU,Home,CHC,9.0,6.0,37-19,1.0,up 7.0,N,2.0
+57,"Wednesday, May 29",HOU,Home,CHC,1.0,2.0,37-20,1.0,up 7.0,N,-1.0
+58,"Friday, May 31",HOU,@,OAK,3.0,2.0,38-20,1.0,up 8.0,N,1.0
+59,"Saturday, Jun 1",HOU,@,OAK,5.0,1.0,39-20,1.0,up 8.5,N,2.0
+60,"Sunday, Jun 2",HOU,@,OAK,6.0,4.0,40-20,1.0,up 8.5,D,3.0
+61,"Monday, Jun 3",HOU,@,SEA,4.0,2.0,41-20,1.0,up 9.0,N,4.0
+62,"Tuesday, Jun 4",HOU,@,SEA,11.0,5.0,42-20,1.0,up10.0,N,5.0
+63,"Wednesday, Jun 5",HOU,@,SEA,1.0,14.0,42-21,1.0,up 9.0,N,-1.0
+64,"Thursday, Jun 6",HOU,@,SEA,8.0,7.0,43-21,1.0,up 9.0,D,1.0
+65,"Friday, Jun 7",HOU,Home,BAL,4.0,3.0,44-21,1.0,up10.0,N,2.0
+66,"Saturday, Jun 8",HOU,Home,BAL,1.0,4.0,44-22,1.0,up 8.5,D,-1.0
+67,"Sunday, Jun 9",HOU,Home,BAL,4.0,0.0,45-22,1.0,up 9.5,D,1.0
+68,"Tuesday, Jun 11",HOU,Home,MIL,10.0,8.0,46-22,1.0,up 9.0,N,2.0
+69,"Wednesday, Jun 12",HOU,Home,MIL,3.0,6.0,46-23,1.0,up 9.0,N,-1.0
+70,"Friday, Jun 14",HOU,Home,TOR,15.0,2.0,47-23,1.0,up 9.5,N,1.0
+71,"Saturday, Jun 15",HOU,Home,TOR,7.0,2.0,48-23,1.0,up 9.5,D,2.0
+72,"Sunday, Jun 16",HOU,Home,TOR,0.0,12.0,48-24,1.0,up 9.5,D,-1.0
+73,"Monday, Jun 17",HOU,@,CIN,2.0,3.0,48-25,1.0,up 8.5,N,-2.0
+74,"Tuesday, Jun 18",HOU,@,CIN,3.0,4.0,48-26,1.0,up 8.5,N,-3.0
+75,"Wednesday, Jun 19",HOU,@,CIN,2.0,3.0,48-27,1.0,up 8.5,D,-4.0
+76,"Thursday, Jun 20",HOU,@,NYY,6.0,10.0,48-28,1.0,up 7.5,N,-5.0
+77,"Friday, Jun 21",HOU,@,NYY,1.0,4.0,48-29,1.0,up 7.5,N,-6.0
+78,"Saturday, Jun 22",HOU,@,NYY,5.0,7.0,48-30,1.0,up 6.5,N,-7.0
+79,"Sunday, Jun 23",HOU,@,NYY,9.0,4.0,49-30,1.0,up 6.5,D,1.0
+80,"Tuesday, Jun 25",HOU,Home,PIT,5.0,1.0,50-30,1.0,up 6.5,N,2.0
+81,"Wednesday, Jun 26",HOU,Home,PIT,2.0,14.0,50-31,1.0,up 5.5,N,-1.0
+82,"Thursday, Jun 27",HOU,Home,PIT,0.0,10.0,50-32,1.0,up 4.5,D,-2.0
+83,"Friday, Jun 28",HOU,Home,SEA,2.0,1.0,51-32,1.0,up 4.5,N,1.0
+84,"Saturday, Jun 29",HOU,Home,SEA,6.0,5.0,52-32,1.0,up 5.5,N,2.0
+85,"Sunday, Jun 30",HOU,Home,SEA,6.0,1.0,53-32,1.0,up 6.5,D,3.0
+86,"Tuesday, Jul 2",HOU,@,COL,9.0,8.0,54-32,1.0,up 6.5,N,4.0
+87,"Wednesday, Jul 3",HOU,@,COL,4.0,2.0,55-32,1.0,up 7.5,N,5.0
+88,"Friday, Jul 5",HOU,Home,LAA,4.0,5.0,55-33,1.0,up 6.0,N,-1.0
+89,"Saturday, Jul 6",HOU,Home,LAA,4.0,0.0,56-33,1.0,up 7.0,N,1.0
+90,"Sunday, Jul 7",HOU,Home,LAA,11.0,10.0,57-33,1.0,up 7.0,D,2.0
+91,"Thursday, Jul 11",HOU,@,TEX,0.0,5.0,57-34,1.0,up 6.5,N,-1.0
+92,"Friday, Jul 12",HOU,@,TEX,8.0,9.0,57-35,1.0,up 5.5,N,-2.0
+93,"Saturday, Jul 13",HOU,@,TEX,7.0,6.0,58-35,1.0,up 5.5,N,1.0
+94,"Sunday, Jul 14",HOU,@,TEX,12.0,4.0,59-35,1.0,up 5.5,D,2.0
+95,"Monday, Jul 15",HOU,@,LAA,6.0,9.0,59-36,1.0,up 5.0,N,-1.0
+96,"Tuesday, Jul 16",HOU,@,LAA,2.0,7.0,59-37,1.0,up 4.0,N,-2.0
+97,"Wednesday, Jul 17",HOU,@,LAA,11.0,2.0,60-37,1.0,up 4.0,N,1.0
+98,"Thursday, Jul 18",HOU,@,LAA,6.0,2.0,61-37,1.0,up 5.0,N,2.0
+99,"Friday, Jul 19",HOU,Home,TEX,4.0,3.0,62-37,1.0,up 5.0,N,3.0
+100,"Saturday, Jul 20",HOU,Home,TEX,6.0,1.0,63-37,1.0,up 5.0,N,4.0
+101,"Sunday, Jul 21",HOU,Home,TEX,5.0,3.0,64-37,1.0,up 6.0,D,5.0
+102,"Monday, Jul 22",HOU,Home,OAK,11.0,1.0,65-37,1.0,up 7.0,N,6.0
+103,"Tuesday, Jul 23",HOU,Home,OAK,3.0,4.0,65-38,1.0,up 6.0,N,-1.0
+104,"Wednesday, Jul 24",HOU,Home,OAK,4.0,2.0,66-38,1.0,up 7.0,D,1.0
+105,"Friday, Jul 26",HOU,@,STL,3.0,5.0,66-39,1.0,up 7.5,N,-1.0
+106,"Saturday, Jul 27",HOU,@,STL,8.0,2.0,67-39,1.0,up 7.5,N,1.0
+107,"Sunday, Jul 28",HOU,@,STL,6.0,2.0,68-39,1.0,up 7.5,D,2.0
+108,"Tuesday, Jul 30",HOU,@,CLE,2.0,0.0,69-39,1.0,up 7.5,N,3.0
+109,"Wednesday, Jul 31",HOU,@,CLE,4.0,10.0,69-40,1.0,up 7.5,N,-1.0
+110,"Thursday, Aug 1",HOU,@,CLE,7.0,1.0,70-40,1.0,up 7.5,N,1.0
+111,"Friday, Aug 2",HOU,Home,SEA,10.0,2.0,71-40,1.0,up 8.0,N,2.0
+112,"Saturday, Aug 3",HOU,Home,SEA,9.0,0.0,72-40,1.0,up 8.0,N,3.0
+113,"Sunday, Aug 4",HOU,Home,SEA,3.0,1.0,73-40,1.0,up 8.0,D,4.0
+114,"Tuesday, Aug 6",HOU,Home,COL,11.0,6.0,74-40,1.0,up 8.5,N,5.0
+115,"Wednesday, Aug 7",HOU,Home,COL,14.0,3.0,75-40,1.0,up 9.5,D,6.0
+116,"Friday, Aug 9",HOU,@,BAL,3.0,2.0,76-40,1.0,up 9.5,N,7.0
+117,"Saturday, Aug 10",HOU,@,BAL,23.0,2.0,77-40,1.0,up10.5,N,8.0
+118,"Sunday, Aug 11",HOU,@,BAL,7.0,8.0,77-41,1.0,up 9.5,D,-1.0
+119,"Tuesday, Aug 13 (1)",HOU,@,CHW,6.0,2.0,78-41,1.0,up10.0,D,1.0
+120,"Tuesday, Aug 13 (2)",HOU,@,CHW,1.0,4.0,78-42,1.0,up10.0,N,-1.0
+121,"Wednesday, Aug 14",HOU,@,CHW,9.0,13.0,78-43,1.0,up 9.0,D,-2.0
+122,"Thursday, Aug 15",HOU,@,OAK,6.0,7.0,78-44,1.0,up 8.0,N,-3.0
+123,"Friday, Aug 16",HOU,@,OAK,2.0,3.0,78-45,1.0,up 7.0,N,-4.0
+124,"Saturday, Aug 17",HOU,@,OAK,4.0,8.0,78-46,1.0,up 6.0,D,-5.0
+125,"Sunday, Aug 18",HOU,@,OAK,4.0,1.0,79-46,1.0,up 7.0,D,1.0
+126,"Monday, Aug 19",HOU,Home,DET,5.0,4.0,80-46,1.0,up 7.5,N,2.0
+127,"Tuesday, Aug 20",HOU,Home,DET,6.0,3.0,81-46,1.0,up 7.5,N,3.0
+128,"Wednesday, Aug 21",HOU,Home,DET,1.0,2.0,81-47,1.0,up 6.5,N,-1.0
+129,"Thursday, Aug 22",HOU,Home,DET,6.0,3.0,82-47,1.0,up 6.5,N,1.0
+130,"Friday, Aug 23",HOU,Home,LAA,5.0,4.0,83-47,1.0,up 7.0,N,2.0
+131,"Saturday, Aug 24",HOU,Home,LAA,5.0,2.0,84-47,1.0,up 8.0,N,3.0
+132,"Sunday, Aug 25",HOU,Home,LAA,11.0,2.0,85-47,1.0,up 9.0,D,4.0
+133,"Tuesday, Aug 27",HOU,Home,TBR,15.0,1.0,86-47,1.0,up 8.5,N,5.0
+134,"Wednesday, Aug 28",HOU,Home,TBR,8.0,6.0,87-47,1.0,up 9.5,N,6.0
+135,"Thursday, Aug 29",HOU,Home,TBR,8.0,9.0,87-48,1.0,up 8.5,D,-1.0
+136,"Friday, Aug 30",HOU,@,TOR,7.0,4.0,88-48,1.0,up 8.5,N,1.0
+137,"Saturday, Aug 31",HOU,@,TOR,4.0,6.0,88-49,1.0,up 8.5,D,-1.0
+138,"Sunday, Sep 1",HOU,@,TOR,2.0,0.0,89-49,1.0,up 9.5,D,1.0
+139,"Monday, Sep 2",HOU,@,MIL,3.0,2.0,90-49,1.0,up10.0,D,2.0
+140,"Tuesday, Sep 3",HOU,@,MIL,2.0,4.0,90-50,1.0,up 9.0,N,-1.0
+141,"Thursday, Sep 5",HOU,Home,SEA,11.0,9.0,91-50,1.0,up 8.5,N,1.0
+142,"Friday, Sep 6",HOU,Home,SEA,7.0,4.0,92-50,1.0,up 9.5,N,2.0
+143,"Saturday, Sep 7",HOU,Home,SEA,2.0,1.0,93-50,1.0,up 9.5,N,3.0
+144,"Sunday, Sep 8",HOU,Home,SEA,21.0,1.0,94-50,1.0,up 9.5,D,4.0
+145,"Monday, Sep 9",HOU,Home,OAK,15.0,0.0,95-50,1.0,up10.5,N,5.0
+146,"Tuesday, Sep 10",HOU,Home,OAK,7.0,21.0,95-51,1.0,up 9.5,N,-1.0
+147,"Wednesday, Sep 11",HOU,Home,OAK,3.0,5.0,95-52,1.0,up 8.5,N,-2.0
+148,"Thursday, Sep 12",HOU,Home,OAK,2.0,3.0,95-53,1.0,up 7.5,N,-3.0
+149,"Friday, Sep 13",HOU,@,KCR,4.0,1.0,96-53,1.0,up 7.5,N,1.0
+150,"Saturday, Sep 14",HOU,@,KCR,6.0,1.0,97-53,1.0,up 7.5,N,2.0
+151,"Sunday, Sep 15",HOU,@,KCR,12.0,3.0,98-53,1.0,up 7.5,D,3.0
+152,"Tuesday, Sep 17",HOU,Home,TEX,4.0,1.0,99-53,1.0,up 8.0,N,4.0
+153,"Wednesday, Sep 18",HOU,Home,TEX,3.0,2.0,100-53,1.0,up 8.0,N,5.0
+154,"Friday, Sep 20",HOU,Home,LAA,6.0,4.0,101-53,1.0,up 8.0,N,6.0
+155,"Saturday, Sep 21",HOU,Home,LAA,4.0,8.0,101-54,1.0,up 7.0,N,-1.0
+156,"Sunday, Sep 22",HOU,Home,LAA,13.0,5.0,102-54,1.0,up 8.0,D,1.0
+157,"Tuesday, Sep 24",HOU,@,SEA,3.0,0.0,103-54,1.0,up 9.0,N,2.0
+158,"Wednesday, Sep 25",HOU,@,SEA,3.0,0.0,104-54,1.0,up 9.0,N,3.0
+159,"Thursday, Sep 26",HOU,@,LAA,3.0,4.0,104-55,1.0,up 8.0,N,-1.0
+160,"Friday, Sep 27",HOU,@,LAA,4.0,0.0,105-55,1.0,up 9.0,N,1.0
+161,"Saturday, Sep 28",HOU,@,LAA,6.0,3.0,106-55,1.0,up 9.0,N,2.0
+162,"Sunday, Sep 29",HOU,@,LAA,8.0,5.0,107-55,1.0,up10.0,D,3.0
+1,"Friday, Jul 24",HOU,Home,SEA,8.0,2.0,1-0,1.0,Tied,N,1.0
+2,"Saturday, Jul 25",HOU,Home,SEA,7.0,2.0,2-0,1.0,up 1.0,D,2.0
+3,"Sunday, Jul 26",HOU,Home,SEA,6.0,7.0,2-1,1.0,Tied,D,-1.0
+4,"Monday, Jul 27",HOU,Home,SEA,8.0,5.0,3-1,1.0,Tied,N,1.0
+5,"Tuesday, Jul 28",HOU,Home,LAD,2.0,5.0,3-2,1.0,Tied,N,-1.0
+6,"Wednesday, Jul 29",HOU,Home,LAD,2.0,4.0,3-3,1.0,Tied,N,-2.0
+7,"Friday, Jul 31",HOU,@,LAA,9.0,6.0,4-3,1.0,up 0.5,N,1.0
+8,"Saturday, Aug 1",HOU,@,LAA,4.0,5.0,4-4,1.0,Tied,D,-1.0
+9,"Sunday, Aug 2",HOU,@,LAA,6.0,5.0,5-4,1.0,Tied,D,1.0
+10,"Tuesday, Aug 4",HOU,@,ARI,8.0,2.0,6-4,2.0,0.5,N,2.0
+11,"Wednesday, Aug 5",HOU,@,ARI,7.0,14.0,6-5,2.0,1.5,N,-1.0
+12,"Thursday, Aug 6",HOU,@,ARI,4.0,5.0,6-6,2.0,2.5,D,-2.0
+13,"Friday, Aug 7",HOU,@,OAK,2.0,3.0,6-7,2.0,3.5,N,-3.0
+14,"Saturday, Aug 8",HOU,@,OAK,1.0,3.0,6-8,2.0,4.5,D,-4.0
+15,"Sunday, Aug 9",HOU,@,OAK,2.0,7.0,6-9,3.0,5.5,D,-5.0
+16,"Monday, Aug 10",HOU,Home,SFG,6.0,4.0,7-9,2.0,4.5,N,1.0
+17,"Tuesday, Aug 11",HOU,Home,SFG,6.0,7.0,7-10,3.0,4.5,N,-1.0
+18,"Wednesday, Aug 12",HOU,Home,SFG,5.0,1.0,8-10,3.0,4.5,N,1.0
+19,"Friday, Aug 14",HOU,Home,SEA,11.0,1.0,9-10,3.0,4.5,N,2.0
+20,"Saturday, Aug 15",HOU,Home,SEA,2.0,1.0,10-10,3.0,4.5,N,3.0
+21,"Sunday, Aug 16",HOU,Home,SEA,3.0,2.0,11-10,2.0,4.5,D,4.0
+22,"Monday, Aug 17",HOU,Home,COL,2.0,1.0,12-10,2.0,3.5,N,5.0
+23,"Tuesday, Aug 18",HOU,Home,COL,2.0,1.0,13-10,2.0,2.5,D,6.0
+24,"Wednesday, Aug 19",HOU,@,COL,13.0,6.0,14-10,2.0,2.5,N,7.0
+25,"Thursday, Aug 20",HOU,@,COL,10.0,8.0,15-10,2.0,2.5,D,8.0
+26,"Friday, Aug 21",HOU,@,SDP,3.0,4.0,15-11,2.0,3.5,N,-1.0
+27,"Saturday, Aug 22",HOU,@,SDP,2.0,13.0,15-12,2.0,3.5,N,-2.0
+28,"Sunday, Aug 23",HOU,@,SDP,3.0,5.0,15-13,2.0,4.5,D,-3.0
+29,"Monday, Aug 24",HOU,Home,LAA,11.0,4.0,16-13,2.0,3.5,N,1.0
+30,"Tuesday, Aug 25 (1)",HOU,Home,LAA,6.0,3.0,17-13,2.0,4.0,D,2.0
+31,"Tuesday, Aug 25 (2)",HOU,Home,LAA,5.0,12.0,17-14,2.0,4.0,N,-1.0
+32,"Saturday, Aug 29 (1)",HOU,Home,OAK,4.0,2.0,18-14,2.0,2.5,D,1.0
+33,"Saturday, Aug 29 (2)",HOU,Home,OAK,6.0,3.0,19-14,2.0,2.5,N,2.0
+34,"Tuesday, Sep 1",HOU,Home,TEX,5.0,6.0,19-15,2.0,3.0,N,-1.0
+35,"Wednesday, Sep 2",HOU,Home,TEX,2.0,1.0,20-15,2.0,2.5,N,1.0
+36,"Thursday, Sep 3",HOU,Home,TEX,8.0,4.0,21-15,2.0,2.0,D,2.0
+37,"Friday, Sep 4",HOU,@,LAA,5.0,6.0,21-16,2.0,2.0,N,-1.0
+38,"Saturday, Sep 5 (1)",HOU,@,LAA,9.0,10.0,21-17,2.0,3.5,D,-2.0
+39,"Saturday, Sep 5 (2)",HOU,@,LAA,6.0,7.0,21-18,2.0,3.5,N,-3.0
+40,"Sunday, Sep 6",HOU,@,LAA,5.0,9.0,21-19,2.0,3.5,D,-4.0
+41,"Monday, Sep 7",HOU,@,OAK,0.0,6.0,21-20,2.0,4.5,N,-5.0
+42,"Tuesday, Sep 8 (1)",HOU,@,OAK,2.0,4.0,21-21,2.0,4.5,D,-6.0
+43,"Tuesday, Sep 8 (2)",HOU,@,OAK,5.0,4.0,22-21,2.0,4.5,N,1.0
+44,"Wednesday, Sep 9",HOU,@,OAK,2.0,3.0,22-22,2.0,5.5,N,-1.0
+45,"Thursday, Sep 10",HOU,@,OAK,1.0,3.0,22-23,2.0,6.5,D,-2.0
+46,"Saturday, Sep 12",HOU,@,LAD,7.0,5.0,23-23,2.0,6.5,N,1.0
+47,"Sunday, Sep 13",HOU,@,LAD,1.0,8.0,23-24,2.0,6.5,N,-1.0
+48,"Tuesday, Sep 15",HOU,Home,TEX,4.0,1.0,24-24,2.0,5.5,N,1.0
+49,"Wednesday, Sep 16",HOU,Home,TEX,0.0,1.0,24-25,2.0,6.5,N,-1.0
+50,"Thursday, Sep 17",HOU,Home,TEX,2.0,1.0,25-25,2.0,6.0,N,1.0
+51,"Friday, Sep 18",HOU,Home,ARI,3.0,6.0,25-26,2.0,7.0,N,-1.0
+52,"Saturday, Sep 19",HOU,Home,ARI,3.0,2.0,26-26,2.0,7.0,N,1.0
+53,"Sunday, Sep 20",HOU,Home,ARI,3.0,2.0,27-26,2.0,6.0,D,2.0
+54,"Monday, Sep 21",HOU,@,SEA,1.0,6.0,27-27,2.0,6.5,N,-1.0
+55,"Tuesday, Sep 22",HOU,@,SEA,6.0,1.0,28-27,2.0,5.5,N,1.0
+56,"Wednesday, Sep 23",HOU,@,SEA,2.0,3.0,28-28,2.0,6.5,D,-1.0
+57,"Thursday, Sep 24",HOU,@,TEX,12.0,4.0,29-28,2.0,5.5,N,1.0
+58,"Friday, Sep 25",HOU,@,TEX,4.0,5.0,29-29,2.0,6.5,N,-1.0
+59,"Saturday, Sep 26",HOU,@,TEX,1.0,6.0,29-30,2.0,6.0,N,-2.0
+60,"Sunday, Sep 27",HOU,@,TEX,4.0,8.0,29-31,2.0,7.0,D,-3.0
+1,"Thursday, Apr 1",HOU,@,OAK,8.0,1.0,1-0,1.0,Tied,N,1.0
+2,"Friday, Apr 2",HOU,@,OAK,9.0,5.0,2-0,1.0,up 1.0,N,2.0
+3,"Saturday, Apr 3",HOU,@,OAK,9.0,1.0,3-0,1.0,up 1.0,D,3.0
+4,"Sunday, Apr 4",HOU,@,OAK,9.0,2.0,4-0,1.0,up 1.0,D,4.0
+5,"Monday, Apr 5",HOU,@,LAA,6.0,7.0,4-1,1.0,Tied,N,-1.0
+6,"Tuesday, Apr 6",HOU,@,LAA,4.0,2.0,5-1,1.0,up 1.0,D,1.0
+7,"Thursday, Apr 8",HOU,Home,OAK,6.0,2.0,6-1,1.0,up 1.0,N,2.0
+8,"Friday, Apr 9",HOU,Home,OAK,2.0,6.0,6-2,1.0,Tied,N,-1.0
+9,"Saturday, Apr 10",HOU,Home,OAK,3.0,7.0,6-3,1.0,Tied,D,-2.0
+10,"Monday, Apr 12",HOU,Home,DET,2.0,6.0,6-4,2.0,1.0,N,-3.0
+11,"Tuesday, Apr 13",HOU,Home,DET,2.0,8.0,6-5,2.0,1.0,N,-4.0
+12,"Wednesday, Apr 14",HOU,Home,DET,4.0,6.0,6-6,3.0,1.0,N,-5.0
+13,"Friday, Apr 16",HOU,@,SEA,5.0,6.0,6-7,4.0,2.5,N,-6.0
+14,"Saturday, Apr 17",HOU,@,SEA,1.0,0.0,7-7,4.0,1.5,N,1.0
+15,"Sunday, Apr 18",HOU,@,SEA,2.0,7.0,7-8,4.0,2.5,D,-1.0
+16,"Tuesday, Apr 20",HOU,@,COL,2.0,6.0,7-9,4.0,3.0,N,-2.0
+17,"Wednesday, Apr 21",HOU,@,COL,3.0,6.0,7-10,5.0,4.0,D,-3.0
+18,"Thursday, Apr 22",HOU,Home,LAA,8.0,2.0,8-10,5.0,3.5,N,1.0
+19,"Friday, Apr 23",HOU,Home,LAA,5.0,4.0,9-10,4.0,3.5,N,2.0
+20,"Saturday, Apr 24",HOU,Home,LAA,16.0,2.0,10-10,3.0,3.5,D,3.0
+21,"Sunday, Apr 25",HOU,Home,LAA,2.0,4.0,10-11,4.0,3.5,D,-1.0
+22,"Monday, Apr 26",HOU,Home,SEA,5.0,2.0,11-11,4.0,3.5,N,1.0
+23,"Tuesday, Apr 27",HOU,Home,SEA,2.0,0.0,12-11,3.0,2.5,N,2.0
+24,"Wednesday, Apr 28",HOU,Home,SEA,7.0,5.0,13-11,2.0,1.5,N,3.0
+25,"Thursday, Apr 29",HOU,Home,SEA,0.0,1.0,13-12,3.0,2.5,D,-1.0
+26,"Friday, Apr 30",HOU,@,TBR,9.0,2.0,14-12,3.0,1.5,N,1.0
+27,"Saturday, May 1",HOU,@,TBR,3.0,1.0,15-12,2.0,0.5,D,2.0
+28,"Sunday, May 2",HOU,@,TBR,4.0,5.0,15-13,3.0,1.5,D,-1.0
+29,"Tuesday, May 4",HOU,@,NYY,3.0,7.0,15-14,3.0,3.0,N,-2.0
+30,"Wednesday, May 5",HOU,@,NYY,3.0,6.0,15-15,3.0,3.0,N,-3.0
+31,"Thursday, May 6",HOU,@,NYY,7.0,4.0,16-15,3.0,2.0,D,1.0
+32,"Friday, May 7",HOU,Home,TOR,10.0,4.0,17-15,3.0,2.0,N,2.0
+33,"Saturday, May 8",HOU,Home,TOR,4.0,8.0,17-16,3.0,3.0,N,-1.0
+34,"Sunday, May 9",HOU,Home,TOR,7.0,4.0,18-16,2.0,2.0,D,1.0
+35,"Monday, May 10",HOU,Home,LAA,4.0,5.0,18-17,2.0,2.5,N,-1.0
+36,"Tuesday, May 11",HOU,Home,LAA,5.0,1.0,19-17,2.0,2.5,N,1.0
+37,"Wednesday, May 12",HOU,Home,LAA,9.0,1.0,20-17,2.0,2.5,N,2.0
+38,"Thursday, May 13",HOU,Home,TEX,4.0,3.0,21-17,2.0,1.5,N,3.0
+39,"Friday, May 14",HOU,Home,TEX,10.0,4.0,22-17,2.0,1.5,N,4.0
+40,"Saturday, May 15",HOU,Home,TEX,6.0,5.0,23-17,2.0,0.5,N,5.0
+41,"Sunday, May 16",HOU,Home,TEX,6.0,2.0,24-17,2.0,0.5,D,6.0
+42,"Tuesday, May 18",HOU,@,OAK,5.0,6.0,24-18,2.0,1.5,N,-1.0
+43,"Wednesday, May 19",HOU,@,OAK,8.0,1.0,25-18,2.0,0.5,N,1.0
+44,"Thursday, May 20",HOU,@,OAK,8.0,4.0,26-18,1.0,up 0.5,D,2.0
+45,"Friday, May 21",HOU,@,TEX,5.0,7.0,26-19,2.0,0.5,N,-1.0
+46,"Saturday, May 22",HOU,@,TEX,4.0,8.0,26-20,2.0,1.5,D,-2.0
+47,"Sunday, May 23",HOU,@,TEX,2.0,3.0,26-21,2.0,1.5,D,-3.0
+48,"Tuesday, May 25",HOU,Home,LAD,2.0,9.0,26-22,2.0,1.0,N,-4.0
+49,"Wednesday, May 26",HOU,Home,LAD,5.0,2.0,27-22,2.0,1.0,N,1.0
+50,"Friday, May 28",HOU,Home,SDP,3.0,10.0,27-23,2.0,2.5,N,-1.0
+51,"Saturday, May 29",HOU,Home,SDP,8.0,11.0,27-24,2.0,2.5,D,-2.0
+52,"Sunday, May 30",HOU,Home,SDP,7.0,4.0,28-24,2.0,1.5,D,1.0
+53,"Monday, May 31",HOU,Home,BOS,11.0,2.0,29-24,2.0,0.5,D,2.0
+54,"Tuesday, Jun 1",HOU,Home,BOS,5.0,1.0,30-24,2.0,0.5,N,3.0
+55,"Wednesday, Jun 2",HOU,Home,BOS,2.0,1.0,31-24,2.0,0.5,N,4.0
+56,"Thursday, Jun 3",HOU,Home,BOS,1.0,5.0,31-25,2.0,1.0,D,-1.0
+57,"Friday, Jun 4",HOU,@,TOR,13.0,1.0,32-25,2.0,1.0,N,1.0
+58,"Saturday, Jun 5",HOU,@,TOR,2.0,6.0,32-26,2.0,2.0,D,-1.0
+59,"Sunday, Jun 6",HOU,@,TOR,6.0,3.0,33-26,2.0,1.0,D,1.0
+60,"Tuesday, Jun 8",HOU,@,BOS,7.0,1.0,34-26,2.0,1.0,N,2.0
+61,"Wednesday, Jun 9",HOU,@,BOS,8.0,3.0,35-26,2.0,1.0,N,3.0
+62,"Thursday, Jun 10",HOU,@,BOS,8.0,12.0,35-27,2.0,1.0,N,-1.0
+63,"Friday, Jun 11",HOU,@,MIN,6.0,4.0,36-27,2.0,1.0,N,1.0
+64,"Saturday, Jun 12",HOU,@,MIN,2.0,5.0,36-28,2.0,2.0,N,-1.0
+65,"Sunday, Jun 13",HOU,@,MIN,14.0,3.0,37-28,2.0,2.0,D,1.0
+66,"Tuesday, Jun 15",HOU,Home,TEX,6.0,3.0,38-28,2.0,2.5,N,2.0
+67,"Wednesday, Jun 16",HOU,Home,TEX,8.0,4.0,39-28,2.0,2.5,N,3.0
+68,"Thursday, Jun 17",HOU,Home,CHW,10.0,2.0,40-28,2.0,2.0,N,4.0
+69,"Friday, Jun 18",HOU,Home,CHW,2.0,1.0,41-28,2.0,2.0,N,5.0
+70,"Saturday, Jun 19",HOU,Home,CHW,7.0,3.0,42-28,2.0,1.0,N,6.0
+71,"Sunday, Jun 20",HOU,Home,CHW,8.0,2.0,43-28,1.0,Tied,D,7.0
+72,"Monday, Jun 21",HOU,@,BAL,10.0,2.0,44-28,1.0,up 1.0,N,8.0
+73,"Tuesday, Jun 22",HOU,@,BAL,3.0,1.0,45-28,1.0,up 1.0,N,9.0
+74,"Wednesday, Jun 23",HOU,@,BAL,13.0,0.0,46-28,1.0,up 2.0,N,10.0
+75,"Thursday, Jun 24",HOU,@,DET,12.0,3.0,47-28,1.0,up 2.0,N,11.0
+76,"Saturday, Jun 26 (1)",HOU,@,DET,1.0,3.0,47-29,1.0,up 3.0,D,-1.0
+77,"Saturday, Jun 26 (2)",HOU,@,DET,3.0,2.0,48-29,1.0,up 3.0,N,1.0
+78,"Sunday, Jun 27",HOU,@,DET,1.0,2.0,48-30,1.0,up 2.0,D,-1.0
+79,"Monday, Jun 28",HOU,Home,BAL,7.0,9.0,48-31,1.0,up 1.5,N,-2.0
+80,"Tuesday, Jun 29",HOU,Home,BAL,3.0,13.0,48-32,1.0,up 1.5,N,-3.0
+81,"Wednesday, Jun 30",HOU,Home,BAL,2.0,5.0,48-33,1.0,up 0.5,N,-4.0
+82,"Thursday, Jul 1",HOU,@,CLE,7.0,2.0,49-33,1.0,up 1.5,N,1.0
+83,"Friday, Jul 2",HOU,@,CLE,6.0,3.0,50-33,1.0,up 2.5,N,2.0
+84,"Saturday, Jul 3",HOU,@,CLE,3.0,2.0,51-33,1.0,up 2.5,N,3.0
+85,"Sunday, Jul 4",HOU,@,CLE,4.0,3.0,52-33,1.0,up 3.5,D,4.0
+86,"Tuesday, Jul 6",HOU,Home,OAK,9.0,6.0,53-33,1.0,up 4.5,N,5.0
+87,"Wednesday, Jul 7",HOU,Home,OAK,4.0,3.0,54-33,1.0,up 5.5,N,6.0
+88,"Thursday, Jul 8",HOU,Home,OAK,1.0,2.0,54-34,1.0,up 4.5,D,-1.0
+89,"Friday, Jul 9",HOU,Home,NYY,0.0,4.0,54-35,1.0,up 4.5,N,-2.0
+90,"Saturday, Jul 10",HOU,Home,NYY,0.0,1.0,54-36,1.0,up 3.5,N,-3.0
+91,"Sunday, Jul 11",HOU,Home,NYY,8.0,7.0,55-36,1.0,up 3.5,D,1.0
+92,"Friday, Jul 16",HOU,@,CHW,7.0,1.0,56-36,1.0,up 3.5,N,2.0
+93,"Saturday, Jul 17",HOU,@,CHW,1.0,10.0,56-37,1.0,up 3.5,N,-1.0
+94,"Sunday, Jul 18",HOU,@,CHW,0.0,4.0,56-38,1.0,up 3.5,D,-2.0
+95,"Monday, Jul 19",HOU,Home,CLE,4.0,3.0,57-38,1.0,up 3.5,N,1.0
+96,"Tuesday, Jul 20",HOU,Home,CLE,9.0,3.0,58-38,1.0,up 3.5,N,2.0
+97,"Wednesday, Jul 21",HOU,Home,CLE,4.0,5.0,58-39,1.0,up 3.0,N,-1.0
+98,"Friday, Jul 23",HOU,Home,TEX,7.0,3.0,59-39,1.0,up 3.5,N,1.0
+99,"Saturday, Jul 24",HOU,Home,TEX,4.0,1.0,60-39,1.0,up 4.5,N,2.0
+100,"Sunday, Jul 25",HOU,Home,TEX,3.0,1.0,61-39,1.0,up 5.5,D,3.0
+101,"Monday, Jul 26",HOU,@,SEA,8.0,11.0,61-40,1.0,up 5.0,N,-1.0
+102,"Tuesday, Jul 27",HOU,@,SEA,8.0,6.0,62-40,1.0,up 6.0,N,1.0
+103,"Wednesday, Jul 28",HOU,@,SEA,11.0,4.0,63-40,1.0,up 6.0,D,2.0
+104,"Friday, Jul 30",HOU,@,SFG,9.0,6.0,64-40,1.0,up 5.5,N,3.0
+105,"Saturday, Jul 31",HOU,@,SFG,6.0,8.0,64-41,1.0,up 5.5,D,-1.0
+106,"Sunday, Aug 1",HOU,@,SFG,3.0,5.0,64-42,1.0,up 4.5,D,-2.0
+107,"Tuesday, Aug 3",HOU,@,LAD,3.0,0.0,65-42,1.0,up 5.5,N,1.0
+108,"Wednesday, Aug 4",HOU,@,LAD,5.0,7.0,65-43,1.0,up 4.5,N,-1.0
+109,"Thursday, Aug 5",HOU,Home,MIN,3.0,5.0,65-44,1.0,up 4.0,N,-2.0
+110,"Friday, Aug 6",HOU,Home,MIN,4.0,5.0,65-45,1.0,up 3.0,N,-3.0
+111,"Saturday, Aug 7",HOU,Home,MIN,4.0,0.0,66-45,1.0,up 3.0,N,1.0
+112,"Sunday, Aug 8",HOU,Home,MIN,5.0,7.0,66-46,1.0,up 2.0,D,-1.0
+113,"Tuesday, Aug 10",HOU,Home,COL,5.0,0.0,67-46,1.0,up 2.0,N,1.0
+114,"Wednesday, Aug 11",HOU,Home,COL,5.0,1.0,68-46,1.0,up 2.0,D,2.0
+115,"Friday, Aug 13",HOU,@,LAA,4.0,1.0,69-46,1.0,up 2.5,N,3.0
+116,"Saturday, Aug 14",HOU,@,LAA,8.0,2.0,70-46,1.0,up 2.5,N,4.0
+117,"Sunday, Aug 15",HOU,@,LAA,1.0,3.0,70-47,1.0,up 2.5,D,-1.0
+118,"Monday, Aug 16",HOU,@,KCR,6.0,7.0,70-48,1.0,up 2.5,N,-2.0
+119,"Tuesday, Aug 17",HOU,@,KCR,1.0,3.0,70-49,1.0,up 2.5,N,-3.0
+120,"Wednesday, Aug 18",HOU,@,KCR,2.0,3.0,70-50,1.0,up 2.5,N,-4.0
+121,"Thursday, Aug 19",HOU,@,KCR,6.0,3.0,71-50,1.0,up 2.5,D,1.0
+122,"Friday, Aug 20",HOU,Home,SEA,12.0,3.0,72-50,1.0,up 2.5,N,2.0
+123,"Saturday, Aug 21",HOU,Home,SEA,15.0,1.0,73-50,1.0,up 3.5,D,3.0
+124,"Sunday, Aug 22",HOU,Home,SEA,3.0,6.0,73-51,1.0,up 3.5,D,-1.0
+125,"Monday, Aug 23",HOU,Home,KCR,1.0,7.0,73-52,1.0,up 3.5,N,-2.0
+126,"Tuesday, Aug 24",HOU,Home,KCR,4.0,0.0,74-52,1.0,up 4.5,N,1.0
+127,"Wednesday, Aug 25",HOU,Home,KCR,6.0,5.0,75-52,1.0,up 5.0,D,2.0
+128,"Friday, Aug 27",HOU,@,TEX,5.0,4.0,76-52,1.0,up 6.5,N,3.0
+129,"Saturday, Aug 28",HOU,@,TEX,5.0,2.0,77-52,1.0,up 6.5,N,4.0
+130,"Sunday, Aug 29",HOU,@,TEX,2.0,13.0,77-53,1.0,up 5.5,D,-1.0
+131,"Monday, Aug 30",HOU,@,SEA,4.0,3.0,78-53,1.0,up 6.0,N,1.0
+132,"Tuesday, Aug 31",HOU,@,SEA,0.0,4.0,78-54,1.0,up 5.0,N,-1.0
+133,"Wednesday, Sep 1",HOU,@,SEA,0.0,1.0,78-55,1.0,up 5.0,D,-2.0
+134,"Friday, Sep 3",HOU,@,SDP,6.0,3.0,79-55,1.0,up 5.5,N,1.0
+135,"Saturday, Sep 4",HOU,@,SDP,2.0,10.0,79-56,1.0,up 5.5,N,-1.0
+136,"Sunday, Sep 5",HOU,@,SDP,3.0,4.0,79-57,1.0,up 4.5,D,-2.0
+137,"Monday, Sep 6",HOU,Home,SEA,11.0,2.0,80-57,1.0,up 5.5,N,1.0
+138,"Tuesday, Sep 7",HOU,Home,SEA,5.0,4.0,81-57,1.0,up 6.5,N,2.0
+139,"Wednesday, Sep 8",HOU,Home,SEA,5.0,8.0,81-58,1.0,up 5.5,D,-1.0
+140,"Friday, Sep 10",HOU,Home,LAA,10.0,5.0,82-58,1.0,up 5.5,N,1.0
+141,"Saturday, Sep 11",HOU,Home,LAA,2.0,4.0,82-59,1.0,up 5.5,N,-1.0
+142,"Sunday, Sep 12",HOU,Home,LAA,3.0,1.0,83-59,1.0,up 6.5,D,1.0
+143,"Monday, Sep 13",HOU,@,TEX,15.0,1.0,84-59,1.0,up 6.5,N,2.0
+144,"Tuesday, Sep 14",HOU,@,TEX,1.0,8.0,84-60,1.0,up 6.5,N,-1.0
+145,"Wednesday, Sep 15",HOU,@,TEX,7.0,2.0,85-60,1.0,up 7.0,N,1.0
+146,"Thursday, Sep 16",HOU,@,TEX,12.0,1.0,86-60,1.0,up 7.0,N,2.0
+147,"Friday, Sep 17",HOU,Home,ARI,4.0,3.0,87-60,1.0,up 7.0,N,3.0
+148,"Saturday, Sep 18",HOU,Home,ARI,4.0,6.0,87-61,1.0,up 6.0,N,-1.0
+149,"Sunday, Sep 19",HOU,Home,ARI,7.0,6.0,88-61,1.0,up 6.0,D,1.0
+150,"Monday, Sep 20",HOU,@,LAA,10.0,0.0,89-61,1.0,up 7.0,N,2.0
+151,"Tuesday, Sep 21",HOU,@,LAA,10.0,5.0,90-61,1.0,up 8.0,N,3.0
+152,"Wednesday, Sep 22",HOU,@,LAA,9.0,5.0,91-61,1.0,up 8.0,N,4.0
+153,"Thursday, Sep 23",HOU,@,LAA,2.0,3.0,91-62,1.0,up 7.0,N,
+154,"Friday, Sep 24",HOU,@,OAK,2.0,14.0,91-63,1.0,up 6.0,N,-2.0
+155,"Saturday, Sep 25",HOU,@,OAK,1.0,2.0,91-64,1.0,up 6.0,D,-3.0
+156,"Sunday, Sep 26",HOU,@,OAK,3.0,4.0,91-65,1.0,up 5.0,D,-4.0
+157,"Tuesday, Sep 28",HOU,Home,TBR,4.0,3.0,92-65,1.0,up 4.5,N,1.0
+158,"Wednesday, Sep 29",HOU,Home,TBR,0.0,7.0,92-66,1.0,up 3.5,N,-1.0
+159,"Thursday, Sep 30",HOU,Home,TBR,3.0,2.0,93-66,1.0,up 4.0,N,1.0
+160,"Friday, Oct 1",HOU,Home,OAK,6.0,8.0,93-67,1.0,up 4.0,N,-1.0
+161,"Saturday, Oct 2",HOU,Home,OAK,10.0,4.0,94-67,1.0,up 4.0,N,1.0
+162,"Sunday, Oct 3",HOU,Home,OAK,7.0,6.0,95-67,1.0,up 5.0,D,2.0
