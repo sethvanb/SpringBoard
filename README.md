@@ -25,6 +25,7 @@ Ready data:
 - Opponent
 - Runs scored
 - Runs against
+
 Data that needs cleaning:
 - Date (single number)
 - Day=0 or Night=1 game 
