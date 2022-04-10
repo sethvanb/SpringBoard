@@ -25,12 +25,12 @@ I decided to go with a baseball dataset becuase the NBA season is ending and the
     - Runs scored
     - Runs against
 Data that needs cleaning:
-    - Date (single number)
-    - Day=0 or Night=1 game 
-    - Double Header: no=0, yes=1
-    - Streak coming in
-    - Rank coming in  
-    - GB coming in
-    - Wins coming in
-    - Losses coming in
-    - Ratio of wins to losses coming in?
+- Date (single number)
+- Day=0 or Night=1 game 
+- Double Header: no=0, yes=1
+- Streak coming in
+- Rank coming in  
+- GB coming in
+- Wins coming in
+- Losses coming in
+- Ratio of wins to losses coming in?
