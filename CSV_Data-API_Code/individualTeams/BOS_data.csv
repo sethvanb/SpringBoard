@@ -1,1519 +1,1519 @@
-,Date,Tm,Home_Away,Opp,R,RA,W-L,Rank,GB,D/N,Streak
-1,"Thursday, Apr 5",BOS,@,DET,2.0,3.0,0-1,5.0,1.0,D,-1
-2,"Saturday, Apr 7",BOS,@,DET,0.0,10.0,0-2,4.0,2.0,D,-2
-3,"Sunday, Apr 8",BOS,@,DET,12.0,13.0,0-3,4.0,3.0,D,-3
-4,"Monday, Apr 9",BOS,@,TOR,4.0,2.0,1-3,4.0,2.5,N,1
-5,"Tuesday, Apr 10",BOS,@,TOR,3.0,7.0,1-4,5.0,2.5,N,-1
-6,"Wednesday, Apr 11",BOS,@,TOR,1.0,3.0,1-5,5.0,3.5,D,-2
-7,"Friday, Apr 13",BOS,Home,TBR,12.0,2.0,2-5,5.0,2.0,D,1
-8,"Saturday, Apr 14",BOS,Home,TBR,13.0,5.0,3-5,5.0,2.0,D,2
-9,"Sunday, Apr 15",BOS,Home,TBR,6.0,4.0,4-5,4.0,1.0,D,3
-10,"Monday, Apr 16",BOS,Home,TBR,0.0,1.0,4-6,5.0,2.0,D,-1
-11,"Tuesday, Apr 17",BOS,Home,TEX,3.0,18.0,4-7,5.0,3.0,N,-2
-12,"Wednesday, Apr 18",BOS,Home,TEX,3.0,6.0,4-8,5.0,3.0,N,-3
-13,"Friday, Apr 20",BOS,Home,NYY,2.0,6.0,4-9,5.0,3.5,D,-4
-14,"Saturday, Apr 21",BOS,Home,NYY,9.0,15.0,4-10,5.0,4.5,D,-5
-15,"Monday, Apr 23",BOS,@,MIN,6.0,5.0,5-10,5.0,4.5,N,1
-16,"Tuesday, Apr 24",BOS,@,MIN,11.0,2.0,6-10,5.0,3.5,N,2
-17,"Wednesday, Apr 25",BOS,@,MIN,7.0,6.0,7-10,5.0,3.5,N,3
-18,"Thursday, Apr 26",BOS,@,CHW,10.0,3.0,8-10,5.0,3.5,N,4
-19,"Friday, Apr 27",BOS,@,CHW,10.0,3.0,9-10,5.0,3.5,N,5
-20,"Saturday, Apr 28",BOS,@,CHW,1.0,0.0,10-10,5.0,2.5,N,6
-21,"Sunday, Apr 29",BOS,@,CHW,1.0,4.0,10-11,5.0,3.5,D,-1
-22,"Monday, Apr 30",BOS,Home,OAK,11.0,6.0,11-11,5.0,3.5,N,1
-23,"Tuesday, May 1",BOS,Home,OAK,3.0,5.0,11-12,5.0,4.5,N,-1
-24,"Wednesday, May 2",BOS,Home,OAK,2.0,4.0,11-13,5.0,5.5,N,-2
-25,"Friday, May 4",BOS,Home,BAL,4.0,6.0,11-14,5.0,7.0,N,-3
-26,"Saturday, May 5",BOS,Home,BAL,2.0,8.0,11-15,5.0,7.0,D,-4
-27,"Sunday, May 6",BOS,Home,BAL,6.0,9.0,11-16,5.0,7.5,D,-5
-28,"Monday, May 7",BOS,@,KCR,11.0,5.0,12-16,5.0,6.5,N,1
-29,"Tuesday, May 8",BOS,@,KCR,4.0,6.0,12-17,5.0,6.5,N,-1
-30,"Wednesday, May 9",BOS,@,KCR,3.0,4.0,12-18,5.0,7.5,N,-2
-31,"Thursday, May 10",BOS,Home,CLE,3.0,8.0,12-19,5.0,7.5,N,-3
-32,"Friday, May 11",BOS,Home,CLE,7.0,5.0,13-19,5.0,7.5,N,1
-33,"Saturday, May 12",BOS,Home,CLE,4.0,1.0,14-19,5.0,7.5,N,2
-34,"Sunday, May 13",BOS,Home,CLE,12.0,1.0,15-19,5.0,6.5,D,3
-35,"Monday, May 14",BOS,Home,SEA,6.0,1.0,16-19,5.0,5.5,N,4
-36,"Tuesday, May 15",BOS,Home,SEA,5.0,0.0,17-19,5.0,5.5,D,5
-37,"Wednesday, May 16",BOS,@,TBR,1.0,2.0,17-20,5.0,6.5,N,-1
-38,"Thursday, May 17",BOS,@,TBR,5.0,3.0,18-20,5.0,6.5,N,1
-39,"Friday, May 18",BOS,@,PHI,4.0,6.0,18-21,5.0,7.5,N,-1
-40,"Saturday, May 19",BOS,@,PHI,7.0,5.0,19-21,5.0,7.5,N,1
-41,"Sunday, May 20",BOS,@,PHI,5.0,1.0,20-21,5.0,6.5,D,2
-42,"Monday, May 21",BOS,@,BAL,8.0,6.0,21-21,4.0,5.5,N,3
-43,"Tuesday, May 22",BOS,@,BAL,1.0,4.0,21-22,5.0,6.5,N,-1
-44,"Wednesday, May 23",BOS,@,BAL,6.0,5.0,22-22,5.0,5.5,D,1
-45,"Friday, May 25",BOS,Home,TBR,4.0,7.0,22-23,5.0,6.5,N,-1
-46,"Saturday, May 26",BOS,Home,TBR,3.0,2.0,23-23,5.0,5.5,N,1
-47,"Sunday, May 27",BOS,Home,TBR,3.0,4.0,23-24,5.0,5.5,D,-1
-48,"Monday, May 28",BOS,Home,DET,7.0,4.0,24-24,5.0,4.5,D,1
-49,"Tuesday, May 29",BOS,Home,DET,6.0,3.0,25-24,5.0,3.5,N,2
-50,"Wednesday, May 30",BOS,Home,DET,6.0,4.0,26-24,5.0,2.5,N,3
-51,"Thursday, May 31",BOS,Home,DET,3.0,7.0,26-25,5.0,3.0,N,-1
-52,"Friday, Jun 1",BOS,@,TOR,7.0,2.0,27-25,4.0,3.0,N,1
-53,"Saturday, Jun 2",BOS,@,TOR,7.0,4.0,28-25,4.0,2.0,D,2
-54,"Sunday, Jun 3",BOS,@,TOR,1.0,5.0,28-26,4.0,3.0,D,-1
-55,"Tuesday, Jun 5",BOS,Home,BAL,6.0,8.0,28-27,5.0,3.0,N,-2
-56,"Wednesday, Jun 6",BOS,Home,BAL,1.0,2.0,28-28,5.0,4.0,N,-3
-57,"Thursday, Jun 7",BOS,Home,BAL,7.0,0.0,29-28,5.0,3.0,N,1
-58,"Friday, Jun 8",BOS,Home,WSN,4.0,7.0,29-29,5.0,4.0,N,-1
-59,"Saturday, Jun 9",BOS,Home,WSN,2.0,4.0,29-30,5.0,5.0,D,-2
-60,"Sunday, Jun 10",BOS,Home,WSN,3.0,4.0,29-31,5.0,6.0,D,-3
-61,"Monday, Jun 11",BOS,@,MIA,1.0,4.0,29-32,5.0,6.5,N,-4
-62,"Tuesday, Jun 12",BOS,@,MIA,2.0,1.0,30-32,5.0,6.5,N,1
-63,"Wednesday, Jun 13",BOS,@,MIA,10.0,2.0,31-32,4.0,6.5,N,2
-64,"Friday, Jun 15",BOS,@,CHC,0.0,3.0,31-33,5.0,7.5,D,-1
-65,"Saturday, Jun 16",BOS,@,CHC,4.0,3.0,32-33,5.0,7.5,N,1
-66,"Sunday, Jun 17",BOS,@,CHC,7.0,4.0,33-33,5.0,7.5,N,2
-67,"Tuesday, Jun 19",BOS,Home,MIA,7.0,5.0,34-33,5.0,7.0,N,3
-68,"Wednesday, Jun 20",BOS,Home,MIA,15.0,5.0,35-33,4.0,6.0,N,4
-69,"Thursday, Jun 21",BOS,Home,MIA,6.0,5.0,36-33,4.0,5.5,N,5
-70,"Friday, Jun 22",BOS,Home,ATL,1.0,4.0,36-34,4.0,5.5,N,-1
-71,"Saturday, Jun 23",BOS,Home,ATL,8.0,4.0,37-34,4.0,5.5,N,1
-72,"Sunday, Jun 24",BOS,Home,ATL,9.0,4.0,38-34,4.0,5.5,D,2
-73,"Monday, Jun 25",BOS,Home,TOR,6.0,9.0,38-35,4.0,6.5,N,-1
-74,"Tuesday, Jun 26",BOS,Home,TOR,5.0,1.0,39-35,4.0,6.5,N,1
-75,"Wednesday, Jun 27",BOS,Home,TOR,10.0,4.0,40-35,3.0,6.5,D,2
-76,"Thursday, Jun 28",BOS,@,SEA,0.0,1.0,40-36,3.0,6.5,N,-1
-77,"Friday, Jun 29",BOS,@,SEA,5.0,0.0,41-36,3.0,5.5,N,1
-78,"Saturday, Jun 30",BOS,@,SEA,2.0,3.0,41-37,3.0,6.5,N,-1
-79,"Sunday, Jul 1",BOS,@,SEA,2.0,1.0,42-37,3.0,6.5,D,1
-80,"Monday, Jul 2",BOS,@,OAK,1.0,6.0,42-38,3.0,6.5,N,-1
-81,"Tuesday, Jul 3",BOS,@,OAK,2.0,3.0,42-39,4.0,6.5,N,-2
-82,"Wednesday, Jul 4",BOS,@,OAK,2.0,3.0,42-40,4.0,7.5,D,-3
-83,"Friday, Jul 6",BOS,Home,NYY,8.0,10.0,42-41,4.0,8.5,N,-4
-84,"Saturday, Jul 7 (1)",BOS,Home,NYY,1.0,6.0,42-42,4.0,8.5,D,-5
-85,"Saturday, Jul 7 (2)",BOS,Home,NYY,9.0,5.0,43-42,4.0,8.5,N,1
-86,"Sunday, Jul 8",BOS,Home,NYY,3.0,7.0,43-43,4.0,9.5,N,-1
-87,"Friday, Jul 13",BOS,@,TBR,3.0,1.0,44-43,4.0,9.5,N,1
-88,"Saturday, Jul 14",BOS,@,TBR,3.0,5.0,44-44,4.0,10.5,N,-1
-89,"Sunday, Jul 15",BOS,@,TBR,7.0,3.0,45-44,4.0,9.5,D,1
-90,"Monday, Jul 16",BOS,Home,CHW,5.0,1.0,46-44,3.0,9.5,N,2
-91,"Tuesday, Jul 17",BOS,Home,CHW,5.0,7.0,46-45,4.0,10.5,N,-1
-92,"Wednesday, Jul 18",BOS,Home,CHW,10.0,1.0,47-45,3.0,10.5,N,1
-93,"Thursday, Jul 19",BOS,Home,CHW,3.0,1.0,48-45,3.0,9.5,N,2
-94,"Friday, Jul 20",BOS,Home,TOR,1.0,6.0,48-46,4.0,9.5,N,-1
-95,"Saturday, Jul 21",BOS,Home,TOR,3.0,7.0,48-47,4.0,9.5,N,-2
-96,"Sunday, Jul 22",BOS,Home,TOR,7.0,15.0,48-48,5.0,9.5,D,-3
-97,"Monday, Jul 23",BOS,@,TEX,1.0,9.0,48-49,5.0,10.5,N,-4
-98,"Tuesday, Jul 24",BOS,@,TEX,2.0,1.0,49-49,4.0,9.5,N,1
-99,"Wednesday, Jul 25",BOS,@,TEX,3.0,5.0,49-50,4.0,10.5,N,-1
-100,"Friday, Jul 27",BOS,@,NYY,3.0,10.0,49-51,5.0,11.5,N,-2
-101,"Saturday, Jul 28",BOS,@,NYY,8.0,6.0,50-51,5.0,10.5,N,1
-102,"Sunday, Jul 29",BOS,@,NYY,3.0,2.0,51-51,5.0,9.5,N,2
-103,"Monday, Jul 30",BOS,Home,DET,7.0,3.0,52-51,4.0,8.5,N,3
-104,"Tuesday, Jul 31",BOS,Home,DET,4.0,1.0,53-51,4.0,7.5,N,4
-105,"Wednesday, Aug 1",BOS,Home,DET,5.0,7.0,53-52,4.0,8.5,N,-1
-106,"Thursday, Aug 2",BOS,Home,MIN,0.0,5.0,53-53,4.0,9.0,N,-2
-107,"Friday, Aug 3",BOS,Home,MIN,5.0,6.0,53-54,4.0,10.0,N,-3
-108,"Saturday, Aug 4",BOS,Home,MIN,4.0,6.0,53-55,4.0,10.0,N,-4
-109,"Sunday, Aug 5",BOS,Home,MIN,6.0,4.0,54-55,4.0,10.0,D,1
-110,"Monday, Aug 6",BOS,Home,TEX,9.0,2.0,55-55,4.0,9.0,N,2
-111,"Tuesday, Aug 7",BOS,Home,TEX,3.0,6.0,55-56,4.0,9.0,N,-1
-112,"Wednesday, Aug 8",BOS,Home,TEX,9.0,10.0,55-57,4.0,10.0,D,-2
-113,"Thursday, Aug 9",BOS,@,CLE,3.0,5.0,55-58,4.0,11.0,N,-3
-114,"Friday, Aug 10",BOS,@,CLE,3.0,2.0,56-58,4.0,11.0,N,1
-115,"Saturday, Aug 11",BOS,@,CLE,2.0,5.0,56-59,4.0,12.0,N,-1
-116,"Sunday, Aug 12",BOS,@,CLE,14.0,1.0,57-59,4.0,11.0,D,1
-117,"Tuesday, Aug 14",BOS,@,BAL,1.0,7.0,57-60,4.0,12.5,N,-1
-118,"Wednesday, Aug 15",BOS,@,BAL,3.0,5.0,57-61,4.0,13.5,N,-2
-119,"Thursday, Aug 16",BOS,@,BAL,6.0,3.0,58-61,4.0,12.5,N,1
-120,"Friday, Aug 17",BOS,@,NYY,4.0,6.0,58-62,4.0,13.5,N,-1
-121,"Saturday, Aug 18",BOS,@,NYY,4.0,1.0,59-62,4.0,12.5,D,1
-122,"Sunday, Aug 19",BOS,@,NYY,1.0,4.0,59-63,4.0,13.5,N,-1
-123,"Tuesday, Aug 21",BOS,Home,LAA,3.0,5.0,59-64,4.0,13.0,N,-2
-124,"Wednesday, Aug 22",BOS,Home,LAA,3.0,7.0,59-65,4.0,13.0,N,-3
-125,"Thursday, Aug 23",BOS,Home,LAA,13.0,14.0,59-66,4.0,13.5,N,-4
-126,"Friday, Aug 24",BOS,Home,KCR,4.0,3.0,60-66,4.0,13.5,N,1
-127,"Saturday, Aug 25",BOS,Home,KCR,9.0,10.0,60-67,4.0,13.5,N,-1
-128,"Sunday, Aug 26",BOS,Home,KCR,8.0,6.0,61-67,4.0,13.5,D,1
-129,"Monday, Aug 27",BOS,Home,KCR,5.0,1.0,62-67,4.0,12.5,D,2
-130,"Tuesday, Aug 28",BOS,@,LAA,5.0,6.0,62-68,4.0,13.5,N,-1
-131,"Wednesday, Aug 29",BOS,@,LAA,3.0,10.0,62-69,4.0,13.5,N,-2
-132,"Thursday, Aug 30",BOS,@,LAA,2.0,5.0,62-70,4.0,14.0,N,-3
-133,"Friday, Aug 31",BOS,@,OAK,2.0,20.0,62-71,4.0,14.0,N,-4
-134,"Saturday, Sep 1",BOS,@,OAK,1.0,7.0,62-72,4.0,15.0,N,-5
-135,"Sunday, Sep 2",BOS,@,OAK,2.0,6.0,62-73,4.0,15.0,D,-6
-136,"Monday, Sep 3",BOS,@,SEA,1.0,4.0,62-74,4.0,15.0,D,-7
-137,"Tuesday, Sep 4",BOS,@,SEA,4.0,3.0,63-74,4.0,14.0,N,1
-138,"Wednesday, Sep 5",BOS,@,SEA,1.0,2.0,63-75,4.0,15.0,N,-1
-139,"Friday, Sep 7",BOS,Home,TOR,5.0,7.0,63-76,4.0,15.5,N,-2
-140,"Saturday, Sep 8",BOS,Home,TOR,2.0,9.0,63-77,5.0,15.5,N,-3
-141,"Sunday, Sep 9",BOS,Home,TOR,3.0,4.0,63-78,5.0,16.5,D,-4
-142,"Tuesday, Sep 11",BOS,Home,NYY,4.0,3.0,64-78,5.0,15.5,N,1
-143,"Wednesday, Sep 12",BOS,Home,NYY,4.0,5.0,64-79,5.0,16.5,N,-1
-144,"Thursday, Sep 13",BOS,Home,NYY,0.0,2.0,64-80,5.0,17.5,N,-2
-145,"Friday, Sep 14",BOS,@,TOR,8.0,5.0,65-80,5.0,16.5,N,1
-146,"Saturday, Sep 15",BOS,@,TOR,3.0,2.0,66-80,4.0,16.5,D,2
-147,"Sunday, Sep 16",BOS,@,TOR,0.0,5.0,66-81,5.0,17.5,D,-1
-148,"Monday, Sep 17",BOS,@,TBR,5.0,2.0,67-81,5.0,17.0,N,1
-149,"Tuesday, Sep 18",BOS,@,TBR,7.0,5.0,68-81,4.0,16.5,N,2
-150,"Wednesday, Sep 19",BOS,@,TBR,3.0,13.0,68-82,4.0,18.0,N,-1
-151,"Thursday, Sep 20",BOS,@,TBR,4.0,7.0,68-83,4.0,19.0,N,-2
-152,"Friday, Sep 21",BOS,Home,BAL,2.0,4.0,68-84,4.0,20.0,N,-3
-153,"Saturday, Sep 22",BOS,Home,BAL,6.0,9.0,68-85,4.0,21.0,D,-4
-154,"Sunday, Sep 23",BOS,Home,BAL,2.0,1.0,69-85,4.0,20.0,D,1
-155,"Tuesday, Sep 25",BOS,Home,TBR,2.0,5.0,69-86,4.0,20.5,N,-1
-156,"Wednesday, Sep 26",BOS,Home,TBR,2.0,4.0,69-87,4.0,21.5,N,-2
-157,"Friday, Sep 28",BOS,@,BAL,1.0,9.0,69-88,4.0,22.0,N,-3
-158,"Saturday, Sep 29",BOS,@,BAL,3.0,4.0,69-89,5.0,22.0,N,-4
-159,"Sunday, Sep 30",BOS,@,BAL,3.0,6.0,69-90,5.0,23.0,D,-5
-160,"Monday, Oct 1",BOS,@,NYY,2.0,10.0,69-91,5.0,24.0,N,-6
-161,"Tuesday, Oct 2",BOS,@,NYY,3.0,4.0,69-92,5.0,25.0,N,-7
-162,"Wednesday, Oct 3",BOS,@,NYY,2.0,14.0,69-93,5.0,26.0,N,-8
-1,"Monday, Apr 1",BOS,@,NYY,8.0,2.0,1-0,1.0,up 0.5,D,1
-2,"Wednesday, Apr 3",BOS,@,NYY,7.0,4.0,2-0,1.0,up 1.0,N,2
-3,"Thursday, Apr 4",BOS,@,NYY,2.0,4.0,2-1,1.0,Tied,N,-1
-4,"Friday, Apr 5",BOS,@,TOR,6.0,4.0,3-1,1.0,Tied,N,1
-5,"Saturday, Apr 6",BOS,@,TOR,0.0,5.0,3-2,1.0,Tied,D,-1
-6,"Sunday, Apr 7",BOS,@,TOR,13.0,0.0,4-2,1.0,up 1.0,D,1
-7,"Monday, Apr 8",BOS,Home,BAL,3.0,1.0,5-2,1.0,up 2.0,D,2
-8,"Wednesday, Apr 10",BOS,Home,BAL,5.0,8.0,5-3,1.0,up 1.0,N,-1
-9,"Thursday, Apr 11",BOS,Home,BAL,2.0,3.0,5-4,1.0,Tied,N,-2
-10,"Saturday, Apr 13",BOS,Home,TBR,2.0,1.0,6-4,1.0,up 0.5,D,1
-11,"Sunday, Apr 14",BOS,Home,TBR,5.0,0.0,7-4,1.0,up 1.0,D,2
-12,"Monday, Apr 15",BOS,Home,TBR,3.0,2.0,8-4,1.0,up 1.5,D,3
-13,"Tuesday, Apr 16",BOS,@,CLE,7.0,2.0,9-4,1.0,up 1.5,N,4
-14,"Wednesday, Apr 17",BOS,@,CLE,6.0,3.0,10-4,1.0,up 1.5,N,5
-15,"Thursday, Apr 18",BOS,@,CLE,6.0,3.0,11-4,1.0,up 2.5,N,6
-16,"Saturday, Apr 20",BOS,Home,KCR,4.0,3.0,12-4,1.0,up 2.0,D,7
-17,"Sunday, Apr 21 (1)",BOS,Home,KCR,2.0,4.0,12-5,1.0,up 1.5,D,-1
-18,"Sunday, Apr 21 (2)",BOS,Home,KCR,4.0,5.0,12-6,1.0,up 1.5,N,-2
-19,"Monday, Apr 22",BOS,Home,OAK,9.0,6.0,13-6,1.0,up 2.0,N,1
-20,"Tuesday, Apr 23",BOS,Home,OAK,0.0,13.0,13-7,1.0,up 1.0,N,-1
-21,"Wednesday, Apr 24",BOS,Home,OAK,6.0,5.0,14-7,1.0,up 2.0,D,1
-22,"Thursday, Apr 25",BOS,Home,HOU,7.0,2.0,15-7,1.0,up 2.0,N,2
-23,"Friday, Apr 26",BOS,Home,HOU,7.0,3.0,16-7,1.0,up 2.0,N,3
-24,"Saturday, Apr 27",BOS,Home,HOU,8.0,4.0,17-7,1.0,up 2.0,N,4
-25,"Sunday, Apr 28",BOS,Home,HOU,6.0,1.0,18-7,1.0,up 2.5,D,5
-26,"Tuesday, Apr 30",BOS,@,TOR,7.0,9.0,18-8,1.0,up 2.0,N,-1
-27,"Wednesday, May 1",BOS,@,TOR,10.0,1.0,19-8,1.0,up 2.0,N,1
-28,"Thursday, May 2",BOS,@,TOR,3.0,1.0,20-8,1.0,up 2.5,N,2
-29,"Friday, May 3",BOS,@,TEX,0.0,7.0,20-9,1.0,up 2.5,N,-1
-30,"Saturday, May 4",BOS,@,TEX,1.0,5.0,20-10,1.0,up 1.5,N,-2
-31,"Sunday, May 5",BOS,@,TEX,3.0,4.0,20-11,1.0,up 1.5,D,-3
-32,"Monday, May 6",BOS,Home,MIN,6.0,5.0,21-11,1.0,up 2.0,N,1
-33,"Tuesday, May 7",BOS,Home,MIN,1.0,6.0,21-12,1.0,up 1.0,N,-1
-34,"Wednesday, May 8",BOS,Home,MIN,8.0,15.0,21-13,1.0,Tied,N,-2
-35,"Thursday, May 9",BOS,Home,MIN,3.0,5.0,21-14,1.0,Tied,N,-3
-36,"Friday, May 10",BOS,Home,TOR,5.0,0.0,22-14,1.0,Tied,N,1
-37,"Saturday, May 11",BOS,Home,TOR,2.0,3.0,22-15,2.0,1.0,D,-1
-38,"Sunday, May 12",BOS,Home,TOR,4.0,12.0,22-16,3.0,2.0,D,-2
-39,"Tuesday, May 14",BOS,@,TBR,3.0,5.0,22-17,3.0,3.0,N,-3
-40,"Wednesday, May 15",BOS,@,TBR,9.0,2.0,23-17,2.0,2.0,N,1
-41,"Thursday, May 16",BOS,@,TBR,4.0,3.0,24-17,2.0,1.0,N,2
-42,"Friday, May 17",BOS,@,MIN,3.0,2.0,25-17,2.0,1.0,N,3
-43,"Saturday, May 18",BOS,@,MIN,12.0,5.0,26-17,2.0,1.0,N,4
-44,"Sunday, May 19",BOS,@,MIN,5.0,1.0,27-17,2.0,0.5,D,5
-45,"Monday, May 20",BOS,@,CHW,4.0,6.0,27-18,2.0,1.5,N,-1
-46,"Tuesday, May 21",BOS,@,CHW,1.0,3.0,27-19,2.0,1.5,N,-2
-47,"Wednesday, May 22",BOS,@,CHW,6.0,2.0,28-19,2.0,0.5,N,1
-48,"Thursday, May 23",BOS,Home,CLE,3.0,12.0,28-20,2.0,1.0,N,-1
-49,"Friday, May 24",BOS,Home,CLE,8.0,1.0,29-20,2.0,1.0,N,1
-50,"Saturday, May 25",BOS,Home,CLE,7.0,4.0,30-20,2.0,1.0,D,2
-51,"Sunday, May 26",BOS,Home,CLE,6.0,5.0,31-20,1.0,Tied,D,3
-52,"Monday, May 27",BOS,Home,PHI,9.0,3.0,32-20,1.0,up 1.0,N,4
-53,"Tuesday, May 28",BOS,Home,PHI,1.0,3.0,32-21,1.0,up 1.0,N,-1
-54,"Wednesday, May 29",BOS,@,PHI,3.0,4.0,32-22,1.0,up 1.0,N,-2
-55,"Thursday, May 30",BOS,@,PHI,9.0,2.0,33-22,1.0,up 2.0,N,1
-56,"Friday, May 31",BOS,@,NYY,1.0,4.0,33-23,1.0,up 1.0,N,-1
-57,"Saturday, Jun 1",BOS,@,NYY,11.0,1.0,34-23,1.0,up 2.0,N,1
-58,"Sunday, Jun 2",BOS,@,NYY,3.0,0.0,35-23,1.0,up 2.5,N,2
-59,"Tuesday, Jun 4",BOS,Home,TEX,17.0,5.0,36-23,1.0,up 2.5,N,3
-60,"Wednesday, Jun 5",BOS,Home,TEX,2.0,3.0,36-24,1.0,up 1.5,N,-1
-61,"Thursday, Jun 6",BOS,Home,TEX,6.0,3.0,37-24,1.0,up 1.5,N,1
-62,"Saturday, Jun 8 (1)",BOS,Home,LAA,5.0,9.0,37-25,1.0,up 1.5,D,-1
-63,"Saturday, Jun 8 (2)",BOS,Home,LAA,7.0,2.0,38-25,1.0,up 1.5,N,1
-64,"Sunday, Jun 9",BOS,Home,LAA,10.0,5.0,39-25,1.0,up 1.5,D,2
-65,"Monday, Jun 10",BOS,@,TBR,10.0,8.0,40-25,1.0,up 2.0,N,3
-66,"Tuesday, Jun 11",BOS,@,TBR,3.0,8.0,40-26,1.0,up 2.0,N,-1
-67,"Wednesday, Jun 12",BOS,@,TBR,2.0,1.0,41-26,1.0,up 3.0,N,1
-68,"Thursday, Jun 13",BOS,@,BAL,4.0,5.0,41-27,1.0,up 2.5,N,-1
-69,"Friday, Jun 14",BOS,@,BAL,0.0,2.0,41-28,1.0,up 1.5,N,-2
-70,"Saturday, Jun 15",BOS,@,BAL,5.0,4.0,42-28,1.0,up 2.5,D,1
-71,"Sunday, Jun 16",BOS,@,BAL,3.0,6.0,42-29,1.0,up 1.5,D,-1
-72,"Tuesday, Jun 18 (1)",BOS,Home,TBR,5.0,1.0,43-29,1.0,up 2.5,D,1
-73,"Tuesday, Jun 18 (2)",BOS,Home,TBR,3.0,1.0,44-29,1.0,up 2.5,N,2
-74,"Wednesday, Jun 19",BOS,Home,TBR,2.0,6.0,44-30,1.0,up 1.5,N,-1
-75,"Thursday, Jun 20",BOS,@,DET,3.0,4.0,44-31,1.0,up 1.0,N,-2
-76,"Friday, Jun 21",BOS,@,DET,10.0,6.0,45-31,1.0,up 2.0,N,1
-77,"Saturday, Jun 22",BOS,@,DET,3.0,10.0,45-32,1.0,up 2.0,N,-1
-78,"Sunday, Jun 23",BOS,@,DET,5.0,7.0,45-33,1.0,up 2.0,D,-2
-79,"Tuesday, Jun 25",BOS,Home,COL,11.0,4.0,46-33,1.0,up 2.5,N,1
-80,"Wednesday, Jun 26",BOS,Home,COL,5.0,3.0,47-33,1.0,up 3.5,D,2
-81,"Thursday, Jun 27",BOS,Home,TOR,7.0,4.0,48-33,1.0,up 3.5,N,3
-82,"Friday, Jun 28",BOS,Home,TOR,7.0,5.0,49-33,1.0,up 3.5,N,4
-83,"Saturday, Jun 29",BOS,Home,TOR,2.0,6.0,49-34,1.0,up 2.5,D,-1
-84,"Sunday, Jun 30",BOS,Home,TOR,5.0,4.0,50-34,1.0,up 2.5,D,1
-85,"Tuesday, Jul 2",BOS,Home,SDP,4.0,1.0,51-34,1.0,up 3.5,N,2
-86,"Wednesday, Jul 3",BOS,Home,SDP,2.0,1.0,52-34,1.0,up 3.5,N,3
-87,"Thursday, Jul 4",BOS,Home,SDP,8.0,2.0,53-34,1.0,up 4.5,D,4
-88,"Friday, Jul 5",BOS,@,LAA,6.0,2.0,54-34,1.0,up 5.5,N,5
-89,"Saturday, Jul 6",BOS,@,LAA,7.0,9.0,54-35,1.0,up 5.0,N,-1
-90,"Sunday, Jul 7",BOS,@,LAA,0.0,3.0,54-36,1.0,up 4.5,N,-2
-91,"Monday, Jul 8",BOS,@,SEA,4.0,11.0,54-37,1.0,up 3.5,N,-3
-92,"Tuesday, Jul 9",BOS,@,SEA,11.0,8.0,55-37,1.0,up 3.5,N,1
-93,"Wednesday, Jul 10",BOS,@,SEA,11.0,4.0,56-37,1.0,up 3.5,N,2
-94,"Thursday, Jul 11",BOS,@,SEA,8.0,7.0,57-37,1.0,up 3.5,D,3
-95,"Friday, Jul 12",BOS,@,OAK,4.0,2.0,58-37,1.0,up 4.5,N,4
-96,"Saturday, Jul 13",BOS,@,OAK,0.0,3.0,58-38,1.0,up 3.5,N,-1
-97,"Sunday, Jul 14",BOS,@,OAK,2.0,3.0,58-39,1.0,up 2.5,D,-2
-98,"Friday, Jul 19",BOS,Home,NYY,4.0,2.0,59-39,1.0,up 2.5,N,1
-99,"Saturday, Jul 20",BOS,Home,NYY,2.0,5.0,59-40,1.0,up 1.5,D,-1
-100,"Sunday, Jul 21",BOS,Home,NYY,8.0,7.0,60-40,1.0,up 1.5,N,1
-101,"Monday, Jul 22",BOS,Home,TBR,0.0,3.0,60-41,1.0,up 0.5,N,-1
-102,"Tuesday, Jul 23",BOS,Home,TBR,6.0,2.0,61-41,1.0,up 1.5,N,1
-103,"Wednesday, Jul 24",BOS,Home,TBR,1.0,5.0,61-42,1.0,up 0.5,N,-1
-104,"Friday, Jul 26",BOS,@,BAL,0.0,6.0,61-43,2.0,0.5,N,-2
-105,"Saturday, Jul 27",BOS,@,BAL,7.0,3.0,62-43,2.0,0.5,N,1
-106,"Sunday, Jul 28",BOS,@,BAL,5.0,0.0,63-43,1.0,up 0.5,D,2
-107,"Monday, Jul 29",BOS,Home,TBR,1.0,2.0,63-44,2.0,0.5,N,-1
-108,"Tuesday, Jul 30",BOS,Home,SEA,8.0,2.0,64-44,2.0,0.5,N,1
-109,"Wednesday, Jul 31",BOS,Home,SEA,5.0,4.0,65-44,1.0,up 0.5,N,2
-110,"Thursday, Aug 1",BOS,Home,SEA,8.0,7.0,66-44,1.0,up 1.0,N,3
-111,"Friday, Aug 2",BOS,Home,ARI,6.0,7.0,66-45,1.0,up 1.0,N,-1
-112,"Saturday, Aug 3",BOS,Home,ARI,5.0,2.0,67-45,1.0,up 1.0,N,1
-113,"Sunday, Aug 4",BOS,Home,ARI,4.0,0.0,68-45,1.0,up 1.0,D,2
-114,"Monday, Aug 5",BOS,@,HOU,0.0,2.0,68-46,1.0,up 0.5,N,-1
-115,"Tuesday, Aug 6",BOS,@,HOU,15.0,10.0,69-46,1.0,up 1.5,N,1
-116,"Wednesday, Aug 7",BOS,@,HOU,7.0,5.0,70-46,1.0,up 2.5,N,2
-117,"Thursday, Aug 8",BOS,@,KCR,1.0,5.0,70-47,1.0,up 2.0,N,-1
-118,"Friday, Aug 9",BOS,@,KCR,6.0,9.0,70-48,1.0,up 2.0,N,-2
-119,"Saturday, Aug 10",BOS,@,KCR,5.0,3.0,71-48,1.0,up 3.0,N,1
-120,"Sunday, Aug 11",BOS,@,KCR,3.0,4.0,71-49,1.0,up 3.0,D,-1
-121,"Tuesday, Aug 13",BOS,@,TOR,4.0,2.0,72-49,1.0,up 4.0,N,1
-122,"Wednesday, Aug 14",BOS,@,TOR,3.0,4.0,72-50,1.0,up 3.0,N,-1
-123,"Thursday, Aug 15",BOS,@,TOR,1.0,2.0,72-51,1.0,up 2.0,N,-2
-124,"Friday, Aug 16",BOS,Home,NYY,3.0,10.0,72-52,1.0,up 1.0,N,-3
-125,"Saturday, Aug 17",BOS,Home,NYY,6.0,1.0,73-52,1.0,up 2.0,D,1
-126,"Sunday, Aug 18",BOS,Home,NYY,6.0,9.0,73-53,1.0,up 1.0,N,-1
-127,"Monday, Aug 19",BOS,@,SFG,7.0,0.0,74-53,1.0,up 1.0,N,1
-128,"Tuesday, Aug 20",BOS,@,SFG,2.0,3.0,74-54,1.0,Tied,N,-1
-129,"Wednesday, Aug 21",BOS,@,SFG,12.0,1.0,75-54,1.0,up 1.0,D,1
-130,"Friday, Aug 23",BOS,@,LAD,0.0,2.0,75-55,1.0,Tied,N,-1
-131,"Saturday, Aug 24",BOS,@,LAD,4.0,2.0,76-55,1.0,Tied,D,1
-132,"Sunday, Aug 25",BOS,@,LAD,8.0,1.0,77-55,1.0,up 1.0,N,2
-133,"Tuesday, Aug 27",BOS,Home,BAL,13.0,2.0,78-55,1.0,up 2.5,N,3
-134,"Wednesday, Aug 28",BOS,Home,BAL,4.0,3.0,79-55,1.0,up 2.5,N,4
-135,"Thursday, Aug 29",BOS,Home,BAL,2.0,3.0,79-56,1.0,up 2.5,N,-1
-136,"Friday, Aug 30",BOS,Home,CHW,4.0,3.0,80-56,1.0,up 3.5,N,1
-137,"Saturday, Aug 31",BOS,Home,CHW,7.0,2.0,81-56,1.0,up 4.5,N,2
-138,"Sunday, Sep 1",BOS,Home,CHW,7.0,6.0,82-56,1.0,up 5.5,D,3
-139,"Monday, Sep 2",BOS,Home,DET,0.0,3.0,82-57,1.0,up 5.5,D,-1
-140,"Tuesday, Sep 3",BOS,Home,DET,2.0,1.0,83-57,1.0,up 5.5,N,1
-141,"Wednesday, Sep 4",BOS,Home,DET,20.0,4.0,84-57,1.0,up 5.5,N,2
-142,"Thursday, Sep 5",BOS,@,NYY,9.0,8.0,85-57,1.0,up 6.5,N,3
-143,"Friday, Sep 6",BOS,@,NYY,12.0,8.0,86-57,1.0,up 7.5,N,4
-144,"Saturday, Sep 7",BOS,@,NYY,13.0,9.0,87-57,1.0,up 8.5,D,5
-145,"Sunday, Sep 8",BOS,@,NYY,3.0,4.0,87-58,1.0,up 7.5,D,-1
-146,"Tuesday, Sep 10",BOS,@,TBR,2.0,0.0,88-58,1.0,up 8.5,N,1
-147,"Wednesday, Sep 11",BOS,@,TBR,7.0,3.0,89-58,1.0,up 9.5,N,2
-148,"Thursday, Sep 12",BOS,@,TBR,3.0,4.0,89-59,1.0,up 8.5,N,-1
-149,"Friday, Sep 13",BOS,Home,NYY,8.0,4.0,90-59,1.0,up 8.5,N,1
-150,"Saturday, Sep 14",BOS,Home,NYY,5.0,1.0,91-59,1.0,up 8.5,D,2
-151,"Sunday, Sep 15",BOS,Home,NYY,9.0,2.0,92-59,1.0,up 9.5,N,3
-152,"Tuesday, Sep 17",BOS,Home,BAL,2.0,3.0,92-60,1.0,up 9.0,N,-1
-153,"Wednesday, Sep 18",BOS,Home,BAL,3.0,5.0,92-61,1.0,up 8.0,N,-2
-154,"Thursday, Sep 19",BOS,Home,BAL,3.0,1.0,93-61,1.0,up 9.0,N,1
-155,"Friday, Sep 20",BOS,Home,TOR,6.0,3.0,94-61,1.0,up 9.0,N,2
-156,"Saturday, Sep 21",BOS,Home,TOR,2.0,4.0,94-62,1.0,up 8.0,N,-1
-157,"Sunday, Sep 22",BOS,Home,TOR,5.0,2.0,95-62,1.0,up 8.0,D,1
-158,"Tuesday, Sep 24",BOS,@,COL,3.0,8.0,95-63,1.0,up 6.5,N,-1
-159,"Wednesday, Sep 25",BOS,@,COL,15.0,5.0,96-63,1.0,up 6.5,N,1
-160,"Friday, Sep 27",BOS,@,BAL,12.0,3.0,97-63,1.0,up 7.0,N,2
-161,"Saturday, Sep 28",BOS,@,BAL,5.0,6.0,97-64,1.0,up 7.0,N,-1
-162,"Sunday, Sep 29",BOS,@,BAL,6.0,7.0,97-65,1.0,up 6.0,D,-2
-1,"Monday, Mar 31",BOS,@,BAL,1.0,2.0,0-1,4.0,1.0,D,-1
-2,"Wednesday, Apr 2",BOS,@,BAL,6.0,2.0,1-1,2.0,0.5,N,1
-3,"Thursday, Apr 3",BOS,@,BAL,4.0,3.0,2-1,1.0,up 0.5,N,2
-4,"Friday, Apr 4",BOS,Home,MIL,2.0,6.0,2-2,2.0,0.5,D,-1
-5,"Saturday, Apr 5",BOS,Home,MIL,6.0,7.0,2-3,3.0,1.5,N,-2
-6,"Sunday, Apr 6",BOS,Home,MIL,0.0,4.0,2-4,4.0,1.5,D,-3
-7,"Monday, Apr 7",BOS,Home,TEX,5.0,1.0,3-4,3.0,1.0,N,1
-8,"Tuesday, Apr 8",BOS,Home,TEX,7.0,10.0,3-5,4.0,1.5,N,-1
-9,"Wednesday, Apr 9",BOS,Home,TEX,4.0,2.0,4-5,3.0,1.0,D,1
-10,"Thursday, Apr 10",BOS,@,NYY,1.0,4.0,4-6,5.0,1.0,N,-1
-11,"Friday, Apr 11",BOS,@,NYY,4.0,2.0,5-6,3.0,1.0,N,1
-12,"Saturday, Apr 12",BOS,@,NYY,4.0,7.0,5-7,5.0,2.0,D,-1
-13,"Sunday, Apr 13",BOS,@,NYY,2.0,3.0,5-8,5.0,2.0,N,-2
-14,"Tuesday, Apr 15",BOS,@,CHW,1.0,2.0,5-9,5.0,3.0,N,-3
-15,"Wednesday, Apr 16",BOS,@,CHW,6.0,4.0,6-9,5.0,3.0,N,1
-16,"Thursday, Apr 17",BOS,@,CHW,3.0,1.0,7-9,4.0,3.0,N,2
-17,"Friday, Apr 18",BOS,Home,BAL,4.0,8.0,7-10,5.0,3.0,N,-1
-18,"Saturday, Apr 19",BOS,Home,BAL,4.0,2.0,8-10,5.0,2.0,D,1
-19,"Sunday, Apr 20",BOS,Home,BAL,6.0,5.0,9-10,3.0,2.0,N,2
-20,"Monday, Apr 21",BOS,Home,BAL,6.0,7.0,9-11,5.0,2.5,D,-1
-21,"Tuesday, Apr 22",BOS,Home,NYY,3.0,9.0,9-12,5.0,3.5,N,-2
-22,"Wednesday, Apr 23",BOS,Home,NYY,5.0,1.0,10-12,5.0,2.5,N,1
-23,"Thursday, Apr 24",BOS,Home,NYY,5.0,14.0,10-13,5.0,3.5,N,-1
-24,"Friday, Apr 25",BOS,@,TOR,8.0,1.0,11-13,4.0,2.5,N,1
-25,"Saturday, Apr 26",BOS,@,TOR,7.0,6.0,12-13,3.0,2.5,D,2
-26,"Sunday, Apr 27",BOS,@,TOR,1.0,7.0,12-14,4.0,3.5,D,-1
-27,"Tuesday, Apr 29",BOS,Home,TBR,7.0,4.0,13-14,3.0,2.5,N,1
-28,"Thursday, May 1 (1)",BOS,Home,TBR,1.0,2.0,13-15,4.0,3.0,D,-1
-29,"Thursday, May 1 (2)",BOS,Home,TBR,5.0,6.0,13-16,4.0,3.0,N,-2
-30,"Friday, May 2",BOS,Home,OAK,7.0,1.0,14-16,3.0,2.5,N,1
-31,"Saturday, May 3",BOS,Home,OAK,6.0,3.0,15-16,3.0,2.0,D,2
-32,"Sunday, May 4",BOS,Home,OAK,2.0,3.0,15-17,3.0,2.0,D,-1
-33,"Tuesday, May 6",BOS,Home,CIN,4.0,3.0,16-17,3.0,1.5,N,1
-34,"Wednesday, May 7",BOS,Home,CIN,4.0,3.0,17-17,3.0,1.5,N,2
-35,"Friday, May 9",BOS,@,TEX,0.0,8.0,17-18,4.0,3.0,N,-1
-36,"Saturday, May 10",BOS,@,TEX,8.0,3.0,18-18,3.0,3.0,N,1
-37,"Sunday, May 11",BOS,@,TEX,5.0,2.0,19-18,3.0,2.0,D,2
-38,"Tuesday, May 13",BOS,@,MIN,6.0,8.0,19-19,2.0,1.5,N,-1
-39,"Wednesday, May 14",BOS,@,MIN,9.0,4.0,20-19,2.0,0.5,N,1
-40,"Thursday, May 15",BOS,@,MIN,3.0,4.0,20-20,3.0,1.5,D,-1
-41,"Friday, May 16",BOS,Home,DET,0.0,1.0,20-21,4.0,2.5,N,-2
-42,"Saturday, May 17",BOS,Home,DET,1.0,6.0,20-22,4.0,2.5,N,-3
-43,"Sunday, May 18",BOS,Home,DET,2.0,6.0,20-23,4.0,3.0,N,-4
-44,"Tuesday, May 20",BOS,Home,TOR,4.0,7.0,20-24,4.0,3.5,N,-5
-45,"Wednesday, May 21",BOS,Home,TOR,4.0,6.0,20-25,4.0,4.0,N,-6
-46,"Thursday, May 22",BOS,Home,TOR,2.0,7.0,20-26,4.0,5.0,D,-7
-47,"Friday, May 23",BOS,@,TBR,0.0,1.0,20-27,4.0,6.0,N,-8
-48,"Saturday, May 24",BOS,@,TBR,5.0,6.0,20-28,5.0,7.0,D,-9
-49,"Sunday, May 25",BOS,@,TBR,5.0,8.0,20-29,5.0,8.0,D,-10
-50,"Monday, May 26",BOS,@,ATL,8.0,6.0,21-29,5.0,8.0,D,1
-51,"Tuesday, May 27",BOS,@,ATL,6.0,3.0,22-29,4.0,8.0,N,2
-52,"Wednesday, May 28",BOS,Home,ATL,4.0,0.0,23-29,4.0,8.0,N,3
-53,"Thursday, May 29",BOS,Home,ATL,4.0,3.0,24-29,4.0,7.0,N,4
-54,"Friday, May 30",BOS,Home,TBR,3.0,2.0,25-29,4.0,6.0,N,5
-55,"Saturday, May 31",BOS,Home,TBR,7.0,1.0,26-29,4.0,6.0,N,6
-56,"Sunday, Jun 1",BOS,Home,TBR,4.0,0.0,27-29,4.0,6.0,D,7
-57,"Monday, Jun 2",BOS,@,CLE,2.0,3.0,27-30,4.0,6.5,N,-1
-58,"Tuesday, Jun 3",BOS,@,CLE,3.0,5.0,27-31,4.0,7.5,N,-2
-59,"Wednesday, Jun 4",BOS,@,CLE,4.0,7.0,27-32,4.0,8.5,N,-3
-60,"Friday, Jun 6",BOS,@,DET,2.0,6.0,27-33,4.0,10.0,N,-4
-61,"Saturday, Jun 7",BOS,@,DET,6.0,8.0,27-34,4.0,10.0,N,-5
-62,"Sunday, Jun 8",BOS,@,DET,5.0,3.0,28-34,4.0,9.0,N,1
-63,"Monday, Jun 9",BOS,@,BAL,0.0,4.0,28-35,4.0,10.0,N,-1
-64,"Tuesday, Jun 10",BOS,@,BAL,1.0,0.0,29-35,4.0,9.0,N,1
-65,"Wednesday, Jun 11",BOS,@,BAL,0.0,6.0,29-36,4.0,9.0,N,-1
-66,"Thursday, Jun 12",BOS,Home,CLE,5.0,2.0,30-36,4.0,8.0,N,1
-67,"Friday, Jun 13",BOS,Home,CLE,10.0,3.0,31-36,4.0,8.0,N,2
-68,"Saturday, Jun 14",BOS,Home,CLE,2.0,3.0,31-37,4.0,8.0,D,-1
-69,"Sunday, Jun 15",BOS,Home,CLE,2.0,3.0,31-38,4.0,9.0,D,-2
-70,"Monday, Jun 16",BOS,Home,MIN,1.0,0.0,32-38,4.0,8.5,N,1
-71,"Tuesday, Jun 17",BOS,Home,MIN,2.0,1.0,33-38,4.0,7.5,N,2
-72,"Wednesday, Jun 18",BOS,Home,MIN,2.0,1.0,34-38,4.0,6.5,D,3
-73,"Thursday, Jun 19",BOS,@,OAK,2.0,4.0,34-39,4.0,6.5,N,-1
-74,"Friday, Jun 20",BOS,@,OAK,3.0,4.0,34-40,4.0,7.5,N,-2
-75,"Saturday, Jun 21",BOS,@,OAK,1.0,2.0,34-41,4.0,7.5,D,-3
-76,"Sunday, Jun 22",BOS,@,OAK,7.0,6.0,35-41,4.0,6.5,D,1
-77,"Monday, Jun 23",BOS,@,SEA,3.0,12.0,35-42,4.0,7.5,N,-1
-78,"Tuesday, Jun 24",BOS,@,SEA,2.0,8.0,35-43,4.0,8.5,N,-2
-79,"Wednesday, Jun 25",BOS,@,SEA,5.0,4.0,36-43,4.0,7.5,N,1
-80,"Friday, Jun 27",BOS,@,NYY,0.0,6.0,36-44,4.0,8.0,N,-1
-81,"Saturday, Jun 28",BOS,@,NYY,2.0,1.0,37-44,4.0,7.0,N,1
-82,"Sunday, Jun 29",BOS,@,NYY,8.0,5.0,38-44,4.0,6.0,N,2
-83,"Monday, Jun 30",BOS,Home,CHC,0.0,2.0,38-45,4.0,6.5,N,-1
-84,"Tuesday, Jul 1",BOS,Home,CHC,1.0,2.0,38-46,4.0,7.5,N,-2
-85,"Wednesday, Jul 2",BOS,Home,CHC,9.0,16.0,38-47,4.0,8.5,N,-3
-86,"Saturday, Jul 5 (1)",BOS,Home,BAL,3.0,2.0,39-47,4.0,8.0,D,1
-87,"Saturday, Jul 5 (2)",BOS,Home,BAL,4.0,7.0,39-48,4.0,8.0,N,-1
-88,"Sunday, Jul 6",BOS,Home,BAL,6.0,7.0,39-49,5.0,9.0,D,-2
-89,"Monday, Jul 7",BOS,Home,CHW,0.0,4.0,39-50,5.0,10.0,N,-3
-90,"Tuesday, Jul 8",BOS,Home,CHW,3.0,8.0,39-51,5.0,10.5,N,-4
-91,"Wednesday, Jul 9",BOS,Home,CHW,5.0,4.0,40-51,5.0,9.5,N,1
-92,"Thursday, Jul 10",BOS,Home,CHW,4.0,3.0,41-51,4.0,9.5,D,2
-93,"Friday, Jul 11",BOS,@,HOU,8.0,3.0,42-51,4.0,9.5,N,3
-94,"Saturday, Jul 12",BOS,@,HOU,2.0,3.0,42-52,4.0,9.5,D,-1
-95,"Sunday, Jul 13",BOS,@,HOU,11.0,0.0,43-52,4.0,9.5,D,1
-96,"Friday, Jul 18",BOS,Home,KCR,5.0,4.0,44-52,4.0,8.5,N,2
-97,"Saturday, Jul 19",BOS,Home,KCR,2.0,1.0,45-52,4.0,8.5,N,3
-98,"Sunday, Jul 20",BOS,Home,KCR,6.0,0.0,46-52,4.0,7.5,D,4
-99,"Monday, Jul 21",BOS,@,TOR,14.0,1.0,47-52,4.0,7.5,N,5
-100,"Tuesday, Jul 22",BOS,@,TOR,3.0,7.0,47-53,5.0,8.5,N,-1
-101,"Wednesday, Jul 23",BOS,@,TOR,4.0,6.0,47-54,5.0,8.5,N,-2
-102,"Thursday, Jul 24",BOS,@,TOR,0.0,8.0,47-55,5.0,9.5,D,-3
-103,"Friday, Jul 25",BOS,@,TBR,4.0,6.0,47-56,5.0,10.5,N,-4
-104,"Saturday, Jul 26",BOS,@,TBR,0.0,3.0,47-57,5.0,10.5,N,-5
-105,"Sunday, Jul 27",BOS,@,TBR,3.0,2.0,48-57,5.0,10.5,D,1
-106,"Monday, Jul 28",BOS,Home,TOR,1.0,14.0,48-58,5.0,11.0,N,-1
-107,"Tuesday, Jul 29",BOS,Home,TOR,2.0,4.0,48-59,5.0,12.0,N,-2
-108,"Wednesday, Jul 30",BOS,Home,TOR,1.0,6.0,48-60,5.0,13.0,N,-3
-109,"Friday, Aug 1",BOS,Home,NYY,4.0,3.0,49-60,5.0,12.5,N,1
-110,"Saturday, Aug 2",BOS,Home,NYY,4.0,6.0,49-61,5.0,12.5,D,-1
-111,"Sunday, Aug 3",BOS,Home,NYY,7.0,8.0,49-62,5.0,13.5,N,-2
-112,"Tuesday, Aug 5",BOS,@,STL,2.0,3.0,49-63,5.0,15.0,N,-3
-113,"Wednesday, Aug 6",BOS,@,STL,2.0,1.0,50-63,5.0,14.0,N,1
-114,"Thursday, Aug 7",BOS,@,STL,2.0,5.0,50-64,5.0,15.0,N,-1
-115,"Friday, Aug 8",BOS,@,LAA,4.0,2.0,51-64,5.0,15.0,N,1
-116,"Saturday, Aug 9",BOS,@,LAA,4.0,5.0,51-65,5.0,16.0,N,-1
-117,"Sunday, Aug 10",BOS,@,LAA,3.0,1.0,52-65,5.0,15.0,D,1
-118,"Tuesday, Aug 12",BOS,@,CIN,3.0,2.0,53-65,5.0,15.0,N,2
-119,"Wednesday, Aug 13",BOS,@,CIN,5.0,4.0,54-65,5.0,15.0,D,3
-120,"Thursday, Aug 14",BOS,Home,HOU,9.0,4.0,55-65,5.0,14.5,N,4
-121,"Friday, Aug 15",BOS,Home,HOU,3.0,5.0,55-66,5.0,14.5,N,-1
-122,"Saturday, Aug 16",BOS,Home,HOU,10.0,7.0,56-66,5.0,13.5,N,1
-123,"Sunday, Aug 17",BOS,Home,HOU,1.0,8.0,56-67,5.0,14.5,D,-1
-124,"Monday, Aug 18",BOS,Home,LAA,2.0,4.0,56-68,5.0,15.5,N,-2
-125,"Tuesday, Aug 19",BOS,Home,LAA,3.0,4.0,56-69,5.0,16.5,N,-3
-126,"Wednesday, Aug 20",BOS,Home,LAA,3.0,8.0,56-70,5.0,17.5,N,-4
-127,"Thursday, Aug 21",BOS,Home,LAA,0.0,2.0,56-71,5.0,18.0,N,-5
-128,"Friday, Aug 22",BOS,Home,SEA,3.0,5.0,56-72,5.0,18.0,N,-6
-129,"Saturday, Aug 23",BOS,Home,SEA,3.0,7.0,56-73,5.0,18.0,D,-7
-130,"Sunday, Aug 24",BOS,Home,SEA,6.0,8.0,56-74,5.0,18.0,D,-8
-131,"Monday, Aug 25",BOS,@,TOR,4.0,3.0,57-74,5.0,18.0,N,1
-132,"Tuesday, Aug 26",BOS,@,TOR,11.0,7.0,58-74,5.0,18.0,N,2
-133,"Wednesday, Aug 27",BOS,@,TOR,2.0,5.0,58-75,5.0,18.0,N,-1
-134,"Friday, Aug 29",BOS,@,TBR,8.0,4.0,59-75,5.0,18.5,N,1
-135,"Saturday, Aug 30",BOS,@,TBR,0.0,7.0,59-76,5.0,19.5,N,-1
-136,"Sunday, Aug 31",BOS,@,TBR,3.0,0.0,60-76,5.0,19.5,D,1
-137,"Monday, Sep 1",BOS,@,TBR,3.0,4.0,60-77,5.0,19.5,D,-1
-138,"Tuesday, Sep 2",BOS,@,NYY,9.0,4.0,61-77,5.0,19.5,N,1
-139,"Wednesday, Sep 3",BOS,@,NYY,1.0,5.0,61-78,5.0,20.5,N,-1
-140,"Thursday, Sep 4",BOS,@,NYY,4.0,5.0,61-79,5.0,21.5,N,-2
-141,"Friday, Sep 5",BOS,Home,TOR,9.0,8.0,62-79,5.0,20.5,N,1
-142,"Saturday, Sep 6",BOS,Home,TOR,4.0,3.0,63-79,5.0,19.5,N,2
-143,"Sunday, Sep 7",BOS,Home,TOR,1.0,3.0,63-80,5.0,20.5,D,-1
-144,"Monday, Sep 8",BOS,Home,BAL,0.0,4.0,63-81,5.0,21.5,N,-2
-145,"Tuesday, Sep 9",BOS,Home,BAL,1.0,4.0,63-82,5.0,22.5,N,-3
-146,"Wednesday, Sep 10",BOS,Home,BAL,6.0,10.0,63-83,5.0,23.5,D,-4
-147,"Thursday, Sep 11",BOS,@,KCR,6.0,3.0,64-83,5.0,23.0,N,1
-148,"Friday, Sep 12",BOS,@,KCR,4.0,2.0,65-83,5.0,23.5,N,2
-149,"Saturday, Sep 13",BOS,@,KCR,1.0,7.0,65-84,5.0,23.5,N,-1
-150,"Sunday, Sep 14",BOS,@,KCR,8.0,4.0,66-84,5.0,23.5,D,1
-151,"Tuesday, Sep 16",BOS,@,PIT,0.0,4.0,66-85,5.0,25.0,N,-1
-152,"Wednesday, Sep 17",BOS,@,PIT,1.0,9.0,66-86,5.0,26.0,N,-2
-153,"Thursday, Sep 18",BOS,@,PIT,2.0,3.0,66-87,5.0,26.5,N,-3
-154,"Friday, Sep 19",BOS,@,BAL,5.0,3.0,67-87,5.0,25.5,N,1
-155,"Saturday, Sep 20",BOS,@,BAL,2.0,7.0,67-88,5.0,26.5,N,-1
-156,"Sunday, Sep 21",BOS,@,BAL,3.0,2.0,68-88,5.0,25.5,D,1
-157,"Tuesday, Sep 23",BOS,Home,TBR,2.0,6.0,68-89,5.0,26.0,N,-1
-158,"Wednesday, Sep 24",BOS,Home,TBR,11.0,3.0,69-89,5.0,26.0,N,1
-159,"Thursday, Sep 25",BOS,Home,TBR,11.0,1.0,70-89,5.0,25.0,N,2
-160,"Friday, Sep 26",BOS,Home,NYY,2.0,3.0,70-90,5.0,25.0,N,-1
-161,"Saturday, Sep 27",BOS,Home,NYY,10.0,4.0,71-90,5.0,24.0,D,1
-162,"Sunday, Sep 28",BOS,Home,NYY,5.0,9.0,71-91,5.0,25.0,D,-1
-1,"Monday, Apr 6",BOS,@,PHI,8.0,0.0,1-0,1.0,Tied,D,1
-2,"Wednesday, Apr 8",BOS,@,PHI,2.0,4.0,1-1,2.0,0.5,N,-1
-3,"Thursday, Apr 9",BOS,@,PHI,6.0,2.0,2-1,1.0,Tied,N,1
-4,"Friday, Apr 10",BOS,@,NYY,6.0,5.0,3-1,1.0,Tied,N,2
-5,"Saturday, Apr 11",BOS,@,NYY,8.0,4.0,4-1,1.0,up 1.0,D,3
-6,"Sunday, Apr 12",BOS,@,NYY,4.0,14.0,4-2,1.0,Tied,N,-1
-7,"Monday, Apr 13",BOS,Home,WSN,9.0,4.0,5-2,1.0,up 1.0,D,1
-8,"Tuesday, Apr 14",BOS,Home,WSN,8.0,7.0,6-2,1.0,up 1.0,N,2
-9,"Wednesday, Apr 15",BOS,Home,WSN,5.0,10.0,6-3,1.0,up 1.0,D,-1
-10,"Friday, Apr 17",BOS,Home,BAL,3.0,2.0,7-3,1.0,up 1.5,N,1
-11,"Saturday, Apr 18",BOS,Home,BAL,1.0,4.0,7-4,1.0,up 1.0,D,-1
-12,"Sunday, Apr 19",BOS,Home,BAL,3.0,8.0,7-5,1.0,Tied,D,-2
-13,"Monday, Apr 20",BOS,Home,BAL,7.0,1.0,8-5,1.0,up 1.0,D,1
-14,"Tuesday, Apr 21",BOS,@,TBR,1.0,0.0,9-5,1.0,up 2.0,N,2
-15,"Wednesday, Apr 22",BOS,@,TBR,5.0,7.0,9-6,1.0,up 1.0,N,-1
-16,"Thursday, Apr 23",BOS,@,TBR,1.0,2.0,9-7,1.0,Tied,N,-2
-17,"Friday, Apr 24",BOS,@,BAL,7.0,5.0,10-7,1.0,Tied,N,1
-18,"Saturday, Apr 25",BOS,@,BAL,4.0,5.0,10-8,1.0,Tied,N,-1
-19,"Sunday, Apr 26",BOS,@,BAL,7.0,18.0,10-9,3.0,1.0,D,-2
-20,"Monday, Apr 27",BOS,Home,TOR,6.0,5.0,11-9,2.0,1.0,N,1
-21,"Tuesday, Apr 28",BOS,Home,TOR,8.0,11.0,11-10,2.0,2.0,N,-1
-22,"Wednesday, Apr 29",BOS,Home,TOR,4.0,1.0,12-10,2.0,1.0,N,1
-23,"Friday, May 1",BOS,Home,NYY,2.0,3.0,12-11,3.0,2.0,N,-1
-24,"Saturday, May 2",BOS,Home,NYY,2.0,4.0,12-12,3.0,3.0,D,-2
-25,"Sunday, May 3",BOS,Home,NYY,5.0,8.0,12-13,4.0,4.0,N,-3
-26,"Monday, May 4",BOS,Home,TBR,1.0,5.0,12-14,5.0,4.0,N,-4
-27,"Tuesday, May 5",BOS,Home,TBR,2.0,0.0,13-14,4.0,4.0,N,1
-28,"Wednesday, May 6",BOS,Home,TBR,3.0,5.0,13-15,5.0,4.0,N,-1
-29,"Friday, May 8",BOS,@,TOR,0.0,7.0,13-16,4.0,5.5,N,-2
-30,"Saturday, May 9",BOS,@,TOR,1.0,7.0,13-17,5.0,5.5,D,-3
-31,"Sunday, May 10",BOS,@,TOR,6.0,3.0,14-17,4.0,5.5,D,1
-32,"Monday, May 11",BOS,@,OAK,5.0,4.0,15-17,4.0,5.5,N,2
-33,"Tuesday, May 12",BOS,@,OAK,2.0,9.0,15-18,4.0,5.5,N,-1
-34,"Wednesday, May 13",BOS,@,OAK,2.0,0.0,16-18,4.0,4.5,D,1
-35,"Thursday, May 14",BOS,@,SEA,2.0,1.0,17-18,3.0,3.5,N,2
-36,"Friday, May 15",BOS,@,SEA,1.0,2.0,17-19,3.0,3.5,N,-1
-37,"Saturday, May 16",BOS,@,SEA,4.0,2.0,18-19,3.0,3.5,N,1
-38,"Sunday, May 17",BOS,@,SEA,0.0,5.0,18-20,3.0,3.5,D,-1
-39,"Tuesday, May 19",BOS,Home,TEX,4.0,3.0,19-20,3.0,2.5,N,1
-40,"Wednesday, May 20",BOS,Home,TEX,1.0,2.0,19-21,3.0,2.5,N,-1
-41,"Thursday, May 21",BOS,Home,TEX,1.0,3.0,19-22,4.0,3.5,N,-2
-42,"Friday, May 22",BOS,Home,LAA,5.0,12.0,19-23,4.0,4.5,N,-3
-43,"Saturday, May 23",BOS,Home,LAA,8.0,3.0,20-23,4.0,3.5,N,1
-44,"Sunday, May 24",BOS,Home,LAA,6.0,1.0,21-23,3.0,2.5,D,2
-45,"Monday, May 25",BOS,@,MIN,2.0,7.0,21-24,4.0,2.5,D,-1
-46,"Tuesday, May 26",BOS,@,MIN,1.0,2.0,21-25,4.0,3.0,N,-2
-47,"Wednesday, May 27",BOS,@,MIN,4.0,6.0,21-26,4.0,4.0,D,-3
-48,"Thursday, May 28",BOS,@,TEX,5.0,1.0,22-26,4.0,3.0,N,1
-49,"Friday, May 29",BOS,@,TEX,4.0,7.0,22-27,5.0,3.0,N,-1
-50,"Saturday, May 30",BOS,@,TEX,0.0,8.0,22-28,5.0,4.0,N,-2
-51,"Sunday, May 31",BOS,@,TEX,3.0,4.0,22-29,5.0,4.0,D,-3
-52,"Tuesday, Jun 2",BOS,Home,MIN,1.0,0.0,23-29,4.0,4.5,N,1
-53,"Wednesday, Jun 3 (1)",BOS,Home,MIN,6.0,3.0,24-29,4.0,5.0,D,2
-54,"Wednesday, Jun 3 (2)",BOS,Home,MIN,0.0,2.0,24-30,4.0,5.0,N,-1
-55,"Thursday, Jun 4",BOS,Home,MIN,4.0,8.0,24-31,5.0,5.5,D,-2
-56,"Friday, Jun 5",BOS,Home,OAK,4.0,2.0,25-31,5.0,5.5,N,1
-57,"Saturday, Jun 6",BOS,Home,OAK,4.0,2.0,26-31,4.0,5.5,D,2
-58,"Sunday, Jun 7",BOS,Home,OAK,7.0,4.0,27-31,4.0,5.5,D,3
-59,"Tuesday, Jun 9",BOS,@,BAL,0.0,1.0,27-32,5.0,6.5,N,-1
-60,"Wednesday, Jun 10",BOS,@,BAL,2.0,5.0,27-33,5.0,6.5,N,-2
-61,"Thursday, Jun 11",BOS,@,BAL,5.0,6.0,27-34,5.0,7.0,N,-3
-62,"Friday, Jun 12",BOS,Home,TOR,10.0,13.0,27-35,5.0,7.0,N,-4
-63,"Saturday, Jun 13",BOS,Home,TOR,4.0,5.0,27-36,5.0,7.0,D,-5
-64,"Sunday, Jun 14",BOS,Home,TOR,5.0,13.0,27-37,5.0,8.0,D,-6
-65,"Monday, Jun 15",BOS,Home,ATL,2.0,4.0,27-38,5.0,9.0,N,-7
-66,"Tuesday, Jun 16",BOS,Home,ATL,9.0,4.0,28-38,5.0,8.0,D,1
-67,"Wednesday, Jun 17",BOS,@,ATL,2.0,5.0,28-39,5.0,9.0,N,-1
-68,"Thursday, Jun 18",BOS,@,ATL,5.0,2.0,29-39,5.0,9.0,N,1
-69,"Friday, Jun 19",BOS,@,KCR,7.0,3.0,30-39,5.0,9.0,N,2
-70,"Saturday, Jun 20",BOS,@,KCR,4.0,7.0,30-40,5.0,10.0,N,-1
-71,"Sunday, Jun 21",BOS,@,KCR,13.0,2.0,31-40,5.0,9.0,D,1
-72,"Tuesday, Jun 23",BOS,Home,BAL,4.0,6.0,31-41,5.0,9.5,N,-1
-73,"Wednesday, Jun 24",BOS,Home,BAL,5.0,1.0,32-41,5.0,8.5,N,1
-74,"Thursday, Jun 25",BOS,Home,BAL,6.0,8.0,32-42,5.0,9.0,D,-1
-75,"Friday, Jun 26",BOS,@,TBR,4.0,3.0,33-42,5.0,8.0,N,1
-76,"Saturday, Jun 27",BOS,@,TBR,1.0,4.0,33-43,5.0,9.0,D,-1
-77,"Sunday, Jun 28",BOS,@,TBR,5.0,3.0,34-43,5.0,8.0,D,1
-78,"Monday, Jun 29",BOS,@,TOR,3.0,1.0,35-43,5.0,7.0,N,2
-79,"Tuesday, Jun 30",BOS,@,TOR,4.0,3.0,36-43,5.0,6.0,N,3
-80,"Wednesday, Jul 1",BOS,@,TOR,2.0,11.0,36-44,5.0,7.0,D,-1
-81,"Thursday, Jul 2",BOS,@,TOR,12.0,6.0,37-44,5.0,6.0,N,1
-82,"Friday, Jul 3",BOS,Home,HOU,8.0,12.0,37-45,5.0,7.0,N,-1
-83,"Saturday, Jul 4",BOS,Home,HOU,6.0,1.0,38-45,5.0,7.0,D,1
-84,"Sunday, Jul 5",BOS,Home,HOU,5.0,4.0,39-45,5.0,6.0,D,2
-85,"Tuesday, Jul 7",BOS,Home,MIA,4.0,3.0,40-45,5.0,5.0,N,3
-86,"Wednesday, Jul 8",BOS,Home,MIA,6.0,3.0,41-45,5.0,5.0,N,4
-87,"Friday, Jul 10",BOS,Home,NYY,1.0,5.0,41-46,5.0,6.5,N,-1
-88,"Saturday, Jul 11",BOS,Home,NYY,5.0,3.0,42-46,5.0,5.5,N,1
-89,"Sunday, Jul 12",BOS,Home,NYY,6.0,8.0,42-47,5.0,6.5,D,-1
-90,"Friday, Jul 17",BOS,@,LAA,0.0,1.0,42-48,5.0,7.5,N,-2
-91,"Saturday, Jul 18",BOS,@,LAA,0.0,3.0,42-49,5.0,7.5,N,-3
-92,"Monday, Jul 20 (1)",BOS,@,LAA,1.0,11.0,42-50,5.0,9.0,D,-4
-93,"Monday, Jul 20 (2)",BOS,@,LAA,3.0,7.0,42-51,5.0,9.0,N,-5
-94,"Tuesday, Jul 21",BOS,@,HOU,3.0,8.0,42-52,5.0,10.0,N,-6
-95,"Wednesday, Jul 22",BOS,@,HOU,2.0,4.0,42-53,5.0,11.0,N,-7
-96,"Thursday, Jul 23",BOS,@,HOU,4.0,5.0,42-54,5.0,12.0,N,-8
-97,"Friday, Jul 24",BOS,Home,DET,2.0,1.0,43-54,5.0,11.0,N,1
-98,"Saturday, Jul 25",BOS,Home,DET,1.0,5.0,43-55,5.0,12.0,D,-1
-99,"Sunday, Jul 26",BOS,Home,DET,11.0,1.0,44-55,5.0,12.0,N,1
-100,"Monday, Jul 27",BOS,Home,CHW,8.0,10.0,44-56,5.0,13.0,N,-1
-101,"Tuesday, Jul 28",BOS,Home,CHW,4.0,9.0,44-57,5.0,14.0,N,-2
-102,"Wednesday, Jul 29",BOS,Home,CHW,2.0,9.0,44-58,5.0,14.0,N,-3
-103,"Thursday, Jul 30",BOS,Home,CHW,8.0,2.0,45-58,5.0,13.0,N,1
-104,"Friday, Jul 31",BOS,Home,TBR,7.0,5.0,46-58,5.0,13.0,N,2
-105,"Saturday, Aug 1",BOS,Home,TBR,11.0,7.0,47-58,5.0,12.0,D,3
-106,"Sunday, Aug 2",BOS,Home,TBR,3.0,4.0,47-59,5.0,13.0,D,-1
-107,"Tuesday, Aug 4",BOS,@,NYY,3.0,13.0,47-60,5.0,14.0,N,-2
-108,"Wednesday, Aug 5",BOS,@,NYY,2.0,1.0,48-60,5.0,13.0,N,1
-109,"Thursday, Aug 6",BOS,@,NYY,1.0,2.0,48-61,5.0,14.0,N,-1
-110,"Friday, Aug 7",BOS,@,DET,7.0,2.0,49-61,5.0,13.0,N,1
-111,"Saturday, Aug 8",BOS,@,DET,6.0,7.0,49-62,5.0,13.0,N,-1
-112,"Sunday, Aug 9",BOS,@,DET,7.0,2.0,50-62,5.0,12.0,D,1
-113,"Tuesday, Aug 11",BOS,@,MIA,4.0,5.0,50-63,5.0,12.0,N,-1
-114,"Wednesday, Aug 12",BOS,@,MIA,6.0,14.0,50-64,5.0,12.5,D,-2
-115,"Friday, Aug 14",BOS,Home,SEA,15.0,1.0,51-64,5.0,12.5,N,1
-116,"Saturday, Aug 15",BOS,Home,SEA,22.0,10.0,52-64,5.0,12.5,D,2
-117,"Sunday, Aug 16",BOS,Home,SEA,8.0,10.0,52-65,5.0,12.5,D,-1
-118,"Monday, Aug 17",BOS,Home,CLE,2.0,8.0,52-66,5.0,13.5,N,-2
-119,"Tuesday, Aug 18",BOS,Home,CLE,9.0,1.0,53-66,5.0,13.5,N,1
-120,"Wednesday, Aug 19",BOS,Home,CLE,6.0,4.0,54-66,5.0,13.5,N,2
-121,"Thursday, Aug 20",BOS,Home,KCR,4.0,1.0,55-66,5.0,12.5,N,3
-122,"Friday, Aug 21",BOS,Home,KCR,7.0,2.0,56-66,5.0,11.5,N,4
-123,"Saturday, Aug 22",BOS,Home,KCR,3.0,6.0,56-67,5.0,12.5,N,-1
-124,"Sunday, Aug 23",BOS,Home,KCR,6.0,8.0,56-68,5.0,13.0,D,-2
-125,"Monday, Aug 24",BOS,@,CHW,5.0,4.0,57-68,5.0,12.5,N,1
-126,"Tuesday, Aug 25",BOS,@,CHW,4.0,5.0,57-69,5.0,13.5,N,-1
-127,"Wednesday, Aug 26",BOS,@,CHW,3.0,0.0,58-69,5.0,13.5,N,1
-128,"Friday, Aug 28",BOS,@,NYM,6.0,4.0,59-69,5.0,13.0,N,2
-129,"Saturday, Aug 29",BOS,@,NYM,3.0,1.0,60-69,5.0,13.0,D,3
-130,"Sunday, Aug 30",BOS,@,NYM,4.0,5.0,60-70,5.0,14.0,D,-1
-131,"Monday, Aug 31",BOS,Home,NYY,4.0,3.0,61-70,5.0,13.0,N,1
-132,"Tuesday, Sep 1",BOS,Home,NYY,1.0,3.0,61-71,5.0,14.0,N,-1
-133,"Wednesday, Sep 2",BOS,Home,NYY,8.0,13.0,61-72,5.0,15.0,D,-2
-134,"Friday, Sep 4",BOS,Home,PHI,7.0,5.0,62-72,5.0,14.0,N,1
-135,"Saturday, Sep 5",BOS,Home,PHI,9.0,2.0,63-72,5.0,14.0,D,2
-136,"Sunday, Sep 6",BOS,Home,PHI,6.0,2.0,64-72,5.0,14.0,D,3
-137,"Monday, Sep 7",BOS,Home,TOR,11.0,4.0,65-72,4.0,13.0,D,4
-138,"Tuesday, Sep 8",BOS,Home,TOR,1.0,5.0,65-73,5.0,14.0,N,-1
-139,"Wednesday, Sep 9",BOS,Home,TOR,10.0,4.0,66-73,5.0,13.0,N,1
-140,"Friday, Sep 11",BOS,@,TBR,4.0,8.0,66-74,5.0,14.0,N,-1
-141,"Saturday, Sep 12",BOS,@,TBR,10.0,4.0,67-74,5.0,14.5,N,1
-142,"Sunday, Sep 13",BOS,@,TBR,2.0,0.0,68-74,5.0,13.5,D,2
-143,"Monday, Sep 14",BOS,@,BAL,0.0,2.0,68-75,5.0,14.0,N,-1
-144,"Tuesday, Sep 15",BOS,@,BAL,5.0,6.0,68-76,5.0,14.0,N,-2
-145,"Wednesday, Sep 16",BOS,@,BAL,10.0,1.0,69-76,5.0,14.0,N,1
-146,"Friday, Sep 18",BOS,@,TOR,1.0,6.0,69-77,5.0,15.5,N,-1
-147,"Saturday, Sep 19",BOS,@,TOR,7.0,6.0,70-77,5.0,14.5,D,1
-148,"Sunday, Sep 20",BOS,@,TOR,4.0,3.0,71-77,5.0,13.5,D,2
-149,"Monday, Sep 21",BOS,Home,TBR,8.0,7.0,72-77,4.0,13.5,N,3
-150,"Tuesday, Sep 22",BOS,Home,TBR,2.0,5.0,72-78,5.0,13.5,N,-1
-151,"Wednesday, Sep 23",BOS,Home,TBR,2.0,6.0,72-79,5.0,14.5,N,-2
-152,"Thursday, Sep 24",BOS,Home,TBR,2.0,4.0,72-80,5.0,15.0,N,-3
-153,"Friday, Sep 25",BOS,Home,BAL,7.0,0.0,73-80,5.0,15.0,N,1
-154,"Saturday, Sep 26",BOS,Home,BAL,8.0,0.0,74-80,5.0,15.0,D,2
-155,"Sunday, Sep 27",BOS,Home,BAL,2.0,0.0,75-80,4.0,15.0,D,3
-156,"Monday, Sep 28",BOS,@,NYY,5.0,1.0,76-80,3.0,15.0,N,4
-157,"Tuesday, Sep 29",BOS,@,NYY,10.0,4.0,77-80,3.0,14.5,N,5
-158,"Wednesday, Sep 30",BOS,@,NYY,9.0,5.0,78-80,3.0,14.0,N,6
-159,"Thursday, Oct 1",BOS,@,NYY,1.0,4.0,78-81,3.0,14.0,N,-1
-160,"Friday, Oct 2",BOS,@,CLE,2.0,8.0,78-82,4.0,15.0,N,-2
-161,"Saturday, Oct 3",BOS,@,CLE,0.0,2.0,78-83,5.0,15.0,N,-3
-162,"Sunday, Oct 4",BOS,@,CLE,1.0,3.0,78-84,5.0,15.0,D,-4
-1,"Tuesday, Apr 5",BOS,@,CLE,6.0,2.0,1-0,1.0,Tied,D,1
-2,"Wednesday, Apr 6",BOS,@,CLE,6.0,7.0,1-1,2.0,1.0,N,-1
-3,"Friday, Apr 8",BOS,@,TOR,8.0,7.0,2-1,2.0,1.5,N,1
-4,"Saturday, Apr 9",BOS,@,TOR,8.0,4.0,3-1,2.0,1.0,D,2
-5,"Sunday, Apr 10",BOS,@,TOR,0.0,3.0,3-2,2.0,2.0,D,-1
-6,"Monday, Apr 11",BOS,Home,BAL,7.0,9.0,3-3,3.0,3.0,D,-2
-7,"Tuesday, Apr 12",BOS,Home,BAL,5.0,9.0,3-4,3.0,4.0,N,-3
-8,"Wednesday, Apr 13",BOS,Home,BAL,4.0,2.0,4-4,3.0,3.0,N,1
-9,"Friday, Apr 15",BOS,Home,TOR,5.0,3.0,5-4,2.0,2.5,N,2
-10,"Saturday, Apr 16",BOS,Home,TOR,4.0,2.0,6-4,2.0,1.5,D,3
-11,"Sunday, Apr 17",BOS,Home,TOR,3.0,5.0,6-5,2.0,2.0,D,-1
-12,"Monday, Apr 18",BOS,Home,TOR,3.0,4.0,6-6,2.0,2.5,D,-2
-13,"Tuesday, Apr 19",BOS,Home,TBR,0.0,3.0,6-7,3.0,2.5,N,-3
-14,"Wednesday, Apr 20",BOS,Home,TBR,7.0,3.0,7-7,2.0,2.5,N,1
-15,"Thursday, Apr 21",BOS,Home,TBR,8.0,12.0,7-8,2.0,3.5,D,-1
-16,"Friday, Apr 22",BOS,@,HOU,6.0,2.0,8-8,2.0,2.5,N,1
-17,"Saturday, Apr 23",BOS,@,HOU,3.0,8.0,8-9,2.0,3.5,D,-1
-18,"Sunday, Apr 24",BOS,@,HOU,7.0,5.0,9-9,2.0,2.5,N,1
-19,"Monday, Apr 25",BOS,@,ATL,1.0,0.0,10-9,2.0,1.5,N,2
-20,"Tuesday, Apr 26",BOS,@,ATL,11.0,4.0,11-9,2.0,0.5,N,3
-21,"Wednesday, Apr 27",BOS,Home,ATL,9.0,4.0,12-9,2.0,0.5,N,4
-22,"Thursday, Apr 28",BOS,Home,ATL,3.0,5.0,12-10,2.0,1.5,N,-1
-23,"Friday, Apr 29",BOS,Home,NYY,4.0,2.0,13-10,2.0,1.5,N,1
-24,"Saturday, Apr 30",BOS,Home,NYY,8.0,0.0,14-10,2.0,0.5,N,2
-25,"Sunday, May 1",BOS,Home,NYY,8.0,7.0,15-10,1.0,up 0.5,N,3
-26,"Tuesday, May 3",BOS,@,CHW,1.0,4.0,15-11,2.0,0.5,N,-1
-27,"Wednesday, May 4",BOS,@,CHW,5.0,2.0,16-11,1.0,up 0.5,N,1
-28,"Thursday, May 5",BOS,@,CHW,7.0,3.0,17-11,1.0,up 0.5,N,2
-29,"Friday, May 6",BOS,@,NYY,2.0,3.0,17-12,1.0,Tied,N,-1
-30,"Saturday, May 7",BOS,@,NYY,2.0,8.0,17-13,2.0,0.5,D,-2
-31,"Sunday, May 8",BOS,@,NYY,5.0,1.0,18-13,2.0,0.5,N,1
-32,"Monday, May 9",BOS,Home,OAK,14.0,7.0,19-13,1.0,Tied,N,2
-33,"Tuesday, May 10",BOS,Home,OAK,13.0,5.0,20-13,1.0,Tied,N,3
-34,"Wednesday, May 11",BOS,Home,OAK,13.0,3.0,21-13,1.0,Tied,N,4
-35,"Thursday, May 12",BOS,Home,HOU,11.0,1.0,22-13,1.0,Tied,N,5
-36,"Friday, May 13",BOS,Home,HOU,6.0,7.0,22-14,2.0,1.0,N,-1
-37,"Saturday, May 14",BOS,Home,HOU,6.0,5.0,23-14,2.0,1.0,D,1
-38,"Sunday, May 15",BOS,Home,HOU,10.0,9.0,24-14,1.0,Tied,D,2
-39,"Tuesday, May 17",BOS,@,KCR,4.0,8.0,24-15,1.0,Tied,N,-1
-40,"Wednesday, May 18 (1)",BOS,@,KCR,2.0,3.0,24-16,2.0,0.5,D,-2
-41,"Wednesday, May 18 (2)",BOS,@,KCR,5.0,2.0,25-16,2.0,0.5,N,1
-42,"Friday, May 20",BOS,Home,CLE,2.0,4.0,25-17,2.0,1.0,N,-1
-43,"Saturday, May 21",BOS,Home,CLE,9.0,1.0,26-17,2.0,1.0,D,1
-44,"Sunday, May 22",BOS,Home,CLE,5.0,2.0,27-17,1.0,Tied,D,2
-45,"Tuesday, May 24",BOS,Home,COL,8.0,3.0,28-17,1.0,up 1.0,N,3
-46,"Wednesday, May 25",BOS,Home,COL,10.0,3.0,29-17,1.0,up 2.0,N,4
-47,"Thursday, May 26",BOS,Home,COL,2.0,8.0,29-18,1.0,up 2.0,N,-1
-48,"Friday, May 27",BOS,@,TOR,5.0,7.0,29-19,1.0,up 1.0,N,-2
-49,"Saturday, May 28",BOS,@,TOR,9.0,10.0,29-20,1.0,up 1.0,D,-3
-50,"Sunday, May 29",BOS,@,TOR,5.0,3.0,30-20,1.0,up 1.0,D,1
-51,"Monday, May 30",BOS,@,BAL,7.0,2.0,31-20,1.0,up 2.0,D,2
-52,"Tuesday, May 31",BOS,@,BAL,6.0,2.0,32-20,1.0,up 3.0,N,3
-53,"Wednesday, Jun 1",BOS,@,BAL,9.0,13.0,32-21,1.0,up 2.0,N,-1
-54,"Thursday, Jun 2",BOS,@,BAL,7.0,12.0,32-22,1.0,up 1.0,N,-2
-55,"Friday, Jun 3",BOS,Home,TOR,2.0,5.0,32-23,1.0,Tied,N,-3
-56,"Saturday, Jun 4",BOS,Home,TOR,6.0,4.0,33-23,1.0,up 1.0,D,1
-57,"Sunday, Jun 5",BOS,Home,TOR,4.0,5.0,33-24,1.0,Tied,D,-1
-58,"Tuesday, Jun 7",BOS,@,SFG,5.0,3.0,34-24,2.0,0.5,N,1
-59,"Wednesday, Jun 8",BOS,@,SFG,1.0,2.0,34-25,2.0,1.5,N,-1
-60,"Friday, Jun 10",BOS,@,MIN,8.0,1.0,35-25,2.0,1.0,N,1
-61,"Saturday, Jun 11",BOS,@,MIN,15.0,4.0,36-25,1.0,Tied,D,2
-62,"Sunday, Jun 12",BOS,@,MIN,4.0,7.0,36-26,1.0,Tied,D,-1
-63,"Tuesday, Jun 14",BOS,Home,BAL,2.0,3.0,36-27,2.0,1.0,N,-2
-64,"Wednesday, Jun 15",BOS,Home,BAL,6.0,4.0,37-27,1.0,Tied,N,1
-65,"Thursday, Jun 16",BOS,Home,BAL,1.0,5.0,37-28,2.0,1.0,N,-1
-66,"Friday, Jun 17",BOS,Home,SEA,4.0,8.0,37-29,2.0,1.0,N,-2
-67,"Saturday, Jun 18",BOS,Home,SEA,6.0,2.0,38-29,2.0,1.0,D,1
-68,"Sunday, Jun 19",BOS,Home,SEA,2.0,1.0,39-29,2.0,1.0,D,2
-69,"Monday, Jun 20",BOS,Home,CHW,1.0,3.0,39-30,2.0,1.0,N,-1
-70,"Tuesday, Jun 21",BOS,Home,CHW,1.0,3.0,39-31,2.0,1.0,N,-2
-71,"Wednesday, Jun 22",BOS,Home,CHW,6.0,8.0,39-32,2.0,2.0,N,-3
-72,"Thursday, Jun 23",BOS,Home,CHW,8.0,7.0,40-32,2.0,1.5,D,1
-73,"Friday, Jun 24",BOS,@,TEX,8.0,7.0,41-32,2.0,1.5,N,2
-74,"Saturday, Jun 25",BOS,@,TEX,3.0,10.0,41-33,2.0,3.0,N,-1
-75,"Sunday, Jun 26",BOS,@,TEX,2.0,6.0,41-34,2.0,4.0,D,-2
-76,"Monday, Jun 27",BOS,@,TBR,7.0,13.0,41-35,2.0,4.5,N,-3
-77,"Tuesday, Jun 28",BOS,@,TBR,8.0,2.0,42-35,2.0,4.5,N,1
-78,"Wednesday, Jun 29",BOS,@,TBR,0.0,4.0,42-36,2.0,5.5,D,-1
-79,"Friday, Jul 1",BOS,Home,LAA,5.0,4.0,43-36,2.0,4.0,N,1
-80,"Saturday, Jul 2",BOS,Home,LAA,2.0,21.0,43-37,2.0,4.0,N,-1
-81,"Sunday, Jul 3",BOS,Home,LAA,10.0,5.0,44-37,2.0,3.0,D,1
-82,"Monday, Jul 4",BOS,Home,TEX,12.0,5.0,45-37,2.0,2.0,D,2
-83,"Tuesday, Jul 5",BOS,Home,TEX,2.0,7.0,45-38,3.0,3.0,N,-1
-84,"Wednesday, Jul 6",BOS,Home,TEX,11.0,6.0,46-38,3.0,3.0,N,1
-85,"Friday, Jul 8",BOS,Home,TBR,6.0,5.0,47-38,3.0,2.0,N,2
-86,"Saturday, Jul 9",BOS,Home,TBR,4.0,1.0,48-38,2.0,2.0,D,3
-87,"Sunday, Jul 10",BOS,Home,TBR,4.0,0.0,49-38,2.0,2.0,D,4
-88,"Friday, Jul 15",BOS,@,NYY,5.0,3.0,50-38,2.0,2.0,N,5
-89,"Saturday, Jul 16",BOS,@,NYY,5.0,2.0,51-38,2.0,2.0,D,6
-90,"Sunday, Jul 17",BOS,@,NYY,1.0,3.0,51-39,2.0,2.0,N,-1
-91,"Tuesday, Jul 19",BOS,Home,SFG,4.0,0.0,52-39,2.0,0.5,N,1
-92,"Wednesday, Jul 20",BOS,Home,SFG,11.0,7.0,53-39,1.0,up 0.5,N,2
-93,"Thursday, Jul 21",BOS,Home,MIN,13.0,2.0,54-39,1.0,up 0.5,N,3
-94,"Friday, Jul 22",BOS,Home,MIN,1.0,2.0,54-40,2.0,0.5,N,-1
-95,"Saturday, Jul 23",BOS,Home,MIN,9.0,11.0,54-41,2.0,1.5,N,-2
-96,"Sunday, Jul 24",BOS,Home,MIN,8.0,7.0,55-41,2.0,1.5,D,1
-97,"Monday, Jul 25",BOS,Home,DET,2.0,4.0,55-42,2.0,2.5,N,-1
-98,"Tuesday, Jul 26",BOS,Home,DET,8.0,9.0,55-43,3.0,2.5,N,-2
-99,"Wednesday, Jul 27",BOS,Home,DET,3.0,4.0,55-44,3.0,2.5,D,-3
-100,"Thursday, Jul 28",BOS,@,LAA,1.0,2.0,55-45,3.0,2.5,N,-4
-101,"Friday, Jul 29",BOS,@,LAA,6.0,2.0,56-45,3.0,1.5,N,1
-102,"Saturday, Jul 30",BOS,@,LAA,2.0,5.0,56-46,3.0,2.0,N,-1
-103,"Sunday, Jul 31",BOS,@,LAA,5.0,3.0,57-46,3.0,1.5,D,1
-104,"Monday, Aug 1",BOS,@,SEA,2.0,1.0,58-46,2.0,1.0,N,2
-105,"Tuesday, Aug 2",BOS,@,SEA,4.0,5.0,58-47,3.0,2.0,N,-1
-106,"Wednesday, Aug 3",BOS,@,SEA,1.0,3.0,58-48,3.0,3.0,N,-2
-107,"Thursday, Aug 4",BOS,@,SEA,3.0,2.0,59-48,3.0,2.0,N,1
-108,"Friday, Aug 5",BOS,@,LAD,9.0,0.0,60-48,3.0,2.0,N,2
-109,"Saturday, Aug 6",BOS,@,LAD,0.0,3.0,60-49,3.0,2.0,D,-1
-110,"Sunday, Aug 7",BOS,@,LAD,5.0,8.0,60-50,3.0,3.0,D,-2
-111,"Tuesday, Aug 9",BOS,Home,NYY,5.0,3.0,61-50,3.0,1.5,N,1
-112,"Wednesday, Aug 10",BOS,Home,NYY,4.0,9.0,61-51,3.0,2.5,N,-1
-113,"Thursday, Aug 11",BOS,Home,NYY,2.0,4.0,61-52,3.0,3.0,N,-2
-114,"Friday, Aug 12",BOS,Home,ARI,9.0,4.0,62-52,3.0,2.5,N,1
-115,"Saturday, Aug 13",BOS,Home,ARI,6.0,3.0,63-52,3.0,2.0,N,2
-116,"Sunday, Aug 14",BOS,Home,ARI,16.0,2.0,64-52,3.0,2.0,D,3
-117,"Monday, Aug 15",BOS,@,CLE,3.0,2.0,65-52,3.0,1.0,D,4
-118,"Tuesday, Aug 16",BOS,@,BAL,5.0,3.0,66-52,2.0,1.0,N,5
-119,"Wednesday, Aug 17",BOS,@,BAL,8.0,1.0,67-52,2.0,1.0,N,6
-120,"Thursday, Aug 18",BOS,@,DET,3.0,4.0,67-53,2.0,1.5,D,-1
-121,"Friday, Aug 19",BOS,@,DET,10.0,2.0,68-53,2.0,0.5,N,1
-122,"Saturday, Aug 20",BOS,@,DET,3.0,2.0,69-53,2.0,0.5,N,2
-123,"Sunday, Aug 21",BOS,@,DET,5.0,10.0,69-54,2.0,0.5,D,-1
-124,"Monday, Aug 22",BOS,@,TBR,6.0,2.0,70-54,1.0,Tied,N,1
-125,"Tuesday, Aug 23",BOS,@,TBR,2.0,1.0,71-54,1.0,Tied,N,2
-126,"Wednesday, Aug 24",BOS,@,TBR,3.0,4.0,71-55,1.0,Tied,N,-1
-127,"Thursday, Aug 25",BOS,@,TBR,1.0,2.0,71-56,1.0,Tied,D,-2
-128,"Friday, Aug 26",BOS,Home,KCR,3.0,6.0,71-57,2.0,1.0,N,-3
-129,"Saturday, Aug 27",BOS,Home,KCR,8.0,3.0,72-57,2.0,1.0,N,1
-130,"Sunday, Aug 28",BOS,Home,KCR,4.0,10.0,72-58,2.0,2.0,N,-1
-131,"Monday, Aug 29",BOS,Home,TBR,9.0,4.0,73-58,2.0,2.0,N,1
-132,"Tuesday, Aug 30",BOS,Home,TBR,3.0,4.0,73-59,2.0,2.0,N,-1
-133,"Wednesday, Aug 31",BOS,Home,TBR,8.0,6.0,74-59,2.0,2.0,D,1
-134,"Friday, Sep 2",BOS,@,OAK,16.0,2.0,75-59,2.0,1.0,N,2
-135,"Saturday, Sep 3",BOS,@,OAK,11.0,2.0,76-59,1.0,Tied,N,3
-136,"Sunday, Sep 4",BOS,@,OAK,0.0,1.0,76-60,2.0,1.0,D,-1
-137,"Monday, Sep 5",BOS,@,SDP,1.0,2.0,76-61,2.0,1.0,D,-2
-138,"Tuesday, Sep 6",BOS,@,SDP,5.0,1.0,77-61,1.0,Tied,N,1
-139,"Wednesday, Sep 7",BOS,@,SDP,7.0,2.0,78-61,1.0,up 1.0,N,2
-140,"Friday, Sep 9",BOS,@,TOR,13.0,3.0,79-61,1.0,up 2.0,N,3
-141,"Saturday, Sep 10",BOS,@,TOR,2.0,3.0,79-62,1.0,up 1.0,D,-1
-142,"Sunday, Sep 11",BOS,@,TOR,11.0,8.0,80-62,1.0,up 2.0,D,1
-143,"Monday, Sep 12",BOS,Home,BAL,12.0,2.0,81-62,1.0,up 2.0,N,2
-144,"Tuesday, Sep 13",BOS,Home,BAL,3.0,6.0,81-63,1.0,up 2.0,N,-1
-145,"Wednesday, Sep 14",BOS,Home,BAL,0.0,1.0,81-64,1.0,up 1.0,N,-2
-146,"Thursday, Sep 15",BOS,Home,NYY,7.0,5.0,82-64,1.0,up 2.0,N,1
-147,"Friday, Sep 16",BOS,Home,NYY,7.0,4.0,83-64,1.0,up 2.0,N,2
-148,"Saturday, Sep 17",BOS,Home,NYY,6.0,5.0,84-64,1.0,up 3.0,D,3
-149,"Sunday, Sep 18",BOS,Home,NYY,5.0,4.0,85-64,1.0,up 3.0,N,4
-150,"Monday, Sep 19",BOS,@,BAL,5.0,2.0,86-64,1.0,up 4.0,N,5
-151,"Tuesday, Sep 20",BOS,@,BAL,5.0,2.0,87-64,1.0,up 4.0,N,6
-152,"Wednesday, Sep 21",BOS,@,BAL,5.0,1.0,88-64,1.0,up 5.0,N,7
-153,"Thursday, Sep 22",BOS,@,BAL,5.0,3.0,89-64,1.0,up 5.5,N,8
-154,"Friday, Sep 23",BOS,@,TBR,2.0,1.0,90-64,1.0,up 5.5,N,9
-155,"Saturday, Sep 24",BOS,@,TBR,6.0,4.0,91-64,1.0,up 5.5,N,10
-156,"Sunday, Sep 25",BOS,@,TBR,3.0,2.0,92-64,1.0,up 5.5,D,11
-157,"Tuesday, Sep 27",BOS,@,NYY,4.0,6.0,92-65,1.0,up 5.0,N,-1
-158,"Wednesday, Sep 28",BOS,@,NYY,3.0,5.0,92-66,1.0,up 5.0,N,-2
-159,"Thursday, Sep 29",BOS,@,NYY,1.0,5.0,92-67,1.0,up 5.0,N,-3
-160,"Friday, Sep 30",BOS,Home,TOR,5.0,3.0,93-67,1.0,up 5.0,N,1
-161,"Saturday, Oct 1",BOS,Home,TOR,3.0,4.0,93-68,1.0,up 5.0,N,-1
-162,"Sunday, Oct 2",BOS,Home,TOR,1.0,2.0,93-69,1.0,up 4.0,D,-2
-1,"Monday, Apr 3",BOS,Home,PIT,5.0,3.0,1-0,1.0,Tied,D,1
-2,"Wednesday, Apr 5",BOS,Home,PIT,3.0,0.0,2-0,1.0,Tied,N,2
-3,"Friday, Apr 7",BOS,@,DET,5.0,6.0,2-1,2.0,1.0,D,-1
-4,"Saturday, Apr 8",BOS,@,DET,1.0,4.0,2-2,3.0,2.0,D,-2
-5,"Sunday, Apr 9",BOS,@,DET,7.0,5.0,3-2,3.0,1.0,D,1
-6,"Monday, Apr 10",BOS,@,DET,1.0,2.0,3-3,3.0,1.5,D,-1
-7,"Tuesday, Apr 11",BOS,Home,BAL,8.0,1.0,4-3,3.0,0.5,N,1
-8,"Wednesday, Apr 12",BOS,Home,BAL,5.0,12.0,4-4,3.0,1.5,N,-1
-9,"Thursday, Apr 13",BOS,Home,PIT,4.0,3.0,5-4,2.0,1.5,D,1
-10,"Friday, Apr 14",BOS,Home,TBR,5.0,10.0,5-5,4.0,2.5,N,-1
-11,"Saturday, Apr 15",BOS,Home,TBR,2.0,1.0,6-5,3.0,1.5,D,1
-12,"Sunday, Apr 16",BOS,Home,TBR,7.0,5.0,7-5,3.0,1.5,D,2
-13,"Monday, Apr 17",BOS,Home,TBR,4.0,3.0,8-5,3.0,1.0,D,3
-14,"Tuesday, Apr 18",BOS,@,TOR,8.0,7.0,9-5,1.0,Tied,N,4
-15,"Wednesday, Apr 19",BOS,@,TOR,0.0,3.0,9-6,3.0,1.0,N,-1
-16,"Thursday, Apr 20",BOS,@,TOR,4.0,1.0,10-6,3.0,1.0,D,1
-17,"Friday, Apr 21",BOS,@,BAL,0.0,2.0,10-7,3.0,2.0,N,-1
-18,"Saturday, Apr 22",BOS,@,BAL,2.0,4.0,10-8,3.0,3.0,N,-2
-19,"Sunday, Apr 23",BOS,@,BAL,6.0,2.0,11-8,3.0,2.0,D,1
-20,"Wednesday, Apr 26",BOS,Home,NYY,1.0,3.0,11-9,3.0,3.0,N,-1
-21,"Thursday, Apr 27",BOS,Home,NYY,0.0,3.0,11-10,3.0,3.5,N,-2
-22,"Friday, Apr 28",BOS,Home,CHC,5.0,4.0,12-10,3.0,2.5,N,1
-23,"Saturday, Apr 29",BOS,Home,CHC,4.0,7.0,12-11,3.0,3.5,D,-1
-24,"Sunday, Apr 30",BOS,Home,CHC,6.0,2.0,13-11,3.0,2.5,N,1
-25,"Monday, May 1",BOS,Home,BAL,2.0,5.0,13-12,3.0,3.5,N,-1
-26,"Tuesday, May 2",BOS,Home,BAL,5.0,2.0,14-12,3.0,2.5,N,1
-27,"Wednesday, May 3",BOS,Home,BAL,4.0,2.0,15-12,3.0,2.5,N,2
-28,"Thursday, May 4",BOS,Home,BAL,3.0,8.0,15-13,3.0,3.0,N,-1
-29,"Friday, May 5",BOS,@,MIN,3.0,4.0,15-14,3.0,4.0,N,-2
-30,"Saturday, May 6",BOS,@,MIN,11.0,1.0,16-14,3.0,4.0,D,1
-31,"Sunday, May 7",BOS,@,MIN,17.0,6.0,17-14,3.0,4.0,D,2
-32,"Tuesday, May 9",BOS,@,MIL,7.0,11.0,17-15,3.0,5.0,N,-1
-33,"Wednesday, May 10",BOS,@,MIL,4.0,7.0,17-16,3.0,5.0,N,-2
-34,"Thursday, May 11",BOS,@,MIL,4.0,1.0,18-16,3.0,4.5,D,1
-35,"Friday, May 12",BOS,Home,TBR,4.0,5.0,18-17,3.0,4.5,N,-1
-36,"Saturday, May 13",BOS,Home,TBR,6.0,3.0,19-17,3.0,3.5,D,1
-37,"Sunday, May 14",BOS,Home,TBR,2.0,11.0,19-18,3.0,4.0,D,-1
-38,"Tuesday, May 16",BOS,@,STL,6.0,3.0,20-18,3.0,4.0,N,1
-39,"Wednesday, May 17",BOS,@,STL,5.0,4.0,21-18,3.0,4.0,N,2
-40,"Thursday, May 18",BOS,@,OAK,3.0,8.0,21-19,3.0,4.0,N,-1
-41,"Friday, May 19",BOS,@,OAK,2.0,3.0,21-20,3.0,4.0,N,-2
-42,"Saturday, May 20",BOS,@,OAK,3.0,8.0,21-21,4.0,4.5,D,-3
-43,"Sunday, May 21",BOS,@,OAK,12.0,3.0,22-21,3.0,4.0,D,1
-44,"Tuesday, May 23",BOS,Home,TEX,11.0,6.0,23-21,3.0,3.5,N,2
-45,"Wednesday, May 24",BOS,Home,TEX,9.0,4.0,24-21,3.0,3.5,N,3
-46,"Thursday, May 25",BOS,Home,TEX,6.0,2.0,25-21,3.0,3.0,N,4
-47,"Friday, May 26",BOS,Home,SEA,3.0,0.0,26-21,2.0,2.0,N,5
-48,"Saturday, May 27",BOS,Home,SEA,6.0,0.0,27-21,2.0,2.0,D,6
-49,"Sunday, May 28",BOS,Home,SEA,0.0,5.0,27-22,2.0,3.0,D,-1
-50,"Monday, May 29",BOS,@,CHW,4.0,5.0,27-23,2.0,3.0,D,-2
-51,"Tuesday, May 30",BOS,@,CHW,13.0,7.0,28-23,2.0,3.0,N,1
-52,"Wednesday, May 31",BOS,@,CHW,4.0,1.0,29-23,2.0,2.0,N,2
-53,"Thursday, Jun 1",BOS,@,BAL,5.0,7.0,29-24,2.0,3.0,N,-1
-54,"Friday, Jun 2",BOS,@,BAL,2.0,3.0,29-25,3.0,3.0,N,-2
-55,"Saturday, Jun 3",BOS,@,BAL,5.0,2.0,30-25,2.0,3.0,N,1
-56,"Sunday, Jun 4",BOS,@,BAL,7.0,3.0,31-25,2.0,2.0,D,2
-57,"Tuesday, Jun 6",BOS,@,NYY,5.0,4.0,32-25,2.0,1.0,N,3
-58,"Wednesday, Jun 7",BOS,@,NYY,0.0,8.0,32-26,2.0,2.0,N,-1
-59,"Thursday, Jun 8",BOS,@,NYY,1.0,9.0,32-27,2.0,3.0,N,-2
-60,"Friday, Jun 9",BOS,Home,DET,5.0,3.0,33-27,2.0,3.0,N,1
-61,"Saturday, Jun 10",BOS,Home,DET,11.0,3.0,34-27,2.0,3.0,N,2
-62,"Sunday, Jun 11",BOS,Home,DET,3.0,8.0,34-28,2.0,4.0,N,-1
-63,"Monday, Jun 12",BOS,Home,PHI,6.0,5.0,35-28,2.0,4.0,N,1
-64,"Tuesday, Jun 13",BOS,Home,PHI,4.0,3.0,36-28,2.0,3.0,N,2
-65,"Wednesday, Jun 14",BOS,@,PHI,7.0,3.0,37-28,2.0,2.0,N,3
-66,"Thursday, Jun 15",BOS,@,PHI,0.0,1.0,37-29,2.0,2.0,N,-1
-67,"Friday, Jun 16",BOS,@,HOU,2.0,1.0,38-29,2.0,1.0,N,1
-68,"Saturday, Jun 17",BOS,@,HOU,1.0,7.0,38-30,2.0,1.0,N,-1
-69,"Sunday, Jun 18",BOS,@,HOU,6.0,5.0,39-30,1.0,Tied,N,1
-70,"Monday, Jun 19",BOS,@,KCR,2.0,4.0,39-31,2.0,0.5,N,-1
-71,"Tuesday, Jun 20",BOS,@,KCR,8.0,3.0,40-31,1.0,up 0.5,N,1
-72,"Wednesday, Jun 21",BOS,@,KCR,4.0,6.0,40-32,2.0,0.5,D,-1
-73,"Friday, Jun 23",BOS,Home,LAA,9.0,4.0,41-32,1.0,Tied,N,1
-74,"Saturday, Jun 24",BOS,Home,LAA,3.0,6.0,41-33,1.0,Tied,N,-1
-75,"Sunday, Jun 25",BOS,Home,LAA,2.0,4.0,41-34,1.0,Tied,D,-2
-76,"Monday, Jun 26",BOS,Home,MIN,4.0,1.0,42-34,1.0,Tied,N,1
-77,"Tuesday, Jun 27",BOS,Home,MIN,9.0,2.0,43-34,1.0,up 1.0,N,2
-78,"Wednesday, Jun 28",BOS,Home,MIN,1.0,4.0,43-35,1.0,Tied,N,-1
-79,"Thursday, Jun 29",BOS,Home,MIN,6.0,3.0,44-35,1.0,up 1.0,N,1
-80,"Friday, Jun 30",BOS,@,TOR,7.0,4.0,45-35,1.0,up 1.0,N,2
-81,"Saturday, Jul 1",BOS,@,TOR,7.0,1.0,46-35,1.0,up 2.0,D,3
-82,"Sunday, Jul 2",BOS,@,TOR,15.0,1.0,47-35,1.0,up 3.0,D,4
-83,"Monday, Jul 3",BOS,@,TEX,7.0,5.0,48-35,1.0,up 3.0,N,5
-84,"Tuesday, Jul 4",BOS,@,TEX,11.0,4.0,49-35,1.0,up 4.0,N,6
-85,"Wednesday, Jul 5",BOS,@,TEX,2.0,8.0,49-36,1.0,up 4.0,N,-1
-86,"Thursday, Jul 6",BOS,@,TBR,1.0,4.0,49-37,1.0,up 3.5,N,-2
-87,"Friday, Jul 7",BOS,@,TBR,8.0,3.0,50-37,1.0,up 4.5,N,1
-88,"Saturday, Jul 8",BOS,@,TBR,0.0,1.0,50-38,1.0,up 3.5,D,-1
-89,"Sunday, Jul 9",BOS,@,TBR,3.0,5.0,50-39,1.0,up 3.5,D,-2
-90,"Friday, Jul 14",BOS,Home,NYY,5.0,4.0,51-39,1.0,up 3.5,N,1
-91,"Saturday, Jul 15",BOS,Home,NYY,1.0,4.0,51-40,1.0,up 2.5,D,-1
-92,"Sunday, Jul 16 (1)",BOS,Home,NYY,0.0,3.0,51-41,1.0,up 3.0,D,-2
-93,"Sunday, Jul 16 (2)",BOS,Home,NYY,3.0,0.0,52-41,1.0,up 3.0,N,1
-94,"Monday, Jul 17",BOS,Home,TOR,3.0,4.0,52-42,1.0,up 2.0,N,-1
-95,"Tuesday, Jul 18",BOS,Home,TOR,5.0,4.0,53-42,1.0,up 2.0,N,1
-96,"Wednesday, Jul 19",BOS,Home,TOR,5.0,1.0,54-42,1.0,up 3.0,N,2
-97,"Thursday, Jul 20",BOS,Home,TOR,6.0,8.0,54-43,1.0,up 2.5,D,-1
-98,"Friday, Jul 21",BOS,@,LAA,6.0,2.0,55-43,1.0,up 3.5,N,1
-99,"Saturday, Jul 22",BOS,@,LAA,3.0,7.0,55-44,1.0,up 3.5,N,-1
-100,"Sunday, Jul 23",BOS,@,LAA,2.0,3.0,55-45,1.0,up 2.5,D,-2
-101,"Monday, Jul 24",BOS,@,SEA,0.0,4.0,55-46,1.0,up 2.0,N,-3
-102,"Tuesday, Jul 25",BOS,@,SEA,5.0,6.0,55-47,1.0,up 1.0,N,-4
-103,"Wednesday, Jul 26",BOS,@,SEA,4.0,0.0,56-47,1.0,up 1.0,D,1
-104,"Friday, Jul 28",BOS,Home,KCR,2.0,4.0,56-48,2.0,0.5,N,-1
-105,"Saturday, Jul 29",BOS,Home,KCR,9.0,8.0,57-48,2.0,0.5,N,1
-106,"Sunday, Jul 30",BOS,Home,KCR,3.0,5.0,57-49,2.0,0.5,D,-1
-107,"Monday, Jul 31",BOS,Home,CLE,6.0,2.0,58-49,2.0,0.5,N,1
-108,"Tuesday, Aug 1",BOS,Home,CLE,12.0,10.0,59-49,1.0,up 0.5,N,2
-109,"Thursday, Aug 3",BOS,Home,CHW,9.0,5.0,60-49,1.0,up 2.0,N,3
-110,"Friday, Aug 4",BOS,Home,CHW,3.0,2.0,61-49,1.0,up 3.0,N,4
-111,"Saturday, Aug 5",BOS,Home,CHW,4.0,1.0,62-49,1.0,up 3.0,N,5
-112,"Sunday, Aug 6",BOS,Home,CHW,6.0,3.0,63-49,1.0,up 3.0,D,6
-113,"Tuesday, Aug 8",BOS,@,TBR,2.0,0.0,64-49,1.0,up 4.0,N,7
-114,"Wednesday, Aug 9",BOS,@,TBR,8.0,2.0,65-49,1.0,up 4.0,N,8
-115,"Friday, Aug 11",BOS,@,NYY,4.0,5.0,65-50,1.0,up 3.5,N,-1
-116,"Saturday, Aug 12",BOS,@,NYY,10.0,5.0,66-50,1.0,up 4.5,D,1
-117,"Sunday, Aug 13",BOS,@,NYY,3.0,2.0,67-50,1.0,up 5.5,N,2
-118,"Monday, Aug 14",BOS,Home,CLE,3.0,7.0,67-51,1.0,up 4.5,N,-1
-119,"Tuesday, Aug 15",BOS,Home,STL,10.0,4.0,68-51,1.0,up 4.5,N,1
-120,"Wednesday, Aug 16",BOS,Home,STL,5.0,4.0,69-51,1.0,up 4.5,N,2
-121,"Friday, Aug 18",BOS,Home,NYY,9.0,6.0,70-51,1.0,up 5.0,N,3
-122,"Saturday, Aug 19",BOS,Home,NYY,3.0,4.0,70-52,1.0,up 4.0,N,-1
-123,"Sunday, Aug 20",BOS,Home,NYY,5.0,1.0,71-52,1.0,up 5.0,D,1
-124,"Monday, Aug 21",BOS,@,CLE,4.0,5.0,71-53,1.0,up 4.5,N,-1
-125,"Tuesday, Aug 22",BOS,@,CLE,9.0,1.0,72-53,1.0,up 4.5,N,1
-126,"Wednesday, Aug 23",BOS,@,CLE,6.0,1.0,73-53,1.0,up 4.5,N,2
-127,"Thursday, Aug 24",BOS,@,CLE,6.0,13.0,73-54,1.0,up 4.5,N,-1
-128,"Friday, Aug 25",BOS,Home,BAL,3.0,16.0,73-55,1.0,up 4.5,N,-2
-129,"Saturday, Aug 26",BOS,Home,BAL,0.0,7.0,73-56,1.0,up 3.5,D,-3
-130,"Sunday, Aug 27",BOS,Home,BAL,1.0,2.0,73-57,1.0,up 2.5,D,-4
-131,"Monday, Aug 28",BOS,@,TOR,6.0,5.0,74-57,1.0,up 3.5,N,1
-132,"Tuesday, Aug 29",BOS,@,TOR,3.0,0.0,75-57,1.0,up 4.0,N,2
-133,"Wednesday, Aug 30",BOS,@,TOR,7.0,1.0,76-57,1.0,up 5.5,N,3
-134,"Thursday, Aug 31",BOS,@,NYY,2.0,6.0,76-58,1.0,up 4.5,N,-1
-135,"Friday, Sep 1",BOS,@,NYY,4.0,1.0,77-58,1.0,up 5.5,N,1
-136,"Saturday, Sep 2",BOS,@,NYY,1.0,5.0,77-59,1.0,up 4.5,D,-1
-137,"Sunday, Sep 3",BOS,@,NYY,2.0,9.0,77-60,1.0,up 3.5,N,-2
-138,"Monday, Sep 4",BOS,Home,TOR,4.0,10.0,77-61,1.0,up 2.5,N,-3
-139,"Tuesday, Sep 5",BOS,Home,TOR,3.0,2.0,78-61,1.0,up 3.5,N,1
-140,"Wednesday, Sep 6",BOS,Home,TOR,6.0,1.0,79-61,1.0,up 4.0,N,2
-141,"Friday, Sep 8",BOS,Home,TBR,9.0,3.0,80-61,1.0,up 4.5,N,3
-142,"Saturday, Sep 9",BOS,Home,TBR,9.0,0.0,81-61,1.0,up 4.5,N,4
-143,"Sunday, Sep 10",BOS,Home,TBR,1.0,4.0,81-62,1.0,up 3.5,D,-1
-144,"Tuesday, Sep 12",BOS,Home,OAK,11.0,1.0,82-62,1.0,up 4.0,N,1
-145,"Wednesday, Sep 13",BOS,Home,OAK,3.0,7.0,82-63,1.0,up 3.0,N,-1
-146,"Thursday, Sep 14",BOS,Home,OAK,6.0,2.0,83-63,1.0,up 3.0,D,1
-147,"Friday, Sep 15",BOS,@,TBR,13.0,6.0,84-63,1.0,up 3.0,N,2
-148,"Saturday, Sep 16",BOS,@,TBR,3.0,1.0,85-63,1.0,up 3.0,N,3
-149,"Sunday, Sep 17",BOS,@,TBR,2.0,3.0,85-64,1.0,up 3.0,D,-1
-150,"Monday, Sep 18",BOS,@,BAL,10.0,8.0,86-64,1.0,up 3.0,N,1
-151,"Tuesday, Sep 19",BOS,@,BAL,1.0,0.0,87-64,1.0,up 3.0,N,2
-152,"Wednesday, Sep 20",BOS,@,BAL,9.0,0.0,88-64,1.0,up 3.0,N,3
-153,"Friday, Sep 22",BOS,@,CIN,5.0,4.0,89-64,1.0,up 4.0,N,4
-154,"Saturday, Sep 23",BOS,@,CIN,5.0,0.0,90-64,1.0,up 4.0,D,5
-155,"Sunday, Sep 24",BOS,@,CIN,5.0,4.0,91-64,1.0,up 5.0,D,6
-156,"Monday, Sep 25",BOS,Home,TOR,4.0,6.0,91-65,1.0,up 4.0,N,-1
-157,"Tuesday, Sep 26",BOS,Home,TOR,4.0,9.0,91-66,1.0,up 3.0,N,-2
-158,"Wednesday, Sep 27",BOS,Home,TOR,10.0,7.0,92-66,1.0,up 3.0,N,1
-159,"Thursday, Sep 28",BOS,Home,HOU,2.0,12.0,92-67,1.0,up 3.0,N,-1
-160,"Friday, Sep 29",BOS,Home,HOU,2.0,3.0,92-68,1.0,up 2.0,N,-2
-161,"Saturday, Sep 30",BOS,Home,HOU,6.0,3.0,93-68,1.0,up 2.0,D,1
-162,"Sunday, Oct 1",BOS,Home,HOU,3.0,4.0,93-69,1.0,up 2.0,D,-1
-1,"Thursday, Mar 29",BOS,@,TBR,4.0,6.0,0-1,4.0,1.0,D,-1
-2,"Friday, Mar 30",BOS,@,TBR,1.0,0.0,1-1,3.0,1.0,N,1
-3,"Saturday, Mar 31",BOS,@,TBR,3.0,2.0,2-1,1.0,Tied,N,2
-4,"Sunday, Apr 1",BOS,@,TBR,2.0,1.0,3-1,1.0,up 1.0,D,3
-5,"Monday, Apr 2",BOS,@,MIA,7.0,3.0,4-1,1.0,up 1.0,N,4
-6,"Tuesday, Apr 3",BOS,@,MIA,4.0,2.0,5-1,1.0,up 1.0,N,5
-7,"Thursday, Apr 5",BOS,Home,TBR,3.0,2.0,6-1,1.0,up 2.0,D,6
-8,"Saturday, Apr 7",BOS,Home,TBR,10.0,3.0,7-1,1.0,up 2.5,D,7
-9,"Sunday, Apr 8",BOS,Home,TBR,8.0,7.0,8-1,1.0,up 2.5,D,8
-10,"Tuesday, Apr 10",BOS,Home,NYY,14.0,1.0,9-1,1.0,up 2.0,N,9
-11,"Wednesday, Apr 11",BOS,Home,NYY,7.0,10.0,9-2,1.0,up 2.0,N,-1
-12,"Thursday, Apr 12",BOS,Home,NYY,6.0,3.0,10-2,1.0,up 2.5,N,1
-13,"Friday, Apr 13",BOS,Home,BAL,7.0,3.0,11-2,1.0,up 2.5,N,2
-14,"Saturday, Apr 14",BOS,Home,BAL,10.0,3.0,12-2,1.0,up 3.0,D,3
-15,"Sunday, Apr 15",BOS,Home,BAL,3.0,1.0,13-2,1.0,up 3.5,D,4
-16,"Tuesday, Apr 17",BOS,@,LAA,10.0,1.0,14-2,1.0,up 3.0,N,5
-17,"Wednesday, Apr 18",BOS,@,LAA,9.0,0.0,15-2,1.0,up 3.0,N,6
-18,"Thursday, Apr 19",BOS,@,LAA,8.0,2.0,16-2,1.0,up 4.0,N,7
-19,"Friday, Apr 20",BOS,@,OAK,7.0,3.0,17-2,1.0,up 4.0,N,8
-20,"Saturday, Apr 21",BOS,@,OAK,0.0,3.0,17-3,1.0,up 4.0,N,-1
-21,"Sunday, Apr 22",BOS,@,OAK,1.0,4.0,17-4,1.0,up 4.0,D,-2
-22,"Tuesday, Apr 24",BOS,@,TOR,3.0,4.0,17-5,1.0,up 3.0,N,-3
-23,"Wednesday, Apr 25",BOS,@,TOR,4.0,3.0,18-5,1.0,up 4.0,N,1
-24,"Thursday, Apr 26",BOS,@,TOR,5.0,4.0,19-5,1.0,up 4.0,N,2
-25,"Friday, Apr 27",BOS,Home,TBR,3.0,4.0,19-6,1.0,up 3.0,N,-1
-26,"Saturday, Apr 28",BOS,Home,TBR,6.0,12.0,19-7,1.0,up 2.0,D,-2
-27,"Sunday, Apr 29",BOS,Home,TBR,4.0,3.0,20-7,1.0,up 2.0,D,1
-28,"Monday, Apr 30",BOS,Home,KCR,10.0,6.0,21-7,1.0,up 3.0,N,2
-29,"Tuesday, May 1",BOS,Home,KCR,6.0,7.0,21-8,1.0,up 2.0,N,-1
-30,"Wednesday, May 2",BOS,Home,KCR,5.0,4.0,22-8,1.0,up 2.0,D,1
-31,"Thursday, May 3",BOS,@,TEX,5.0,11.0,22-9,1.0,up 1.0,N,-1
-32,"Friday, May 4",BOS,@,TEX,5.0,1.0,23-9,1.0,up 1.0,N,1
-33,"Saturday, May 5",BOS,@,TEX,6.0,5.0,24-9,1.0,up 1.0,N,2
-34,"Sunday, May 6",BOS,@,TEX,6.0,1.0,25-9,1.0,up 1.0,D,3
-35,"Tuesday, May 8",BOS,@,NYY,2.0,3.0,25-10,1.0,Tied,N,-1
-36,"Wednesday, May 9",BOS,@,NYY,6.0,9.0,25-11,2.0,1.0,N,-2
-37,"Thursday, May 10",BOS,@,NYY,5.0,4.0,26-11,1.0,Tied,N,1
-38,"Friday, May 11",BOS,@,TOR,3.0,5.0,26-12,1.0,Tied,N,-1
-39,"Saturday, May 12",BOS,@,TOR,5.0,2.0,27-12,1.0,Tied,D,1
-40,"Sunday, May 13",BOS,@,TOR,5.0,3.0,28-12,1.0,Tied,D,2
-41,"Monday, May 14",BOS,Home,OAK,5.0,6.0,28-13,2.0,0.5,N,-1
-42,"Tuesday, May 15",BOS,Home,OAK,3.0,5.0,28-14,2.0,0.5,N,-2
-43,"Wednesday, May 16",BOS,Home,OAK,6.0,4.0,29-14,1.0,Tied,N,1
-44,"Thursday, May 17",BOS,Home,BAL,6.0,2.0,30-14,1.0,up 0.5,N,2
-45,"Friday, May 18",BOS,Home,BAL,4.0,7.0,30-15,1.0,up 0.5,N,-1
-46,"Saturday, May 19",BOS,Home,BAL,6.0,3.0,31-15,1.0,up 0.5,N,1
-47,"Sunday, May 20",BOS,Home,BAL,5.0,0.0,32-15,1.0,up 0.5,D,2
-48,"Tuesday, May 22",BOS,@,TBR,4.0,2.0,33-15,1.0,up 1.0,N,3
-49,"Wednesday, May 23",BOS,@,TBR,4.0,1.0,34-15,1.0,up 2.0,N,4
-50,"Thursday, May 24",BOS,@,TBR,3.0,6.0,34-16,1.0,up 1.5,N,-1
-51,"Friday, May 25",BOS,Home,ATL,6.0,2.0,35-16,1.0,up 1.5,N,1
-52,"Saturday, May 26",BOS,Home,ATL,8.0,6.0,36-16,1.0,up 2.5,D,2
-53,"Sunday, May 27",BOS,Home,ATL,1.0,7.0,36-17,1.0,up 1.5,D,-1
-54,"Monday, May 28",BOS,Home,TOR,8.0,3.0,37-17,1.0,up 2.5,D,1
-55,"Tuesday, May 29",BOS,Home,TOR,8.0,3.0,38-17,1.0,up 2.5,N,2
-56,"Wednesday, May 30",BOS,Home,TOR,6.0,4.0,39-17,1.0,up 2.5,D,3
-57,"Thursday, May 31",BOS,@,HOU,2.0,4.0,39-18,1.0,up 2.0,N,-1
-58,"Friday, Jun 1",BOS,@,HOU,3.0,7.0,39-19,1.0,up 1.0,N,-2
-59,"Saturday, Jun 2",BOS,@,HOU,5.0,4.0,40-19,1.0,up 1.0,N,1
-60,"Sunday, Jun 3",BOS,@,HOU,9.0,3.0,41-19,1.0,up 1.5,N,2
-61,"Tuesday, Jun 5",BOS,Home,DET,6.0,0.0,42-19,1.0,up 1.5,N,3
-62,"Wednesday, Jun 6",BOS,Home,DET,7.0,1.0,43-19,1.0,up 1.5,N,4
-63,"Thursday, Jun 7",BOS,Home,DET,2.0,7.0,43-20,1.0,up 1.0,N,-1
-64,"Friday, Jun 8",BOS,Home,CHW,0.0,1.0,43-21,1.0,Tied,N,-2
-65,"Saturday, Jun 9",BOS,Home,CHW,4.0,2.0,44-21,1.0,Tied,D,1
-66,"Sunday, Jun 10",BOS,Home,CHW,2.0,5.0,44-22,1.0,Tied,D,-1
-67,"Monday, Jun 11",BOS,@,BAL,2.0,0.0,45-22,1.0,up 0.5,N,1
-68,"Tuesday, Jun 12",BOS,@,BAL,6.0,4.0,46-22,1.0,up 0.5,N,2
-69,"Wednesday, Jun 13",BOS,@,BAL,5.0,1.0,47-22,1.0,up 1.5,D,3
-70,"Thursday, Jun 14",BOS,@,SEA,2.0,1.0,48-22,1.0,up 1.5,N,4
-71,"Friday, Jun 15",BOS,@,SEA,6.0,7.0,48-23,1.0,up 0.5,N,-1
-72,"Saturday, Jun 16",BOS,@,SEA,0.0,1.0,48-24,2.0,0.5,N,-2
-73,"Sunday, Jun 17",BOS,@,SEA,9.0,3.0,49-24,1.0,up 0.5,D,1
-74,"Tuesday, Jun 19",BOS,@,MIN,2.0,6.0,49-25,2.0,1.0,N,-1
-75,"Wednesday, Jun 20",BOS,@,MIN,1.0,4.0,49-26,2.0,2.0,N,-2
-76,"Thursday, Jun 21",BOS,@,MIN,9.0,2.0,50-26,2.0,2.0,D,1
-77,"Friday, Jun 22",BOS,Home,SEA,14.0,10.0,51-26,2.0,1.0,N,2
-78,"Saturday, Jun 23",BOS,Home,SEA,2.0,7.0,51-27,2.0,1.0,N,-1
-79,"Sunday, Jun 24",BOS,Home,SEA,5.0,0.0,52-27,1.0,Tied,D,1
-80,"Tuesday, Jun 26",BOS,Home,LAA,9.0,1.0,53-27,2.0,0.5,N,2
-81,"Wednesday, Jun 27",BOS,Home,LAA,9.0,6.0,54-27,1.0,up 0.5,N,3
-82,"Thursday, Jun 28",BOS,Home,LAA,4.0,2.0,55-27,1.0,up 1.0,N,4
-83,"Friday, Jun 29",BOS,@,NYY,1.0,8.0,55-28,1.0,Tied,N,-1
-84,"Saturday, Jun 30",BOS,@,NYY,11.0,0.0,56-28,1.0,up 1.0,N,1
-85,"Sunday, Jul 1",BOS,@,NYY,1.0,11.0,56-29,1.0,Tied,N,-1
-86,"Monday, Jul 2",BOS,@,WSN,4.0,3.0,57-29,1.0,up 1.0,N,1
-87,"Tuesday, Jul 3",BOS,@,WSN,11.0,4.0,58-29,1.0,up 1.0,N,2
-88,"Wednesday, Jul 4",BOS,@,WSN,3.0,0.0,59-29,1.0,up 1.0,D,3
-89,"Friday, Jul 6",BOS,@,KCR,10.0,5.0,60-29,1.0,up 2.0,N,4
-90,"Saturday, Jul 7",BOS,@,KCR,15.0,4.0,61-29,1.0,up 2.0,N,5
-91,"Sunday, Jul 8",BOS,@,KCR,7.0,4.0,62-29,1.0,up 2.0,D,6
-92,"Monday, Jul 9",BOS,Home,TEX,5.0,0.0,63-29,1.0,up 2.5,N,7
-93,"Tuesday, Jul 10",BOS,Home,TEX,8.0,4.0,64-29,1.0,up 3.5,N,8
-94,"Wednesday, Jul 11",BOS,Home,TEX,4.0,2.0,65-29,1.0,up 3.5,N,9
-95,"Thursday, Jul 12",BOS,Home,TOR,6.0,4.0,66-29,1.0,up 3.5,N,10
-96,"Friday, Jul 13",BOS,Home,TOR,7.0,13.0,66-30,1.0,up 3.5,N,-1
-97,"Saturday, Jul 14",BOS,Home,TOR,6.0,2.0,67-30,1.0,up 3.5,D,1
-98,"Sunday, Jul 15",BOS,Home,TOR,5.0,2.0,68-30,1.0,up 4.5,D,2
-99,"Friday, Jul 20",BOS,@,DET,1.0,0.0,69-30,1.0,up 5.5,N,3
-100,"Saturday, Jul 21",BOS,@,DET,0.0,5.0,69-31,1.0,up 4.5,N,-1
-101,"Sunday, Jul 22",BOS,@,DET,9.0,1.0,70-31,1.0,up 5.0,D,1
-102,"Monday, Jul 23",BOS,@,BAL,5.0,3.0,71-31,1.0,up 6.0,N,2
-103,"Tuesday, Jul 24",BOS,@,BAL,6.0,7.0,71-32,1.0,up 5.0,N,-1
-104,"Thursday, Jul 26",BOS,Home,MIN,1.0,2.0,71-33,1.0,up 4.5,N,-2
-105,"Friday, Jul 27",BOS,Home,MIN,4.0,3.0,72-33,1.0,up 5.0,N,1
-106,"Saturday, Jul 28",BOS,Home,MIN,10.0,4.0,73-33,1.0,up 5.5,N,2
-107,"Sunday, Jul 29",BOS,Home,MIN,3.0,0.0,74-33,1.0,up 5.5,D,3
-108,"Monday, Jul 30",BOS,Home,PHI,2.0,1.0,75-33,1.0,up 6.0,N,4
-109,"Tuesday, Jul 31",BOS,Home,PHI,1.0,3.0,75-34,1.0,up 5.0,N,-1
-110,"Thursday, Aug 2",BOS,Home,NYY,15.0,7.0,76-34,1.0,up 6.5,N,1
-111,"Friday, Aug 3",BOS,Home,NYY,4.0,1.0,77-34,1.0,up 7.5,N,2
-112,"Saturday, Aug 4",BOS,Home,NYY,4.0,1.0,78-34,1.0,up 8.5,D,3
-113,"Sunday, Aug 5",BOS,Home,NYY,5.0,4.0,79-34,1.0,up 9.5,N,4
-114,"Tuesday, Aug 7",BOS,@,TOR,10.0,7.0,80-34,1.0,up 9.0,N,5
-115,"Wednesday, Aug 8",BOS,@,TOR,10.0,5.0,81-34,1.0,up 9.0,N,6
-116,"Thursday, Aug 9",BOS,@,TOR,5.0,8.0,81-35,1.0,up 8.0,N,-1
-117,"Friday, Aug 10",BOS,@,BAL,19.0,12.0,82-35,1.0,up 9.0,N,1
-118,"Saturday, Aug 11 (1)",BOS,@,BAL,5.0,0.0,83-35,1.0,up 9.5,D,2
-119,"Saturday, Aug 11 (2)",BOS,@,BAL,6.0,4.0,84-35,1.0,up 9.5,N,3
-120,"Sunday, Aug 12",BOS,@,BAL,4.0,1.0,85-35,1.0,up 9.5,D,4
-121,"Tuesday, Aug 14",BOS,@,PHI,2.0,1.0,86-35,1.0,up10.0,N,5
-122,"Wednesday, Aug 15",BOS,@,PHI,4.0,7.0,86-36,1.0,up10.0,N,-1
-123,"Friday, Aug 17",BOS,Home,TBR,7.0,3.0,87-36,1.0,up10.5,N,1
-124,"Saturday, Aug 18",BOS,Home,TBR,5.0,2.0,88-36,1.0,up10.5,N,2
-125,"Sunday, Aug 19",BOS,Home,TBR,0.0,2.0,88-37,1.0,up 9.5,D,-1
-126,"Monday, Aug 20",BOS,Home,CLE,4.0,5.0,88-38,1.0,up 9.0,N,-2
-127,"Tuesday, Aug 21",BOS,Home,CLE,3.0,6.0,88-39,1.0,up 8.0,N,-3
-128,"Wednesday, Aug 22",BOS,Home,CLE,10.0,4.0,89-39,1.0,up 9.0,N,1
-129,"Thursday, Aug 23",BOS,Home,CLE,7.0,0.0,90-39,1.0,up 9.5,D,2
-130,"Friday, Aug 24",BOS,@,TBR,3.0,10.0,90-40,1.0,up 8.5,N,-1
-131,"Saturday, Aug 25",BOS,@,TBR,1.0,5.0,90-41,1.0,up 7.0,N,-2
-132,"Sunday, Aug 26",BOS,@,TBR,1.0,9.0,90-42,1.0,up 6.0,D,-3
-133,"Tuesday, Aug 28",BOS,Home,MIA,8.0,7.0,91-42,1.0,up 6.5,N,1
-134,"Wednesday, Aug 29",BOS,Home,MIA,14.0,6.0,92-42,1.0,up 7.5,N,2
-135,"Thursday, Aug 30",BOS,@,CHW,9.0,4.0,93-42,1.0,up 8.5,N,3
-136,"Friday, Aug 31",BOS,@,CHW,1.0,6.0,93-43,1.0,up 7.5,N,-1
-137,"Saturday, Sep 1",BOS,@,CHW,6.0,1.0,94-43,1.0,up 7.5,N,1
-138,"Sunday, Sep 2",BOS,@,CHW,0.0,8.0,94-44,1.0,up 7.5,D,-1
-139,"Monday, Sep 3",BOS,@,ATL,8.0,2.0,95-44,1.0,up 8.5,D,1
-140,"Tuesday, Sep 4",BOS,@,ATL,5.0,1.0,96-44,1.0,up 8.5,N,2
-141,"Wednesday, Sep 5",BOS,@,ATL,9.0,8.0,97-44,1.0,up 9.5,D,3
-142,"Friday, Sep 7",BOS,Home,HOU,3.0,6.0,97-45,1.0,up 8.5,N,-1
-143,"Saturday, Sep 8",BOS,Home,HOU,3.0,5.0,97-46,1.0,up 7.5,D,-2
-144,"Sunday, Sep 9",BOS,Home,HOU,6.0,5.0,98-46,1.0,up 8.5,N,1
-145,"Tuesday, Sep 11",BOS,Home,TOR,7.0,2.0,99-46,1.0,up 9.0,N,2
-146,"Wednesday, Sep 12",BOS,Home,TOR,1.0,0.0,100-46,1.0,up10.0,N,3
-147,"Thursday, Sep 13",BOS,Home,TOR,4.0,3.0,101-46,1.0,up10.5,N,4
-148,"Friday, Sep 14",BOS,Home,NYM,0.0,8.0,101-47,1.0,up 9.5,N,-1
-149,"Saturday, Sep 15",BOS,Home,NYM,5.0,3.0,102-47,1.0,up10.5,D,1
-150,"Sunday, Sep 16",BOS,Home,NYM,4.0,3.0,103-47,1.0,up11.5,D,2
-151,"Tuesday, Sep 18",BOS,@,NYY,2.0,3.0,103-48,1.0,up10.5,N,-1
-152,"Wednesday, Sep 19",BOS,@,NYY,1.0,10.0,103-49,1.0,up 9.5,N,-2
-153,"Thursday, Sep 20",BOS,@,NYY,11.0,6.0,104-49,1.0,up10.5,N,1
-154,"Friday, Sep 21",BOS,@,CLE,7.0,5.0,105-49,1.0,up10.5,N,2
-155,"Saturday, Sep 22",BOS,@,CLE,4.0,5.0,105-50,1.0,up 9.5,N,-1
-156,"Sunday, Sep 23",BOS,@,CLE,3.0,4.0,105-51,1.0,up 9.5,N,-2
-157,"Monday, Sep 24",BOS,Home,BAL,6.0,2.0,106-51,1.0,up 9.5,N,1
-158,"Wednesday, Sep 26 (1)",BOS,Home,BAL,19.0,3.0,107-51,1.0,up 9.5,D,2
-159,"Wednesday, Sep 26 (2)",BOS,Home,BAL,3.0,10.0,107-52,1.0,up 9.5,N,-1
-160,"Friday, Sep 28",BOS,Home,NYY,6.0,11.0,107-53,1.0,up 8.0,N,-2
-161,"Saturday, Sep 29",BOS,Home,NYY,5.0,8.0,107-54,1.0,up 7.0,D,-3
-162,"Sunday, Sep 30",BOS,Home,NYY,10.0,2.0,108-54,1.0,up 8.0,D,1
-1,"Thursday, Mar 28",BOS,@,SEA,4.0,12.0,0-1,2.0,1.0,D,-1
-2,"Friday, Mar 29",BOS,@,SEA,7.0,6.0,1-1,2.0,0.5,N,1
-3,"Saturday, Mar 30",BOS,@,SEA,5.0,6.0,1-2,5.0,1.0,N,-1
-4,"Sunday, Mar 31",BOS,@,SEA,8.0,10.0,1-3,5.0,2.0,D,-2
-5,"Monday, Apr 1",BOS,@,OAK,0.0,7.0,1-4,5.0,3.0,N,-3
-6,"Tuesday, Apr 2",BOS,@,OAK,0.0,1.0,1-5,5.0,4.0,N,-4
-7,"Wednesday, Apr 3",BOS,@,OAK,6.0,3.0,2-5,5.0,3.0,N,1
-8,"Thursday, Apr 4",BOS,@,OAK,3.0,7.0,2-6,5.0,3.5,D,-1
-9,"Friday, Apr 5",BOS,@,ARI,8.0,15.0,2-7,5.0,4.5,D,-2
-10,"Saturday, Apr 6",BOS,@,ARI,4.0,5.0,2-8,5.0,4.5,N,-3
-11,"Sunday, Apr 7",BOS,@,ARI,1.0,0.0,3-8,4.0,4.5,D,1
-12,"Tuesday, Apr 9",BOS,Home,TOR,5.0,7.0,3-9,5.0,6.0,D,-1
-13,"Thursday, Apr 11",BOS,Home,TOR,7.0,6.0,4-9,4.0,6.0,N,1
-14,"Friday, Apr 12",BOS,Home,BAL,6.0,4.0,5-9,3.0,6.0,N,2
-15,"Saturday, Apr 13",BOS,Home,BAL,5.0,9.0,5-10,4.0,6.0,D,-1
-16,"Sunday, Apr 14",BOS,Home,BAL,4.0,0.0,6-10,3.0,6.0,D,1
-17,"Monday, Apr 15",BOS,Home,BAL,1.0,8.0,6-11,4.0,6.5,D,-1
-18,"Tuesday, Apr 16",BOS,@,NYY,0.0,8.0,6-12,5.0,7.5,N,-2
-19,"Wednesday, Apr 17",BOS,@,NYY,3.0,5.0,6-13,5.0,8.5,N,-3
-20,"Friday, Apr 19",BOS,@,TBR,6.0,4.0,7-13,5.0,7.0,N,1
-21,"Saturday, Apr 20",BOS,@,TBR,6.0,5.0,8-13,4.0,6.0,N,2
-22,"Sunday, Apr 21",BOS,@,TBR,4.0,3.0,9-13,4.0,5.0,D,3
-23,"Tuesday, Apr 23 (1)",BOS,Home,DET,4.0,7.0,9-14,4.0,7.0,D,-1
-24,"Tuesday, Apr 23 (2)",BOS,Home,DET,2.0,4.0,9-15,4.0,7.0,N,-2
-25,"Wednesday, Apr 24",BOS,Home,DET,11.0,4.0,10-15,4.0,6.0,N,1
-26,"Thursday, Apr 25",BOS,Home,DET,7.0,3.0,11-15,4.0,5.5,N,2
-27,"Saturday, Apr 27",BOS,Home,TBR,1.0,2.0,11-16,4.0,6.5,D,-1
-28,"Sunday, Apr 28",BOS,Home,TBR,2.0,5.0,11-17,4.0,7.5,D,-2
-29,"Monday, Apr 29",BOS,Home,OAK,9.0,4.0,12-17,4.0,7.5,N,1
-30,"Tuesday, Apr 30",BOS,Home,OAK,5.0,1.0,13-17,4.0,7.0,N,2
-31,"Wednesday, May 1",BOS,Home,OAK,7.0,3.0,14-17,4.0,5.5,D,3
-32,"Thursday, May 2",BOS,@,CHW,4.0,6.0,14-18,4.0,6.5,N,-1
-33,"Friday, May 3",BOS,@,CHW,6.0,1.0,15-18,4.0,6.5,N,1
-34,"Saturday, May 4",BOS,@,CHW,15.0,2.0,16-18,3.0,5.5,N,2
-35,"Sunday, May 5",BOS,@,CHW,9.0,2.0,17-18,3.0,5.0,D,3
-36,"Monday, May 6",BOS,@,BAL,1.0,4.0,17-19,3.0,6.0,N,-1
-37,"Tuesday, May 7",BOS,@,BAL,8.0,5.0,18-19,3.0,6.0,N,1
-38,"Wednesday, May 8",BOS,@,BAL,2.0,1.0,19-19,3.0,5.0,N,2
-39,"Friday, May 10",BOS,Home,SEA,14.0,1.0,20-19,3.0,4.0,N,3
-40,"Saturday, May 11",BOS,Home,SEA,9.0,5.0,21-19,3.0,4.0,D,4
-41,"Sunday, May 12",BOS,Home,SEA,11.0,2.0,22-19,3.0,3.0,D,5
-42,"Tuesday, May 14",BOS,Home,COL,4.0,5.0,22-20,3.0,4.0,N,-1
-43,"Wednesday, May 15",BOS,Home,COL,6.0,5.0,23-20,3.0,4.0,N,1
-44,"Friday, May 17",BOS,Home,HOU,1.0,3.0,23-21,3.0,4.5,N,-1
-45,"Saturday, May 18",BOS,Home,HOU,3.0,7.0,23-22,3.0,5.0,N,-2
-46,"Sunday, May 19",BOS,Home,HOU,4.0,3.0,24-22,3.0,4.5,D,1
-47,"Monday, May 20",BOS,@,TOR,12.0,2.0,25-22,3.0,4.5,D,2
-48,"Tuesday, May 21",BOS,@,TOR,3.0,10.0,25-23,3.0,5.5,N,-1
-49,"Wednesday, May 22",BOS,@,TOR,6.0,5.0,26-23,3.0,5.5,N,1
-50,"Thursday, May 23",BOS,@,TOR,8.0,2.0,27-23,3.0,5.5,D,2
-51,"Friday, May 24",BOS,@,HOU,3.0,4.0,27-24,3.0,6.0,N,-1
-52,"Saturday, May 25",BOS,@,HOU,3.0,4.0,27-25,3.0,7.5,N,-2
-53,"Sunday, May 26",BOS,@,HOU,4.0,1.0,28-25,3.0,6.5,D,1
-54,"Monday, May 27",BOS,Home,CLE,12.0,5.0,29-25,3.0,6.5,D,2
-55,"Tuesday, May 28",BOS,Home,CLE,5.0,7.0,29-26,3.0,6.5,N,-1
-56,"Wednesday, May 29",BOS,Home,CLE,9.0,14.0,29-27,3.0,7.5,N,-2
-57,"Friday, May 31",BOS,@,NYY,1.0,4.0,29-28,3.0,8.5,N,-3
-58,"Saturday, Jun 1",BOS,@,NYY,3.0,5.0,29-29,3.0,9.5,N,-4
-59,"Sunday, Jun 2",BOS,@,NYY,8.0,5.0,30-29,3.0,8.5,N,1
-60,"Tuesday, Jun 4",BOS,@,KCR,8.0,3.0,31-29,3.0,7.5,N,2
-61,"Wednesday, Jun 5",BOS,@,KCR,8.0,0.0,32-29,3.0,6.5,N,3
-62,"Thursday, Jun 6",BOS,@,KCR,7.0,5.0,33-29,3.0,6.5,D,4
-63,"Friday, Jun 7",BOS,Home,TBR,1.0,5.0,33-30,3.0,6.5,N,-1
-64,"Saturday, Jun 8 (1)",BOS,Home,TBR,2.0,9.0,33-31,3.0,6.0,D,-2
-65,"Saturday, Jun 8 (2)",BOS,Home,TBR,5.0,1.0,34-31,3.0,6.0,N,1
-66,"Sunday, Jun 9",BOS,Home,TBR,1.0,6.0,34-32,3.0,7.0,D,-1
-67,"Monday, Jun 10",BOS,Home,TEX,3.0,4.0,34-33,3.0,8.0,N,-2
-68,"Tuesday, Jun 11",BOS,Home,TEX,5.0,9.0,34-34,3.0,8.0,N,-3
-69,"Wednesday, Jun 12",BOS,Home,TEX,4.0,3.0,35-34,3.0,7.5,D,1
-70,"Thursday, Jun 13",BOS,Home,TEX,7.0,6.0,36-34,3.0,6.5,N,2
-71,"Friday, Jun 14",BOS,@,BAL,13.0,2.0,37-34,3.0,6.0,N,3
-72,"Saturday, Jun 15",BOS,@,BAL,7.0,2.0,38-34,3.0,5.5,D,4
-73,"Sunday, Jun 16",BOS,@,BAL,8.0,6.0,39-34,3.0,5.5,D,5
-74,"Monday, Jun 17",BOS,@,MIN,2.0,0.0,40-34,3.0,5.5,N,6
-75,"Tuesday, Jun 18",BOS,@,MIN,3.0,4.0,40-35,3.0,6.5,N,-1
-76,"Wednesday, Jun 19",BOS,@,MIN,9.0,4.0,41-35,3.0,6.5,N,1
-77,"Friday, Jun 21",BOS,Home,TOR,7.0,5.0,42-35,3.0,7.0,N,2
-78,"Saturday, Jun 22",BOS,Home,TOR,7.0,8.0,42-36,3.0,8.0,D,-1
-79,"Sunday, Jun 23",BOS,Home,TOR,1.0,6.0,42-37,3.0,8.0,D,-2
-80,"Monday, Jun 24",BOS,Home,CHW,6.0,5.0,43-37,3.0,8.0,N,1
-81,"Tuesday, Jun 25",BOS,Home,CHW,6.0,3.0,44-37,3.0,8.0,N,2
-82,"Wednesday, Jun 26",BOS,Home,CHW,7.0,8.0,44-38,3.0,9.0,D,-1
-83,"Saturday, Jun 29",BOS,Home,NYY,13.0,17.0,44-39,3.0,10.0,N,-2
-84,"Sunday, Jun 30",BOS,Home,NYY,8.0,12.0,44-40,3.0,11.0,D,-3
-85,"Tuesday, Jul 2",BOS,@,TOR,10.0,6.0,45-40,3.0,10.0,N,1
-86,"Wednesday, Jul 3",BOS,@,TOR,3.0,6.0,45-41,3.0,11.0,N,-1
-87,"Thursday, Jul 4",BOS,@,TOR,8.0,7.0,46-41,3.0,11.0,N,1
-88,"Friday, Jul 5",BOS,@,DET,9.0,6.0,47-41,3.0,11.0,N,2
-89,"Saturday, Jul 6",BOS,@,DET,10.0,6.0,48-41,3.0,10.0,N,3
-90,"Sunday, Jul 7",BOS,@,DET,6.0,3.0,49-41,3.0,9.0,D,4
-91,"Friday, Jul 12",BOS,Home,LAD,8.0,1.0,50-41,3.0,9.0,N,5
-92,"Saturday, Jul 13",BOS,Home,LAD,2.0,11.0,50-42,3.0,9.0,N,-1
-93,"Sunday, Jul 14",BOS,Home,LAD,4.0,7.0,50-43,3.0,10.0,N,-2
-94,"Monday, Jul 15",BOS,Home,TOR,10.0,8.0,51-43,3.0,9.0,N,1
-95,"Tuesday, Jul 16",BOS,Home,TOR,4.0,10.0,51-44,3.0,10.0,N,-1
-96,"Wednesday, Jul 17",BOS,Home,TOR,5.0,4.0,52-44,3.0,9.5,N,1
-97,"Thursday, Jul 18",BOS,Home,TOR,5.0,0.0,53-44,3.0,10.0,D,2
-98,"Friday, Jul 19",BOS,@,BAL,2.0,11.0,53-45,3.0,11.0,N,-1
-99,"Saturday, Jul 20",BOS,@,BAL,17.0,6.0,54-45,3.0,11.0,N,1
-100,"Sunday, Jul 21",BOS,@,BAL,0.0,5.0,54-46,3.0,11.0,D,-1
-101,"Monday, Jul 22",BOS,@,TBR,9.0,4.0,55-46,3.0,10.0,N,1
-102,"Tuesday, Jul 23",BOS,@,TBR,5.0,4.0,56-46,2.0,10.0,N,2
-103,"Wednesday, Jul 24",BOS,@,TBR,2.0,3.0,56-47,3.0,11.0,D,-1
-104,"Thursday, Jul 25",BOS,Home,NYY,19.0,3.0,57-47,3.0,10.0,N,1
-105,"Friday, Jul 26",BOS,Home,NYY,10.0,5.0,58-47,3.0,9.0,N,2
-106,"Saturday, Jul 27",BOS,Home,NYY,9.0,5.0,59-47,2.0,8.0,D,3
-107,"Sunday, Jul 28",BOS,Home,NYY,6.0,9.0,59-48,3.0,9.0,N,-1
-108,"Tuesday, Jul 30",BOS,Home,TBR,5.0,6.0,59-49,3.0,9.0,N,-2
-109,"Wednesday, Jul 31",BOS,Home,TBR,5.0,8.0,59-50,3.0,10.0,N,-3
-110,"Thursday, Aug 1",BOS,Home,TBR,4.0,9.0,59-51,3.0,10.5,N,-4
-111,"Friday, Aug 2",BOS,@,NYY,2.0,4.0,59-52,3.0,11.5,N,-5
-112,"Saturday, Aug 3 (1)",BOS,@,NYY,2.0,9.0,59-53,3.0,13.5,D,-6
-113,"Saturday, Aug 3 (2)",BOS,@,NYY,4.0,6.0,59-54,3.0,13.5,N,-7
-114,"Sunday, Aug 4",BOS,@,NYY,4.0,7.0,59-55,3.0,14.5,N,-8
-115,"Monday, Aug 5",BOS,Home,KCR,7.0,5.0,60-55,3.0,14.5,N,1
-116,"Tuesday, Aug 6",BOS,Home,KCR,2.0,6.0,60-56,3.0,15.5,N,-1
-117,"Wednesday, Aug 7",BOS,Home,KCR,5.0,4.0,61-56,3.0,15.5,N,1
-118,"Thursday, Aug 8",BOS,Home,LAA,3.0,0.0,62-56,3.0,15.5,N,2
-119,"Friday, Aug 9",BOS,Home,LAA,16.0,4.0,63-56,3.0,14.5,N,3
-120,"Saturday, Aug 10",BOS,Home,LAA,4.0,12.0,63-57,3.0,14.5,D,-1
-121,"Sunday, Aug 11",BOS,Home,LAA,4.0,5.0,63-58,3.0,15.5,D,-2
-122,"Monday, Aug 12",BOS,@,CLE,5.0,6.0,63-59,3.0,17.0,N,-3
-123,"Tuesday, Aug 13",BOS,@,CLE,7.0,6.0,64-59,3.0,17.0,N,1
-124,"Wednesday, Aug 14",BOS,@,CLE,5.0,1.0,65-59,3.0,17.0,D,2
-125,"Friday, Aug 16",BOS,Home,BAL,9.0,1.0,66-59,3.0,16.5,N,3
-126,"Saturday, Aug 17",BOS,Home,BAL,4.0,0.0,67-59,3.0,16.5,N,4
-127,"Sunday, Aug 18",BOS,Home,BAL,13.0,7.0,68-59,3.0,15.5,D,5
-128,"Tuesday, Aug 20",BOS,Home,PHI,2.0,3.0,68-60,3.0,15.5,N,-1
-129,"Wednesday, Aug 21",BOS,Home,PHI,2.0,5.0,68-61,3.0,15.5,N,-2
-130,"Friday, Aug 23",BOS,@,SDP,11.0,0.0,69-61,3.0,15.0,N,1
-131,"Saturday, Aug 24",BOS,@,SDP,5.0,4.0,70-61,3.0,14.0,N,2
-132,"Sunday, Aug 25",BOS,@,SDP,1.0,3.0,70-62,3.0,15.0,D,-1
-133,"Tuesday, Aug 27",BOS,@,COL,10.0,6.0,71-62,3.0,15.5,N,1
-134,"Wednesday, Aug 28",BOS,@,COL,7.0,4.0,72-62,3.0,15.5,N,2
-135,"Friday, Aug 30",BOS,@,LAA,7.0,6.0,73-62,3.0,14.5,N,3
-136,"Saturday, Aug 31",BOS,@,LAA,4.0,10.0,73-63,3.0,15.5,N,-1
-137,"Sunday, Sep 1",BOS,@,LAA,4.0,3.0,74-63,3.0,15.5,D,1
-138,"Tuesday, Sep 3",BOS,Home,MIN,5.0,6.0,74-64,3.0,16.0,N,-1
-139,"Wednesday, Sep 4",BOS,Home,MIN,6.0,2.0,75-64,3.0,16.0,N,1
-140,"Thursday, Sep 5",BOS,Home,MIN,1.0,2.0,75-65,3.0,16.5,N,-1
-141,"Friday, Sep 6",BOS,Home,NYY,6.0,1.0,76-65,3.0,15.5,N,1
-142,"Saturday, Sep 7",BOS,Home,NYY,1.0,5.0,76-66,3.0,16.5,D,-1
-143,"Sunday, Sep 8",BOS,Home,NYY,5.0,10.0,76-67,3.0,17.5,N,-2
-144,"Monday, Sep 9",BOS,Home,NYY,0.0,5.0,76-68,3.0,18.5,N,-3
-145,"Tuesday, Sep 10",BOS,@,TOR,3.0,4.0,76-69,3.0,18.5,N,-4
-146,"Wednesday, Sep 11",BOS,@,TOR,0.0,8.0,76-70,3.0,19.0,N,-5
-147,"Thursday, Sep 12",BOS,@,TOR,7.0,4.0,77-70,3.0,19.5,N,1
-148,"Saturday, Sep 14",BOS,@,PHI,2.0,1.0,78-70,3.0,19.0,N,2
-149,"Sunday, Sep 15",BOS,@,PHI,6.0,3.0,79-70,3.0,18.0,D,3
-150,"Tuesday, Sep 17",BOS,Home,SFG,6.0,7.0,79-71,3.0,19.0,N,-1
-151,"Wednesday, Sep 18",BOS,Home,SFG,3.0,11.0,79-72,3.0,19.0,N,-2
-152,"Thursday, Sep 19",BOS,Home,SFG,5.0,4.0,80-72,3.0,19.0,D,1
-153,"Friday, Sep 20",BOS,@,TBR,4.0,5.0,80-73,3.0,19.0,N,-1
-154,"Saturday, Sep 21",BOS,@,TBR,4.0,5.0,80-74,3.0,20.0,N,-2
-155,"Sunday, Sep 22",BOS,@,TBR,7.0,4.0,81-74,3.0,20.0,D,1
-156,"Monday, Sep 23",BOS,@,TBR,4.0,7.0,81-75,3.0,20.5,N,-1
-157,"Tuesday, Sep 24",BOS,@,TEX,12.0,10.0,82-75,3.0,19.5,N,1
-158,"Wednesday, Sep 25",BOS,@,TEX,10.0,3.0,83-75,3.0,18.5,N,2
-159,"Thursday, Sep 26",BOS,@,TEX,5.0,7.0,83-76,3.0,19.0,D,-1
-160,"Friday, Sep 27",BOS,Home,BAL,1.0,4.0,83-77,3.0,20.0,N,-2
-161,"Saturday, Sep 28",BOS,Home,BAL,4.0,9.0,83-78,3.0,20.0,D,-3
-162,"Sunday, Sep 29",BOS,Home,BAL,5.0,4.0,84-78,3.0,19.0,D,1
-1,"Friday, Jul 24",BOS,Home,BAL,13.0,2.0,1-0,1.0,Tied,N,1
-2,"Saturday, Jul 25",BOS,Home,BAL,2.0,7.0,1-1,1.0,Tied,D,-1
-3,"Sunday, Jul 26",BOS,Home,BAL,4.0,7.0,1-2,4.0,1.0,D,-2
-4,"Monday, Jul 27",BOS,Home,NYM,4.0,7.0,1-3,5.0,2.0,N,-3
-5,"Tuesday, Jul 28",BOS,Home,NYM,3.0,8.0,1-4,5.0,3.0,N,-4
-6,"Wednesday, Jul 29",BOS,@,NYM,6.0,5.0,2-4,5.0,2.0,N,1
-7,"Thursday, Jul 30",BOS,@,NYM,4.0,2.0,3-4,3.0,2.0,N,2
-8,"Friday, Jul 31",BOS,@,NYY,1.0,5.0,3-5,5.0,3.0,N,-1
-9,"Saturday, Aug 1",BOS,@,NYY,2.0,5.0,3-6,5.0,4.0,N,-2
-10,"Sunday, Aug 2",BOS,@,NYY,7.0,9.0,3-7,5.0,5.0,N,-3
-11,"Tuesday, Aug 4",BOS,@,TBR,1.0,5.0,3-8,5.0,6.0,N,-4
-12,"Wednesday, Aug 5",BOS,@,TBR,5.0,0.0,4-8,5.0,5.5,N,1
-13,"Friday, Aug 7",BOS,Home,TOR,5.0,3.0,5-8,4.0,4.0,N,2
-14,"Saturday, Aug 8",BOS,Home,TOR,1.0,2.0,5-9,5.0,4.5,N,-1
-15,"Sunday, Aug 9",BOS,Home,TOR,5.0,3.0,6-9,4.0,3.5,D,1
-16,"Monday, Aug 10",BOS,Home,TBR,7.0,8.0,6-10,5.0,4.0,N,-1
-17,"Tuesday, Aug 11",BOS,Home,TBR,2.0,8.0,6-11,5.0,5.0,N,-2
-18,"Wednesday, Aug 12",BOS,Home,TBR,5.0,9.0,6-12,5.0,6.0,N,-3
-19,"Thursday, Aug 13",BOS,Home,TBR,8.0,17.0,6-13,5.0,6.5,D,-4
-20,"Friday, Aug 14",BOS,@,NYY,3.0,10.0,6-14,5.0,7.5,N,-5
-21,"Saturday, Aug 15",BOS,@,NYY,5.0,11.0,6-15,5.0,8.5,N,-6
-22,"Sunday, Aug 16",BOS,@,NYY,2.0,4.0,6-16,5.0,9.5,N,-7
-23,"Monday, Aug 17",BOS,@,NYY,3.0,6.0,6-17,5.0,10.5,N,-8
-24,"Tuesday, Aug 18",BOS,Home,PHI,6.0,13.0,6-18,5.0,10.5,N,-9
-25,"Wednesday, Aug 19",BOS,Home,PHI,6.0,3.0,7-18,5.0,9.5,D,1
-26,"Thursday, Aug 20",BOS,@,BAL,7.0,1.0,8-18,5.0,9.0,N,2
-27,"Friday, Aug 21",BOS,@,BAL,8.0,5.0,9-18,5.0,8.0,N,3
-28,"Saturday, Aug 22",BOS,@,BAL,4.0,5.0,9-19,5.0,9.0,N,-1
-29,"Sunday, Aug 23",BOS,@,BAL,4.0,5.0,9-20,5.0,10.0,D,-2
-30,"Tuesday, Aug 25",BOS,@,TOR,9.0,7.0,10-20,5.0,9.5,N,1
-31,"Wednesday, Aug 26",BOS,@,TOR,1.0,9.0,10-21,5.0,10.5,N,-1
-32,"Friday, Aug 28",BOS,Home,WSN,2.0,10.0,10-22,5.0,11.5,N,-2
-33,"Saturday, Aug 29",BOS,Home,WSN,5.0,3.0,11-22,5.0,11.5,N,1
-34,"Sunday, Aug 30",BOS,Home,WSN,9.0,5.0,12-22,5.0,11.5,D,2
-35,"Monday, Aug 31",BOS,Home,ATL,3.0,6.0,12-23,5.0,12.5,N,-1
-36,"Tuesday, Sep 1",BOS,Home,ATL,3.0,10.0,12-24,5.0,12.5,N,-2
-37,"Wednesday, Sep 2",BOS,Home,ATL,5.0,7.0,12-25,5.0,13.5,N,-3
-38,"Thursday, Sep 3",BOS,Home,TOR,2.0,6.0,12-26,5.0,14.0,N,-4
-39,"Friday, Sep 4 (1)",BOS,Home,TOR,7.0,8.0,12-27,5.0,14.5,D,-5
-40,"Friday, Sep 4 (2)",BOS,Home,TOR,3.0,2.0,13-27,5.0,14.5,N,1
-41,"Saturday, Sep 5",BOS,Home,TOR,9.0,8.0,14-27,5.0,13.5,N,2
-42,"Sunday, Sep 6",BOS,Home,TOR,8.0,10.0,14-28,5.0,14.5,D,-1
-43,"Tuesday, Sep 8 (1)",BOS,@,PHI,5.0,6.0,14-29,5.0,13.5,D,-2
-44,"Tuesday, Sep 8 (2)",BOS,@,PHI,5.0,2.0,15-29,5.0,13.5,N,1
-45,"Thursday, Sep 10",BOS,@,TBR,4.0,3.0,16-29,5.0,12.5,N,2
-46,"Friday, Sep 11",BOS,@,TBR,1.0,11.0,16-30,5.0,13.5,N,-1
-47,"Saturday, Sep 12",BOS,@,TBR,4.0,5.0,16-31,5.0,14.5,N,-2
-48,"Sunday, Sep 13",BOS,@,TBR,6.0,3.0,17-31,5.0,13.5,D,1
-49,"Tuesday, Sep 15",BOS,@,MIA,2.0,0.0,18-31,5.0,13.5,N,2
-50,"Wednesday, Sep 16",BOS,@,MIA,4.0,8.0,18-32,5.0,13.5,N,-1
-51,"Thursday, Sep 17",BOS,@,MIA,5.0,3.0,19-32,5.0,14.0,D,1
-52,"Friday, Sep 18",BOS,Home,NYY,5.0,6.0,19-33,5.0,15.0,N,-1
-53,"Saturday, Sep 19",BOS,Home,NYY,0.0,8.0,19-34,5.0,16.0,N,-2
-54,"Sunday, Sep 20",BOS,Home,NYY,10.0,2.0,20-34,5.0,15.0,D,1
-55,"Tuesday, Sep 22",BOS,Home,BAL,8.0,3.0,21-34,5.0,14.5,N,2
-56,"Wednesday, Sep 23",BOS,Home,BAL,9.0,1.0,22-34,5.0,14.5,N,3
-57,"Thursday, Sep 24",BOS,Home,BAL,1.0,13.0,22-35,5.0,15.0,N,-1
-58,"Friday, Sep 25",BOS,@,ATL,7.0,8.0,22-36,5.0,16.0,N,-2
-59,"Saturday, Sep 26",BOS,@,ATL,8.0,2.0,23-36,5.0,16.0,N,1
-60,"Sunday, Sep 27",BOS,@,ATL,9.0,1.0,24-36,5.0,16.0,D,2
-1,"Friday, Apr 2",BOS,Home,BAL,0.0,3.0,0-1,4.0,1.5,D,-1
-2,"Saturday, Apr 3",BOS,Home,BAL,2.0,4.0,0-2,5.0,2.0,D,-2
-3,"Sunday, Apr 4",BOS,Home,BAL,3.0,11.0,0-3,5.0,3.0,D,-3
-4,"Monday, Apr 5",BOS,Home,TBR,11.0,2.0,1-3,5.0,2.0,N,1
-5,"Tuesday, Apr 6",BOS,Home,TBR,6.0,5.0,2-3,4.0,1.0,N,2
-6,"Wednesday, Apr 7",BOS,Home,TBR,9.0,2.0,3-3,2.0,1.0,D,3
-7,"Thursday, Apr 8",BOS,@,BAL,7.0,3.0,4-3,1.0,Tied,D,4
-8,"Saturday, Apr 10",BOS,@,BAL,6.0,4.0,5-3,1.0,up 1.0,N,5
-9,"Sunday, Apr 11",BOS,@,BAL,14.0,9.0,6-3,1.0,up 2.0,D,6
-10,"Tuesday, Apr 13",BOS,@,MIN,4.0,2.0,7-3,1.0,up 2.5,D,7
-11,"Wednesday, Apr 14 (1)",BOS,@,MIN,3.0,2.0,8-3,1.0,up 3.0,D,8
-12,"Wednesday, Apr 14 (2)",BOS,@,MIN,7.0,1.0,9-3,1.0,up 3.0,N,9
-13,"Thursday, Apr 15",BOS,@,MIN,3.0,4.0,9-4,1.0,up 3.0,D,-1
-14,"Saturday, Apr 17",BOS,Home,CHW,7.0,4.0,10-4,1.0,up 3.5,D,1
-15,"Sunday, Apr 18 (1)",BOS,Home,CHW,2.0,3.0,10-5,1.0,up 2.0,D,-1
-16,"Sunday, Apr 18 (2)",BOS,Home,CHW,1.0,5.0,10-6,1.0,up 2.0,N,-2
-17,"Monday, Apr 19",BOS,Home,CHW,11.0,4.0,11-6,1.0,up 2.0,D,1
-18,"Tuesday, Apr 20",BOS,Home,TOR,4.0,2.0,12-6,1.0,up 2.0,N,2
-19,"Wednesday, Apr 21",BOS,Home,TOR,3.0,6.0,12-7,1.0,up 2.0,N,-1
-20,"Thursday, Apr 22",BOS,Home,SEA,3.0,7.0,12-8,1.0,up 1.5,N,-2
-21,"Friday, Apr 23",BOS,Home,SEA,6.0,5.0,13-8,1.0,up 2.5,N,1
-22,"Saturday, Apr 24",BOS,Home,SEA,2.0,8.0,13-9,1.0,up 1.5,D,-1
-23,"Sunday, Apr 25",BOS,Home,SEA,5.0,3.0,14-9,1.0,up 2.5,D,1
-24,"Tuesday, Apr 27",BOS,@,NYM,2.0,1.0,15-9,1.0,up 3.0,N,2
-25,"Wednesday, Apr 28",BOS,@,NYM,1.0,0.0,16-9,1.0,up 3.0,N,3
-26,"Thursday, Apr 29",BOS,@,TEX,1.0,4.0,16-10,1.0,up 3.0,N,-1
-27,"Friday, Apr 30",BOS,@,TEX,6.0,1.0,17-10,1.0,up 3.5,N,1
-28,"Saturday, May 1",BOS,@,TEX,6.0,8.0,17-11,1.0,up 2.5,N,-1
-29,"Sunday, May 2",BOS,@,TEX,3.0,5.0,17-12,1.0,up 1.5,D,-2
-30,"Tuesday, May 4",BOS,Home,DET,11.0,7.0,18-12,1.0,up 2.5,N,1
-31,"Wednesday, May 5",BOS,Home,DET,5.0,6.0,18-13,1.0,up 1.5,N,-1
-32,"Thursday, May 6",BOS,Home,DET,12.0,9.0,19-13,1.0,up 1.5,D,1
-33,"Friday, May 7",BOS,@,BAL,6.0,2.0,20-13,1.0,up 2.5,N,2
-34,"Saturday, May 8",BOS,@,BAL,11.0,6.0,21-13,1.0,up 3.0,N,3
-35,"Sunday, May 9",BOS,@,BAL,4.0,3.0,22-13,1.0,up 3.5,D,4
-36,"Monday, May 10",BOS,@,BAL,1.0,4.0,22-14,1.0,up 3.0,N,-1
-37,"Tuesday, May 11",BOS,Home,OAK,2.0,3.0,22-15,1.0,up 2.0,N,-2
-38,"Wednesday, May 12",BOS,Home,OAK,1.0,4.0,22-16,1.0,up 1.0,N,-3
-39,"Thursday, May 13",BOS,Home,OAK,8.0,1.0,23-16,1.0,up 1.5,N,1
-40,"Friday, May 14",BOS,Home,LAA,4.0,3.0,24-16,1.0,up 2.0,N,2
-41,"Saturday, May 15",BOS,Home,LAA,9.0,0.0,25-16,1.0,up 2.0,D,3
-42,"Sunday, May 16",BOS,Home,LAA,5.0,6.0,25-17,1.0,up 1.5,D,-1
-43,"Tuesday, May 18",BOS,@,TOR,0.0,8.0,25-18,1.0,up 0.5,N,-2
-44,"Wednesday, May 19",BOS,@,TOR,7.0,3.0,26-18,1.0,up 1.0,N,1
-45,"Thursday, May 20",BOS,@,TOR,8.0,7.0,27-18,1.0,up 1.0,N,2
-46,"Friday, May 21",BOS,@,PHI,11.0,3.0,28-18,1.0,up 1.0,N,3
-47,"Saturday, May 22",BOS,@,PHI,4.0,3.0,29-18,1.0,up 1.0,N,4
-48,"Sunday, May 23",BOS,@,PHI,2.0,6.0,29-19,1.0,Tied,D,-1
-49,"Tuesday, May 25",BOS,Home,ATL,1.0,3.0,29-20,2.0,0.5,N,-2
-50,"Wednesday, May 26",BOS,Home,ATL,9.0,5.0,30-20,2.0,0.5,N,1
-51,"Friday, May 28",BOS,Home,MIA,5.0,2.0,31-20,2.0,0.5,N,2
-52,"Saturday, May 29",BOS,Home,MIA,3.0,1.0,32-20,2.0,0.5,D,3
-53,"Monday, May 31",BOS,@,HOU,2.0,11.0,32-21,2.0,2.0,D,-1
-54,"Tuesday, Jun 1",BOS,@,HOU,1.0,5.0,32-22,2.0,2.0,N,-2
-55,"Wednesday, Jun 2",BOS,@,HOU,1.0,2.0,32-23,2.0,2.0,N,-3
-56,"Thursday, Jun 3",BOS,@,HOU,5.0,1.0,33-23,2.0,2.0,D,1
-57,"Friday, Jun 4",BOS,@,NYY,5.0,2.0,34-23,2.0,1.0,N,2
-58,"Saturday, Jun 5",BOS,@,NYY,7.0,3.0,35-23,2.0,1.0,N,3
-59,"Sunday, Jun 6",BOS,@,NYY,6.0,5.0,36-23,2.0,1.0,N,4
-60,"Monday, Jun 7",BOS,Home,MIA,5.0,3.0,37-23,2.0,0.5,N,5
-61,"Tuesday, Jun 8",BOS,Home,HOU,1.0,7.0,37-24,2.0,1.5,N,-1
-62,"Wednesday, Jun 9",BOS,Home,HOU,3.0,8.0,37-25,2.0,1.5,N,-2
-63,"Thursday, Jun 10",BOS,Home,HOU,12.0,8.0,38-25,2.0,1.0,N,1
-64,"Friday, Jun 11",BOS,Home,TOR,6.0,5.0,39-25,2.0,1.0,N,2
-65,"Saturday, Jun 12",BOS,Home,TOR,2.0,7.0,39-26,2.0,2.0,D,-1
-66,"Sunday, Jun 13",BOS,Home,TOR,4.0,18.0,39-27,2.0,3.0,D,-2
-67,"Monday, Jun 14",BOS,Home,TOR,2.0,1.0,40-27,2.0,3.0,N,1
-68,"Tuesday, Jun 15",BOS,@,ATL,10.0,8.0,41-27,2.0,2.0,N,2
-69,"Wednesday, Jun 16",BOS,@,ATL,10.0,8.0,42-27,2.0,1.0,N,3
-70,"Friday, Jun 18",BOS,@,KCR,3.0,5.0,42-28,2.0,0.5,N,-1
-71,"Saturday, Jun 19",BOS,@,KCR,7.0,1.0,43-28,1.0,up 0.5,D,1
-72,"Sunday, Jun 20",BOS,@,KCR,3.0,7.0,43-29,1.0,up 0.5,D,-1
-73,"Tuesday, Jun 22",BOS,@,TBR,9.0,5.0,44-29,1.0,up 1.5,N,1
-74,"Wednesday, Jun 23",BOS,@,TBR,2.0,8.0,44-30,1.0,up 0.5,N,-1
-75,"Thursday, Jun 24",BOS,@,TBR,0.0,1.0,44-31,2.0,0.5,N,-2
-76,"Friday, Jun 25",BOS,Home,NYY,5.0,3.0,45-31,2.0,0.5,N,1
-77,"Saturday, Jun 26",BOS,Home,NYY,4.0,2.0,46-31,2.0,0.5,N,2
-78,"Sunday, Jun 27",BOS,Home,NYY,9.0,2.0,47-31,1.0,up 0.5,D,3
-79,"Monday, Jun 28",BOS,Home,KCR,6.0,5.0,48-31,1.0,up 1.0,N,4
-80,"Tuesday, Jun 29",BOS,Home,KCR,7.0,6.0,49-31,1.0,up 2.0,N,5
-81,"Wednesday, Jun 30",BOS,Home,KCR,6.0,2.0,50-31,1.0,up 3.0,N,6
-82,"Thursday, Jul 1",BOS,Home,KCR,15.0,1.0,51-31,1.0,up 3.5,D,7
-83,"Friday, Jul 2",BOS,@,OAK,3.0,2.0,52-31,1.0,up 4.5,N,8
-84,"Saturday, Jul 3",BOS,@,OAK,6.0,7.0,52-32,1.0,up 4.5,D,-1
-85,"Sunday, Jul 4",BOS,@,OAK,1.0,0.0,53-32,1.0,up 4.5,D,1
-86,"Monday, Jul 5",BOS,@,LAA,5.0,4.0,54-32,1.0,up 4.5,N,2
-87,"Tuesday, Jul 6",BOS,@,LAA,3.0,5.0,54-33,1.0,up 4.0,N,-1
-88,"Wednesday, Jul 7",BOS,@,LAA,4.0,5.0,54-34,1.0,up 2.5,D,-2
-89,"Friday, Jul 9",BOS,Home,PHI,11.0,5.0,55-34,1.0,up 2.5,N,1
-90,"Saturday, Jul 10",BOS,Home,PHI,2.0,11.0,55-35,1.0,up 1.5,D,-1
-91,"Sunday, Jul 11",BOS,Home,PHI,4.0,5.0,55-36,1.0,up 1.5,D,-2
-92,"Friday, Jul 16",BOS,@,NYY,4.0,0.0,56-36,1.0,up 1.5,N,1
-93,"Saturday, Jul 17",BOS,@,NYY,1.0,3.0,56-37,1.0,up 1.5,N,-1
-94,"Sunday, Jul 18",BOS,@,NYY,1.0,9.0,56-38,1.0,up 0.5,N,-2
-95,"Monday, Jul 19",BOS,@,TOR,13.0,4.0,57-38,1.0,up 1.5,N,1
-96,"Wednesday, Jul 21",BOS,@,TOR,7.0,4.0,58-38,1.0,up 1.0,N,2
-97,"Thursday, Jul 22",BOS,Home,NYY,5.0,4.0,59-38,1.0,up 1.0,N,3
-98,"Friday, Jul 23",BOS,Home,NYY,6.0,2.0,60-38,1.0,up 1.0,N,4
-99,"Saturday, Jul 24",BOS,Home,NYY,3.0,4.0,60-39,1.0,Tied,D,-1
-100,"Sunday, Jul 25",BOS,Home,NYY,5.0,4.0,61-39,1.0,up 1.0,D,1
-101,"Monday, Jul 26",BOS,Home,TOR,5.0,4.0,62-39,1.0,up 1.5,N,2
-102,"Wednesday, Jul 28 (1)",BOS,Home,TOR,1.0,4.0,62-40,1.0,up 2.5,D,-1
-103,"Wednesday, Jul 28 (2)",BOS,Home,TOR,4.0,1.0,63-40,1.0,up 2.5,N,1
-104,"Thursday, Jul 29",BOS,Home,TOR,1.0,13.0,63-41,1.0,up 1.5,N,-1
-105,"Friday, Jul 30",BOS,@,TBR,3.0,7.0,63-42,1.0,up 0.5,N,-2
-106,"Saturday, Jul 31",BOS,@,TBR,5.0,9.0,63-43,2.0,0.5,N,-3
-107,"Sunday, Aug 1",BOS,@,TBR,2.0,3.0,63-44,2.0,1.5,N,-4
-108,"Tuesday, Aug 3",BOS,@,DET,2.0,4.0,63-45,2.0,1.0,N,-5
-109,"Wednesday, Aug 4",BOS,@,DET,4.0,1.0,64-45,2.0,1.0,N,1
-110,"Thursday, Aug 5",BOS,@,DET,1.0,8.0,64-46,2.0,1.5,D,-1
-111,"Friday, Aug 6",BOS,@,TOR,4.0,12.0,64-47,2.0,2.5,N,-2
-112,"Saturday, Aug 7 (1)",BOS,@,TOR,0.0,1.0,64-48,2.0,3.0,D,-3
-113,"Saturday, Aug 7 (2)",BOS,@,TOR,2.0,1.0,65-48,2.0,3.0,N,1
-114,"Sunday, Aug 8",BOS,@,TOR,8.0,9.0,65-49,2.0,4.0,D,-1
-115,"Tuesday, Aug 10",BOS,Home,TBR,4.0,8.0,65-50,2.0,5.0,N,-2
-116,"Wednesday, Aug 11",BOS,Home,TBR,20.0,8.0,66-50,2.0,4.0,N,1
-117,"Thursday, Aug 12",BOS,Home,TBR,1.0,8.0,66-51,2.0,5.0,D,-1
-118,"Friday, Aug 13",BOS,Home,BAL,8.0,1.0,67-51,2.0,5.0,N,1
-119,"Saturday, Aug 14",BOS,Home,BAL,16.0,2.0,68-51,2.0,4.0,D,2
-120,"Sunday, Aug 15",BOS,Home,BAL,6.0,2.0,69-51,2.0,3.0,D,3
-121,"Tuesday, Aug 17 (1)",BOS,@,NYY,3.0,5.0,69-52,2.0,5.0,D,-1
-122,"Tuesday, Aug 17 (2)",BOS,@,NYY,0.0,2.0,69-53,2.0,5.0,N,-2
-123,"Wednesday, Aug 18",BOS,@,NYY,2.0,5.0,69-54,3.0,6.0,N,-3
-124,"Friday, Aug 20",BOS,Home,TEX,6.0,0.0,70-54,3.0,5.5,N,1
-125,"Saturday, Aug 21",BOS,Home,TEX,1.0,10.0,70-55,3.0,6.5,N,-1
-126,"Monday, Aug 23",BOS,Home,TEX,8.0,4.0,71-55,3.0,6.5,D,1
-127,"Tuesday, Aug 24",BOS,Home,MIN,11.0,9.0,72-55,3.0,6.5,N,2
-128,"Wednesday, Aug 25",BOS,Home,MIN,6.0,9.0,72-56,3.0,7.5,N,-1
-129,"Thursday, Aug 26",BOS,Home,MIN,12.0,2.0,73-56,3.0,7.0,N,1
-130,"Friday, Aug 27",BOS,@,CLE,4.0,3.0,74-56,3.0,7.0,N,2
-131,"Saturday, Aug 28",BOS,@,CLE,5.0,3.0,75-56,3.0,7.0,D,3
-132,"Sunday, Aug 29",BOS,@,CLE,5.0,7.0,75-57,3.0,8.0,D,-1
-133,"Monday, Aug 30",BOS,@,TBR,1.0,6.0,75-58,3.0,9.0,N,-2
-134,"Tuesday, Aug 31",BOS,@,TBR,5.0,8.0,75-59,3.0,10.0,N,-3
-135,"Wednesday, Sep 1",BOS,@,TBR,3.0,2.0,76-59,3.0,9.0,N,1
-136,"Thursday, Sep 2",BOS,@,TBR,4.0,0.0,77-59,3.0,8.0,N,2
-137,"Friday, Sep 3",BOS,Home,CLE,8.0,5.0,78-59,3.0,8.0,N,3
-138,"Saturday, Sep 4",BOS,Home,CLE,4.0,3.0,79-59,3.0,8.0,D,4
-139,"Sunday, Sep 5",BOS,Home,CLE,5.0,11.0,79-60,3.0,8.0,D,-1
-140,"Monday, Sep 6",BOS,Home,TBR,10.0,11.0,79-61,3.0,9.0,D,-2
-141,"Tuesday, Sep 7",BOS,Home,TBR,7.0,12.0,79-62,3.0,10.0,N,-3
-142,"Wednesday, Sep 8",BOS,Home,TBR,2.0,1.0,80-62,2.0,9.0,N,1
-143,"Friday, Sep 10",BOS,@,CHW,3.0,4.0,80-63,2.0,9.0,N,-1
-144,"Saturday, Sep 11",BOS,@,CHW,9.0,8.0,81-63,2.0,9.0,N,1
-145,"Sunday, Sep 12",BOS,@,CHW,1.0,2.0,81-64,2.0,9.0,D,-1
-146,"Monday, Sep 13",BOS,@,SEA,4.0,5.0,81-65,3.0,9.0,N,-2
-147,"Tuesday, Sep 14",BOS,@,SEA,8.0,4.0,82-65,2.0,9.0,N,1
-148,"Wednesday, Sep 15",BOS,@,SEA,9.0,4.0,83-65,2.0,8.0,D,2
-149,"Friday, Sep 17",BOS,Home,BAL,7.0,1.0,84-65,2.0,8.5,N,3
-150,"Saturday, Sep 18",BOS,Home,BAL,9.0,3.0,85-65,2.0,7.5,D,4
-151,"Sunday, Sep 19",BOS,Home,BAL,8.0,6.0,86-65,2.0,6.5,D,5
-152,"Tuesday, Sep 21",BOS,Home,NYM,6.0,3.0,87-65,2.0,6.0,N,6
-153,"Wednesday, Sep 22",BOS,Home,NYM,12.0,5.0,88-65,2.0,6.0,N,7
-154,"Friday, Sep 24",BOS,Home,NYY,3.0,8.0,88-66,2.0,7.0,N,-1
-155,"Saturday, Sep 25",BOS,Home,NYY,3.0,5.0,88-67,2.0,8.0,D,-2
-156,"Sunday, Sep 26",BOS,Home,NYY,3.0,6.0,88-68,3.0,9.0,N,-3
-157,"Tuesday, Sep 28",BOS,@,BAL,2.0,4.0,88-69,3.0,9.0,N,-4
-158,"Wednesday, Sep 29",BOS,@,BAL,6.0,0.0,89-69,3.0,9.0,N,1
-159,"Thursday, Sep 30",BOS,@,BAL,2.0,6.0,89-70,3.0,9.0,N,-1
-160,"Friday, Oct 1",BOS,@,WSN,4.0,2.0,90-70,3.0,9.0,N,1
-161,"Saturday, Oct 2",BOS,@,WSN,5.0,3.0,91-70,2.0,9.0,D,2
-162,"Sunday, Oct 3",BOS,@,WSN,7.0,5.0,92-70,2.0,8.0,D,3
+,Date,Tm,Home_Away,Opp,R,RA,W-L,Rank,GB,D/N,Streak,Wins,Losses,DoubleHeader
+1,20120405,3,1,9,2.0,3.0,0,1.0,0,0,0,0,0,0
+2,20120407,3,1,9,0.0,10.0,0.0,5.0,1.0,0,-1,0,1,0
+3,20120408,3,1,9,12.0,13.0,0.0,4.0,2.0,0,-2,0,2,0
+4,20120409,3,1,28,4.0,2.0,0.0,4.0,3.0,1,-3,0,3,0
+5,20120410,3,1,28,3.0,7.0,0.3333333333333333,4.0,2.5,1,1,1,3,0
+6,20120411,3,1,28,1.0,3.0,0.25,5.0,2.5,0,-1,1,4,0
+7,20120413,3,0,26,12.0,2.0,0.2,5.0,3.5,0,-2,1,5,0
+8,20120414,3,0,26,13.0,5.0,0.4,5.0,2.0,0,1,2,5,0
+9,20120415,3,0,26,6.0,4.0,0.6,5.0,2.0,0,2,3,5,0
+10,20120416,3,0,26,0.0,1.0,0.8,4.0,1.0,0,3,4,5,0
+11,20120417,3,0,27,3.0,18.0,0.6666666666666666,5.0,2.0,1,-1,4,6,0
+12,20120418,3,0,27,3.0,6.0,0.5714285714285714,5.0,3.0,1,-2,4,7,0
+13,20120420,3,0,18,2.0,6.0,0.5,5.0,3.0,0,-3,4,8,0
+14,20120421,3,0,18,9.0,15.0,0.4444444444444444,5.0,3.5,0,-4,4,9,0
+15,20120423,3,1,16,6.0,5.0,0.4,5.0,4.5,1,-5,4,10,0
+16,20120424,3,1,16,11.0,2.0,0.5,5.0,4.5,1,1,5,10,0
+17,20120425,3,1,16,7.0,6.0,0.6,5.0,3.5,1,2,6,10,0
+18,20120426,3,1,5,10.0,3.0,0.7,5.0,3.5,1,3,7,10,0
+19,20120427,3,1,5,10.0,3.0,0.8,5.0,3.5,1,4,8,10,0
+20,20120428,3,1,5,1.0,0.0,0.9,5.0,3.5,1,5,9,10,0
+21,20120429,3,1,5,1.0,4.0,1.0,5.0,2.5,0,6,10,10,0
+22,20120430,3,0,19,11.0,6.0,0.9090909090909091,5.0,3.5,1,-1,10,11,0
+23,20120501,3,0,19,3.0,5.0,1.0,5.0,3.5,1,1,11,11,0
+24,20120502,3,0,19,2.0,4.0,0.9166666666666666,5.0,4.5,1,-1,11,12,0
+25,20120504,3,0,2,4.0,6.0,0.8461538461538461,5.0,5.5,1,-2,11,13,0
+26,20120505,3,0,2,2.0,8.0,0.7857142857142857,5.0,7.0,0,-3,11,14,0
+27,20120506,3,0,2,6.0,9.0,0.7333333333333333,5.0,7.0,0,-4,11,15,0
+28,20120507,3,1,11,11.0,5.0,0.6875,5.0,7.5,1,-5,11,16,0
+29,20120508,3,1,11,4.0,6.0,0.75,5.0,6.5,1,1,12,16,0
+30,20120509,3,1,11,3.0,4.0,0.7058823529411765,5.0,6.5,1,-1,12,17,0
+31,20120510,3,0,7,3.0,8.0,0.6666666666666666,5.0,7.5,1,-2,12,18,0
+32,20120511,3,0,7,7.0,5.0,0.631578947368421,5.0,7.5,1,-3,12,19,0
+33,20120512,3,0,7,4.0,1.0,0.6842105263157895,5.0,7.5,1,1,13,19,0
+34,20120513,3,0,7,12.0,1.0,0.7368421052631579,5.0,7.5,0,2,14,19,0
+35,20120514,3,0,23,6.0,1.0,0.7894736842105263,5.0,6.5,1,3,15,19,0
+36,20120515,3,0,23,5.0,0.0,0.8421052631578947,5.0,5.5,0,4,16,19,0
+37,20120516,3,1,26,1.0,2.0,0.8947368421052632,5.0,5.5,1,5,17,19,0
+38,20120517,3,1,26,5.0,3.0,0.85,5.0,6.5,1,-1,17,20,0
+39,20120518,3,1,20,4.0,6.0,0.9,5.0,6.5,1,1,18,20,0
+40,20120519,3,1,20,7.0,5.0,0.8571428571428571,5.0,7.5,1,-1,18,21,0
+41,20120520,3,1,20,5.0,1.0,0.9047619047619048,5.0,7.5,0,1,19,21,0
+42,20120521,3,1,2,8.0,6.0,0.9523809523809523,5.0,6.5,1,2,20,21,0
+43,20120522,3,1,2,1.0,4.0,1.0,4.0,5.5,1,3,21,21,0
+44,20120523,3,1,2,6.0,5.0,0.9545454545454546,5.0,6.5,0,-1,21,22,0
+45,20120525,3,0,26,4.0,7.0,1.0,5.0,5.5,1,1,22,22,0
+46,20120526,3,0,26,3.0,2.0,0.9565217391304348,5.0,6.5,1,-1,22,23,0
+47,20120527,3,0,26,3.0,4.0,1.0,5.0,5.5,0,1,23,23,0
+48,20120528,3,0,9,7.0,4.0,0.9583333333333334,5.0,5.5,0,-1,23,24,0
+49,20120529,3,0,9,6.0,3.0,1.0,5.0,4.5,1,1,24,24,0
+50,20120530,3,0,9,6.0,4.0,1.0416666666666667,5.0,3.5,1,2,25,24,0
+51,20120531,3,0,9,3.0,7.0,1.0833333333333333,5.0,2.5,1,3,26,24,0
+52,20120601,3,1,28,7.0,2.0,1.04,5.0,3.0,1,-1,26,25,0
+53,20120602,3,1,28,7.0,4.0,1.08,4.0,3.0,0,1,27,25,0
+54,20120603,3,1,28,1.0,5.0,1.12,4.0,2.0,0,2,28,25,0
+55,20120605,3,0,2,6.0,8.0,1.0769230769230769,4.0,3.0,1,-1,28,26,0
+56,20120606,3,0,2,1.0,2.0,1.037037037037037,5.0,3.0,1,-2,28,27,0
+57,20120607,3,0,2,7.0,0.0,1.0,5.0,4.0,1,-3,28,28,0
+58,20120608,3,0,29,4.0,7.0,1.0357142857142858,5.0,3.0,1,1,29,28,0
+59,20120609,3,0,29,2.0,4.0,1.0,5.0,4.0,0,-1,29,29,0
+60,20120610,3,0,29,3.0,4.0,0.9666666666666667,5.0,5.0,0,-2,29,30,0
+61,20120611,3,1,14,1.0,4.0,0.9354838709677419,5.0,6.0,1,-3,29,31,0
+62,20120612,3,1,14,2.0,1.0,0.90625,5.0,6.5,1,-4,29,32,0
+63,20120613,3,1,14,10.0,2.0,0.9375,5.0,6.5,1,1,30,32,0
+64,20120615,3,1,4,0.0,3.0,0.96875,4.0,6.5,0,2,31,32,0
+65,20120616,3,1,4,4.0,3.0,0.9393939393939394,5.0,7.5,1,-1,31,33,0
+66,20120617,3,1,4,7.0,4.0,0.9696969696969697,5.0,7.5,1,1,32,33,0
+67,20120619,3,0,14,7.0,5.0,1.0,5.0,7.5,1,2,33,33,0
+68,20120620,3,0,14,15.0,5.0,1.0303030303030303,5.0,7.0,1,3,34,33,0
+69,20120621,3,0,14,6.0,5.0,1.0606060606060606,4.0,6.0,1,4,35,33,0
+70,20120622,3,0,1,1.0,4.0,1.0909090909090908,4.0,5.5,1,5,36,33,0
+71,20120623,3,0,1,8.0,4.0,1.0588235294117647,4.0,5.5,1,-1,36,34,0
+72,20120624,3,0,1,9.0,4.0,1.088235294117647,4.0,5.5,0,1,37,34,0
+73,20120625,3,0,28,6.0,9.0,1.1176470588235294,4.0,5.5,1,2,38,34,0
+74,20120626,3,0,28,5.0,1.0,1.0857142857142856,4.0,6.5,1,-1,38,35,0
+75,20120627,3,0,28,10.0,4.0,1.1142857142857143,4.0,6.5,0,1,39,35,0
+76,20120628,3,1,23,0.0,1.0,1.1428571428571428,3.0,6.5,1,2,40,35,0
+77,20120629,3,1,23,5.0,0.0,1.1111111111111112,3.0,6.5,1,-1,40,36,0
+78,20120630,3,1,23,2.0,3.0,1.1388888888888888,3.0,5.5,1,1,41,36,0
+79,20120701,3,1,23,2.0,1.0,1.1081081081081081,3.0,6.5,0,-1,41,37,0
+80,20120702,3,1,19,1.0,6.0,1.135135135135135,3.0,6.5,1,1,42,37,0
+81,20120703,3,1,19,2.0,3.0,1.105263157894737,3.0,6.5,1,-1,42,38,0
+82,20120704,3,1,19,2.0,3.0,1.0769230769230769,4.0,6.5,0,-2,42,39,0
+83,20120706,3,0,18,8.0,10.0,1.05,4.0,7.5,1,-3,42,40,0
+84,20120707,3,0,18,1.0,6.0,1.024390243902439,4.0,8.5,0,-4,42,41,1
+85,20120707,3,0,18,9.0,5.0,1.0,4.0,8.5,1,-5,42,42,1
+86,20120708,3,0,18,3.0,7.0,1.0238095238095237,4.0,8.5,1,1,43,42,0
+87,20120713,3,1,26,3.0,1.0,1.0,4.0,9.5,1,-1,43,43,0
+88,20120714,3,1,26,3.0,5.0,1.0232558139534884,4.0,9.5,1,1,44,43,0
+89,20120715,3,1,26,7.0,3.0,1.0,4.0,10.5,0,-1,44,44,0
+90,20120716,3,0,5,5.0,1.0,1.0227272727272727,4.0,9.5,1,1,45,44,0
+91,20120717,3,0,5,5.0,7.0,1.0454545454545454,3.0,9.5,1,2,46,44,0
+92,20120718,3,0,5,10.0,1.0,1.0222222222222221,4.0,10.5,1,-1,46,45,0
+93,20120719,3,0,5,3.0,1.0,1.0444444444444445,3.0,10.5,1,1,47,45,0
+94,20120720,3,0,28,1.0,6.0,1.0666666666666667,3.0,9.5,1,2,48,45,0
+95,20120721,3,0,28,3.0,7.0,1.0434782608695652,4.0,9.5,1,-1,48,46,0
+96,20120722,3,0,28,7.0,15.0,1.0212765957446808,4.0,9.5,0,-2,48,47,0
+97,20120723,3,1,27,1.0,9.0,1.0,5.0,9.5,1,-3,48,48,0
+98,20120724,3,1,27,2.0,1.0,0.9795918367346939,5.0,10.5,1,-4,48,49,0
+99,20120725,3,1,27,3.0,5.0,1.0,4.0,9.5,1,1,49,49,0
+100,20120727,3,1,18,3.0,10.0,0.98,4.0,10.5,1,-1,49,50,0
+101,20120728,3,1,18,8.0,6.0,0.9607843137254902,5.0,11.5,1,-2,49,51,0
+102,20120729,3,1,18,3.0,2.0,0.9803921568627451,5.0,10.5,1,1,50,51,0
+103,20120730,3,0,9,7.0,3.0,1.0,5.0,9.5,1,2,51,51,0
+104,20120731,3,0,9,4.0,1.0,1.0196078431372548,4.0,8.5,1,3,52,51,0
+105,20120801,3,0,9,5.0,7.0,1.0392156862745099,4.0,7.5,1,4,53,51,0
+106,20120802,3,0,16,0.0,5.0,1.0192307692307692,4.0,8.5,1,-1,53,52,0
+107,20120803,3,0,16,5.0,6.0,1.0,4.0,9.0,1,-2,53,53,0
+108,20120804,3,0,16,4.0,6.0,0.9814814814814815,4.0,10.0,1,-3,53,54,0
+109,20120805,3,0,16,6.0,4.0,0.9636363636363636,4.0,10.0,0,-4,53,55,0
+110,20120806,3,0,27,9.0,2.0,0.9818181818181818,4.0,10.0,1,1,54,55,0
+111,20120807,3,0,27,3.0,6.0,1.0,4.0,9.0,1,2,55,55,0
+112,20120808,3,0,27,9.0,10.0,0.9821428571428571,4.0,9.0,0,-1,55,56,0
+113,20120809,3,1,7,3.0,5.0,0.9649122807017544,4.0,10.0,1,-2,55,57,0
+114,20120810,3,1,7,3.0,2.0,0.9482758620689655,4.0,11.0,1,-3,55,58,0
+115,20120811,3,1,7,2.0,5.0,0.9655172413793104,4.0,11.0,1,1,56,58,0
+116,20120812,3,1,7,14.0,1.0,0.9491525423728814,4.0,12.0,0,-1,56,59,0
+117,20120814,3,1,2,1.0,7.0,0.9661016949152542,4.0,11.0,1,1,57,59,0
+118,20120815,3,1,2,3.0,5.0,0.95,4.0,12.5,1,-1,57,60,0
+119,20120816,3,1,2,6.0,3.0,0.9344262295081968,4.0,13.5,1,-2,57,61,0
+120,20120817,3,1,18,4.0,6.0,0.9508196721311475,4.0,12.5,1,1,58,61,0
+121,20120818,3,1,18,4.0,1.0,0.9354838709677419,4.0,13.5,0,-1,58,62,0
+122,20120819,3,1,18,1.0,4.0,0.9516129032258065,4.0,12.5,1,1,59,62,0
+123,20120821,3,0,12,3.0,5.0,0.9365079365079365,4.0,13.5,1,-1,59,63,0
+124,20120822,3,0,12,3.0,7.0,0.921875,4.0,13.0,1,-2,59,64,0
+125,20120823,3,0,12,13.0,14.0,0.9076923076923077,4.0,13.0,1,-3,59,65,0
+126,20120824,3,0,11,4.0,3.0,0.8939393939393939,4.0,13.5,1,-4,59,66,0
+127,20120825,3,0,11,9.0,10.0,0.9090909090909091,4.0,13.5,1,1,60,66,0
+128,20120826,3,0,11,8.0,6.0,0.8955223880597015,4.0,13.5,0,-1,60,67,0
+129,20120827,3,0,11,5.0,1.0,0.9104477611940298,4.0,13.5,0,1,61,67,0
+130,20120828,3,1,12,5.0,6.0,0.9253731343283582,4.0,12.5,1,2,62,67,0
+131,20120829,3,1,12,3.0,10.0,0.9117647058823529,4.0,13.5,1,-1,62,68,0
+132,20120830,3,1,12,2.0,5.0,0.8985507246376812,4.0,13.5,1,-2,62,69,0
+133,20120831,3,1,19,2.0,20.0,0.8857142857142857,4.0,14.0,1,-3,62,70,0
+134,20120901,3,1,19,1.0,7.0,0.8732394366197183,4.0,14.0,1,-4,62,71,0
+135,20120902,3,1,19,2.0,6.0,0.8611111111111112,4.0,15.0,0,-5,62,72,0
+136,20120903,3,1,23,1.0,4.0,0.8493150684931506,4.0,15.0,0,-6,62,73,0
+137,20120904,3,1,23,4.0,3.0,0.8378378378378378,4.0,15.0,1,-7,62,74,0
+138,20120905,3,1,23,1.0,2.0,0.8513513513513513,4.0,14.0,1,1,63,74,0
+139,20120907,3,0,28,5.0,7.0,0.84,4.0,15.0,1,-1,63,75,0
+140,20120908,3,0,28,2.0,9.0,0.8289473684210527,4.0,15.5,1,-2,63,76,0
+141,20120909,3,0,28,3.0,4.0,0.8181818181818182,5.0,15.5,0,-3,63,77,0
+142,20120911,3,0,18,4.0,3.0,0.8076923076923077,5.0,16.5,1,-4,63,78,0
+143,20120912,3,0,18,4.0,5.0,0.8205128205128205,5.0,15.5,1,1,64,78,0
+144,20120913,3,0,18,0.0,2.0,0.810126582278481,5.0,16.5,1,-1,64,79,0
+145,20120914,3,1,28,8.0,5.0,0.8,5.0,17.5,1,-2,64,80,0
+146,20120915,3,1,28,3.0,2.0,0.8125,5.0,16.5,0,1,65,80,0
+147,20120916,3,1,28,0.0,5.0,0.825,4.0,16.5,0,2,66,80,0
+148,20120917,3,1,26,5.0,2.0,0.8148148148148148,5.0,17.5,1,-1,66,81,0
+149,20120918,3,1,26,7.0,5.0,0.8271604938271605,5.0,17.0,1,1,67,81,0
+150,20120919,3,1,26,3.0,13.0,0.8395061728395061,4.0,16.5,1,2,68,81,0
+151,20120920,3,1,26,4.0,7.0,0.8292682926829268,4.0,18.0,1,-1,68,82,0
+152,20120921,3,0,2,2.0,4.0,0.8192771084337349,4.0,19.0,1,-2,68,83,0
+153,20120922,3,0,2,6.0,9.0,0.8095238095238095,4.0,20.0,0,-3,68,84,0
+154,20120923,3,0,2,2.0,1.0,0.8,4.0,21.0,0,-4,68,85,0
+155,20120925,3,0,26,2.0,5.0,0.8117647058823529,4.0,20.0,1,1,69,85,0
+156,20120926,3,0,26,2.0,4.0,0.8023255813953488,4.0,20.5,1,-1,69,86,0
+157,20120928,3,1,2,1.0,9.0,0.7931034482758621,4.0,21.5,1,-2,69,87,0
+158,20120929,3,1,2,3.0,4.0,0.7840909090909091,4.0,22.0,1,-3,69,88,0
+159,20120930,3,1,2,3.0,6.0,0.7752808988764045,5.0,22.0,0,-4,69,89,0
+160,20121001,3,1,18,2.0,10.0,0.7666666666666667,5.0,23.0,1,-5,69,90,0
+161,20121002,3,1,18,3.0,4.0,0.7582417582417582,5.0,24.0,1,-6,69,91,0
+162,20121003,3,1,18,2.0,14.0,0.75,5.0,25.0,1,-7,69,92,0
+1,20130401,3,1,18,8.0,2.0,0,1.0,0,0,0,0,0,0
+2,20130403,3,1,18,7.0,4.0,1.0,1.0,-0.5,1,1,1,0,0
+3,20130404,3,1,18,2.0,4.0,2.0,1.0,-1.0,1,2,2,0,0
+4,20130405,3,1,28,6.0,4.0,2.0,1.0,0,1,-1,2,1,0
+5,20130406,3,1,28,0.0,5.0,3.0,1.0,0,0,1,3,1,0
+6,20130407,3,1,28,13.0,0.0,1.5,1.0,0,0,-1,3,2,0
+7,20130408,3,0,2,3.0,1.0,2.0,1.0,-1.0,0,1,4,2,0
+8,20130410,3,0,2,5.0,8.0,2.5,1.0,-2.0,1,2,5,2,0
+9,20130411,3,0,2,2.0,3.0,1.6666666666666667,1.0,-1.0,1,-1,5,3,0
+10,20130413,3,0,26,2.0,1.0,1.25,1.0,0,0,-2,5,4,0
+11,20130414,3,0,26,5.0,0.0,1.5,1.0,-0.5,0,1,6,4,0
+12,20130415,3,0,26,3.0,2.0,1.75,1.0,-1.0,0,2,7,4,0
+13,20130416,3,1,7,7.0,2.0,2.0,1.0,-1.5,1,3,8,4,0
+14,20130417,3,1,7,6.0,3.0,2.25,1.0,-1.5,1,4,9,4,0
+15,20130418,3,1,7,6.0,3.0,2.5,1.0,-1.5,1,5,10,4,0
+16,20130420,3,0,11,4.0,3.0,2.75,1.0,-2.5,0,6,11,4,0
+17,20130421,3,0,11,2.0,4.0,3.0,1.0,-2.0,0,7,12,4,1
+18,20130421,3,0,11,4.0,5.0,2.4,1.0,-1.5,1,-1,12,5,1
+19,20130422,3,0,19,9.0,6.0,2.0,1.0,-1.5,1,-2,12,6,0
+20,20130423,3,0,19,0.0,13.0,2.1666666666666665,1.0,-2.0,1,1,13,6,0
+21,20130424,3,0,19,6.0,5.0,1.8571428571428572,1.0,-1.0,0,-1,13,7,0
+22,20130425,3,0,10,7.0,2.0,2.0,1.0,-2.0,1,1,14,7,0
+23,20130426,3,0,10,7.0,3.0,2.142857142857143,1.0,-2.0,1,2,15,7,0
+24,20130427,3,0,10,8.0,4.0,2.2857142857142856,1.0,-2.0,1,3,16,7,0
+25,20130428,3,0,10,6.0,1.0,2.4285714285714284,1.0,-2.0,0,4,17,7,0
+26,20130430,3,1,28,7.0,9.0,2.5714285714285716,1.0,-2.5,1,5,18,7,0
+27,20130501,3,1,28,10.0,1.0,2.25,1.0,-2.0,1,-1,18,8,0
+28,20130502,3,1,28,3.0,1.0,2.375,1.0,-2.0,1,1,19,8,0
+29,20130503,3,1,27,0.0,7.0,2.5,1.0,-2.5,1,2,20,8,0
+30,20130504,3,1,27,1.0,5.0,2.2222222222222223,1.0,-2.5,1,-1,20,9,0
+31,20130505,3,1,27,3.0,4.0,2.0,1.0,-1.5,0,-2,20,10,0
+32,20130506,3,0,16,6.0,5.0,1.8181818181818181,1.0,-1.5,1,-3,20,11,0
+33,20130507,3,0,16,1.0,6.0,1.9090909090909092,1.0,-2.0,1,1,21,11,0
+34,20130508,3,0,16,8.0,15.0,1.75,1.0,-1.0,1,-1,21,12,0
+35,20130509,3,0,16,3.0,5.0,1.6153846153846154,1.0,0,1,-2,21,13,0
+36,20130510,3,0,28,5.0,0.0,1.5,1.0,0,1,-3,21,14,0
+37,20130511,3,0,28,2.0,3.0,1.5714285714285714,1.0,0,0,1,22,14,0
+38,20130512,3,0,28,4.0,12.0,1.4666666666666666,2.0,1.0,0,-1,22,15,0
+39,20130514,3,1,26,3.0,5.0,1.375,3.0,2.0,1,-2,22,16,0
+40,20130515,3,1,26,9.0,2.0,1.2941176470588236,3.0,3.0,1,-3,22,17,0
+41,20130516,3,1,26,4.0,3.0,1.3529411764705883,2.0,2.0,1,1,23,17,0
+42,20130517,3,1,16,3.0,2.0,1.411764705882353,2.0,1.0,1,2,24,17,0
+43,20130518,3,1,16,12.0,5.0,1.4705882352941178,2.0,1.0,1,3,25,17,0
+44,20130519,3,1,16,5.0,1.0,1.5294117647058822,2.0,1.0,0,4,26,17,0
+45,20130520,3,1,5,4.0,6.0,1.588235294117647,2.0,0.5,1,5,27,17,0
+46,20130521,3,1,5,1.0,3.0,1.5,2.0,1.5,1,-1,27,18,0
+47,20130522,3,1,5,6.0,2.0,1.4210526315789473,2.0,1.5,1,-2,27,19,0
+48,20130523,3,0,7,3.0,12.0,1.4736842105263157,2.0,0.5,1,1,28,19,0
+49,20130524,3,0,7,8.0,1.0,1.4,2.0,1.0,1,-1,28,20,0
+50,20130525,3,0,7,7.0,4.0,1.45,2.0,1.0,0,1,29,20,0
+51,20130526,3,0,7,6.0,5.0,1.5,2.0,1.0,0,2,30,20,0
+52,20130527,3,0,20,9.0,3.0,1.55,1.0,0,1,3,31,20,0
+53,20130528,3,0,20,1.0,3.0,1.6,1.0,-1.0,1,4,32,20,0
+54,20130529,3,1,20,3.0,4.0,1.5238095238095237,1.0,-1.0,1,-1,32,21,0
+55,20130530,3,1,20,9.0,2.0,1.4545454545454546,1.0,-1.0,1,-2,32,22,0
+56,20130531,3,1,18,1.0,4.0,1.5,1.0,-2.0,1,1,33,22,0
+57,20130601,3,1,18,11.0,1.0,1.434782608695652,1.0,-1.0,1,-1,33,23,0
+58,20130602,3,1,18,3.0,0.0,1.4782608695652173,1.0,-2.0,1,1,34,23,0
+59,20130604,3,0,27,17.0,5.0,1.5217391304347827,1.0,-2.5,1,2,35,23,0
+60,20130605,3,0,27,2.0,3.0,1.565217391304348,1.0,-2.5,1,3,36,23,0
+61,20130606,3,0,27,6.0,3.0,1.5,1.0,-1.5,1,-1,36,24,0
+62,20130608,3,0,12,5.0,9.0,1.5416666666666667,1.0,-1.5,0,1,37,24,1
+63,20130608,3,0,12,7.0,2.0,1.48,1.0,-1.5,1,-1,37,25,1
+64,20130609,3,0,12,10.0,5.0,1.52,1.0,-1.5,0,1,38,25,0
+65,20130610,3,1,26,10.0,8.0,1.56,1.0,-1.5,1,2,39,25,0
+66,20130611,3,1,26,3.0,8.0,1.6,1.0,-2.0,1,3,40,25,0
+67,20130612,3,1,26,2.0,1.0,1.5384615384615385,1.0,-2.0,1,-1,40,26,0
+68,20130613,3,1,2,4.0,5.0,1.5769230769230769,1.0,-3.0,1,1,41,26,0
+69,20130614,3,1,2,0.0,2.0,1.5185185185185186,1.0,-2.5,1,-1,41,27,0
+70,20130615,3,1,2,5.0,4.0,1.4642857142857142,1.0,-1.5,0,-2,41,28,0
+71,20130616,3,1,2,3.0,6.0,1.5,1.0,-2.5,0,1,42,28,0
+72,20130618,3,0,26,5.0,1.0,1.4482758620689655,1.0,-1.5,0,-1,42,29,1
+73,20130618,3,0,26,3.0,1.0,1.4827586206896552,1.0,-2.5,1,1,43,29,1
+74,20130619,3,0,26,2.0,6.0,1.5172413793103448,1.0,-2.5,1,2,44,29,0
+75,20130620,3,1,9,3.0,4.0,1.4666666666666666,1.0,-1.5,1,-1,44,30,0
+76,20130621,3,1,9,10.0,6.0,1.4193548387096775,1.0,-1.0,1,-2,44,31,0
+77,20130622,3,1,9,3.0,10.0,1.4516129032258065,1.0,-2.0,1,1,45,31,0
+78,20130623,3,1,9,5.0,7.0,1.40625,1.0,-2.0,0,-1,45,32,0
+79,20130625,3,0,8,11.0,4.0,1.3636363636363635,1.0,-2.0,1,-2,45,33,0
+80,20130626,3,0,8,5.0,3.0,1.393939393939394,1.0,-2.5,0,1,46,33,0
+81,20130627,3,0,28,7.0,4.0,1.4242424242424243,1.0,-3.5,1,2,47,33,0
+82,20130628,3,0,28,7.0,5.0,1.4545454545454546,1.0,-3.5,1,3,48,33,0
+83,20130629,3,0,28,2.0,6.0,1.4848484848484849,1.0,-3.5,0,4,49,33,0
+84,20130630,3,0,28,5.0,4.0,1.4411764705882353,1.0,-2.5,0,-1,49,34,0
+85,20130702,3,0,22,4.0,1.0,1.4705882352941178,1.0,-2.5,1,1,50,34,0
+86,20130703,3,0,22,2.0,1.0,1.5,1.0,-3.5,1,2,51,34,0
+87,20130704,3,0,22,8.0,2.0,1.5294117647058822,1.0,-3.5,0,3,52,34,0
+88,20130705,3,1,12,6.0,2.0,1.5588235294117647,1.0,-4.5,1,4,53,34,0
+89,20130706,3,1,12,7.0,9.0,1.588235294117647,1.0,-5.5,1,5,54,34,0
+90,20130707,3,1,12,0.0,3.0,1.542857142857143,1.0,-5.0,1,-1,54,35,0
+91,20130708,3,1,23,4.0,11.0,1.5,1.0,-4.5,1,-2,54,36,0
+92,20130709,3,1,23,11.0,8.0,1.4594594594594594,1.0,-3.5,1,-3,54,37,0
+93,20130710,3,1,23,11.0,4.0,1.4864864864864864,1.0,-3.5,1,1,55,37,0
+94,20130711,3,1,23,8.0,7.0,1.5135135135135136,1.0,-3.5,0,2,56,37,0
+95,20130712,3,1,19,4.0,2.0,1.5405405405405406,1.0,-3.5,1,3,57,37,0
+96,20130713,3,1,19,0.0,3.0,1.5675675675675675,1.0,-4.5,1,4,58,37,0
+97,20130714,3,1,19,2.0,3.0,1.5263157894736843,1.0,-3.5,0,-1,58,38,0
+98,20130719,3,0,18,4.0,2.0,1.4871794871794872,1.0,-2.5,1,-2,58,39,0
+99,20130720,3,0,18,2.0,5.0,1.5128205128205128,1.0,-2.5,0,1,59,39,0
+100,20130721,3,0,18,8.0,7.0,1.475,1.0,-1.5,1,-1,59,40,0
+101,20130722,3,0,26,0.0,3.0,1.5,1.0,-1.5,1,1,60,40,0
+102,20130723,3,0,26,6.0,2.0,1.4634146341463414,1.0,-0.5,1,-1,60,41,0
+103,20130724,3,0,26,1.0,5.0,1.4878048780487805,1.0,-1.5,1,1,61,41,0
+104,20130726,3,1,2,0.0,6.0,1.4523809523809523,1.0,-0.5,1,-1,61,42,0
+105,20130727,3,1,2,7.0,3.0,1.4186046511627908,2.0,0.5,1,-2,61,43,0
+106,20130728,3,1,2,5.0,0.0,1.441860465116279,2.0,0.5,0,1,62,43,0
+107,20130729,3,0,26,1.0,2.0,1.4651162790697674,1.0,-0.5,1,2,63,43,0
+108,20130730,3,0,23,8.0,2.0,1.4318181818181819,2.0,0.5,1,-1,63,44,0
+109,20130731,3,0,23,5.0,4.0,1.4545454545454546,2.0,0.5,1,1,64,44,0
+110,20130801,3,0,23,8.0,7.0,1.4772727272727273,1.0,-0.5,1,2,65,44,0
+111,20130802,3,0,0,6.0,7.0,1.5,1.0,-1.0,1,3,66,44,0
+112,20130803,3,0,0,5.0,2.0,1.4666666666666666,1.0,-1.0,1,-1,66,45,0
+113,20130804,3,0,0,4.0,0.0,1.488888888888889,1.0,-1.0,0,1,67,45,0
+114,20130805,3,1,10,0.0,2.0,1.511111111111111,1.0,-1.0,1,2,68,45,0
+115,20130806,3,1,10,15.0,10.0,1.4782608695652173,1.0,-0.5,1,-1,68,46,0
+116,20130807,3,1,10,7.0,5.0,1.5,1.0,-1.5,1,1,69,46,0
+117,20130808,3,1,11,1.0,5.0,1.5217391304347827,1.0,-2.5,1,2,70,46,0
+118,20130809,3,1,11,6.0,9.0,1.4893617021276595,1.0,-2.0,1,-1,70,47,0
+119,20130810,3,1,11,5.0,3.0,1.4583333333333333,1.0,-2.0,1,-2,70,48,0
+120,20130811,3,1,11,3.0,4.0,1.4791666666666667,1.0,-3.0,0,1,71,48,0
+121,20130813,3,1,28,4.0,2.0,1.4489795918367347,1.0,-3.0,1,-1,71,49,0
+122,20130814,3,1,28,3.0,4.0,1.469387755102041,1.0,-4.0,1,1,72,49,0
+123,20130815,3,1,28,1.0,2.0,1.44,1.0,-3.0,1,-1,72,50,0
+124,20130816,3,0,18,3.0,10.0,1.411764705882353,1.0,-2.0,1,-2,72,51,0
+125,20130817,3,0,18,6.0,1.0,1.3846153846153846,1.0,-1.0,0,-3,72,52,0
+126,20130818,3,0,18,6.0,9.0,1.4038461538461537,1.0,-2.0,1,1,73,52,0
+127,20130819,3,1,24,7.0,0.0,1.3773584905660377,1.0,-1.0,1,-1,73,53,0
+128,20130820,3,1,24,2.0,3.0,1.3962264150943395,1.0,-1.0,1,1,74,53,0
+129,20130821,3,1,24,12.0,1.0,1.3703703703703705,1.0,0,0,-1,74,54,0
+130,20130823,3,1,13,0.0,2.0,1.3888888888888888,1.0,-1.0,1,1,75,54,0
+131,20130824,3,1,13,4.0,2.0,1.3636363636363635,1.0,0,0,-1,75,55,0
+132,20130825,3,1,13,8.0,1.0,1.3818181818181818,1.0,0,1,1,76,55,0
+133,20130827,3,0,2,13.0,2.0,1.4,1.0,-1.0,1,2,77,55,0
+134,20130828,3,0,2,4.0,3.0,1.4181818181818182,1.0,-2.5,1,3,78,55,0
+135,20130829,3,0,2,2.0,3.0,1.4363636363636363,1.0,-2.5,1,4,79,55,0
+136,20130830,3,0,5,4.0,3.0,1.4107142857142858,1.0,-2.5,1,-1,79,56,0
+137,20130831,3,0,5,7.0,2.0,1.4285714285714286,1.0,-3.5,1,1,80,56,0
+138,20130901,3,0,5,7.0,6.0,1.4464285714285714,1.0,-4.5,0,2,81,56,0
+139,20130902,3,0,9,0.0,3.0,1.4642857142857142,1.0,-5.5,0,3,82,56,0
+140,20130903,3,0,9,2.0,1.0,1.4385964912280702,1.0,-5.5,1,-1,82,57,0
+141,20130904,3,0,9,20.0,4.0,1.456140350877193,1.0,-5.5,1,1,83,57,0
+142,20130905,3,1,18,9.0,8.0,1.4736842105263157,1.0,-5.5,1,2,84,57,0
+143,20130906,3,1,18,12.0,8.0,1.4912280701754386,1.0,-6.5,1,3,85,57,0
+144,20130907,3,1,18,13.0,9.0,1.5087719298245614,1.0,-7.5,0,4,86,57,0
+145,20130908,3,1,18,3.0,4.0,1.5263157894736843,1.0,-8.5,0,5,87,57,0
+146,20130910,3,1,26,2.0,0.0,1.5,1.0,-7.5,1,-1,87,58,0
+147,20130911,3,1,26,7.0,3.0,1.5172413793103448,1.0,-8.5,1,1,88,58,0
+148,20130912,3,1,26,3.0,4.0,1.5344827586206897,1.0,-9.5,1,2,89,58,0
+149,20130913,3,0,18,8.0,4.0,1.5084745762711864,1.0,-8.5,1,-1,89,59,0
+150,20130914,3,0,18,5.0,1.0,1.5254237288135593,1.0,-8.5,0,1,90,59,0
+151,20130915,3,0,18,9.0,2.0,1.5423728813559323,1.0,-8.5,1,2,91,59,0
+152,20130917,3,0,2,2.0,3.0,1.5593220338983051,1.0,-9.5,1,3,92,59,0
+153,20130918,3,0,2,3.0,5.0,1.5333333333333334,1.0,-9.0,1,-1,92,60,0
+154,20130919,3,0,2,3.0,1.0,1.5081967213114753,1.0,-8.0,1,-2,92,61,0
+155,20130920,3,0,28,6.0,3.0,1.5245901639344261,1.0,-9.0,1,1,93,61,0
+156,20130921,3,0,28,2.0,4.0,1.540983606557377,1.0,-9.0,1,2,94,61,0
+157,20130922,3,0,28,5.0,2.0,1.5161290322580645,1.0,-8.0,0,-1,94,62,0
+158,20130924,3,1,8,3.0,8.0,1.532258064516129,1.0,-8.0,1,1,95,62,0
+159,20130925,3,1,8,15.0,5.0,1.507936507936508,1.0,-6.5,1,-1,95,63,0
+160,20130927,3,1,2,12.0,3.0,1.5238095238095237,1.0,-6.5,1,1,96,63,0
+161,20130928,3,1,2,5.0,6.0,1.5396825396825398,1.0,-7.0,1,2,97,63,0
+162,20130929,3,1,2,6.0,7.0,1.515625,1.0,-7.0,0,-1,97,64,0
+1,20140331,3,1,2,1.0,2.0,0,1.0,0,0,0,0,0,0
+2,20140402,3,1,2,6.0,2.0,0.0,4.0,1.0,1,-1,0,1,0
+3,20140403,3,1,2,4.0,3.0,1.0,2.0,0.5,1,1,1,1,0
+4,20140404,3,0,15,2.0,6.0,2.0,1.0,-0.5,0,2,2,1,0
+5,20140405,3,0,15,6.0,7.0,1.0,2.0,0.5,1,-1,2,2,0
+6,20140406,3,0,15,0.0,4.0,0.6666666666666666,3.0,1.5,0,-2,2,3,0
+7,20140407,3,0,27,5.0,1.0,0.5,4.0,1.5,1,-3,2,4,0
+8,20140408,3,0,27,7.0,10.0,0.75,3.0,1.0,1,1,3,4,0
+9,20140409,3,0,27,4.0,2.0,0.6,4.0,1.5,0,-1,3,5,0
+10,20140410,3,1,18,1.0,4.0,0.8,3.0,1.0,1,1,4,5,0
+11,20140411,3,1,18,4.0,2.0,0.6666666666666666,5.0,1.0,1,-1,4,6,0
+12,20140412,3,1,18,4.0,7.0,0.8333333333333334,3.0,1.0,0,1,5,6,0
+13,20140413,3,1,18,2.0,3.0,0.7142857142857143,5.0,2.0,1,-1,5,7,0
+14,20140415,3,1,5,1.0,2.0,0.625,5.0,2.0,1,-2,5,8,0
+15,20140416,3,1,5,6.0,4.0,0.5555555555555556,5.0,3.0,1,-3,5,9,0
+16,20140417,3,1,5,3.0,1.0,0.6666666666666666,5.0,3.0,1,1,6,9,0
+17,20140418,3,0,2,4.0,8.0,0.7777777777777778,4.0,3.0,1,2,7,9,0
+18,20140419,3,0,2,4.0,2.0,0.7,5.0,3.0,0,-1,7,10,0
+19,20140420,3,0,2,6.0,5.0,0.8,5.0,2.0,1,1,8,10,0
+20,20140421,3,0,2,6.0,7.0,0.9,3.0,2.0,0,2,9,10,0
+21,20140422,3,0,18,3.0,9.0,0.8181818181818182,5.0,2.5,1,-1,9,11,0
+22,20140423,3,0,18,5.0,1.0,0.75,5.0,3.5,1,-2,9,12,0
+23,20140424,3,0,18,5.0,14.0,0.8333333333333334,5.0,2.5,1,1,10,12,0
+24,20140425,3,1,28,8.0,1.0,0.7692307692307693,5.0,3.5,1,-1,10,13,0
+25,20140426,3,1,28,7.0,6.0,0.8461538461538461,4.0,2.5,0,1,11,13,0
+26,20140427,3,1,28,1.0,7.0,0.9230769230769231,3.0,2.5,0,2,12,13,0
+27,20140429,3,0,26,7.0,4.0,0.8571428571428571,4.0,3.5,1,-1,12,14,0
+28,20140501,3,0,26,1.0,2.0,0.9285714285714286,3.0,2.5,0,1,13,14,1
+29,20140501,3,0,26,5.0,6.0,0.8666666666666667,4.0,3.0,1,-1,13,15,1
+30,20140502,3,0,19,7.0,1.0,0.8125,4.0,3.0,1,-2,13,16,0
+31,20140503,3,0,19,6.0,3.0,0.875,3.0,2.5,0,1,14,16,0
+32,20140504,3,0,19,2.0,3.0,0.9375,3.0,2.0,0,2,15,16,0
+33,20140506,3,0,6,4.0,3.0,0.8823529411764706,3.0,2.0,1,-1,15,17,0
+34,20140507,3,0,6,4.0,3.0,0.9411764705882353,3.0,1.5,1,1,16,17,0
+35,20140509,3,1,27,0.0,8.0,1.0,3.0,1.5,1,2,17,17,0
+36,20140510,3,1,27,8.0,3.0,0.9444444444444444,4.0,3.0,1,-1,17,18,0
+37,20140511,3,1,27,5.0,2.0,1.0,3.0,3.0,0,1,18,18,0
+38,20140513,3,1,16,6.0,8.0,1.0555555555555556,3.0,2.0,1,2,19,18,0
+39,20140514,3,1,16,9.0,4.0,1.0,2.0,1.5,1,-1,19,19,0
+40,20140515,3,1,16,3.0,4.0,1.0526315789473684,2.0,0.5,0,1,20,19,0
+41,20140516,3,0,9,0.0,1.0,1.0,3.0,1.5,1,-1,20,20,0
+42,20140517,3,0,9,1.0,6.0,0.9523809523809523,4.0,2.5,1,-2,20,21,0
+43,20140518,3,0,9,2.0,6.0,0.9090909090909091,4.0,2.5,1,-3,20,22,0
+44,20140520,3,0,28,4.0,7.0,0.8695652173913043,4.0,3.0,1,-4,20,23,0
+45,20140521,3,0,28,4.0,6.0,0.8333333333333334,4.0,3.5,1,-5,20,24,0
+46,20140522,3,0,28,2.0,7.0,0.8,4.0,4.0,0,-6,20,25,0
+47,20140523,3,1,26,0.0,1.0,0.7692307692307693,4.0,5.0,1,-7,20,26,0
+48,20140524,3,1,26,5.0,6.0,0.7407407407407407,4.0,6.0,0,-8,20,27,0
+49,20140525,3,1,26,5.0,8.0,0.7142857142857143,5.0,7.0,0,-9,20,28,0
+50,20140526,3,1,1,8.0,6.0,0.6896551724137931,5.0,8.0,0,-10,20,29,0
+51,20140527,3,1,1,6.0,3.0,0.7241379310344828,5.0,8.0,1,1,21,29,0
+52,20140528,3,0,1,4.0,0.0,0.7586206896551724,4.0,8.0,1,2,22,29,0
+53,20140529,3,0,1,4.0,3.0,0.7931034482758621,4.0,8.0,1,3,23,29,0
+54,20140530,3,0,26,3.0,2.0,0.8275862068965517,4.0,7.0,1,4,24,29,0
+55,20140531,3,0,26,7.0,1.0,0.8620689655172413,4.0,6.0,1,5,25,29,0
+56,20140601,3,0,26,4.0,0.0,0.896551724137931,4.0,6.0,0,6,26,29,0
+57,20140602,3,1,7,2.0,3.0,0.9310344827586207,4.0,6.0,1,7,27,29,0
+58,20140603,3,1,7,3.0,5.0,0.9,4.0,6.5,1,-1,27,30,0
+59,20140604,3,1,7,4.0,7.0,0.8709677419354839,4.0,7.5,1,-2,27,31,0
+60,20140606,3,1,9,2.0,6.0,0.84375,4.0,8.5,1,-3,27,32,0
+61,20140607,3,1,9,6.0,8.0,0.8181818181818182,4.0,10.0,1,-4,27,33,0
+62,20140608,3,1,9,5.0,3.0,0.7941176470588235,4.0,10.0,1,-5,27,34,0
+63,20140609,3,1,2,0.0,4.0,0.8235294117647058,4.0,9.0,1,1,28,34,0
+64,20140610,3,1,2,1.0,0.0,0.8,4.0,10.0,1,-1,28,35,0
+65,20140611,3,1,2,0.0,6.0,0.8285714285714286,4.0,9.0,1,1,29,35,0
+66,20140612,3,0,7,5.0,2.0,0.8055555555555556,4.0,9.0,1,-1,29,36,0
+67,20140613,3,0,7,10.0,3.0,0.8333333333333334,4.0,8.0,1,1,30,36,0
+68,20140614,3,0,7,2.0,3.0,0.8611111111111112,4.0,8.0,0,2,31,36,0
+69,20140615,3,0,7,2.0,3.0,0.8378378378378378,4.0,8.0,0,-1,31,37,0
+70,20140616,3,0,16,1.0,0.0,0.8157894736842105,4.0,9.0,1,-2,31,38,0
+71,20140617,3,0,16,2.0,1.0,0.8421052631578947,4.0,8.5,1,1,32,38,0
+72,20140618,3,0,16,2.0,1.0,0.868421052631579,4.0,7.5,0,2,33,38,0
+73,20140619,3,1,19,2.0,4.0,0.8947368421052632,4.0,6.5,1,3,34,38,0
+74,20140620,3,1,19,3.0,4.0,0.8717948717948718,4.0,6.5,1,-1,34,39,0
+75,20140621,3,1,19,1.0,2.0,0.85,4.0,7.5,0,-2,34,40,0
+76,20140622,3,1,19,7.0,6.0,0.8292682926829268,4.0,7.5,0,-3,34,41,0
+77,20140623,3,1,23,3.0,12.0,0.8536585365853658,4.0,6.5,1,1,35,41,0
+78,20140624,3,1,23,2.0,8.0,0.8333333333333334,4.0,7.5,1,-1,35,42,0
+79,20140625,3,1,23,5.0,4.0,0.813953488372093,4.0,8.5,1,-2,35,43,0
+80,20140627,3,1,18,0.0,6.0,0.8372093023255814,4.0,7.5,1,1,36,43,0
+81,20140628,3,1,18,2.0,1.0,0.8181818181818182,4.0,8.0,1,-1,36,44,0
+82,20140629,3,1,18,8.0,5.0,0.8409090909090909,4.0,7.0,1,1,37,44,0
+83,20140630,3,0,4,0.0,2.0,0.8636363636363636,4.0,6.0,1,2,38,44,0
+84,20140701,3,0,4,1.0,2.0,0.8444444444444444,4.0,6.5,1,-1,38,45,0
+85,20140702,3,0,4,9.0,16.0,0.8260869565217391,4.0,7.5,1,-2,38,46,0
+86,20140705,3,0,2,3.0,2.0,0.8085106382978723,4.0,8.5,0,-3,38,47,1
+87,20140705,3,0,2,4.0,7.0,0.8297872340425532,4.0,8.0,1,1,39,47,1
+88,20140706,3,0,2,6.0,7.0,0.8125,4.0,8.0,0,-1,39,48,0
+89,20140707,3,0,5,0.0,4.0,0.7959183673469388,5.0,9.0,1,-2,39,49,0
+90,20140708,3,0,5,3.0,8.0,0.78,5.0,10.0,1,-3,39,50,0
+91,20140709,3,0,5,5.0,4.0,0.7647058823529411,5.0,10.5,1,-4,39,51,0
+92,20140710,3,0,5,4.0,3.0,0.7843137254901961,5.0,9.5,0,1,40,51,0
+93,20140711,3,1,10,8.0,3.0,0.803921568627451,4.0,9.5,1,2,41,51,0
+94,20140712,3,1,10,2.0,3.0,0.8235294117647058,4.0,9.5,0,3,42,51,0
+95,20140713,3,1,10,11.0,0.0,0.8076923076923077,4.0,9.5,0,-1,42,52,0
+96,20140718,3,0,11,5.0,4.0,0.8269230769230769,4.0,9.5,1,1,43,52,0
+97,20140719,3,0,11,2.0,1.0,0.8461538461538461,4.0,8.5,1,2,44,52,0
+98,20140720,3,0,11,6.0,0.0,0.8653846153846154,4.0,8.5,0,3,45,52,0
+99,20140721,3,1,28,14.0,1.0,0.8846153846153846,4.0,7.5,1,4,46,52,0
+100,20140722,3,1,28,3.0,7.0,0.9038461538461539,4.0,7.5,1,5,47,52,0
+101,20140723,3,1,28,4.0,6.0,0.8867924528301887,5.0,8.5,1,-1,47,53,0
+102,20140724,3,1,28,0.0,8.0,0.8703703703703703,5.0,8.5,0,-2,47,54,0
+103,20140725,3,1,26,4.0,6.0,0.8545454545454545,5.0,9.5,1,-3,47,55,0
+104,20140726,3,1,26,0.0,3.0,0.8392857142857143,5.0,10.5,1,-4,47,56,0
+105,20140727,3,1,26,3.0,2.0,0.8245614035087719,5.0,10.5,0,-5,47,57,0
+106,20140728,3,0,28,1.0,14.0,0.8421052631578947,5.0,10.5,1,1,48,57,0
+107,20140729,3,0,28,2.0,4.0,0.8275862068965517,5.0,11.0,1,-1,48,58,0
+108,20140730,3,0,28,1.0,6.0,0.8135593220338984,5.0,12.0,1,-2,48,59,0
+109,20140801,3,0,18,4.0,3.0,0.8,5.0,13.0,1,-3,48,60,0
+110,20140802,3,0,18,4.0,6.0,0.8166666666666667,5.0,12.5,0,1,49,60,0
+111,20140803,3,0,18,7.0,8.0,0.8032786885245902,5.0,12.5,1,-1,49,61,0
+112,20140805,3,1,25,2.0,3.0,0.7903225806451613,5.0,13.5,1,-2,49,62,0
+113,20140806,3,1,25,2.0,1.0,0.7777777777777778,5.0,15.0,1,-3,49,63,0
+114,20140807,3,1,25,2.0,5.0,0.7936507936507936,5.0,14.0,1,1,50,63,0
+115,20140808,3,1,12,4.0,2.0,0.78125,5.0,15.0,1,-1,50,64,0
+116,20140809,3,1,12,4.0,5.0,0.796875,5.0,15.0,1,1,51,64,0
+117,20140810,3,1,12,3.0,1.0,0.7846153846153846,5.0,16.0,0,-1,51,65,0
+118,20140812,3,1,6,3.0,2.0,0.8,5.0,15.0,1,1,52,65,0
+119,20140813,3,1,6,5.0,4.0,0.8153846153846154,5.0,15.0,0,2,53,65,0
+120,20140814,3,0,10,9.0,4.0,0.8307692307692308,5.0,15.0,1,3,54,65,0
+121,20140815,3,0,10,3.0,5.0,0.8461538461538461,5.0,14.5,1,4,55,65,0
+122,20140816,3,0,10,10.0,7.0,0.8333333333333334,5.0,14.5,1,-1,55,66,0
+123,20140817,3,0,10,1.0,8.0,0.8484848484848485,5.0,13.5,0,1,56,66,0
+124,20140818,3,0,12,2.0,4.0,0.835820895522388,5.0,14.5,1,-1,56,67,0
+125,20140819,3,0,12,3.0,4.0,0.8235294117647058,5.0,15.5,1,-2,56,68,0
+126,20140820,3,0,12,3.0,8.0,0.8115942028985508,5.0,16.5,1,-3,56,69,0
+127,20140821,3,0,12,0.0,2.0,0.8,5.0,17.5,1,-4,56,70,0
+128,20140822,3,0,23,3.0,5.0,0.7887323943661971,5.0,18.0,1,-5,56,71,0
+129,20140823,3,0,23,3.0,7.0,0.7777777777777778,5.0,18.0,0,-6,56,72,0
+130,20140824,3,0,23,6.0,8.0,0.7671232876712328,5.0,18.0,0,-7,56,73,0
+131,20140825,3,1,28,4.0,3.0,0.7567567567567568,5.0,18.0,1,-8,56,74,0
+132,20140826,3,1,28,11.0,7.0,0.7702702702702703,5.0,18.0,1,1,57,74,0
+133,20140827,3,1,28,2.0,5.0,0.7837837837837838,5.0,18.0,1,2,58,74,0
+134,20140829,3,1,26,8.0,4.0,0.7733333333333333,5.0,18.0,1,-1,58,75,0
+135,20140830,3,1,26,0.0,7.0,0.7866666666666666,5.0,18.5,1,1,59,75,0
+136,20140831,3,1,26,3.0,0.0,0.7763157894736842,5.0,19.5,0,-1,59,76,0
+137,20140901,3,1,26,3.0,4.0,0.7894736842105263,5.0,19.5,0,1,60,76,0
+138,20140902,3,1,18,9.0,4.0,0.7792207792207793,5.0,19.5,1,-1,60,77,0
+139,20140903,3,1,18,1.0,5.0,0.7922077922077922,5.0,19.5,1,1,61,77,0
+140,20140904,3,1,18,4.0,5.0,0.782051282051282,5.0,20.5,1,-1,61,78,0
+141,20140905,3,0,28,9.0,8.0,0.7721518987341772,5.0,21.5,1,-2,61,79,0
+142,20140906,3,0,28,4.0,3.0,0.7848101265822784,5.0,20.5,1,1,62,79,0
+143,20140907,3,0,28,1.0,3.0,0.7974683544303798,5.0,19.5,0,2,63,79,0
+144,20140908,3,0,2,0.0,4.0,0.7875,5.0,20.5,1,-1,63,80,0
+145,20140909,3,0,2,1.0,4.0,0.7777777777777778,5.0,21.5,1,-2,63,81,0
+146,20140910,3,0,2,6.0,10.0,0.7682926829268293,5.0,22.5,0,-3,63,82,0
+147,20140911,3,1,11,6.0,3.0,0.7590361445783133,5.0,23.5,1,-4,63,83,0
+148,20140912,3,1,11,4.0,2.0,0.7710843373493976,5.0,23.0,1,1,64,83,0
+149,20140913,3,1,11,1.0,7.0,0.7831325301204819,5.0,23.5,1,2,65,83,0
+150,20140914,3,1,11,8.0,4.0,0.7738095238095238,5.0,23.5,0,-1,65,84,0
+151,20140916,3,1,21,0.0,4.0,0.7857142857142857,5.0,23.5,1,1,66,84,0
+152,20140917,3,1,21,1.0,9.0,0.7764705882352941,5.0,25.0,1,-1,66,85,0
+153,20140918,3,1,21,2.0,3.0,0.7674418604651163,5.0,26.0,1,-2,66,86,0
+154,20140919,3,1,2,5.0,3.0,0.7586206896551724,5.0,26.5,1,-3,66,87,0
+155,20140920,3,1,2,2.0,7.0,0.7701149425287356,5.0,25.5,1,1,67,87,0
+156,20140921,3,1,2,3.0,2.0,0.7613636363636364,5.0,26.5,0,-1,67,88,0
+157,20140923,3,0,26,2.0,6.0,0.7727272727272727,5.0,25.5,1,1,68,88,0
+158,20140924,3,0,26,11.0,3.0,0.7640449438202247,5.0,26.0,1,-1,68,89,0
+159,20140925,3,0,26,11.0,1.0,0.7752808988764045,5.0,26.0,1,1,69,89,0
+160,20140926,3,0,18,2.0,3.0,0.7865168539325843,5.0,25.0,1,2,70,89,0
+161,20140927,3,0,18,10.0,4.0,0.7777777777777778,5.0,25.0,0,-1,70,90,0
+162,20140928,3,0,18,5.0,9.0,0.7888888888888889,5.0,24.0,0,1,71,90,0
+1,20150406,3,1,20,8.0,0.0,0,1.0,0,0,0,0,0,0
+2,20150408,3,1,20,2.0,4.0,1.0,1.0,0,1,1,1,0,0
+3,20150409,3,1,20,6.0,2.0,1.0,2.0,0.5,1,-1,1,1,0
+4,20150410,3,1,18,6.0,5.0,2.0,1.0,0,1,1,2,1,0
+5,20150411,3,1,18,8.0,4.0,3.0,1.0,0,0,2,3,1,0
+6,20150412,3,1,18,4.0,14.0,4.0,1.0,-1.0,1,3,4,1,0
+7,20150413,3,0,29,9.0,4.0,2.0,1.0,0,0,-1,4,2,0
+8,20150414,3,0,29,8.0,7.0,2.5,1.0,-1.0,1,1,5,2,0
+9,20150415,3,0,29,5.0,10.0,3.0,1.0,-1.0,0,2,6,2,0
+10,20150417,3,0,2,3.0,2.0,2.0,1.0,-1.0,1,-1,6,3,0
+11,20150418,3,0,2,1.0,4.0,2.3333333333333335,1.0,-1.5,0,1,7,3,0
+12,20150419,3,0,2,3.0,8.0,1.75,1.0,-1.0,0,-1,7,4,0
+13,20150420,3,0,2,7.0,1.0,1.4,1.0,0,0,-2,7,5,0
+14,20150421,3,1,26,1.0,0.0,1.6,1.0,-1.0,1,1,8,5,0
+15,20150422,3,1,26,5.0,7.0,1.8,1.0,-2.0,1,2,9,5,0
+16,20150423,3,1,26,1.0,2.0,1.5,1.0,-1.0,1,-1,9,6,0
+17,20150424,3,1,2,7.0,5.0,1.2857142857142858,1.0,0,1,-2,9,7,0
+18,20150425,3,1,2,4.0,5.0,1.4285714285714286,1.0,0,1,1,10,7,0
+19,20150426,3,1,2,7.0,18.0,1.25,1.0,0,0,-1,10,8,0
+20,20150427,3,0,28,6.0,5.0,1.1111111111111112,3.0,1.0,1,-2,10,9,0
+21,20150428,3,0,28,8.0,11.0,1.2222222222222223,2.0,1.0,1,1,11,9,0
+22,20150429,3,0,28,4.0,1.0,1.1,2.0,2.0,1,-1,11,10,0
+23,20150501,3,0,18,2.0,3.0,1.2,2.0,1.0,1,1,12,10,0
+24,20150502,3,0,18,2.0,4.0,1.0909090909090908,3.0,2.0,0,-1,12,11,0
+25,20150503,3,0,18,5.0,8.0,1.0,3.0,3.0,1,-2,12,12,0
+26,20150504,3,0,26,1.0,5.0,0.9230769230769231,4.0,4.0,1,-3,12,13,0
+27,20150505,3,0,26,2.0,0.0,0.8571428571428571,5.0,4.0,1,-4,12,14,0
+28,20150506,3,0,26,3.0,5.0,0.9285714285714286,4.0,4.0,1,1,13,14,0
+29,20150508,3,1,28,0.0,7.0,0.8666666666666667,5.0,4.0,1,-1,13,15,0
+30,20150509,3,1,28,1.0,7.0,0.8125,4.0,5.5,0,-2,13,16,0
+31,20150510,3,1,28,6.0,3.0,0.7647058823529411,5.0,5.5,0,-3,13,17,0
+32,20150511,3,1,19,5.0,4.0,0.8235294117647058,4.0,5.5,1,1,14,17,0
+33,20150512,3,1,19,2.0,9.0,0.8823529411764706,4.0,5.5,1,2,15,17,0
+34,20150513,3,1,19,2.0,0.0,0.8333333333333334,4.0,5.5,0,-1,15,18,0
+35,20150514,3,1,23,2.0,1.0,0.8888888888888888,4.0,4.5,1,1,16,18,0
+36,20150515,3,1,23,1.0,2.0,0.9444444444444444,3.0,3.5,1,2,17,18,0
+37,20150516,3,1,23,4.0,2.0,0.8947368421052632,3.0,3.5,1,-1,17,19,0
+38,20150517,3,1,23,0.0,5.0,0.9473684210526315,3.0,3.5,0,1,18,19,0
+39,20150519,3,0,27,4.0,3.0,0.9,3.0,3.5,1,-1,18,20,0
+40,20150520,3,0,27,1.0,2.0,0.95,3.0,2.5,1,1,19,20,0
+41,20150521,3,0,27,1.0,3.0,0.9047619047619048,3.0,2.5,1,-1,19,21,0
+42,20150522,3,0,12,5.0,12.0,0.8636363636363636,4.0,3.5,1,-2,19,22,0
+43,20150523,3,0,12,8.0,3.0,0.8260869565217391,4.0,4.5,1,-3,19,23,0
+44,20150524,3,0,12,6.0,1.0,0.8695652173913043,4.0,3.5,0,1,20,23,0
+45,20150525,3,1,16,2.0,7.0,0.9130434782608695,3.0,2.5,0,2,21,23,0
+46,20150526,3,1,16,1.0,2.0,0.875,4.0,2.5,1,-1,21,24,0
+47,20150527,3,1,16,4.0,6.0,0.84,4.0,3.0,0,-2,21,25,0
+48,20150528,3,1,27,5.0,1.0,0.8076923076923077,4.0,4.0,1,-3,21,26,0
+49,20150529,3,1,27,4.0,7.0,0.8461538461538461,4.0,3.0,1,1,22,26,0
+50,20150530,3,1,27,0.0,8.0,0.8148148148148148,5.0,3.0,1,-1,22,27,0
+51,20150531,3,1,27,3.0,4.0,0.7857142857142857,5.0,4.0,0,-2,22,28,0
+52,20150602,3,0,16,1.0,0.0,0.7586206896551724,5.0,4.0,1,-3,22,29,0
+53,20150603,3,0,16,6.0,3.0,0.7931034482758621,4.0,4.5,0,1,23,29,1
+54,20150603,3,0,16,0.0,2.0,0.8275862068965517,4.0,5.0,1,2,24,29,1
+55,20150604,3,0,16,4.0,8.0,0.8,4.0,5.0,0,-1,24,30,0
+56,20150605,3,0,19,4.0,2.0,0.7741935483870968,5.0,5.5,1,-2,24,31,0
+57,20150606,3,0,19,4.0,2.0,0.8064516129032258,5.0,5.5,0,1,25,31,0
+58,20150607,3,0,19,7.0,4.0,0.8387096774193549,4.0,5.5,0,2,26,31,0
+59,20150609,3,1,2,0.0,1.0,0.8709677419354839,4.0,5.5,1,3,27,31,0
+60,20150610,3,1,2,2.0,5.0,0.84375,5.0,6.5,1,-1,27,32,0
+61,20150611,3,1,2,5.0,6.0,0.8181818181818182,5.0,6.5,1,-2,27,33,0
+62,20150612,3,0,28,10.0,13.0,0.7941176470588235,5.0,7.0,1,-3,27,34,0
+63,20150613,3,0,28,4.0,5.0,0.7714285714285715,5.0,7.0,0,-4,27,35,0
+64,20150614,3,0,28,5.0,13.0,0.75,5.0,7.0,0,-5,27,36,0
+65,20150615,3,0,1,2.0,4.0,0.7297297297297297,5.0,8.0,1,-6,27,37,0
+66,20150616,3,0,1,9.0,4.0,0.7105263157894737,5.0,9.0,0,-7,27,38,0
+67,20150617,3,1,1,2.0,5.0,0.7368421052631579,5.0,8.0,1,1,28,38,0
+68,20150618,3,1,1,5.0,2.0,0.717948717948718,5.0,9.0,1,-1,28,39,0
+69,20150619,3,1,11,7.0,3.0,0.7435897435897436,5.0,9.0,1,1,29,39,0
+70,20150620,3,1,11,4.0,7.0,0.7692307692307693,5.0,9.0,1,2,30,39,0
+71,20150621,3,1,11,13.0,2.0,0.75,5.0,10.0,0,-1,30,40,0
+72,20150623,3,0,2,4.0,6.0,0.775,5.0,9.0,1,1,31,40,0
+73,20150624,3,0,2,5.0,1.0,0.7560975609756098,5.0,9.5,1,-1,31,41,0
+74,20150625,3,0,2,6.0,8.0,0.7804878048780488,5.0,8.5,0,1,32,41,0
+75,20150626,3,1,26,4.0,3.0,0.7619047619047619,5.0,9.0,1,-1,32,42,0
+76,20150627,3,1,26,1.0,4.0,0.7857142857142857,5.0,8.0,0,1,33,42,0
+77,20150628,3,1,26,5.0,3.0,0.7674418604651163,5.0,9.0,0,-1,33,43,0
+78,20150629,3,1,28,3.0,1.0,0.7906976744186046,5.0,8.0,1,1,34,43,0
+79,20150630,3,1,28,4.0,3.0,0.813953488372093,5.0,7.0,1,2,35,43,0
+80,20150701,3,1,28,2.0,11.0,0.8372093023255814,5.0,6.0,0,3,36,43,0
+81,20150702,3,1,28,12.0,6.0,0.8181818181818182,5.0,7.0,1,-1,36,44,0
+82,20150703,3,0,10,8.0,12.0,0.8409090909090909,5.0,6.0,1,1,37,44,0
+83,20150704,3,0,10,6.0,1.0,0.8222222222222222,5.0,7.0,0,-1,37,45,0
+84,20150705,3,0,10,5.0,4.0,0.8444444444444444,5.0,7.0,0,1,38,45,0
+85,20150707,3,0,14,4.0,3.0,0.8666666666666667,5.0,6.0,1,2,39,45,0
+86,20150708,3,0,14,6.0,3.0,0.8888888888888888,5.0,5.0,1,3,40,45,0
+87,20150710,3,0,18,1.0,5.0,0.9111111111111111,5.0,5.0,1,4,41,45,0
+88,20150711,3,0,18,5.0,3.0,0.8913043478260869,5.0,6.5,1,-1,41,46,0
+89,20150712,3,0,18,6.0,8.0,0.9130434782608695,5.0,5.5,0,1,42,46,0
+90,20150717,3,1,12,0.0,1.0,0.8936170212765957,5.0,6.5,1,-1,42,47,0
+91,20150718,3,1,12,0.0,3.0,0.875,5.0,7.5,1,-2,42,48,0
+92,20150720,3,1,12,1.0,11.0,0.8571428571428571,5.0,7.5,0,-3,42,49,1
+93,20150720,3,1,12,3.0,7.0,0.84,5.0,9.0,1,-4,42,50,1
+94,20150721,3,1,10,3.0,8.0,0.8235294117647058,5.0,9.0,1,-5,42,51,0
+95,20150722,3,1,10,2.0,4.0,0.8076923076923077,5.0,10.0,1,-6,42,52,0
+96,20150723,3,1,10,4.0,5.0,0.7924528301886793,5.0,11.0,1,-7,42,53,0
+97,20150724,3,0,9,2.0,1.0,0.7777777777777778,5.0,12.0,1,-8,42,54,0
+98,20150725,3,0,9,1.0,5.0,0.7962962962962963,5.0,11.0,0,1,43,54,0
+99,20150726,3,0,9,11.0,1.0,0.7818181818181819,5.0,12.0,1,-1,43,55,0
+100,20150727,3,0,5,8.0,10.0,0.8,5.0,12.0,1,1,44,55,0
+101,20150728,3,0,5,4.0,9.0,0.7857142857142857,5.0,13.0,1,-1,44,56,0
+102,20150729,3,0,5,2.0,9.0,0.7719298245614035,5.0,14.0,1,-2,44,57,0
+103,20150730,3,0,5,8.0,2.0,0.7586206896551724,5.0,14.0,1,-3,44,58,0
+104,20150731,3,0,26,7.0,5.0,0.7758620689655172,5.0,13.0,1,1,45,58,0
+105,20150801,3,0,26,11.0,7.0,0.7931034482758621,5.0,13.0,0,2,46,58,0
+106,20150802,3,0,26,3.0,4.0,0.8103448275862069,5.0,12.0,0,3,47,58,0
+107,20150804,3,1,18,3.0,13.0,0.7966101694915254,5.0,13.0,1,-1,47,59,0
+108,20150805,3,1,18,2.0,1.0,0.7833333333333333,5.0,14.0,1,-2,47,60,0
+109,20150806,3,1,18,1.0,2.0,0.8,5.0,13.0,1,1,48,60,0
+110,20150807,3,1,9,7.0,2.0,0.7868852459016393,5.0,14.0,1,-1,48,61,0
+111,20150808,3,1,9,6.0,7.0,0.8032786885245902,5.0,13.0,1,1,49,61,0
+112,20150809,3,1,9,7.0,2.0,0.7903225806451613,5.0,13.0,0,-1,49,62,0
+113,20150811,3,1,14,4.0,5.0,0.8064516129032258,5.0,12.0,1,1,50,62,0
+114,20150812,3,1,14,6.0,14.0,0.7936507936507936,5.0,12.0,0,-1,50,63,0
+115,20150814,3,0,23,15.0,1.0,0.78125,5.0,12.5,1,-2,50,64,0
+116,20150815,3,0,23,22.0,10.0,0.796875,5.0,12.5,0,1,51,64,0
+117,20150816,3,0,23,8.0,10.0,0.8125,5.0,12.5,0,2,52,64,0
+118,20150817,3,0,7,2.0,8.0,0.8,5.0,12.5,1,-1,52,65,0
+119,20150818,3,0,7,9.0,1.0,0.7878787878787878,5.0,13.5,1,-2,52,66,0
+120,20150819,3,0,7,6.0,4.0,0.803030303030303,5.0,13.5,1,1,53,66,0
+121,20150820,3,0,11,4.0,1.0,0.8181818181818182,5.0,13.5,1,2,54,66,0
+122,20150821,3,0,11,7.0,2.0,0.8333333333333334,5.0,12.5,1,3,55,66,0
+123,20150822,3,0,11,3.0,6.0,0.8484848484848485,5.0,11.5,1,4,56,66,0
+124,20150823,3,0,11,6.0,8.0,0.835820895522388,5.0,12.5,0,-1,56,67,0
+125,20150824,3,1,5,5.0,4.0,0.8235294117647058,5.0,13.0,1,-2,56,68,0
+126,20150825,3,1,5,4.0,5.0,0.8382352941176471,5.0,12.5,1,1,57,68,0
+127,20150826,3,1,5,3.0,0.0,0.8260869565217391,5.0,13.5,1,-1,57,69,0
+128,20150828,3,1,17,6.0,4.0,0.8405797101449275,5.0,13.5,1,1,58,69,0
+129,20150829,3,1,17,3.0,1.0,0.855072463768116,5.0,13.0,0,2,59,69,0
+130,20150830,3,1,17,4.0,5.0,0.8695652173913043,5.0,13.0,0,3,60,69,0
+131,20150831,3,0,18,4.0,3.0,0.8571428571428571,5.0,14.0,1,-1,60,70,0
+132,20150901,3,0,18,1.0,3.0,0.8714285714285714,5.0,13.0,1,1,61,70,0
+133,20150902,3,0,18,8.0,13.0,0.8591549295774648,5.0,14.0,0,-1,61,71,0
+134,20150904,3,0,20,7.0,5.0,0.8472222222222222,5.0,15.0,1,-2,61,72,0
+135,20150905,3,0,20,9.0,2.0,0.8611111111111112,5.0,14.0,0,1,62,72,0
+136,20150906,3,0,20,6.0,2.0,0.875,5.0,14.0,0,2,63,72,0
+137,20150907,3,0,28,11.0,4.0,0.8888888888888888,5.0,14.0,0,3,64,72,0
+138,20150908,3,0,28,1.0,5.0,0.9027777777777778,4.0,13.0,1,4,65,72,0
+139,20150909,3,0,28,10.0,4.0,0.8904109589041096,5.0,14.0,1,-1,65,73,0
+140,20150911,3,1,26,4.0,8.0,0.9041095890410958,5.0,13.0,1,1,66,73,0
+141,20150912,3,1,26,10.0,4.0,0.8918918918918919,5.0,14.0,1,-1,66,74,0
+142,20150913,3,1,26,2.0,0.0,0.9054054054054054,5.0,14.5,0,1,67,74,0
+143,20150914,3,1,2,0.0,2.0,0.918918918918919,5.0,13.5,1,2,68,74,0
+144,20150915,3,1,2,5.0,6.0,0.9066666666666666,5.0,14.0,1,-1,68,75,0
+145,20150916,3,1,2,10.0,1.0,0.8947368421052632,5.0,14.0,1,-2,68,76,0
+146,20150918,3,1,28,1.0,6.0,0.9078947368421053,5.0,14.0,1,1,69,76,0
+147,20150919,3,1,28,7.0,6.0,0.8961038961038961,5.0,15.5,0,-1,69,77,0
+148,20150920,3,1,28,4.0,3.0,0.9090909090909091,5.0,14.5,0,1,70,77,0
+149,20150921,3,0,26,8.0,7.0,0.922077922077922,5.0,13.5,1,2,71,77,0
+150,20150922,3,0,26,2.0,5.0,0.935064935064935,4.0,13.5,1,3,72,77,0
+151,20150923,3,0,26,2.0,6.0,0.9230769230769231,5.0,13.5,1,-1,72,78,0
+152,20150924,3,0,26,2.0,4.0,0.9113924050632911,5.0,14.5,1,-2,72,79,0
+153,20150925,3,0,2,7.0,0.0,0.9,5.0,15.0,1,-3,72,80,0
+154,20150926,3,0,2,8.0,0.0,0.9125,5.0,15.0,0,1,73,80,0
+155,20150927,3,0,2,2.0,0.0,0.925,5.0,15.0,0,2,74,80,0
+156,20150928,3,1,18,5.0,1.0,0.9375,4.0,15.0,1,3,75,80,0
+157,20150929,3,1,18,10.0,4.0,0.95,3.0,15.0,1,4,76,80,0
+158,20150930,3,1,18,9.0,5.0,0.9625,3.0,14.5,1,5,77,80,0
+159,20151001,3,1,18,1.0,4.0,0.975,3.0,14.0,1,6,78,80,0
+160,20151002,3,1,7,2.0,8.0,0.9629629629629629,3.0,14.0,1,-1,78,81,0
+161,20151003,3,1,7,0.0,2.0,0.9512195121951219,4.0,15.0,1,-2,78,82,0
+162,20151004,3,1,7,1.0,3.0,0.9397590361445783,5.0,15.0,0,-3,78,83,0
+1,20160405,3,1,7,6.0,2.0,0,1.0,0,0,0,0,0,0
+2,20160406,3,1,7,6.0,7.0,1.0,1.0,0,1,1,1,0,0
+3,20160408,3,1,28,8.0,7.0,1.0,2.0,1.0,1,-1,1,1,0
+4,20160409,3,1,28,8.0,4.0,2.0,2.0,1.5,0,1,2,1,0
+5,20160410,3,1,28,0.0,3.0,3.0,2.0,1.0,0,2,3,1,0
+6,20160411,3,0,2,7.0,9.0,1.5,2.0,2.0,0,-1,3,2,0
+7,20160412,3,0,2,5.0,9.0,1.0,3.0,3.0,1,-2,3,3,0
+8,20160413,3,0,2,4.0,2.0,0.75,3.0,4.0,1,-3,3,4,0
+9,20160415,3,0,28,5.0,3.0,1.0,3.0,3.0,1,1,4,4,0
+10,20160416,3,0,28,4.0,2.0,1.25,2.0,2.5,0,2,5,4,0
+11,20160417,3,0,28,3.0,5.0,1.5,2.0,1.5,0,3,6,4,0
+12,20160418,3,0,28,3.0,4.0,1.2,2.0,2.0,0,-1,6,5,0
+13,20160419,3,0,26,0.0,3.0,1.0,2.0,2.5,1,-2,6,6,0
+14,20160420,3,0,26,7.0,3.0,0.8571428571428571,3.0,2.5,1,-3,6,7,0
+15,20160421,3,0,26,8.0,12.0,1.0,2.0,2.5,0,1,7,7,0
+16,20160422,3,1,10,6.0,2.0,0.875,2.0,3.5,1,-1,7,8,0
+17,20160423,3,1,10,3.0,8.0,1.0,2.0,2.5,0,1,8,8,0
+18,20160424,3,1,10,7.0,5.0,0.8888888888888888,2.0,3.5,1,-1,8,9,0
+19,20160425,3,1,1,1.0,0.0,1.0,2.0,2.5,1,1,9,9,0
+20,20160426,3,1,1,11.0,4.0,1.1111111111111112,2.0,1.5,1,2,10,9,0
+21,20160427,3,0,1,9.0,4.0,1.2222222222222223,2.0,0.5,1,3,11,9,0
+22,20160428,3,0,1,3.0,5.0,1.3333333333333333,2.0,0.5,1,4,12,9,0
+23,20160429,3,0,18,4.0,2.0,1.2,2.0,1.5,1,-1,12,10,0
+24,20160430,3,0,18,8.0,0.0,1.3,2.0,1.5,1,1,13,10,0
+25,20160501,3,0,18,8.0,7.0,1.4,2.0,0.5,1,2,14,10,0
+26,20160503,3,1,5,1.0,4.0,1.5,1.0,-0.5,1,3,15,10,0
+27,20160504,3,1,5,5.0,2.0,1.3636363636363635,2.0,0.5,1,-1,15,11,0
+28,20160505,3,1,5,7.0,3.0,1.4545454545454546,1.0,-0.5,1,1,16,11,0
+29,20160506,3,1,18,2.0,3.0,1.5454545454545454,1.0,-0.5,1,2,17,11,0
+30,20160507,3,1,18,2.0,8.0,1.4166666666666667,1.0,0,0,-1,17,12,0
+31,20160508,3,1,18,5.0,1.0,1.3076923076923077,2.0,0.5,1,-2,17,13,0
+32,20160509,3,0,19,14.0,7.0,1.3846153846153846,2.0,0.5,1,1,18,13,0
+33,20160510,3,0,19,13.0,5.0,1.4615384615384615,1.0,0,1,2,19,13,0
+34,20160511,3,0,19,13.0,3.0,1.5384615384615385,1.0,0,1,3,20,13,0
+35,20160512,3,0,10,11.0,1.0,1.6153846153846154,1.0,0,1,4,21,13,0
+36,20160513,3,0,10,6.0,7.0,1.6923076923076923,1.0,0,1,5,22,13,0
+37,20160514,3,0,10,6.0,5.0,1.5714285714285714,2.0,1.0,0,-1,22,14,0
+38,20160515,3,0,10,10.0,9.0,1.6428571428571428,2.0,1.0,0,1,23,14,0
+39,20160517,3,1,11,4.0,8.0,1.7142857142857142,1.0,0,1,2,24,14,0
+40,20160518,3,1,11,2.0,3.0,1.6,1.0,0,0,-1,24,15,1
+41,20160518,3,1,11,5.0,2.0,1.5,2.0,0.5,1,-2,24,16,1
+42,20160520,3,0,7,2.0,4.0,1.5625,2.0,0.5,1,1,25,16,0
+43,20160521,3,0,7,9.0,1.0,1.4705882352941178,2.0,1.0,0,-1,25,17,0
+44,20160522,3,0,7,5.0,2.0,1.5294117647058822,2.0,1.0,0,1,26,17,0
+45,20160524,3,0,8,8.0,3.0,1.588235294117647,1.0,0,1,2,27,17,0
+46,20160525,3,0,8,10.0,3.0,1.6470588235294117,1.0,-1.0,1,3,28,17,0
+47,20160526,3,0,8,2.0,8.0,1.7058823529411764,1.0,-2.0,1,4,29,17,0
+48,20160527,3,1,28,5.0,7.0,1.6111111111111112,1.0,-2.0,1,-1,29,18,0
+49,20160528,3,1,28,9.0,10.0,1.5263157894736843,1.0,-1.0,0,-2,29,19,0
+50,20160529,3,1,28,5.0,3.0,1.45,1.0,-1.0,0,-3,29,20,0
+51,20160530,3,1,2,7.0,2.0,1.5,1.0,-1.0,0,1,30,20,0
+52,20160531,3,1,2,6.0,2.0,1.55,1.0,-2.0,1,2,31,20,0
+53,20160601,3,1,2,9.0,13.0,1.6,1.0,-3.0,1,3,32,20,0
+54,20160602,3,1,2,7.0,12.0,1.5238095238095237,1.0,-2.0,1,-1,32,21,0
+55,20160603,3,0,28,2.0,5.0,1.4545454545454546,1.0,-1.0,1,-2,32,22,0
+56,20160604,3,0,28,6.0,4.0,1.391304347826087,1.0,0,0,-3,32,23,0
+57,20160605,3,0,28,4.0,5.0,1.434782608695652,1.0,-1.0,0,1,33,23,0
+58,20160607,3,1,24,5.0,3.0,1.375,1.0,0,1,-1,33,24,0
+59,20160608,3,1,24,1.0,2.0,1.4166666666666667,2.0,0.5,1,1,34,24,0
+60,20160610,3,1,16,8.0,1.0,1.36,2.0,1.5,1,-1,34,25,0
+61,20160611,3,1,16,15.0,4.0,1.4,2.0,1.0,0,1,35,25,0
+62,20160612,3,1,16,4.0,7.0,1.44,1.0,0,0,2,36,25,0
+63,20160614,3,0,2,2.0,3.0,1.3846153846153846,1.0,0,1,-1,36,26,0
+64,20160615,3,0,2,6.0,4.0,1.3333333333333333,2.0,1.0,1,-2,36,27,0
+65,20160616,3,0,2,1.0,5.0,1.3703703703703705,1.0,0,1,1,37,27,0
+66,20160617,3,0,23,4.0,8.0,1.3214285714285714,2.0,1.0,1,-1,37,28,0
+67,20160618,3,0,23,6.0,2.0,1.2758620689655173,2.0,1.0,0,-2,37,29,0
+68,20160619,3,0,23,2.0,1.0,1.3103448275862069,2.0,1.0,0,1,38,29,0
+69,20160620,3,0,5,1.0,3.0,1.3448275862068966,2.0,1.0,1,2,39,29,0
+70,20160621,3,0,5,1.0,3.0,1.3,2.0,1.0,1,-1,39,30,0
+71,20160622,3,0,5,6.0,8.0,1.2580645161290323,2.0,1.0,1,-2,39,31,0
+72,20160623,3,0,5,8.0,7.0,1.21875,2.0,2.0,0,-3,39,32,0
+73,20160624,3,1,27,8.0,7.0,1.25,2.0,1.5,1,1,40,32,0
+74,20160625,3,1,27,3.0,10.0,1.28125,2.0,1.5,1,2,41,32,0
+75,20160626,3,1,27,2.0,6.0,1.2424242424242424,2.0,3.0,0,-1,41,33,0
+76,20160627,3,1,26,7.0,13.0,1.2058823529411764,2.0,4.0,1,-2,41,34,0
+77,20160628,3,1,26,8.0,2.0,1.1714285714285715,2.0,4.5,1,-3,41,35,0
+78,20160629,3,1,26,0.0,4.0,1.2,2.0,4.5,0,1,42,35,0
+79,20160701,3,0,12,5.0,4.0,1.1666666666666667,2.0,5.5,1,-1,42,36,0
+80,20160702,3,0,12,2.0,21.0,1.1944444444444444,2.0,4.0,1,1,43,36,0
+81,20160703,3,0,12,10.0,5.0,1.162162162162162,2.0,4.0,0,-1,43,37,0
+82,20160704,3,0,27,12.0,5.0,1.1891891891891893,2.0,3.0,0,1,44,37,0
+83,20160705,3,0,27,2.0,7.0,1.2162162162162162,2.0,2.0,1,2,45,37,0
+84,20160706,3,0,27,11.0,6.0,1.1842105263157894,3.0,3.0,1,-1,45,38,0
+85,20160708,3,0,26,6.0,5.0,1.2105263157894737,3.0,3.0,1,1,46,38,0
+86,20160709,3,0,26,4.0,1.0,1.236842105263158,3.0,2.0,0,2,47,38,0
+87,20160710,3,0,26,4.0,0.0,1.263157894736842,2.0,2.0,0,3,48,38,0
+88,20160715,3,1,18,5.0,3.0,1.2894736842105263,2.0,2.0,1,4,49,38,0
+89,20160716,3,1,18,5.0,2.0,1.3157894736842106,2.0,2.0,0,5,50,38,0
+90,20160717,3,1,18,1.0,3.0,1.3421052631578947,2.0,2.0,1,6,51,38,0
+91,20160719,3,0,24,4.0,0.0,1.3076923076923077,2.0,2.0,1,-1,51,39,0
+92,20160720,3,0,24,11.0,7.0,1.3333333333333333,2.0,0.5,1,1,52,39,0
+93,20160721,3,0,16,13.0,2.0,1.358974358974359,1.0,-0.5,1,2,53,39,0
+94,20160722,3,0,16,1.0,2.0,1.3846153846153846,1.0,-0.5,1,3,54,39,0
+95,20160723,3,0,16,9.0,11.0,1.35,2.0,0.5,1,-1,54,40,0
+96,20160724,3,0,16,8.0,7.0,1.3170731707317074,2.0,1.5,0,-2,54,41,0
+97,20160725,3,0,9,2.0,4.0,1.3414634146341464,2.0,1.5,1,1,55,41,0
+98,20160726,3,0,9,8.0,9.0,1.3095238095238095,2.0,2.5,1,-1,55,42,0
+99,20160727,3,0,9,3.0,4.0,1.2790697674418605,3.0,2.5,0,-2,55,43,0
+100,20160728,3,1,12,1.0,2.0,1.25,3.0,2.5,1,-3,55,44,0
+101,20160729,3,1,12,6.0,2.0,1.2222222222222223,3.0,2.5,1,-4,55,45,0
+102,20160730,3,1,12,2.0,5.0,1.2444444444444445,3.0,1.5,1,1,56,45,0
+103,20160731,3,1,12,5.0,3.0,1.2173913043478262,3.0,2.0,0,-1,56,46,0
+104,20160801,3,1,23,2.0,1.0,1.2391304347826086,3.0,1.5,1,1,57,46,0
+105,20160802,3,1,23,4.0,5.0,1.2608695652173914,2.0,1.0,1,2,58,46,0
+106,20160803,3,1,23,1.0,3.0,1.2340425531914894,3.0,2.0,1,-1,58,47,0
+107,20160804,3,1,23,3.0,2.0,1.2083333333333333,3.0,3.0,1,-2,58,48,0
+108,20160805,3,1,13,9.0,0.0,1.2291666666666667,3.0,2.0,1,1,59,48,0
+109,20160806,3,1,13,0.0,3.0,1.25,3.0,2.0,0,2,60,48,0
+110,20160807,3,1,13,5.0,8.0,1.2244897959183674,3.0,2.0,0,-1,60,49,0
+111,20160809,3,0,18,5.0,3.0,1.2,3.0,3.0,1,-2,60,50,0
+112,20160810,3,0,18,4.0,9.0,1.22,3.0,1.5,1,1,61,50,0
+113,20160811,3,0,18,2.0,4.0,1.196078431372549,3.0,2.5,1,-1,61,51,0
+114,20160812,3,0,0,9.0,4.0,1.1730769230769231,3.0,3.0,1,-2,61,52,0
+115,20160813,3,0,0,6.0,3.0,1.1923076923076923,3.0,2.5,1,1,62,52,0
+116,20160814,3,0,0,16.0,2.0,1.2115384615384615,3.0,2.0,0,2,63,52,0
+117,20160815,3,1,7,3.0,2.0,1.2307692307692308,3.0,2.0,0,3,64,52,0
+118,20160816,3,1,2,5.0,3.0,1.25,3.0,1.0,1,4,65,52,0
+119,20160817,3,1,2,8.0,1.0,1.2692307692307692,2.0,1.0,1,5,66,52,0
+120,20160818,3,1,9,3.0,4.0,1.2884615384615385,2.0,1.0,0,6,67,52,0
+121,20160819,3,1,9,10.0,2.0,1.2641509433962264,2.0,1.5,1,-1,67,53,0
+122,20160820,3,1,9,3.0,2.0,1.2830188679245282,2.0,0.5,1,1,68,53,0
+123,20160821,3,1,9,5.0,10.0,1.3018867924528301,2.0,0.5,0,2,69,53,0
+124,20160822,3,1,26,6.0,2.0,1.2777777777777777,2.0,0.5,1,-1,69,54,0
+125,20160823,3,1,26,2.0,1.0,1.2962962962962963,1.0,0,1,1,70,54,0
+126,20160824,3,1,26,3.0,4.0,1.3148148148148149,1.0,0,1,2,71,54,0
+127,20160825,3,1,26,1.0,2.0,1.290909090909091,1.0,0,0,-1,71,55,0
+128,20160826,3,0,11,3.0,6.0,1.2678571428571428,1.0,0,1,-2,71,56,0
+129,20160827,3,0,11,8.0,3.0,1.2456140350877194,2.0,1.0,1,-3,71,57,0
+130,20160828,3,0,11,4.0,10.0,1.263157894736842,2.0,1.0,1,1,72,57,0
+131,20160829,3,0,26,9.0,4.0,1.2413793103448276,2.0,2.0,1,-1,72,58,0
+132,20160830,3,0,26,3.0,4.0,1.2586206896551724,2.0,2.0,1,1,73,58,0
+133,20160831,3,0,26,8.0,6.0,1.2372881355932204,2.0,2.0,0,-1,73,59,0
+134,20160902,3,1,19,16.0,2.0,1.2542372881355932,2.0,2.0,1,1,74,59,0
+135,20160903,3,1,19,11.0,2.0,1.271186440677966,2.0,1.0,1,2,75,59,0
+136,20160904,3,1,19,0.0,1.0,1.2881355932203389,1.0,0,0,3,76,59,0
+137,20160905,3,1,22,1.0,2.0,1.2666666666666666,2.0,1.0,0,-1,76,60,0
+138,20160906,3,1,22,5.0,1.0,1.2459016393442623,2.0,1.0,1,-2,76,61,0
+139,20160907,3,1,22,7.0,2.0,1.2622950819672132,1.0,0,1,1,77,61,0
+140,20160909,3,1,28,13.0,3.0,1.278688524590164,1.0,-1.0,1,2,78,61,0
+141,20160910,3,1,28,2.0,3.0,1.2950819672131149,1.0,-2.0,0,3,79,61,0
+142,20160911,3,1,28,11.0,8.0,1.2741935483870968,1.0,-1.0,0,-1,79,62,0
+143,20160912,3,0,2,12.0,2.0,1.2903225806451613,1.0,-2.0,1,1,80,62,0
+144,20160913,3,0,2,3.0,6.0,1.3064516129032258,1.0,-2.0,1,2,81,62,0
+145,20160914,3,0,2,0.0,1.0,1.2857142857142858,1.0,-2.0,1,-1,81,63,0
+146,20160915,3,0,18,7.0,5.0,1.265625,1.0,-1.0,1,-2,81,64,0
+147,20160916,3,0,18,7.0,4.0,1.28125,1.0,-2.0,1,1,82,64,0
+148,20160917,3,0,18,6.0,5.0,1.296875,1.0,-2.0,0,2,83,64,0
+149,20160918,3,0,18,5.0,4.0,1.3125,1.0,-3.0,1,3,84,64,0
+150,20160919,3,1,2,5.0,2.0,1.328125,1.0,-3.0,1,4,85,64,0
+151,20160920,3,1,2,5.0,2.0,1.34375,1.0,-4.0,1,5,86,64,0
+152,20160921,3,1,2,5.0,1.0,1.359375,1.0,-4.0,1,6,87,64,0
+153,20160922,3,1,2,5.0,3.0,1.375,1.0,-5.0,1,7,88,64,0
+154,20160923,3,1,26,2.0,1.0,1.390625,1.0,-5.5,1,8,89,64,0
+155,20160924,3,1,26,6.0,4.0,1.40625,1.0,-5.5,1,9,90,64,0
+156,20160925,3,1,26,3.0,2.0,1.421875,1.0,-5.5,0,10,91,64,0
+157,20160927,3,1,18,4.0,6.0,1.4375,1.0,-5.5,1,11,92,64,0
+158,20160928,3,1,18,3.0,5.0,1.4153846153846155,1.0,-5.0,1,-1,92,65,0
+159,20160929,3,1,18,1.0,5.0,1.393939393939394,1.0,-5.0,1,-2,92,66,0
+160,20160930,3,0,28,5.0,3.0,1.373134328358209,1.0,-5.0,1,-3,92,67,0
+161,20161001,3,0,28,3.0,4.0,1.3880597014925373,1.0,-5.0,1,1,93,67,0
+162,20161002,3,0,28,1.0,2.0,1.3676470588235294,1.0,-5.0,0,-1,93,68,0
+1,20170403,3,0,21,5.0,3.0,0,1.0,0,0,0,0,0,0
+2,20170405,3,0,21,3.0,0.0,1.0,1.0,0,1,1,1,0,0
+3,20170407,3,1,9,5.0,6.0,2.0,1.0,0,0,2,2,0,0
+4,20170408,3,1,9,1.0,4.0,2.0,2.0,1.0,0,-1,2,1,0
+5,20170409,3,1,9,7.0,5.0,1.0,3.0,2.0,0,-2,2,2,0
+6,20170410,3,1,9,1.0,2.0,1.5,3.0,1.0,0,1,3,2,0
+7,20170411,3,0,2,8.0,1.0,1.0,3.0,1.5,1,-1,3,3,0
+8,20170412,3,0,2,5.0,12.0,1.3333333333333333,3.0,0.5,1,1,4,3,0
+9,20170413,3,0,21,4.0,3.0,1.0,3.0,1.5,0,-1,4,4,0
+10,20170414,3,0,26,5.0,10.0,1.25,2.0,1.5,1,1,5,4,0
+11,20170415,3,0,26,2.0,1.0,1.0,4.0,2.5,0,-1,5,5,0
+12,20170416,3,0,26,7.0,5.0,1.2,3.0,1.5,0,1,6,5,0
+13,20170417,3,0,26,4.0,3.0,1.4,3.0,1.5,0,2,7,5,0
+14,20170418,3,1,28,8.0,7.0,1.6,3.0,1.0,1,3,8,5,0
+15,20170419,3,1,28,0.0,3.0,1.8,1.0,0,1,4,9,5,0
+16,20170420,3,1,28,4.0,1.0,1.5,3.0,1.0,0,-1,9,6,0
+17,20170421,3,1,2,0.0,2.0,1.6666666666666667,3.0,1.0,1,1,10,6,0
+18,20170422,3,1,2,2.0,4.0,1.4285714285714286,3.0,2.0,1,-1,10,7,0
+19,20170423,3,1,2,6.0,2.0,1.25,3.0,3.0,0,-2,10,8,0
+20,20170426,3,0,18,1.0,3.0,1.375,3.0,2.0,1,1,11,8,0
+21,20170427,3,0,18,0.0,3.0,1.2222222222222223,3.0,3.0,1,-1,11,9,0
+22,20170428,3,0,4,5.0,4.0,1.1,3.0,3.5,1,-2,11,10,0
+23,20170429,3,0,4,4.0,7.0,1.2,3.0,2.5,0,1,12,10,0
+24,20170430,3,0,4,6.0,2.0,1.0909090909090908,3.0,3.5,1,-1,12,11,0
+25,20170501,3,0,2,2.0,5.0,1.1818181818181819,3.0,2.5,1,1,13,11,0
+26,20170502,3,0,2,5.0,2.0,1.0833333333333333,3.0,3.5,1,-1,13,12,0
+27,20170503,3,0,2,4.0,2.0,1.1666666666666667,3.0,2.5,1,1,14,12,0
+28,20170504,3,0,2,3.0,8.0,1.25,3.0,2.5,1,2,15,12,0
+29,20170505,3,1,16,3.0,4.0,1.1538461538461537,3.0,3.0,1,-1,15,13,0
+30,20170506,3,1,16,11.0,1.0,1.0714285714285714,3.0,4.0,0,-2,15,14,0
+31,20170507,3,1,16,17.0,6.0,1.1428571428571428,3.0,4.0,0,1,16,14,0
+32,20170509,3,1,15,7.0,11.0,1.2142857142857142,3.0,4.0,1,2,17,14,0
+33,20170510,3,1,15,4.0,7.0,1.1333333333333333,3.0,5.0,1,-1,17,15,0
+34,20170511,3,1,15,4.0,1.0,1.0625,3.0,5.0,0,-2,17,16,0
+35,20170512,3,0,26,4.0,5.0,1.125,3.0,4.5,1,1,18,16,0
+36,20170513,3,0,26,6.0,3.0,1.0588235294117647,3.0,4.5,0,-1,18,17,0
+37,20170514,3,0,26,2.0,11.0,1.1176470588235294,3.0,3.5,0,1,19,17,0
+38,20170516,3,1,25,6.0,3.0,1.0555555555555556,3.0,4.0,1,-1,19,18,0
+39,20170517,3,1,25,5.0,4.0,1.1111111111111112,3.0,4.0,1,1,20,18,0
+40,20170518,3,1,19,3.0,8.0,1.1666666666666667,3.0,4.0,1,2,21,18,0
+41,20170519,3,1,19,2.0,3.0,1.105263157894737,3.0,4.0,1,-1,21,19,0
+42,20170520,3,1,19,3.0,8.0,1.05,3.0,4.0,0,-2,21,20,0
+43,20170521,3,1,19,12.0,3.0,1.0,4.0,4.5,0,-3,21,21,0
+44,20170523,3,0,27,11.0,6.0,1.0476190476190477,3.0,4.0,1,1,22,21,0
+45,20170524,3,0,27,9.0,4.0,1.0952380952380953,3.0,3.5,1,2,23,21,0
+46,20170525,3,0,27,6.0,2.0,1.1428571428571428,3.0,3.5,1,3,24,21,0
+47,20170526,3,0,23,3.0,0.0,1.1904761904761905,3.0,3.0,1,4,25,21,0
+48,20170527,3,0,23,6.0,0.0,1.2380952380952381,2.0,2.0,0,5,26,21,0
+49,20170528,3,0,23,0.0,5.0,1.2857142857142858,2.0,2.0,0,6,27,21,0
+50,20170529,3,1,5,4.0,5.0,1.2272727272727273,2.0,3.0,0,-1,27,22,0
+51,20170530,3,1,5,13.0,7.0,1.173913043478261,2.0,3.0,1,-2,27,23,0
+52,20170531,3,1,5,4.0,1.0,1.2173913043478262,2.0,3.0,1,1,28,23,0
+53,20170601,3,1,2,5.0,7.0,1.2608695652173914,2.0,2.0,1,2,29,23,0
+54,20170602,3,1,2,2.0,3.0,1.2083333333333333,2.0,3.0,1,-1,29,24,0
+55,20170603,3,1,2,5.0,2.0,1.16,3.0,3.0,1,-2,29,25,0
+56,20170604,3,1,2,7.0,3.0,1.2,2.0,3.0,0,1,30,25,0
+57,20170606,3,1,18,5.0,4.0,1.24,2.0,2.0,1,2,31,25,0
+58,20170607,3,1,18,0.0,8.0,1.28,2.0,1.0,1,3,32,25,0
+59,20170608,3,1,18,1.0,9.0,1.2307692307692308,2.0,2.0,1,-1,32,26,0
+60,20170609,3,0,9,5.0,3.0,1.1851851851851851,2.0,3.0,1,-2,32,27,0
+61,20170610,3,0,9,11.0,3.0,1.2222222222222223,2.0,3.0,1,1,33,27,0
+62,20170611,3,0,9,3.0,8.0,1.2592592592592593,2.0,3.0,1,2,34,27,0
+63,20170612,3,0,20,6.0,5.0,1.2142857142857142,2.0,4.0,1,-1,34,28,0
+64,20170613,3,0,20,4.0,3.0,1.25,2.0,4.0,1,1,35,28,0
+65,20170614,3,1,20,7.0,3.0,1.2857142857142858,2.0,3.0,1,2,36,28,0
+66,20170615,3,1,20,0.0,1.0,1.3214285714285714,2.0,2.0,1,3,37,28,0
+67,20170616,3,1,10,2.0,1.0,1.2758620689655173,2.0,2.0,1,-1,37,29,0
+68,20170617,3,1,10,1.0,7.0,1.3103448275862069,2.0,1.0,1,1,38,29,0
+69,20170618,3,1,10,6.0,5.0,1.2666666666666666,2.0,1.0,1,-1,38,30,0
+70,20170619,3,1,11,2.0,4.0,1.3,1.0,0,1,1,39,30,0
+71,20170620,3,1,11,8.0,3.0,1.2580645161290323,2.0,0.5,1,-1,39,31,0
+72,20170621,3,1,11,4.0,6.0,1.2903225806451613,1.0,-0.5,0,1,40,31,0
+73,20170623,3,0,12,9.0,4.0,1.25,2.0,0.5,1,-1,40,32,0
+74,20170624,3,0,12,3.0,6.0,1.28125,1.0,0,1,1,41,32,0
+75,20170625,3,0,12,2.0,4.0,1.2424242424242424,1.0,0,0,-1,41,33,0
+76,20170626,3,0,16,4.0,1.0,1.2058823529411764,1.0,0,1,-2,41,34,0
+77,20170627,3,0,16,9.0,2.0,1.2352941176470589,1.0,0,1,1,42,34,0
+78,20170628,3,0,16,1.0,4.0,1.2647058823529411,1.0,-1.0,1,2,43,34,0
+79,20170629,3,0,16,6.0,3.0,1.2285714285714286,1.0,0,1,-1,43,35,0
+80,20170630,3,1,28,7.0,4.0,1.2571428571428571,1.0,-1.0,1,1,44,35,0
+81,20170701,3,1,28,7.0,1.0,1.2857142857142858,1.0,-1.0,0,2,45,35,0
+82,20170702,3,1,28,15.0,1.0,1.3142857142857143,1.0,-2.0,0,3,46,35,0
+83,20170703,3,1,27,7.0,5.0,1.3428571428571427,1.0,-3.0,1,4,47,35,0
+84,20170704,3,1,27,11.0,4.0,1.3714285714285714,1.0,-3.0,1,5,48,35,0
+85,20170705,3,1,27,2.0,8.0,1.4,1.0,-4.0,1,6,49,35,0
+86,20170706,3,1,26,1.0,4.0,1.3611111111111112,1.0,-4.0,1,-1,49,36,0
+87,20170707,3,1,26,8.0,3.0,1.3243243243243243,1.0,-3.5,1,-2,49,37,0
+88,20170708,3,1,26,0.0,1.0,1.3513513513513513,1.0,-4.5,0,1,50,37,0
+89,20170709,3,1,26,3.0,5.0,1.3157894736842106,1.0,-3.5,0,-1,50,38,0
+90,20170714,3,0,18,5.0,4.0,1.2820512820512822,1.0,-3.5,1,-2,50,39,0
+91,20170715,3,0,18,1.0,4.0,1.3076923076923077,1.0,-3.5,0,1,51,39,0
+92,20170716,3,0,18,0.0,3.0,1.275,1.0,-2.5,0,-1,51,40,1
+93,20170716,3,0,18,3.0,0.0,1.2439024390243902,1.0,-3.0,1,-2,51,41,1
+94,20170717,3,0,28,3.0,4.0,1.2682926829268293,1.0,-3.0,1,1,52,41,0
+95,20170718,3,0,28,5.0,4.0,1.2380952380952381,1.0,-2.0,1,-1,52,42,0
+96,20170719,3,0,28,5.0,1.0,1.2619047619047619,1.0,-2.0,1,1,53,42,0
+97,20170720,3,0,28,6.0,8.0,1.2857142857142858,1.0,-3.0,0,2,54,42,0
+98,20170721,3,1,12,6.0,2.0,1.255813953488372,1.0,-2.5,1,-1,54,43,0
+99,20170722,3,1,12,3.0,7.0,1.2790697674418605,1.0,-3.5,1,1,55,43,0
+100,20170723,3,1,12,2.0,3.0,1.25,1.0,-3.5,0,-1,55,44,0
+101,20170724,3,1,23,0.0,4.0,1.2222222222222223,1.0,-2.5,1,-2,55,45,0
+102,20170725,3,1,23,5.0,6.0,1.1956521739130435,1.0,-2.0,1,-3,55,46,0
+103,20170726,3,1,23,4.0,0.0,1.1702127659574468,1.0,-1.0,0,-4,55,47,0
+104,20170728,3,0,11,2.0,4.0,1.1914893617021276,1.0,-1.0,1,1,56,47,0
+105,20170729,3,0,11,9.0,8.0,1.1666666666666667,2.0,0.5,1,-1,56,48,0
+106,20170730,3,0,11,3.0,5.0,1.1875,2.0,0.5,0,1,57,48,0
+107,20170731,3,0,7,6.0,2.0,1.163265306122449,2.0,0.5,1,-1,57,49,0
+108,20170801,3,0,7,12.0,10.0,1.183673469387755,2.0,0.5,1,1,58,49,0
+109,20170803,3,0,5,9.0,5.0,1.2040816326530612,1.0,-0.5,1,2,59,49,0
+110,20170804,3,0,5,3.0,2.0,1.2244897959183674,1.0,-2.0,1,3,60,49,0
+111,20170805,3,0,5,4.0,1.0,1.2448979591836735,1.0,-3.0,1,4,61,49,0
+112,20170806,3,0,5,6.0,3.0,1.2653061224489797,1.0,-3.0,0,5,62,49,0
+113,20170808,3,1,26,2.0,0.0,1.2857142857142858,1.0,-3.0,1,6,63,49,0
+114,20170809,3,1,26,8.0,2.0,1.3061224489795917,1.0,-4.0,1,7,64,49,0
+115,20170811,3,1,18,4.0,5.0,1.3265306122448979,1.0,-4.0,1,8,65,49,0
+116,20170812,3,1,18,10.0,5.0,1.3,1.0,-3.5,0,-1,65,50,0
+117,20170813,3,1,18,3.0,2.0,1.32,1.0,-4.5,1,1,66,50,0
+118,20170814,3,0,7,3.0,7.0,1.34,1.0,-5.5,1,2,67,50,0
+119,20170815,3,0,25,10.0,4.0,1.3137254901960784,1.0,-4.5,1,-1,67,51,0
+120,20170816,3,0,25,5.0,4.0,1.3333333333333333,1.0,-4.5,1,1,68,51,0
+121,20170818,3,0,18,9.0,6.0,1.3529411764705883,1.0,-4.5,1,2,69,51,0
+122,20170819,3,0,18,3.0,4.0,1.3725490196078431,1.0,-5.0,1,3,70,51,0
+123,20170820,3,0,18,5.0,1.0,1.3461538461538463,1.0,-4.0,0,-1,70,52,0
+124,20170821,3,1,7,4.0,5.0,1.3653846153846154,1.0,-5.0,1,1,71,52,0
+125,20170822,3,1,7,9.0,1.0,1.3396226415094339,1.0,-4.5,1,-1,71,53,0
+126,20170823,3,1,7,6.0,1.0,1.3584905660377358,1.0,-4.5,1,1,72,53,0
+127,20170824,3,1,7,6.0,13.0,1.3773584905660377,1.0,-4.5,1,2,73,53,0
+128,20170825,3,0,2,3.0,16.0,1.3518518518518519,1.0,-4.5,1,-1,73,54,0
+129,20170826,3,0,2,0.0,7.0,1.3272727272727274,1.0,-4.5,0,-2,73,55,0
+130,20170827,3,0,2,1.0,2.0,1.3035714285714286,1.0,-3.5,0,-3,73,56,0
+131,20170828,3,1,28,6.0,5.0,1.280701754385965,1.0,-2.5,1,-4,73,57,0
+132,20170829,3,1,28,3.0,0.0,1.2982456140350878,1.0,-3.5,1,1,74,57,0
+133,20170830,3,1,28,7.0,1.0,1.3157894736842106,1.0,-4.0,1,2,75,57,0
+134,20170831,3,1,18,2.0,6.0,1.3333333333333333,1.0,-5.5,1,3,76,57,0
+135,20170901,3,1,18,4.0,1.0,1.3103448275862069,1.0,-4.5,1,-1,76,58,0
+136,20170902,3,1,18,1.0,5.0,1.3275862068965518,1.0,-5.5,0,1,77,58,0
+137,20170903,3,1,18,2.0,9.0,1.305084745762712,1.0,-4.5,1,-1,77,59,0
+138,20170904,3,0,28,4.0,10.0,1.2833333333333334,1.0,-3.5,1,-2,77,60,0
+139,20170905,3,0,28,3.0,2.0,1.2622950819672132,1.0,-2.5,1,-3,77,61,0
+140,20170906,3,0,28,6.0,1.0,1.278688524590164,1.0,-3.5,1,1,78,61,0
+141,20170908,3,0,26,9.0,3.0,1.2950819672131149,1.0,-4.0,1,2,79,61,0
+142,20170909,3,0,26,9.0,0.0,1.3114754098360655,1.0,-4.5,1,3,80,61,0
+143,20170910,3,0,26,1.0,4.0,1.3278688524590163,1.0,-4.5,0,4,81,61,0
+144,20170912,3,0,19,11.0,1.0,1.3064516129032258,1.0,-3.5,1,-1,81,62,0
+145,20170913,3,0,19,3.0,7.0,1.3225806451612903,1.0,-4.0,1,1,82,62,0
+146,20170914,3,0,19,6.0,2.0,1.3015873015873016,1.0,-3.0,0,-1,82,63,0
+147,20170915,3,1,26,13.0,6.0,1.3174603174603174,1.0,-3.0,1,1,83,63,0
+148,20170916,3,1,26,3.0,1.0,1.3333333333333333,1.0,-3.0,1,2,84,63,0
+149,20170917,3,1,26,2.0,3.0,1.3492063492063493,1.0,-3.0,0,3,85,63,0
+150,20170918,3,1,2,10.0,8.0,1.328125,1.0,-3.0,1,-1,85,64,0
+151,20170919,3,1,2,1.0,0.0,1.34375,1.0,-3.0,1,1,86,64,0
+152,20170920,3,1,2,9.0,0.0,1.359375,1.0,-3.0,1,2,87,64,0
+153,20170922,3,1,6,5.0,4.0,1.375,1.0,-3.0,1,3,88,64,0
+154,20170923,3,1,6,5.0,0.0,1.390625,1.0,-4.0,0,4,89,64,0
+155,20170924,3,1,6,5.0,4.0,1.40625,1.0,-4.0,0,5,90,64,0
+156,20170925,3,0,28,4.0,6.0,1.421875,1.0,-5.0,1,6,91,64,0
+157,20170926,3,0,28,4.0,9.0,1.4,1.0,-4.0,1,-1,91,65,0
+158,20170927,3,0,28,10.0,7.0,1.378787878787879,1.0,-3.0,1,-2,91,66,0
+159,20170928,3,0,10,2.0,12.0,1.393939393939394,1.0,-3.0,1,1,92,66,0
+160,20170929,3,0,10,2.0,3.0,1.373134328358209,1.0,-3.0,1,-1,92,67,0
+161,20170930,3,0,10,6.0,3.0,1.3529411764705883,1.0,-2.0,0,-2,92,68,0
+162,20171001,3,0,10,3.0,4.0,1.3676470588235294,1.0,-2.0,0,1,93,68,0
+1,20180329,3,1,26,4.0,6.0,0,1.0,0,0,0,0,0,0
+2,20180330,3,1,26,1.0,0.0,0.0,4.0,1.0,1,-1,0,1,0
+3,20180331,3,1,26,3.0,2.0,1.0,3.0,1.0,1,1,1,1,0
+4,20180401,3,1,26,2.0,1.0,2.0,1.0,0,0,2,2,1,0
+5,20180402,3,1,14,7.0,3.0,3.0,1.0,-1.0,1,3,3,1,0
+6,20180403,3,1,14,4.0,2.0,4.0,1.0,-1.0,1,4,4,1,0
+7,20180405,3,0,26,3.0,2.0,5.0,1.0,-1.0,0,5,5,1,0
+8,20180407,3,0,26,10.0,3.0,6.0,1.0,-2.0,0,6,6,1,0
+9,20180408,3,0,26,8.0,7.0,7.0,1.0,-2.5,0,7,7,1,0
+10,20180410,3,0,18,14.0,1.0,8.0,1.0,-2.5,1,8,8,1,0
+11,20180411,3,0,18,7.0,10.0,9.0,1.0,-2.0,1,9,9,1,0
+12,20180412,3,0,18,6.0,3.0,4.5,1.0,-2.0,1,-1,9,2,0
+13,20180413,3,0,2,7.0,3.0,5.0,1.0,-2.5,1,1,10,2,0
+14,20180414,3,0,2,10.0,3.0,5.5,1.0,-2.5,0,2,11,2,0
+15,20180415,3,0,2,3.0,1.0,6.0,1.0,-3.0,0,3,12,2,0
+16,20180417,3,1,12,10.0,1.0,6.5,1.0,-3.5,1,4,13,2,0
+17,20180418,3,1,12,9.0,0.0,7.0,1.0,-3.0,1,5,14,2,0
+18,20180419,3,1,12,8.0,2.0,7.5,1.0,-3.0,1,6,15,2,0
+19,20180420,3,1,19,7.0,3.0,8.0,1.0,-4.0,1,7,16,2,0
+20,20180421,3,1,19,0.0,3.0,8.5,1.0,-4.0,1,8,17,2,0
+21,20180422,3,1,19,1.0,4.0,5.666666666666667,1.0,-4.0,0,-1,17,3,0
+22,20180424,3,1,28,3.0,4.0,4.25,1.0,-4.0,1,-2,17,4,0
+23,20180425,3,1,28,4.0,3.0,3.4,1.0,-3.0,1,-3,17,5,0
+24,20180426,3,1,28,5.0,4.0,3.6,1.0,-4.0,1,1,18,5,0
+25,20180427,3,0,26,3.0,4.0,3.8,1.0,-4.0,1,2,19,5,0
+26,20180428,3,0,26,6.0,12.0,3.1666666666666665,1.0,-3.0,0,-1,19,6,0
+27,20180429,3,0,26,4.0,3.0,2.7142857142857144,1.0,-2.0,0,-2,19,7,0
+28,20180430,3,0,11,10.0,6.0,2.857142857142857,1.0,-2.0,1,1,20,7,0
+29,20180501,3,0,11,6.0,7.0,3.0,1.0,-3.0,1,2,21,7,0
+30,20180502,3,0,11,5.0,4.0,2.625,1.0,-2.0,0,-1,21,8,0
+31,20180503,3,1,27,5.0,11.0,2.75,1.0,-2.0,1,1,22,8,0
+32,20180504,3,1,27,5.0,1.0,2.4444444444444446,1.0,-1.0,1,-1,22,9,0
+33,20180505,3,1,27,6.0,5.0,2.5555555555555554,1.0,-1.0,1,1,23,9,0
+34,20180506,3,1,27,6.0,1.0,2.6666666666666665,1.0,-1.0,0,2,24,9,0
+35,20180508,3,1,18,2.0,3.0,2.7777777777777777,1.0,-1.0,1,3,25,9,0
+36,20180509,3,1,18,6.0,9.0,2.5,1.0,0,1,-1,25,10,0
+37,20180510,3,1,18,5.0,4.0,2.272727272727273,2.0,1.0,1,-2,25,11,0
+38,20180511,3,1,28,3.0,5.0,2.3636363636363638,1.0,0,1,1,26,11,0
+39,20180512,3,1,28,5.0,2.0,2.1666666666666665,1.0,0,0,-1,26,12,0
+40,20180513,3,1,28,5.0,3.0,2.25,1.0,0,0,1,27,12,0
+41,20180514,3,0,19,5.0,6.0,2.3333333333333335,1.0,0,1,2,28,12,0
+42,20180515,3,0,19,3.0,5.0,2.1538461538461537,2.0,0.5,1,-1,28,13,0
+43,20180516,3,0,19,6.0,4.0,2.0,2.0,0.5,1,-2,28,14,0
+44,20180517,3,0,2,6.0,2.0,2.0714285714285716,1.0,0,1,1,29,14,0
+45,20180518,3,0,2,4.0,7.0,2.142857142857143,1.0,-0.5,1,2,30,14,0
+46,20180519,3,0,2,6.0,3.0,2.0,1.0,-0.5,1,-1,30,15,0
+47,20180520,3,0,2,5.0,0.0,2.066666666666667,1.0,-0.5,0,1,31,15,0
+48,20180522,3,1,26,4.0,2.0,2.1333333333333333,1.0,-0.5,1,2,32,15,0
+49,20180523,3,1,26,4.0,1.0,2.2,1.0,-1.0,1,3,33,15,0
+50,20180524,3,1,26,3.0,6.0,2.2666666666666666,1.0,-2.0,1,4,34,15,0
+51,20180525,3,0,1,6.0,2.0,2.125,1.0,-1.5,1,-1,34,16,0
+52,20180526,3,0,1,8.0,6.0,2.1875,1.0,-1.5,0,1,35,16,0
+53,20180527,3,0,1,1.0,7.0,2.25,1.0,-2.5,0,2,36,16,0
+54,20180528,3,0,28,8.0,3.0,2.1176470588235294,1.0,-1.5,0,-1,36,17,0
+55,20180529,3,0,28,8.0,3.0,2.176470588235294,1.0,-2.5,1,1,37,17,0
+56,20180530,3,0,28,6.0,4.0,2.235294117647059,1.0,-2.5,0,2,38,17,0
+57,20180531,3,1,10,2.0,4.0,2.2941176470588234,1.0,-2.5,1,3,39,17,0
+58,20180601,3,1,10,3.0,7.0,2.1666666666666665,1.0,-2.0,1,-1,39,18,0
+59,20180602,3,1,10,5.0,4.0,2.0526315789473686,1.0,-1.0,1,-2,39,19,0
+60,20180603,3,1,10,9.0,3.0,2.1052631578947367,1.0,-1.0,1,1,40,19,0
+61,20180605,3,0,9,6.0,0.0,2.1578947368421053,1.0,-1.5,1,2,41,19,0
+62,20180606,3,0,9,7.0,1.0,2.210526315789474,1.0,-1.5,1,3,42,19,0
+63,20180607,3,0,9,2.0,7.0,2.263157894736842,1.0,-1.5,1,4,43,19,0
+64,20180608,3,0,5,0.0,1.0,2.15,1.0,-1.0,1,-1,43,20,0
+65,20180609,3,0,5,4.0,2.0,2.0476190476190474,1.0,0,0,-2,43,21,0
+66,20180610,3,0,5,2.0,5.0,2.0952380952380953,1.0,0,0,1,44,21,0
+67,20180611,3,1,2,2.0,0.0,2.0,1.0,0,1,-1,44,22,0
+68,20180612,3,1,2,6.0,4.0,2.0454545454545454,1.0,-0.5,1,1,45,22,0
+69,20180613,3,1,2,5.0,1.0,2.090909090909091,1.0,-0.5,0,2,46,22,0
+70,20180614,3,1,23,2.0,1.0,2.1363636363636362,1.0,-1.5,1,3,47,22,0
+71,20180615,3,1,23,6.0,7.0,2.1818181818181817,1.0,-1.5,1,4,48,22,0
+72,20180616,3,1,23,0.0,1.0,2.0869565217391304,1.0,-0.5,1,-1,48,23,0
+73,20180617,3,1,23,9.0,3.0,2.0,2.0,0.5,0,-2,48,24,0
+74,20180619,3,1,16,2.0,6.0,2.0416666666666665,1.0,-0.5,1,1,49,24,0
+75,20180620,3,1,16,1.0,4.0,1.96,2.0,1.0,1,-1,49,25,0
+76,20180621,3,1,16,9.0,2.0,1.8846153846153846,2.0,2.0,0,-2,49,26,0
+77,20180622,3,0,23,14.0,10.0,1.9230769230769231,2.0,2.0,1,1,50,26,0
+78,20180623,3,0,23,2.0,7.0,1.9615384615384615,2.0,1.0,1,2,51,26,0
+79,20180624,3,0,23,5.0,0.0,1.8888888888888888,2.0,1.0,0,-1,51,27,0
+80,20180626,3,0,12,9.0,1.0,1.9259259259259258,1.0,0,1,1,52,27,0
+81,20180627,3,0,12,9.0,6.0,1.962962962962963,2.0,0.5,1,2,53,27,0
+82,20180628,3,0,12,4.0,2.0,2.0,1.0,-0.5,1,3,54,27,0
+83,20180629,3,1,18,1.0,8.0,2.037037037037037,1.0,-1.0,1,4,55,27,0
+84,20180630,3,1,18,11.0,0.0,1.9642857142857142,1.0,0,1,-1,55,28,0
+85,20180701,3,1,18,1.0,11.0,2.0,1.0,-1.0,1,1,56,28,0
+86,20180702,3,1,29,4.0,3.0,1.9310344827586208,1.0,0,1,-1,56,29,0
+87,20180703,3,1,29,11.0,4.0,1.9655172413793103,1.0,-1.0,1,1,57,29,0
+88,20180704,3,1,29,3.0,0.0,2.0,1.0,-1.0,0,2,58,29,0
+89,20180706,3,1,11,10.0,5.0,2.0344827586206895,1.0,-1.0,1,3,59,29,0
+90,20180707,3,1,11,15.0,4.0,2.0689655172413794,1.0,-2.0,1,4,60,29,0
+91,20180708,3,1,11,7.0,4.0,2.103448275862069,1.0,-2.0,0,5,61,29,0
+92,20180709,3,0,27,5.0,0.0,2.1379310344827585,1.0,-2.0,1,6,62,29,0
+93,20180710,3,0,27,8.0,4.0,2.1724137931034484,1.0,-2.5,1,7,63,29,0
+94,20180711,3,0,27,4.0,2.0,2.206896551724138,1.0,-3.5,1,8,64,29,0
+95,20180712,3,0,28,6.0,4.0,2.2413793103448274,1.0,-3.5,1,9,65,29,0
+96,20180713,3,0,28,7.0,13.0,2.2758620689655173,1.0,-3.5,1,10,66,29,0
+97,20180714,3,0,28,6.0,2.0,2.2,1.0,-3.5,0,-1,66,30,0
+98,20180715,3,0,28,5.0,2.0,2.2333333333333334,1.0,-3.5,0,1,67,30,0
+99,20180720,3,1,9,1.0,0.0,2.2666666666666666,1.0,-4.5,1,2,68,30,0
+100,20180721,3,1,9,0.0,5.0,2.3,1.0,-5.5,1,3,69,30,0
+101,20180722,3,1,9,9.0,1.0,2.225806451612903,1.0,-4.5,0,-1,69,31,0
+102,20180723,3,1,2,5.0,3.0,2.2580645161290325,1.0,-5.0,1,1,70,31,0
+103,20180724,3,1,2,6.0,7.0,2.2903225806451615,1.0,-6.0,1,2,71,31,0
+104,20180726,3,0,16,1.0,2.0,2.21875,1.0,-5.0,1,-1,71,32,0
+105,20180727,3,0,16,4.0,3.0,2.1515151515151514,1.0,-4.5,1,-2,71,33,0
+106,20180728,3,0,16,10.0,4.0,2.1818181818181817,1.0,-5.0,1,1,72,33,0
+107,20180729,3,0,16,3.0,0.0,2.212121212121212,1.0,-5.5,0,2,73,33,0
+108,20180730,3,0,20,2.0,1.0,2.242424242424242,1.0,-5.5,1,3,74,33,0
+109,20180731,3,0,20,1.0,3.0,2.272727272727273,1.0,-6.0,1,4,75,33,0
+110,20180802,3,0,18,15.0,7.0,2.2058823529411766,1.0,-5.0,1,-1,75,34,0
+111,20180803,3,0,18,4.0,1.0,2.235294117647059,1.0,-6.5,1,1,76,34,0
+112,20180804,3,0,18,4.0,1.0,2.264705882352941,1.0,-7.5,0,2,77,34,0
+113,20180805,3,0,18,5.0,4.0,2.2941176470588234,1.0,-8.5,1,3,78,34,0
+114,20180807,3,1,28,10.0,7.0,2.323529411764706,1.0,-9.5,1,4,79,34,0
+115,20180808,3,1,28,10.0,5.0,2.3529411764705883,1.0,-9.0,1,5,80,34,0
+116,20180809,3,1,28,5.0,8.0,2.3823529411764706,1.0,-9.0,1,6,81,34,0
+117,20180810,3,1,2,19.0,12.0,2.3142857142857145,1.0,-8.0,1,-1,81,35,0
+118,20180811,3,1,2,5.0,0.0,2.342857142857143,1.0,-9.0,0,1,82,35,1
+119,20180811,3,1,2,6.0,4.0,2.3714285714285714,1.0,-9.5,1,2,83,35,1
+120,20180812,3,1,2,4.0,1.0,2.4,1.0,-9.5,0,3,84,35,0
+121,20180814,3,1,20,2.0,1.0,2.4285714285714284,1.0,-9.5,1,4,85,35,0
+122,20180815,3,1,20,4.0,7.0,2.4571428571428573,1.0,-0.0,1,5,86,35,0
+123,20180817,3,0,26,7.0,3.0,2.388888888888889,1.0,-0.0,1,-1,86,36,0
+124,20180818,3,0,26,5.0,2.0,2.4166666666666665,1.0,-0.5,1,1,87,36,0
+125,20180819,3,0,26,0.0,2.0,2.4444444444444446,1.0,-0.5,0,2,88,36,0
+126,20180820,3,0,7,4.0,5.0,2.3783783783783785,1.0,-9.5,1,-1,88,37,0
+127,20180821,3,0,7,3.0,6.0,2.3157894736842106,1.0,-9.0,1,-2,88,38,0
+128,20180822,3,0,7,10.0,4.0,2.2564102564102564,1.0,-8.0,1,-3,88,39,0
+129,20180823,3,0,7,7.0,0.0,2.282051282051282,1.0,-9.0,0,1,89,39,0
+130,20180824,3,1,26,3.0,10.0,2.3076923076923075,1.0,-9.5,1,2,90,39,0
+131,20180825,3,1,26,1.0,5.0,2.25,1.0,-8.5,1,-1,90,40,0
+132,20180826,3,1,26,1.0,9.0,2.1951219512195124,1.0,-7.0,0,-2,90,41,0
+133,20180828,3,0,14,8.0,7.0,2.142857142857143,1.0,-6.0,1,-3,90,42,0
+134,20180829,3,0,14,14.0,6.0,2.1666666666666665,1.0,-6.5,1,1,91,42,0
+135,20180830,3,1,5,9.0,4.0,2.1904761904761907,1.0,-7.5,1,2,92,42,0
+136,20180831,3,1,5,1.0,6.0,2.2142857142857144,1.0,-8.5,1,3,93,42,0
+137,20180901,3,1,5,6.0,1.0,2.1627906976744184,1.0,-7.5,1,-1,93,43,0
+138,20180902,3,1,5,0.0,8.0,2.186046511627907,1.0,-7.5,0,1,94,43,0
+139,20180903,3,1,1,8.0,2.0,2.1363636363636362,1.0,-7.5,0,-1,94,44,0
+140,20180904,3,1,1,5.0,1.0,2.159090909090909,1.0,-8.5,1,1,95,44,0
+141,20180905,3,1,1,9.0,8.0,2.1818181818181817,1.0,-8.5,0,2,96,44,0
+142,20180907,3,0,10,3.0,6.0,2.2045454545454546,1.0,-9.5,1,3,97,44,0
+143,20180908,3,0,10,3.0,5.0,2.1555555555555554,1.0,-8.5,0,-1,97,45,0
+144,20180909,3,0,10,6.0,5.0,2.108695652173913,1.0,-7.5,1,-2,97,46,0
+145,20180911,3,0,28,7.0,2.0,2.130434782608696,1.0,-8.5,1,1,98,46,0
+146,20180912,3,0,28,1.0,0.0,2.152173913043478,1.0,-9.0,1,2,99,46,0
+147,20180913,3,0,28,4.0,3.0,2.1739130434782608,1.0,-0.0,1,3,100,46,0
+148,20180914,3,0,17,0.0,8.0,2.1956521739130435,1.0,-0.5,1,4,101,46,0
+149,20180915,3,0,17,5.0,3.0,2.148936170212766,1.0,-9.5,0,-1,101,47,0
+150,20180916,3,0,17,4.0,3.0,2.1702127659574466,1.0,-0.5,0,1,102,47,0
+151,20180918,3,1,18,2.0,3.0,2.1914893617021276,1.0,-1.5,1,2,103,47,0
+152,20180919,3,1,18,1.0,10.0,2.1458333333333335,1.0,-0.5,1,-1,103,48,0
+153,20180920,3,1,18,11.0,6.0,2.1020408163265305,1.0,-9.5,1,-2,103,49,0
+154,20180921,3,1,7,7.0,5.0,2.122448979591837,1.0,-0.5,1,1,104,49,0
+155,20180922,3,1,7,4.0,5.0,2.142857142857143,1.0,-0.5,1,2,105,49,0
+156,20180923,3,1,7,3.0,4.0,2.1,1.0,-9.5,1,-1,105,50,0
+157,20180924,3,0,2,6.0,2.0,2.0588235294117645,1.0,-9.5,1,-2,105,51,0
+158,20180926,3,0,2,19.0,3.0,2.0784313725490198,1.0,-9.5,0,1,106,51,1
+159,20180926,3,0,2,3.0,10.0,2.0980392156862746,1.0,-9.5,1,2,107,51,1
+160,20180928,3,0,18,6.0,11.0,2.0576923076923075,1.0,-9.5,1,-1,107,52,0
+161,20180929,3,0,18,5.0,8.0,2.018867924528302,1.0,-8.0,0,-2,107,53,0
+162,20180930,3,0,18,10.0,2.0,1.9814814814814814,1.0,-7.0,0,-3,107,54,0
+1,20190328,3,1,23,4.0,12.0,0,1.0,0,0,0,0,0,0
+2,20190329,3,1,23,7.0,6.0,0.0,2.0,1.0,1,-1,0,1,0
+3,20190330,3,1,23,5.0,6.0,1.0,2.0,0.5,1,1,1,1,0
+4,20190331,3,1,23,8.0,10.0,0.5,5.0,1.0,0,-1,1,2,0
+5,20190401,3,1,19,0.0,7.0,0.3333333333333333,5.0,2.0,1,-2,1,3,0
+6,20190402,3,1,19,0.0,1.0,0.25,5.0,3.0,1,-3,1,4,0
+7,20190403,3,1,19,6.0,3.0,0.2,5.0,4.0,1,-4,1,5,0
+8,20190404,3,1,19,3.0,7.0,0.4,5.0,3.0,0,1,2,5,0
+9,20190405,3,1,0,8.0,15.0,0.3333333333333333,5.0,3.5,0,-1,2,6,0
+10,20190406,3,1,0,4.0,5.0,0.2857142857142857,5.0,4.5,1,-2,2,7,0
+11,20190407,3,1,0,1.0,0.0,0.25,5.0,4.5,0,-3,2,8,0
+12,20190409,3,0,28,5.0,7.0,0.375,4.0,4.5,0,1,3,8,0
+13,20190411,3,0,28,7.0,6.0,0.3333333333333333,5.0,6.0,1,-1,3,9,0
+14,20190412,3,0,2,6.0,4.0,0.4444444444444444,4.0,6.0,1,1,4,9,0
+15,20190413,3,0,2,5.0,9.0,0.5555555555555556,3.0,6.0,0,2,5,9,0
+16,20190414,3,0,2,4.0,0.0,0.5,4.0,6.0,0,-1,5,10,0
+17,20190415,3,0,2,1.0,8.0,0.6,3.0,6.0,0,1,6,10,0
+18,20190416,3,1,18,0.0,8.0,0.5454545454545454,4.0,6.5,1,-1,6,11,0
+19,20190417,3,1,18,3.0,5.0,0.5,5.0,7.5,1,-2,6,12,0
+20,20190419,3,1,26,6.0,4.0,0.46153846153846156,5.0,8.5,1,-3,6,13,0
+21,20190420,3,1,26,6.0,5.0,0.5384615384615384,5.0,7.0,1,1,7,13,0
+22,20190421,3,1,26,4.0,3.0,0.6153846153846154,4.0,6.0,0,2,8,13,0
+23,20190423,3,0,9,4.0,7.0,0.6923076923076923,4.0,5.0,0,3,9,13,1
+24,20190423,3,0,9,2.0,4.0,0.6428571428571429,4.0,7.0,1,-1,9,14,1
+25,20190424,3,0,9,11.0,4.0,0.6,4.0,7.0,1,-2,9,15,0
+26,20190425,3,0,9,7.0,3.0,0.6666666666666666,4.0,6.0,1,1,10,15,0
+27,20190427,3,0,26,1.0,2.0,0.7333333333333333,4.0,5.5,0,2,11,15,0
+28,20190428,3,0,26,2.0,5.0,0.6875,4.0,6.5,0,-1,11,16,0
+29,20190429,3,0,19,9.0,4.0,0.6470588235294118,4.0,7.5,1,-2,11,17,0
+30,20190430,3,0,19,5.0,1.0,0.7058823529411765,4.0,7.5,1,1,12,17,0
+31,20190501,3,0,19,7.0,3.0,0.7647058823529411,4.0,7.0,0,2,13,17,0
+32,20190502,3,1,5,4.0,6.0,0.8235294117647058,4.0,5.5,1,3,14,17,0
+33,20190503,3,1,5,6.0,1.0,0.7777777777777778,4.0,6.5,1,-1,14,18,0
+34,20190504,3,1,5,15.0,2.0,0.8333333333333334,4.0,6.5,1,1,15,18,0
+35,20190505,3,1,5,9.0,2.0,0.8888888888888888,3.0,5.5,0,2,16,18,0
+36,20190506,3,1,2,1.0,4.0,0.9444444444444444,3.0,5.0,1,3,17,18,0
+37,20190507,3,1,2,8.0,5.0,0.8947368421052632,3.0,6.0,1,-1,17,19,0
+38,20190508,3,1,2,2.0,1.0,0.9473684210526315,3.0,6.0,1,1,18,19,0
+39,20190510,3,0,23,14.0,1.0,1.0,3.0,5.0,1,2,19,19,0
+40,20190511,3,0,23,9.0,5.0,1.0526315789473684,3.0,4.0,0,3,20,19,0
+41,20190512,3,0,23,11.0,2.0,1.105263157894737,3.0,4.0,0,4,21,19,0
+42,20190514,3,0,8,4.0,5.0,1.1578947368421053,3.0,3.0,1,5,22,19,0
+43,20190515,3,0,8,6.0,5.0,1.1,3.0,4.0,1,-1,22,20,0
+44,20190517,3,0,10,1.0,3.0,1.15,3.0,4.0,1,1,23,20,0
+45,20190518,3,0,10,3.0,7.0,1.0952380952380953,3.0,4.5,1,-1,23,21,0
+46,20190519,3,0,10,4.0,3.0,1.0454545454545454,3.0,5.0,0,-2,23,22,0
+47,20190520,3,1,28,12.0,2.0,1.0909090909090908,3.0,4.5,0,1,24,22,0
+48,20190521,3,1,28,3.0,10.0,1.1363636363636365,3.0,4.5,1,2,25,22,0
+49,20190522,3,1,28,6.0,5.0,1.0869565217391304,3.0,5.5,1,-1,25,23,0
+50,20190523,3,1,28,8.0,2.0,1.1304347826086956,3.0,5.5,0,1,26,23,0
+51,20190524,3,1,10,3.0,4.0,1.173913043478261,3.0,5.5,1,2,27,23,0
+52,20190525,3,1,10,3.0,4.0,1.125,3.0,6.0,1,-1,27,24,0
+53,20190526,3,1,10,4.0,1.0,1.08,3.0,7.5,0,-2,27,25,0
+54,20190527,3,0,7,12.0,5.0,1.12,3.0,6.5,0,1,28,25,0
+55,20190528,3,0,7,5.0,7.0,1.16,3.0,6.5,1,2,29,25,0
+56,20190529,3,0,7,9.0,14.0,1.1153846153846154,3.0,6.5,1,-1,29,26,0
+57,20190531,3,1,18,1.0,4.0,1.0740740740740742,3.0,7.5,1,-2,29,27,0
+58,20190601,3,1,18,3.0,5.0,1.0357142857142858,3.0,8.5,1,-3,29,28,0
+59,20190602,3,1,18,8.0,5.0,1.0,3.0,9.5,1,-4,29,29,0
+60,20190604,3,1,11,8.0,3.0,1.0344827586206897,3.0,8.5,1,1,30,29,0
+61,20190605,3,1,11,8.0,0.0,1.0689655172413792,3.0,7.5,1,2,31,29,0
+62,20190606,3,1,11,7.0,5.0,1.103448275862069,3.0,6.5,0,3,32,29,0
+63,20190607,3,0,26,1.0,5.0,1.1379310344827587,3.0,6.5,1,4,33,29,0
+64,20190608,3,0,26,2.0,9.0,1.1,3.0,6.5,0,-1,33,30,1
+65,20190608,3,0,26,5.0,1.0,1.064516129032258,3.0,6.0,1,-2,33,31,1
+66,20190609,3,0,26,1.0,6.0,1.096774193548387,3.0,6.0,0,1,34,31,0
+67,20190610,3,0,27,3.0,4.0,1.0625,3.0,7.0,1,-1,34,32,0
+68,20190611,3,0,27,5.0,9.0,1.0303030303030303,3.0,8.0,1,-2,34,33,0
+69,20190612,3,0,27,4.0,3.0,1.0,3.0,8.0,0,-3,34,34,0
+70,20190613,3,0,27,7.0,6.0,1.0294117647058822,3.0,7.5,1,1,35,34,0
+71,20190614,3,1,2,13.0,2.0,1.0588235294117647,3.0,6.5,1,2,36,34,0
+72,20190615,3,1,2,7.0,2.0,1.088235294117647,3.0,6.0,0,3,37,34,0
+73,20190616,3,1,2,8.0,6.0,1.1176470588235294,3.0,5.5,0,4,38,34,0
+74,20190617,3,1,16,2.0,0.0,1.1470588235294117,3.0,5.5,1,5,39,34,0
+75,20190618,3,1,16,3.0,4.0,1.1764705882352942,3.0,5.5,1,6,40,34,0
+76,20190619,3,1,16,9.0,4.0,1.1428571428571428,3.0,6.5,1,-1,40,35,0
+77,20190621,3,0,28,7.0,5.0,1.1714285714285715,3.0,6.5,1,1,41,35,0
+78,20190622,3,0,28,7.0,8.0,1.2,3.0,7.0,0,2,42,35,0
+79,20190623,3,0,28,1.0,6.0,1.1666666666666667,3.0,8.0,0,-1,42,36,0
+80,20190624,3,0,5,6.0,5.0,1.135135135135135,3.0,8.0,1,-2,42,37,0
+81,20190625,3,0,5,6.0,3.0,1.162162162162162,3.0,8.0,1,1,43,37,0
+82,20190626,3,0,5,7.0,8.0,1.1891891891891893,3.0,8.0,0,2,44,37,0
+83,20190629,3,0,18,13.0,17.0,1.1578947368421053,3.0,9.0,1,-1,44,38,0
+84,20190630,3,0,18,8.0,12.0,1.1282051282051282,3.0,10.0,0,-2,44,39,0
+85,20190702,3,1,28,10.0,6.0,1.1,3.0,11.0,1,-3,44,40,0
+86,20190703,3,1,28,3.0,6.0,1.125,3.0,10.0,1,1,45,40,0
+87,20190704,3,1,28,8.0,7.0,1.0975609756097562,3.0,11.0,1,-1,45,41,0
+88,20190705,3,1,9,9.0,6.0,1.1219512195121952,3.0,11.0,1,1,46,41,0
+89,20190706,3,1,9,10.0,6.0,1.146341463414634,3.0,11.0,1,2,47,41,0
+90,20190707,3,1,9,6.0,3.0,1.170731707317073,3.0,10.0,0,3,48,41,0
+91,20190712,3,0,13,8.0,1.0,1.1951219512195121,3.0,9.0,1,4,49,41,0
+92,20190713,3,0,13,2.0,11.0,1.2195121951219512,3.0,9.0,1,5,50,41,0
+93,20190714,3,0,13,4.0,7.0,1.1904761904761905,3.0,9.0,1,-1,50,42,0
+94,20190715,3,0,28,10.0,8.0,1.1627906976744187,3.0,10.0,1,-2,50,43,0
+95,20190716,3,0,28,4.0,10.0,1.186046511627907,3.0,9.0,1,1,51,43,0
+96,20190717,3,0,28,5.0,4.0,1.1590909090909092,3.0,10.0,1,-1,51,44,0
+97,20190718,3,0,28,5.0,0.0,1.1818181818181819,3.0,9.5,0,1,52,44,0
+98,20190719,3,1,2,2.0,11.0,1.2045454545454546,3.0,10.0,1,2,53,44,0
+99,20190720,3,1,2,17.0,6.0,1.1777777777777778,3.0,11.0,1,-1,53,45,0
+100,20190721,3,1,2,0.0,5.0,1.2,3.0,11.0,0,1,54,45,0
+101,20190722,3,1,26,9.0,4.0,1.173913043478261,3.0,11.0,1,-1,54,46,0
+102,20190723,3,1,26,5.0,4.0,1.1956521739130435,3.0,10.0,1,1,55,46,0
+103,20190724,3,1,26,2.0,3.0,1.2173913043478262,2.0,10.0,0,2,56,46,0
+104,20190725,3,0,18,19.0,3.0,1.1914893617021276,3.0,11.0,1,-1,56,47,0
+105,20190726,3,0,18,10.0,5.0,1.2127659574468086,3.0,10.0,1,1,57,47,0
+106,20190727,3,0,18,9.0,5.0,1.2340425531914894,3.0,9.0,0,2,58,47,0
+107,20190728,3,0,18,6.0,9.0,1.2553191489361701,2.0,8.0,1,3,59,47,0
+108,20190730,3,0,26,5.0,6.0,1.2291666666666667,3.0,9.0,1,-1,59,48,0
+109,20190731,3,0,26,5.0,8.0,1.2040816326530612,3.0,9.0,1,-2,59,49,0
+110,20190801,3,0,26,4.0,9.0,1.18,3.0,10.0,1,-3,59,50,0
+111,20190802,3,1,18,2.0,4.0,1.1568627450980393,3.0,10.5,1,-4,59,51,0
+112,20190803,3,1,18,2.0,9.0,1.1346153846153846,3.0,11.5,0,-5,59,52,1
+113,20190803,3,1,18,4.0,6.0,1.1132075471698113,3.0,13.5,1,-6,59,53,1
+114,20190804,3,1,18,4.0,7.0,1.0925925925925926,3.0,13.5,1,-7,59,54,0
+115,20190805,3,0,11,7.0,5.0,1.0727272727272728,3.0,14.5,1,-8,59,55,0
+116,20190806,3,0,11,2.0,6.0,1.0909090909090908,3.0,14.5,1,1,60,55,0
+117,20190807,3,0,11,5.0,4.0,1.0714285714285714,3.0,15.5,1,-1,60,56,0
+118,20190808,3,0,12,3.0,0.0,1.0892857142857142,3.0,15.5,1,1,61,56,0
+119,20190809,3,0,12,16.0,4.0,1.1071428571428572,3.0,15.5,1,2,62,56,0
+120,20190810,3,0,12,4.0,12.0,1.125,3.0,14.5,0,3,63,56,0
+121,20190811,3,0,12,4.0,5.0,1.105263157894737,3.0,14.5,0,-1,63,57,0
+122,20190812,3,1,7,5.0,6.0,1.0862068965517242,3.0,15.5,1,-2,63,58,0
+123,20190813,3,1,7,7.0,6.0,1.0677966101694916,3.0,17.0,1,-3,63,59,0
+124,20190814,3,1,7,5.0,1.0,1.0847457627118644,3.0,17.0,0,1,64,59,0
+125,20190816,3,0,2,9.0,1.0,1.1016949152542372,3.0,17.0,1,2,65,59,0
+126,20190817,3,0,2,4.0,0.0,1.11864406779661,3.0,16.5,1,3,66,59,0
+127,20190818,3,0,2,13.0,7.0,1.1355932203389831,3.0,16.5,0,4,67,59,0
+128,20190820,3,0,20,2.0,3.0,1.152542372881356,3.0,15.5,1,5,68,59,0
+129,20190821,3,0,20,2.0,5.0,1.1333333333333333,3.0,15.5,1,-1,68,60,0
+130,20190823,3,1,22,11.0,0.0,1.1147540983606556,3.0,15.5,1,-2,68,61,0
+131,20190824,3,1,22,5.0,4.0,1.1311475409836065,3.0,15.0,1,1,69,61,0
+132,20190825,3,1,22,1.0,3.0,1.1475409836065573,3.0,14.0,0,2,70,61,0
+133,20190827,3,1,8,10.0,6.0,1.1290322580645162,3.0,15.0,1,-1,70,62,0
+134,20190828,3,1,8,7.0,4.0,1.1451612903225807,3.0,15.5,1,1,71,62,0
+135,20190830,3,1,12,7.0,6.0,1.1612903225806452,3.0,15.5,1,2,72,62,0
+136,20190831,3,1,12,4.0,10.0,1.1774193548387097,3.0,14.5,1,3,73,62,0
+137,20190901,3,1,12,4.0,3.0,1.1587301587301588,3.0,15.5,0,-1,73,63,0
+138,20190903,3,0,16,5.0,6.0,1.1746031746031746,3.0,15.5,1,1,74,63,0
+139,20190904,3,0,16,6.0,2.0,1.15625,3.0,16.0,1,-1,74,64,0
+140,20190905,3,0,16,1.0,2.0,1.171875,3.0,16.0,1,1,75,64,0
+141,20190906,3,0,18,6.0,1.0,1.1538461538461537,3.0,16.5,1,-1,75,65,0
+142,20190907,3,0,18,1.0,5.0,1.1692307692307693,3.0,15.5,0,1,76,65,0
+143,20190908,3,0,18,5.0,10.0,1.1515151515151516,3.0,16.5,1,-1,76,66,0
+144,20190909,3,0,18,0.0,5.0,1.1343283582089552,3.0,17.5,1,-2,76,67,0
+145,20190910,3,1,28,3.0,4.0,1.1176470588235294,3.0,18.5,1,-3,76,68,0
+146,20190911,3,1,28,0.0,8.0,1.1014492753623188,3.0,18.5,1,-4,76,69,0
+147,20190912,3,1,28,7.0,4.0,1.0857142857142856,3.0,19.0,1,-5,76,70,0
+148,20190914,3,1,20,2.0,1.0,1.1,3.0,19.5,1,1,77,70,0
+149,20190915,3,1,20,6.0,3.0,1.1142857142857143,3.0,19.0,0,2,78,70,0
+150,20190917,3,0,24,6.0,7.0,1.1285714285714286,3.0,18.0,1,3,79,70,0
+151,20190918,3,0,24,3.0,11.0,1.1126760563380282,3.0,19.0,1,-1,79,71,0
+152,20190919,3,0,24,5.0,4.0,1.0972222222222223,3.0,19.0,0,-2,79,72,0
+153,20190920,3,1,26,4.0,5.0,1.1111111111111112,3.0,19.0,1,1,80,72,0
+154,20190921,3,1,26,4.0,5.0,1.095890410958904,3.0,19.0,1,-1,80,73,0
+155,20190922,3,1,26,7.0,4.0,1.0810810810810811,3.0,20.0,0,-2,80,74,0
+156,20190923,3,1,26,4.0,7.0,1.0945945945945945,3.0,20.0,1,1,81,74,0
+157,20190924,3,1,27,12.0,10.0,1.08,3.0,20.5,1,-1,81,75,0
+158,20190925,3,1,27,10.0,3.0,1.0933333333333333,3.0,19.5,1,1,82,75,0
+159,20190926,3,1,27,5.0,7.0,1.1066666666666667,3.0,18.5,0,2,83,75,0
+160,20190927,3,0,2,1.0,4.0,1.0921052631578947,3.0,19.0,1,-1,83,76,0
+161,20190928,3,0,2,4.0,9.0,1.077922077922078,3.0,20.0,0,-2,83,77,0
+162,20190929,3,0,2,5.0,4.0,1.064102564102564,3.0,20.0,0,-3,83,78,0
+1,20200724,3,0,2,13.0,2.0,0,1.0,0,1,0,0,0,0
+2,20200725,3,0,2,2.0,7.0,1.0,1.0,0,0,1,1,0,0
+3,20200726,3,0,2,4.0,7.0,1.0,1.0,0,0,-1,1,1,0
+4,20200727,3,0,17,4.0,7.0,0.5,4.0,1.0,1,-2,1,2,0
+5,20200728,3,0,17,3.0,8.0,0.3333333333333333,5.0,2.0,1,-3,1,3,0
+6,20200729,3,1,17,6.0,5.0,0.25,5.0,3.0,1,-4,1,4,0
+7,20200730,3,1,17,4.0,2.0,0.5,5.0,2.0,1,1,2,4,0
+8,20200731,3,1,18,1.0,5.0,0.75,3.0,2.0,1,2,3,4,0
+9,20200801,3,1,18,2.0,5.0,0.6,5.0,3.0,1,-1,3,5,0
+10,20200802,3,1,18,7.0,9.0,0.5,5.0,4.0,1,-2,3,6,0
+11,20200804,3,1,26,1.0,5.0,0.42857142857142855,5.0,5.0,1,-3,3,7,0
+12,20200805,3,1,26,5.0,0.0,0.375,5.0,6.0,1,-4,3,8,0
+13,20200807,3,0,28,5.0,3.0,0.5,5.0,5.5,1,1,4,8,0
+14,20200808,3,0,28,1.0,2.0,0.625,4.0,4.0,1,2,5,8,0
+15,20200809,3,0,28,5.0,3.0,0.5555555555555556,5.0,4.5,0,-1,5,9,0
+16,20200810,3,0,26,7.0,8.0,0.6666666666666666,4.0,3.5,1,1,6,9,0
+17,20200811,3,0,26,2.0,8.0,0.6,5.0,4.0,1,-1,6,10,0
+18,20200812,3,0,26,5.0,9.0,0.5454545454545454,5.0,5.0,1,-2,6,11,0
+19,20200813,3,0,26,8.0,17.0,0.5,5.0,6.0,0,-3,6,12,0
+20,20200814,3,1,18,3.0,10.0,0.46153846153846156,5.0,6.5,1,-4,6,13,0
+21,20200815,3,1,18,5.0,11.0,0.42857142857142855,5.0,7.5,1,-5,6,14,0
+22,20200816,3,1,18,2.0,4.0,0.4,5.0,8.5,1,-6,6,15,0
+23,20200817,3,1,18,3.0,6.0,0.375,5.0,9.5,1,-7,6,16,0
+24,20200818,3,0,20,6.0,13.0,0.35294117647058826,5.0,10.5,1,-8,6,17,0
+25,20200819,3,0,20,6.0,3.0,0.3333333333333333,5.0,10.5,0,-9,6,18,0
+26,20200820,3,1,2,7.0,1.0,0.3888888888888889,5.0,9.5,1,1,7,18,0
+27,20200821,3,1,2,8.0,5.0,0.4444444444444444,5.0,9.0,1,2,8,18,0
+28,20200822,3,1,2,4.0,5.0,0.5,5.0,8.0,1,3,9,18,0
+29,20200823,3,1,2,4.0,5.0,0.47368421052631576,5.0,9.0,0,-1,9,19,0
+30,20200825,3,1,28,9.0,7.0,0.45,5.0,10.0,1,-2,9,20,0
+31,20200826,3,1,28,1.0,9.0,0.5,5.0,9.5,1,1,10,20,0
+32,20200828,3,0,29,2.0,10.0,0.47619047619047616,5.0,10.5,1,-1,10,21,0
+33,20200829,3,0,29,5.0,3.0,0.45454545454545453,5.0,11.5,1,-2,10,22,0
+34,20200830,3,0,29,9.0,5.0,0.5,5.0,11.5,0,1,11,22,0
+35,20200831,3,0,1,3.0,6.0,0.5454545454545454,5.0,11.5,1,2,12,22,0
+36,20200901,3,0,1,3.0,10.0,0.5217391304347826,5.0,12.5,1,-1,12,23,0
+37,20200902,3,0,1,5.0,7.0,0.5,5.0,12.5,1,-2,12,24,0
+38,20200903,3,0,28,2.0,6.0,0.48,5.0,13.5,1,-3,12,25,0
+39,20200904,3,0,28,7.0,8.0,0.46153846153846156,5.0,14.0,0,-4,12,26,1
+40,20200904,3,0,28,3.0,2.0,0.4444444444444444,5.0,14.5,1,-5,12,27,1
+41,20200905,3,0,28,9.0,8.0,0.48148148148148145,5.0,14.5,1,1,13,27,0
+42,20200906,3,0,28,8.0,10.0,0.5185185185185185,5.0,13.5,0,2,14,27,0
+43,20200908,3,1,20,5.0,6.0,0.5,5.0,14.5,0,-1,14,28,1
+44,20200908,3,1,20,5.0,2.0,0.4827586206896552,5.0,13.5,1,-2,14,29,1
+45,20200910,3,1,26,4.0,3.0,0.5172413793103449,5.0,13.5,1,1,15,29,0
+46,20200911,3,1,26,1.0,11.0,0.5517241379310345,5.0,12.5,1,2,16,29,0
+47,20200912,3,1,26,4.0,5.0,0.5333333333333333,5.0,13.5,1,-1,16,30,0
+48,20200913,3,1,26,6.0,3.0,0.5161290322580645,5.0,14.5,0,-2,16,31,0
+49,20200915,3,1,14,2.0,0.0,0.5483870967741935,5.0,13.5,1,1,17,31,0
+50,20200916,3,1,14,4.0,8.0,0.5806451612903226,5.0,13.5,1,2,18,31,0
+51,20200917,3,1,14,5.0,3.0,0.5625,5.0,13.5,0,-1,18,32,0
+52,20200918,3,0,18,5.0,6.0,0.59375,5.0,14.0,1,1,19,32,0
+53,20200919,3,0,18,0.0,8.0,0.5757575757575758,5.0,15.0,1,-1,19,33,0
+54,20200920,3,0,18,10.0,2.0,0.5588235294117647,5.0,16.0,0,-2,19,34,0
+55,20200922,3,0,2,8.0,3.0,0.5882352941176471,5.0,15.0,1,1,20,34,0
+56,20200923,3,0,2,9.0,1.0,0.6176470588235294,5.0,14.5,1,2,21,34,0
+57,20200924,3,0,2,1.0,13.0,0.6470588235294118,5.0,14.5,1,3,22,34,0
+58,20200925,3,1,1,7.0,8.0,0.6285714285714286,5.0,15.0,1,-1,22,35,0
+59,20200926,3,1,1,8.0,2.0,0.6111111111111112,5.0,16.0,1,-2,22,36,0
+60,20200927,3,1,1,9.0,1.0,0.6388888888888888,5.0,16.0,0,1,23,36,0
+1,20210402,3,0,2,0.0,3.0,0,1.0,0,0,0,0,0,0
+2,20210403,3,0,2,2.0,4.0,0.0,4.0,1.5,0,-1,0,1,0
+3,20210404,3,0,2,3.0,11.0,0.0,5.0,2.0,0,-2,0,2,0
+4,20210405,3,0,26,11.0,2.0,0.0,5.0,3.0,1,-3,0,3,0
+5,20210406,3,0,26,6.0,5.0,0.3333333333333333,5.0,2.0,1,1,1,3,0
+6,20210407,3,0,26,9.0,2.0,0.6666666666666666,4.0,1.0,0,2,2,3,0
+7,20210408,3,1,2,7.0,3.0,1.0,2.0,1.0,0,3,3,3,0
+8,20210410,3,1,2,6.0,4.0,1.3333333333333333,1.0,0,1,4,4,3,0
+9,20210411,3,1,2,14.0,9.0,1.6666666666666667,1.0,-1.0,0,5,5,3,0
+10,20210413,3,1,16,4.0,2.0,2.0,1.0,-2.0,0,6,6,3,0
+11,20210414,3,1,16,3.0,2.0,2.3333333333333335,1.0,-2.5,0,7,7,3,1
+12,20210414,3,1,16,7.0,1.0,2.6666666666666665,1.0,-3.0,1,8,8,3,1
+13,20210415,3,1,16,3.0,4.0,3.0,1.0,-3.0,0,9,9,3,0
+14,20210417,3,0,5,7.0,4.0,2.25,1.0,-3.0,0,-1,9,4,0
+15,20210418,3,0,5,2.0,3.0,2.5,1.0,-3.5,0,1,10,4,1
+16,20210418,3,0,5,1.0,5.0,2.0,1.0,-2.0,1,-1,10,5,1
+17,20210419,3,0,5,11.0,4.0,1.6666666666666667,1.0,-2.0,0,-2,10,6,0
+18,20210420,3,0,28,4.0,2.0,1.8333333333333333,1.0,-2.0,1,1,11,6,0
+19,20210421,3,0,28,3.0,6.0,2.0,1.0,-2.0,1,2,12,6,0
+20,20210422,3,0,23,3.0,7.0,1.7142857142857142,1.0,-2.0,1,-1,12,7,0
+21,20210423,3,0,23,6.0,5.0,1.5,1.0,-1.5,1,-2,12,8,0
+22,20210424,3,0,23,2.0,8.0,1.625,1.0,-2.5,0,1,13,8,0
+23,20210425,3,0,23,5.0,3.0,1.4444444444444444,1.0,-1.5,0,-1,13,9,0
+24,20210427,3,1,17,2.0,1.0,1.5555555555555556,1.0,-2.5,1,1,14,9,0
+25,20210428,3,1,17,1.0,0.0,1.6666666666666667,1.0,-3.0,1,2,15,9,0
+26,20210429,3,1,27,1.0,4.0,1.7777777777777777,1.0,-3.0,1,3,16,9,0
+27,20210430,3,1,27,6.0,1.0,1.6,1.0,-3.0,1,-1,16,10,0
+28,20210501,3,1,27,6.0,8.0,1.7,1.0,-3.5,1,1,17,10,0
+29,20210502,3,1,27,3.0,5.0,1.5454545454545454,1.0,-2.5,0,-1,17,11,0
+30,20210504,3,0,9,11.0,7.0,1.4166666666666667,1.0,-1.5,1,-2,17,12,0
+31,20210505,3,0,9,5.0,6.0,1.5,1.0,-2.5,1,1,18,12,0
+32,20210506,3,0,9,12.0,9.0,1.3846153846153846,1.0,-1.5,0,-1,18,13,0
+33,20210507,3,1,2,6.0,2.0,1.4615384615384615,1.0,-1.5,1,1,19,13,0
+34,20210508,3,1,2,11.0,6.0,1.5384615384615385,1.0,-2.5,1,2,20,13,0
+35,20210509,3,1,2,4.0,3.0,1.6153846153846154,1.0,-3.0,0,3,21,13,0
+36,20210510,3,1,2,1.0,4.0,1.6923076923076923,1.0,-3.5,1,4,22,13,0
+37,20210511,3,0,19,2.0,3.0,1.5714285714285714,1.0,-3.0,1,-1,22,14,0
+38,20210512,3,0,19,1.0,4.0,1.4666666666666666,1.0,-2.0,1,-2,22,15,0
+39,20210513,3,0,19,8.0,1.0,1.375,1.0,-1.0,1,-3,22,16,0
+40,20210514,3,0,12,4.0,3.0,1.4375,1.0,-1.5,1,1,23,16,0
+41,20210515,3,0,12,9.0,0.0,1.5,1.0,-2.0,0,2,24,16,0
+42,20210516,3,0,12,5.0,6.0,1.5625,1.0,-2.0,0,3,25,16,0
+43,20210518,3,1,28,0.0,8.0,1.4705882352941178,1.0,-1.5,1,-1,25,17,0
+44,20210519,3,1,28,7.0,3.0,1.3888888888888888,1.0,-0.5,1,-2,25,18,0
+45,20210520,3,1,28,8.0,7.0,1.4444444444444444,1.0,-1.0,1,1,26,18,0
+46,20210521,3,1,20,11.0,3.0,1.5,1.0,-1.0,1,2,27,18,0
+47,20210522,3,1,20,4.0,3.0,1.5555555555555556,1.0,-1.0,1,3,28,18,0
+48,20210523,3,1,20,2.0,6.0,1.6111111111111112,1.0,-1.0,0,4,29,18,0
+49,20210525,3,0,1,1.0,3.0,1.5263157894736843,1.0,0,1,-1,29,19,0
+50,20210526,3,0,1,9.0,5.0,1.45,2.0,0.5,1,-2,29,20,0
+51,20210528,3,0,14,5.0,2.0,1.5,2.0,0.5,1,1,30,20,0
+52,20210529,3,0,14,3.0,1.0,1.55,2.0,0.5,0,2,31,20,0
+53,20210531,3,1,10,2.0,11.0,1.6,2.0,0.5,0,3,32,20,0
+54,20210601,3,1,10,1.0,5.0,1.5238095238095237,2.0,2.0,1,-1,32,21,0
+55,20210602,3,1,10,1.0,2.0,1.4545454545454546,2.0,2.0,1,-2,32,22,0
+56,20210603,3,1,10,5.0,1.0,1.391304347826087,2.0,2.0,0,-3,32,23,0
+57,20210604,3,1,18,5.0,2.0,1.434782608695652,2.0,2.0,1,1,33,23,0
+58,20210605,3,1,18,7.0,3.0,1.4782608695652173,2.0,1.0,1,2,34,23,0
+59,20210606,3,1,18,6.0,5.0,1.5217391304347827,2.0,1.0,1,3,35,23,0
+60,20210607,3,0,14,5.0,3.0,1.565217391304348,2.0,1.0,1,4,36,23,0
+61,20210608,3,0,10,1.0,7.0,1.608695652173913,2.0,0.5,1,5,37,23,0
+62,20210609,3,0,10,3.0,8.0,1.5416666666666667,2.0,1.5,1,-1,37,24,0
+63,20210610,3,0,10,12.0,8.0,1.48,2.0,1.5,1,-2,37,25,0
+64,20210611,3,0,28,6.0,5.0,1.52,2.0,1.0,1,1,38,25,0
+65,20210612,3,0,28,2.0,7.0,1.56,2.0,1.0,0,2,39,25,0
+66,20210613,3,0,28,4.0,18.0,1.5,2.0,2.0,0,-1,39,26,0
+67,20210614,3,0,28,2.0,1.0,1.4444444444444444,2.0,3.0,1,-2,39,27,0
+68,20210615,3,1,1,10.0,8.0,1.4814814814814814,2.0,3.0,1,1,40,27,0
+69,20210616,3,1,1,10.0,8.0,1.5185185185185186,2.0,2.0,1,2,41,27,0
+70,20210618,3,1,11,3.0,5.0,1.5555555555555556,2.0,1.0,1,3,42,27,0
+71,20210619,3,1,11,7.0,1.0,1.5,2.0,0.5,0,-1,42,28,0
+72,20210620,3,1,11,3.0,7.0,1.5357142857142858,1.0,-0.5,0,1,43,28,0
+73,20210622,3,1,26,9.0,5.0,1.4827586206896552,1.0,-0.5,1,-1,43,29,0
+74,20210623,3,1,26,2.0,8.0,1.5172413793103448,1.0,-1.5,1,1,44,29,0
+75,20210624,3,1,26,0.0,1.0,1.4666666666666666,1.0,-0.5,1,-1,44,30,0
+76,20210625,3,0,18,5.0,3.0,1.4193548387096775,2.0,0.5,1,-2,44,31,0
+77,20210626,3,0,18,4.0,2.0,1.4516129032258065,2.0,0.5,1,1,45,31,0
+78,20210627,3,0,18,9.0,2.0,1.4838709677419355,2.0,0.5,0,2,46,31,0
+79,20210628,3,0,11,6.0,5.0,1.5161290322580645,1.0,-0.5,1,3,47,31,0
+80,20210629,3,0,11,7.0,6.0,1.5483870967741935,1.0,-1.0,1,4,48,31,0
+81,20210630,3,0,11,6.0,2.0,1.5806451612903225,1.0,-2.0,1,5,49,31,0
+82,20210701,3,0,11,15.0,1.0,1.6129032258064515,1.0,-3.0,0,6,50,31,0
+83,20210702,3,1,19,3.0,2.0,1.6451612903225807,1.0,-3.5,1,7,51,31,0
+84,20210703,3,1,19,6.0,7.0,1.6774193548387097,1.0,-4.5,0,8,52,31,0
+85,20210704,3,1,19,1.0,0.0,1.625,1.0,-4.5,0,-1,52,32,0
+86,20210705,3,1,12,5.0,4.0,1.65625,1.0,-4.5,1,1,53,32,0
+87,20210706,3,1,12,3.0,5.0,1.6875,1.0,-4.5,1,2,54,32,0
+88,20210707,3,1,12,4.0,5.0,1.6363636363636365,1.0,-4.0,0,-1,54,33,0
+89,20210709,3,0,20,11.0,5.0,1.588235294117647,1.0,-2.5,1,-2,54,34,0
+90,20210710,3,0,20,2.0,11.0,1.6176470588235294,1.0,-2.5,0,1,55,34,0
+91,20210711,3,0,20,4.0,5.0,1.5714285714285714,1.0,-1.5,0,-1,55,35,0
+92,20210716,3,1,18,4.0,0.0,1.5277777777777777,1.0,-1.5,1,-2,55,36,0
+93,20210717,3,1,18,1.0,3.0,1.5555555555555556,1.0,-1.5,1,1,56,36,0
+94,20210718,3,1,18,1.0,9.0,1.5135135135135136,1.0,-1.5,1,-1,56,37,0
+95,20210719,3,1,28,13.0,4.0,1.4736842105263157,1.0,-0.5,1,-2,56,38,0
+96,20210721,3,1,28,7.0,4.0,1.5,1.0,-1.5,1,1,57,38,0
+97,20210722,3,0,18,5.0,4.0,1.5263157894736843,1.0,-1.0,1,2,58,38,0
+98,20210723,3,0,18,6.0,2.0,1.5526315789473684,1.0,-1.0,1,3,59,38,0
+99,20210724,3,0,18,3.0,4.0,1.5789473684210527,1.0,-1.0,0,4,60,38,0
+100,20210725,3,0,18,5.0,4.0,1.5384615384615385,1.0,0,0,-1,60,39,0
+101,20210726,3,0,28,5.0,4.0,1.564102564102564,1.0,-1.0,1,1,61,39,0
+102,20210728,3,0,28,1.0,4.0,1.5897435897435896,1.0,-1.5,0,2,62,39,1
+103,20210728,3,0,28,4.0,1.0,1.55,1.0,-2.5,1,-1,62,40,1
+104,20210729,3,0,28,1.0,13.0,1.575,1.0,-2.5,1,1,63,40,0
+105,20210730,3,1,26,3.0,7.0,1.5365853658536586,1.0,-1.5,1,-1,63,41,0
+106,20210731,3,1,26,5.0,9.0,1.5,1.0,-0.5,1,-2,63,42,0
+107,20210801,3,1,26,2.0,3.0,1.4651162790697674,2.0,0.5,1,-3,63,43,0
+108,20210803,3,1,9,2.0,4.0,1.4318181818181819,2.0,1.5,1,-4,63,44,0
+109,20210804,3,1,9,4.0,1.0,1.4,2.0,1.0,1,-5,63,45,0
+110,20210805,3,1,9,1.0,8.0,1.4222222222222223,2.0,1.0,0,1,64,45,0
+111,20210806,3,1,28,4.0,12.0,1.391304347826087,2.0,1.5,1,-1,64,46,0
+112,20210807,3,1,28,0.0,1.0,1.3617021276595744,2.0,2.5,0,-2,64,47,1
+113,20210807,3,1,28,2.0,1.0,1.3333333333333333,2.0,3.0,1,-3,64,48,1
+114,20210808,3,1,28,8.0,9.0,1.3541666666666667,2.0,3.0,0,1,65,48,0
+115,20210810,3,0,26,4.0,8.0,1.3265306122448979,2.0,4.0,1,-1,65,49,0
+116,20210811,3,0,26,20.0,8.0,1.3,2.0,5.0,1,-2,65,50,0
+117,20210812,3,0,26,1.0,8.0,1.32,2.0,4.0,0,1,66,50,0
+118,20210813,3,0,2,8.0,1.0,1.2941176470588236,2.0,5.0,1,-1,66,51,0
+119,20210814,3,0,2,16.0,2.0,1.3137254901960784,2.0,5.0,0,1,67,51,0
+120,20210815,3,0,2,6.0,2.0,1.3333333333333333,2.0,4.0,0,2,68,51,0
+121,20210817,3,1,18,3.0,5.0,1.3529411764705883,2.0,3.0,0,3,69,51,1
+122,20210817,3,1,18,0.0,2.0,1.3269230769230769,2.0,5.0,1,-1,69,52,1
+123,20210818,3,1,18,2.0,5.0,1.3018867924528301,2.0,5.0,1,-2,69,53,0
+124,20210820,3,0,27,6.0,0.0,1.2777777777777777,3.0,6.0,1,-3,69,54,0
+125,20210821,3,0,27,1.0,10.0,1.2962962962962963,3.0,5.5,1,1,70,54,0
+126,20210823,3,0,27,8.0,4.0,1.2727272727272727,3.0,6.5,0,-1,70,55,0
+127,20210824,3,0,16,11.0,9.0,1.290909090909091,3.0,6.5,1,1,71,55,0
+128,20210825,3,0,16,6.0,9.0,1.309090909090909,3.0,6.5,1,2,72,55,0
+129,20210826,3,0,16,12.0,2.0,1.2857142857142858,3.0,7.5,1,-1,72,56,0
+130,20210827,3,1,7,4.0,3.0,1.3035714285714286,3.0,7.0,1,1,73,56,0
+131,20210828,3,1,7,5.0,3.0,1.3214285714285714,3.0,7.0,0,2,74,56,0
+132,20210829,3,1,7,5.0,7.0,1.3392857142857142,3.0,7.0,0,3,75,56,0
+133,20210830,3,1,26,1.0,6.0,1.3157894736842106,3.0,8.0,1,-1,75,57,0
+134,20210831,3,1,26,5.0,8.0,1.293103448275862,3.0,9.0,1,-2,75,58,0
+135,20210901,3,1,26,3.0,2.0,1.271186440677966,3.0,10.0,1,-3,75,59,0
+136,20210902,3,1,26,4.0,0.0,1.2881355932203389,3.0,9.0,1,1,76,59,0
+137,20210903,3,0,7,8.0,5.0,1.305084745762712,3.0,8.0,1,2,77,59,0
+138,20210904,3,0,7,4.0,3.0,1.3220338983050848,3.0,8.0,0,3,78,59,0
+139,20210905,3,0,7,5.0,11.0,1.3389830508474576,3.0,8.0,0,4,79,59,0
+140,20210906,3,0,26,10.0,11.0,1.3166666666666667,3.0,8.0,0,-1,79,60,0
+141,20210907,3,0,26,7.0,12.0,1.2950819672131149,3.0,9.0,1,-2,79,61,0
+142,20210908,3,0,26,2.0,1.0,1.2741935483870968,3.0,10.0,1,-3,79,62,0
+143,20210910,3,1,5,3.0,4.0,1.2903225806451613,2.0,9.0,1,1,80,62,0
+144,20210911,3,1,5,9.0,8.0,1.2698412698412698,2.0,9.0,1,-1,80,63,0
+145,20210912,3,1,5,1.0,2.0,1.2857142857142858,2.0,9.0,0,1,81,63,0
+146,20210913,3,1,23,4.0,5.0,1.265625,2.0,9.0,1,-1,81,64,0
+147,20210914,3,1,23,8.0,4.0,1.2461538461538462,3.0,9.0,1,-2,81,65,0
+148,20210915,3,1,23,9.0,4.0,1.2615384615384615,2.0,9.0,0,1,82,65,0
+149,20210917,3,0,2,7.0,1.0,1.2769230769230768,2.0,8.0,1,2,83,65,0
+150,20210918,3,0,2,9.0,3.0,1.2923076923076924,2.0,8.5,0,3,84,65,0
+151,20210919,3,0,2,8.0,6.0,1.3076923076923077,2.0,7.5,0,4,85,65,0
+152,20210921,3,0,17,6.0,3.0,1.323076923076923,2.0,6.5,1,5,86,65,0
+153,20210922,3,0,17,12.0,5.0,1.3384615384615384,2.0,6.0,1,6,87,65,0
+154,20210924,3,0,18,3.0,8.0,1.353846153846154,2.0,6.0,1,7,88,65,0
+155,20210925,3,0,18,3.0,5.0,1.3333333333333333,2.0,7.0,0,-1,88,66,0
+156,20210926,3,0,18,3.0,6.0,1.3134328358208955,2.0,8.0,1,-2,88,67,0
+157,20210928,3,1,2,2.0,4.0,1.2941176470588236,3.0,9.0,1,-3,88,68,0
+158,20210929,3,1,2,6.0,0.0,1.2753623188405796,3.0,9.0,1,-4,88,69,0
+159,20210930,3,1,2,2.0,6.0,1.289855072463768,3.0,9.0,1,1,89,69,0
+160,20211001,3,1,29,4.0,2.0,1.2714285714285714,3.0,9.0,1,-1,89,70,0
+161,20211002,3,1,29,5.0,3.0,1.2857142857142858,3.0,9.0,0,1,90,70,0
+162,20211003,3,1,29,7.0,5.0,1.3,2.0,9.0,0,2,91,70,0
