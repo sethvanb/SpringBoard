@@ -23,7 +23,7 @@ for team in teamTags:
     for year in years:
         data = pybb.schedule_and_record(year, team)
         #Drop columns that we cannot know before the game has occurred
-        cleanedResult = data.drop(columns=['W/L', 'Inn', 'Win', 'Loss', 'Save', 'Time', 'Attendance', 'cLI', 'Orig. Scheduled'])
+        cleanedResult = data.drop(columns=['W/L', 'Inn', 'RA', 'Win', 'Loss', 'Save', 'Time', 'Attendance', 'cLI', 'Orig. Scheduled'])
         #Add wins and losses columns 
         cleanedResult["Wins"] = 1
         cleanedResult["Losses"] = 0
@@ -43,41 +43,41 @@ for team in teamTags:
             cleanedResult.iat[i, 2] = 0 if cleanedResult.iat[i, 2] == 'Home' else 1 #Home/Away to bool
             cleanedResult.iat[i, 3] = teamTags.index(cleanedResult.iat[i, 3])  #Opponent to tag index
             # Change win-loss to win/loss ratio and add win and loss column
-            wl = cleanedResult.iat[i, 6] 
+            wl = cleanedResult.iat[i, 5] 
             wins = float(wl[0:wl.find('-')])
             losses = float(wl[wl.find('-')+1:len(wl)])
             if losses != 0:
-                cleanedResult.iat[i, 6] = wins/losses
+                cleanedResult.iat[i, 5] = wins/losses
             else:
-                cleanedResult.iat[i, 6] = wins
-            cleanedResult.iat[i, 11] = wins
-            cleanedResult.iat[i, 12] = losses
+                cleanedResult.iat[i, 5] = wins
+            cleanedResult.iat[i, 10] = wins
+            cleanedResult.iat[i, 11] = losses
             # Change games back tied to 0 and up to negative numbers
-            if cleanedResult.iat[i, 8] == 'Tied':
-                cleanedResult.iat[i, 8] = 0
-            elif cleanedResult.iat[i, 8][0:2] == 'up':
-                cleanedResult.iat[i, 8] = -1 * float(cleanedResult.iat[i, 8][3:len(cleanedResult.iat[i, 8])])
-            cleanedResult.iat[i, 9] = 0 if cleanedResult.iat[i, 9] == 'D' else 1 #Day/Night to bool
+            if cleanedResult.iat[i, 7] == 'Tied':
+                cleanedResult.iat[i, 7] = 0
+            elif cleanedResult.iat[i, 7][0:2] == 'up':
+                cleanedResult.iat[i, 7] = -1 * float(cleanedResult.iat[i, 7][3:len(cleanedResult.iat[i, 7])])
+            cleanedResult.iat[i, 8] = 0 if cleanedResult.iat[i, 8] == 'D' else 1 #Day/Night to bool
 
         for i in range(len(cleanedResult)-1, -1, -1):  
             if i != 0 and cleanedResult.iat[i, 0] == cleanedResult.iat[i-1, 0]: # Add bool for double header
-                cleanedResult.iat[i, 13] = 1
-                cleanedResult.iat[i-1, 13] = 1
+                cleanedResult.iat[i, 12] = 1
+                cleanedResult.iat[i-1, 12] = 1
             if i != 0: # Shift all "in coming" stats down a column
-                cleanedResult.iat[i, 6] = cleanedResult.iat[i-1, 6] # Shift win-loss ratio down a column
-                cleanedResult.iat[i, 7] = cleanedResult.iat[i-1, 7] # Shift rank down a column
-                cleanedResult.iat[i, 8] = cleanedResult.iat[i-1, 8] # Shift games back down a column
-                cleanedResult.iat[i, 10] = cleanedResult.iat[i-1, 10] # Shift streak down a column
-                cleanedResult.iat[i, 11] = cleanedResult.iat[i-1, 11] # Shift wins down a column
-                cleanedResult.iat[i, 12] = cleanedResult.iat[i-1, 12] # Shift losses down a column
+                cleanedResult.iat[i, 5] = cleanedResult.iat[i-1, 5] # Shift win-loss ratio down a column
+                cleanedResult.iat[i, 6] = cleanedResult.iat[i-1, 6] # Shift rank down a column
+                cleanedResult.iat[i, 7] = cleanedResult.iat[i-1, 7] # Shift games back down a column
+                cleanedResult.iat[i, 9] = cleanedResult.iat[i-1, 9] # Shift streak down a column
+                cleanedResult.iat[i, 10] = cleanedResult.iat[i-1, 10] # Shift wins down a column
+                cleanedResult.iat[i, 11] = cleanedResult.iat[i-1, 11] # Shift losses down a column
             else: #set first record to initial values
-                cleanedResult.iat[i, 6] = 0
-                cleanedResult.iat[i, 7] = 1
-                cleanedResult.iat[i, 8] = 0
+                cleanedResult.iat[i, 5] = 0
+                cleanedResult.iat[i, 6] = 1
+                cleanedResult.iat[i, 7] = 0
+                cleanedResult.iat[i, 9] = 0
                 cleanedResult.iat[i, 10] = 0
                 cleanedResult.iat[i, 11] = 0
-                cleanedResult.iat[i, 12] = 0
-                
+
         teamFrames.append(cleanedResult)
     result = pd.concat(teamFrames)
     allFrames.append(result)
