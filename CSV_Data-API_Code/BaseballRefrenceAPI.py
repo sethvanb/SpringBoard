@@ -1,3 +1,4 @@
+import numpy as np
 import pybaseball as pybb
 import pandas as pd
 import os
@@ -63,7 +64,7 @@ for team in teamTags:
             if i != 0 and cleanedResult.iat[i, 0] == cleanedResult.iat[i-1, 0]: # Add bool for double header
                 cleanedResult.iat[i, 12] = 1
                 cleanedResult.iat[i-1, 12] = 1
-            if i != 0: # Shift all "in coming" stats down a column
+            if i != 0: # Shift all "in coming" stats down a column   try.shift operation
                 cleanedResult.iat[i, 5] = cleanedResult.iat[i-1, 5] # Shift win-loss ratio down a column
                 cleanedResult.iat[i, 6] = cleanedResult.iat[i-1, 6] # Shift rank down a column
                 cleanedResult.iat[i, 7] = cleanedResult.iat[i-1, 7] # Shift games back down a column
@@ -78,16 +79,47 @@ for team in teamTags:
                 cleanedResult.iat[i, 10] = 0
                 cleanedResult.iat[i, 11] = 0
 
+        #Fill in missing Streak appropriately
+        for i in range(len(cleanedResult)-1, -1, -1): 
+            missingStreak = cleanedResult['Streak'].isnull()      
+            if i != 0 and missingStreak.iat[i]:
+                if cleanedResult.iat[i, 10] == cleanedResult.iat[i-1, 10]:
+                    if cleanedResult.iat[i-1, 9] > 0:
+                        cleanedResult.iat[i, 9] = -1
+                    else:
+                        cleanedResult.iat[i, 9] = cleanedResult.iat[i-1, 9] - 1
+                else:
+                    if cleanedResult.iat[i-1, 9] < 0:
+                        cleanedResult.iat[i, 9] = 1
+                    else:
+                        cleanedResult.iat[i, 9] = cleanedResult.iat[i-1, 9] + 1
+
         teamFrames.append(cleanedResult)
     result = pd.concat(teamFrames)
     allFrames.append(result)
     result.to_csv(fileName)
     print(fileName) # To let user know which files are done
 result = pd.concat(allFrames)
-# Do we really wnat to do this?
-#Go through and delete dulplicate games by keeping only home games
-# cleanedResult = result[result['Home_Away'] == 0]
-#Delete Home_Away column because we know team under Tm column is always Home
-# refinedResult = cleanedResult.drop(columns=['Home_Away'])
-# refinedResult.to_csv('allTeams_data.csv')
+print(result.isnull().values.any())
 result.to_csv('allTeams_data.csv')
+
+# Check for missing data
+# result = pd.read_csv('allTeams_data.csv')
+# print(result.isnull().values.any())
+# print(result['Date'].isnull().values.any())
+# print(result['Tm'].isnull().values.any())
+# print(result['Home_Away'].isnull().values.any())
+# print(result['Opp'].isnull().values.any())
+# print(result['R'].isnull().values.any())
+# print(result['W-L'].isnull().values.any())
+# print(result['Rank'].isnull().values.any())
+# print(result['GB'].isnull().values.any())
+# print(result['D/N'].isnull().values.any())
+# print(result['Streak'].isnull().values.any())
+# print(result['Wins'].isnull().values.any())
+# print(result['Losses'].isnull().values.any())
+# print(result['DoubleHeader'].isnull().values.any())
+
+# print(result[result["Streak"].isnull()])
+
+# result.to_csv('allTeams_data.csv')
