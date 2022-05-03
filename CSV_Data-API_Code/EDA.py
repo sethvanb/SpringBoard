@@ -107,6 +107,15 @@ print(w_out)
 l_out = detect_outliers(data["Losses"])
 print(l_out)
 
+#Plotting Scatter Plots
+fig, axes = plt.subplots(3, 2)
+seaborn.scatterplot(data=data, ax=axes[0,0], x="W-L", y="R")
+seaborn.scatterplot(data=data, ax=axes[0,1], x="GB", y="R")
+seaborn.scatterplot(data=data, ax=axes[1,0], x="Streak", y="R")
+seaborn.scatterplot(data=data, ax=axes[2,0], x="Wins", y="R")
+seaborn.scatterplot(data=data, ax=axes[2,1], x="Losses", y="R")
+plt.show()
+
 #Plotting Heat Maps
 fig, axes = plt.subplots(3, 2)
 runs_wl = data.groupby(["R", "W-L"]).apply(count_rows).unstack()
