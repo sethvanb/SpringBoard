@@ -9,19 +9,34 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct']
 
 # For all 30 MLB teams we will gather 10 years of records 2012-2021 and save them into a cvs for each team and one aggrgated one. 
-years = [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
-teamTags=['ARI', 'ATL', 'BAL', 'BOS', 'CHC', 'CHW', 'CIN', 'CLE', 'COL', 'DET', 'HOU', 'KCR', 'LAA', 'LAD', 'MIA', 'MIL', 'MIN', 'NYM', 'NYY', 'OAK', 'PHI', 'PIT', 'SDP', 'SEA', 'SFG', 'STL', 'TBR', 'TEX', 'TOR', 'WSN']
+years = list(range(2002, 2022))
 
 # years = [2021]
 # teamTags=['SFG'] 
 
-#Collect all the data frames for each team and each year and put them into one data frame
+# data = pybb.schedule_and_record(2008, "TBR")
+# print(data)
+
+# Collect all the data frames for each team and each year and put them into one data frame
 allFrames = []
-for team in teamTags: 
-    fileName = './individualTeams/' + team + '_data.csv'
-    os.makedirs(os.path.dirname(fileName), exist_ok=True)
-    teamFrames = []
-    for year in years:
+for year in years:
+    print(year)
+    teams=['ARI', 'ATL', 'BAL', 'BOS', 'CHC', 'CHW', 'CIN', 'CLE', 'COL', 'DET', 'HOU', 'KCR', 'LAA', 'LAD', 'MIA', 'MIL', 'MIN', 'NYM', 'NYY', 'OAK', 'PHI', 'PIT', 'SDP', 'SEA', 'SFG', 'STL', 'TBR', 'TEX', 'TOR', 'WSN']
+    i = teams.index('WSN')
+    i2 = teams.index('LAA')
+    i3 = teams.index('TBR')
+    i4 = teams.index('MIA')
+    if i and year < 2005:
+        teams[i] = "MON"
+    if i2 and year < 2005:
+        teams[i2] = "ANA"
+    if i3 and year < 2008:
+        teams[i3] = "TBD"
+    if i4 and year < 2012:
+        teams[i4] = "FLA"
+    print(teams)
+    for team in teams:
+        print(team)
         data = pybb.schedule_and_record(year, team)
         #Drop columns that we cannot know before the game has occurred
         cleanedResult = data.drop(columns=['W/L', 'Inn', 'RA', 'Win', 'Loss', 'Save', 'Time', 'Attendance', 'cLI', 'Orig. Scheduled'])
@@ -40,9 +55,9 @@ for team in teamTags:
                 day = d[d.find(',')+6:d.find('(')]
             date = dt.datetime(year, months.index(month)+1, int(day))
             cleanedResult.iat[i, 0] =  int(date.strftime("%Y%m%d")) #Date to number 
-            cleanedResult.iat[i, 1] = teamTags.index(cleanedResult.iat[i, 1]) #Team to tag index
+            cleanedResult.iat[i, 1] = teams.index(cleanedResult.iat[i, 1]) #Team to tag index
             cleanedResult.iat[i, 2] = 0 if cleanedResult.iat[i, 2] == 'Home' else 1 #Home/Away to bool
-            cleanedResult.iat[i, 3] = teamTags.index(cleanedResult.iat[i, 3])  #Opponent to tag index
+            cleanedResult.iat[i, 3] = teams.index(cleanedResult.iat[i, 3])  #Opponent to tag index
             # Change win-loss to win/loss ratio and add win and loss column
             wl = cleanedResult.iat[i, 5] 
             wins = float(wl[0:wl.find('-')])
@@ -94,14 +109,10 @@ for team in teamTags:
                     else:
                         cleanedResult.iat[i, 9] = cleanedResult.iat[i-1, 9] + 1
 
-        teamFrames.append(cleanedResult)
-    result = pd.concat(teamFrames)
-    allFrames.append(result)
-    result.to_csv(fileName)
-    print(fileName) # To let user know which files are done
-result = pd.concat(allFrames)
-print(result.isnull().values.any())
-result.to_csv('allTeams_data.csv')
+        allFrames.append(cleanedResult)
+allFrames = pd.concat(allFrames)
+print(allFrames.isnull().values.any())
+allFrames.to_csv('allTeams_data.csv')
 
 # Check for missing data
 # result = pd.read_csv('allTeams_data.csv')

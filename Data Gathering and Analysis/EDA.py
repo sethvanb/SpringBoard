@@ -18,7 +18,14 @@ def detect_outliers(data):
 def count_rows(rows):
     return len(rows)
 
+# data = pd.read_csv('individualTeams/SFG_data.csv')
+# data = data[0:500]
+# seaborn.lineplot(data=data, x=list(range(len(data))), y="R")
+# plt.show()
+
 data = pd.read_csv('allTeams_data.csv')
+
+# Standardize or Normalize  Wins, Losses, Runs?, W-L, GB, Streak, Rank
 
 #Basic data information
 print(data.info())
@@ -27,6 +34,8 @@ print("-----MIN-----")
 print(data.min())
 print("-----MAX-----")
 print(data.max())
+
+print(data)
 
 #Plotting data and looking for Outliers in R, W-L, GB, Streak, Wins, Losses
 #Histograms
@@ -95,17 +104,25 @@ plt.show()
 
 #Finding Outliers
 r_out = detect_outliers(data["R"])
-print(r_out)
+print(len(r_out))
 wl_out = detect_outliers(data["W-L"])
-print(wl_out)
+print(len(wl_out))
 gb_out = detect_outliers(data["GB"])
-print(gb_out)
+print(len(gb_out))
 streak_out = detect_outliers(data["Streak"])
-print(streak_out)
+print(len(streak_out))
 w_out = detect_outliers(data["Wins"])
-print(w_out)
+print(len(w_out))
 l_out = detect_outliers(data["Losses"])
-print(l_out)
+print(len(l_out))
+
+# Remove Outliers
+# data = data[~data['R'].isin(r_out)]
+# data = data[~data['W-L'].isin(wl_out)]
+# data = data[~data['GB'].isin(gb_out)]
+# data = data[~data['Streak'].isin(streak_out)]
+# data = data[~data['Wins'].isin(w_out)]
+# data = data[~data['Losses'].isin(l_out)]
 
 #Plotting Scatter Plots
 fig, axes = plt.subplots(3, 2)
@@ -130,5 +147,13 @@ runs_losses = data.groupby(["R", "Losses"]).apply(count_rows).unstack()
 seaborn.heatmap(runs_losses, ax=axes[2,1])
 plt.show()
 
+# One Hot Encode Tm and Opp
+# data['Tm'] = data['Tm'].map({1:'ARI', 2:'ATL', 3:'BAL', 4:'BOS', 5:'CHC', 6:'CHW', 7:'CIN', 8:'CLE', 9:'COL', 10:'DET', 11:'HOU', 12:'KCR', 13:'LAA', 14:'LAD', 15:'MIA', 16:'MIL', 17:'MIN', 18:'NYM', 19:'NYY', 20:'OAK', 21:'PHI', 22:'PIT', 23:'SDP', 24:'SEA', 25:'SFG', 26:'STL', 27:'TBR', 28:'TEX', 29:'TOR', 30:'WSN'})
+# data = pd.get_dummies(data, columns=['Tm'], prefix='', prefix_sep='')
+# data['Opp'] = data['Opp'].map({1:'OPP_ARI', 2:'OPP_ATL', 3:'OPP_BAL', 4:'OPP_BOS', 5:'OPP_CHC', 6:'OPP_CHW', 7:'OPP_CIN', 8:'OPP_CLE', 9:'OPP_COL', 10:'OPP_DET', 11:'OPP_HOU', 12:'OPP_KCR', 13:'OPP_LAA', 14:'OPP_LAD', 15:'OPP_MIA', 16:'OPP_MIL', 17:'OPP_MIN', 18:'OPP_NYM', 19:'OPP_NYY', 20:'OPP_OAK', 21:'OPP_PHI', 22:'OPP_PIT', 23:'OPP_SDP', 24:'OPP_SEA', 25:'OPP_SFG', 26:'OPP_STL', 27:'OPP_TBR', 28:'OPP_TEX', 29:'OPP_TOR', 30:'OPP_WSN'})
+# data = pd.get_dummies(data, columns=['Opp'], prefix='', prefix_sep='')
 
-
+data = data.drop(columns = ['Date'])
+print(data)
+data.drop(columns=['Unnamed: 0']).to_csv('allTeams_data.csv')
+# data.to_csv('allTeams_data.csv')
