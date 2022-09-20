@@ -9,7 +9,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 def train():
   data = pd.read_csv('allTeams_data.csv')
-  X = data.drop(columns=["R", "D/N", "Streak", "Rank", "GB"])
+  X = data.drop(columns=['Unnamed: 0', "R", "D/N", "Streak", "Rank", "GB"])
   Y = data["R"]
   X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.3)
 

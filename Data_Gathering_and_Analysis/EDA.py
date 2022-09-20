@@ -148,9 +148,9 @@ seaborn.heatmap(runs_losses, ax=axes[2,1])
 plt.show()
 
 # One Hot Encode Tm and Opp
-data['Tm'] = data['Tm'].map({1:'ARI', 2:'ATL', 3:'BAL', 4:'BOS', 5:'CHC', 6:'CHW', 7:'CIN', 8:'CLE', 9:'COL', 10:'DET', 11:'HOU', 12:'KCR', 13:'LAA', 14:'LAD', 15:'MIA', 16:'MIL', 17:'MIN', 18:'NYM', 19:'NYY', 20:'OAK', 21:'PHI', 22:'PIT', 23:'SDP', 24:'SEA', 25:'SFG', 26:'STL', 27:'TBR', 28:'TEX', 29:'TOR', 30:'WSN'})
+data['Tm'] = data['Tm'].map({0:'ARI', 1:'ATL', 2:'BAL', 3:'BOS', 4:'CHC', 5:'CHW', 6:'CIN', 7:'CLE', 8:'COL', 9:'DET', 10:'HOU', 11:'KCR', 12:'LAA', 13:'LAD', 14:'MIA', 15:'MIL', 16:'MIN', 17:'NYM', 18:'NYY', 19:'OAK', 20:'PHI', 21:'PIT', 22:'SDP', 23:'SEA', 24:'SFG', 25:'STL', 26:'TBR', 27:'TEX', 28:'TOR', 29:'WSN'})
 data = pd.get_dummies(data, columns=['Tm'], prefix='', prefix_sep='')
-data['Opp'] = data['Opp'].map({1:'OPP_ARI', 2:'OPP_ATL', 3:'OPP_BAL', 4:'OPP_BOS', 5:'OPP_CHC', 6:'OPP_CHW', 7:'OPP_CIN', 8:'OPP_CLE', 9:'OPP_COL', 10:'OPP_DET', 11:'OPP_HOU', 12:'OPP_KCR', 13:'OPP_LAA', 14:'OPP_LAD', 15:'OPP_MIA', 16:'OPP_MIL', 17:'OPP_MIN', 18:'OPP_NYM', 19:'OPP_NYY', 20:'OPP_OAK', 21:'OPP_PHI', 22:'OPP_PIT', 23:'OPP_SDP', 24:'OPP_SEA', 25:'OPP_SFG', 26:'OPP_STL', 27:'OPP_TBR', 28:'OPP_TEX', 29:'OPP_TOR', 30:'OPP_WSN'})
+data['Opp'] = data['Opp'].map({0:'OPP_ARI', 1:'OPP_ATL', 2:'OPP_BAL', 3:'OPP_BOS', 4:'OPP_CHC', 5:'OPP_CHW', 6:'OPP_CIN', 7:'OPP_CLE', 8:'OPP_COL', 9:'OPP_DET', 10:'OPP_HOU', 11:'OPP_KCR', 12:'OPP_LAA', 13:'OPP_LAD', 14:'OPP_MIA', 15:'OPP_MIL', 16:'OPP_MIN', 17:'OPP_NYM', 18:'OPP_NYY', 19:'OPP_OAK', 20:'OPP_PHI', 21:'OPP_PIT', 22:'OPP_SDP', 23:'OPP_SEA', 24:'OPP_SFG', 25:'OPP_STL', 26:'OPP_TBR', 27:'OPP_TEX', 28:'OPP_TOR', 29:'OPP_WSN'})
 data = pd.get_dummies(data, columns=['Opp'], prefix='', prefix_sep='')
 
 print(data['R'].value_counts())
