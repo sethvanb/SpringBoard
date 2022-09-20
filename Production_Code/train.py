@@ -17,7 +17,7 @@ def train():
                                     max_leaf_nodes=110, 
                                     min_samples_split=12)
   model.fit(X_train, y_train)
-  dump(model, 'Inference_model.joblib')
+  dump(model, 'model.joblib')
 
 if __name__ == '__main__':
   train()
