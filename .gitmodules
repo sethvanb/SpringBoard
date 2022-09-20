@@ -1,3 +1,0 @@
-[submodule "Production_Code/mlb-run-predictor"]
-	path = Production_Code/mlb-run-predictor
-	url = https://github.com/sethvanb/mlb-run-predictor.git
